@@ -1,0 +1,199 @@
+Turning off amp!
+Turning on amp!
+Down
+Up
+Amplifier On and turned up
+00/00/0000, 00:00:00, Switching to instrument 0
+GPS Configured
+IR Controller Online
+Light Controller Online
+Master Init Complete
+03/02/2012, 08:56:27, Note,6
+03/02/2012, 08:57:28, Note,6
+03/02/2012, 09:01:19, Note,6
+03/02/2012, 09:09:50, Note,4
+03/02/2012, 09:09:50, Note,4
+03/02/2012, 09:09:53, Note,4
+03/02/2012, 09:09:53, Note,3
+03/02/2012, 09:09:54, Note,5
+03/02/2012, 09:09:54, Note,6
+03/02/2012, 09:10:04, Note,6
+03/02/2012, 09:18:17, Note,6
+03/02/2012, 09:33:51, Note,4
+03/02/2012, 09:33:55, Note,4
+03/02/2012, 09:33:58, Note,4
+03/02/2012, 09:33:58, Note,4
+03/02/2012, 09:33:58, Note,4
+03/02/2012, 09:33:59, Note,4
+03/02/2012, 09:33:59, Note,4
+03/02/2012, 09:33:59, Note,4
+03/02/2012, 09:33:59, Note,4
+03/02/2012, 09:34:00, Note,4
+03/02/2012, 09:34:00, Note,4
+03/02/2012, 09:34:01, Note,8
+03/02/2012, 09:34:02, Note,8
+03/02/2012, 09:34:03, Note,8
+03/02/2012, 09:34:06, Note,8
+03/02/2012, 09:34:06, Note,1
+03/02/2012, 09:34:06, Switching to instrument 1
+03/02/2012, 09:34:06, Switching to instrument 2
+03/02/2012, 09:34:08, Switching to instrument 3
+03/02/2012, 09:34:08, Switching to instrument 4
+03/02/2012, 09:34:09, Switching to noises
+03/02/2012, 09:34:10, Switching to instrument 0
+03/02/2012, 09:34:10, Switching to instrument 1
+03/02/2012, 09:34:12, Note,1
+03/02/2012, 09:34:12, Note,8
+03/02/2012, 09:34:13, Note,8
+03/02/2012, 09:34:13, Note,8
+03/02/2012, 09:34:13, Note,8
+03/02/2012, 09:34:13, Note,8
+03/02/2012, 09:34:15, Note,2
+03/02/2012, 09:34:16, Note,3
+03/02/2012, 09:34:16, Note,3
+03/02/2012, 09:34:17, Note,4
+03/02/2012, 09:34:18, Note,3
+03/02/2012, 09:34:18, Note,6
+03/02/2012, 09:34:18, Note,5
+03/02/2012, 09:34:18, Note,2
+03/02/2012, 09:34:19, Note,5
+03/02/2012, 09:34:19, Note,5
+03/02/2012, 09:34:20, Note,1
+03/02/2012, 09:34:20, Note,6
+03/02/2012, 09:34:20, Note,4
+03/02/2012, 09:34:20, Note,6
+03/02/2012, 09:34:21, Switching to instrument 2
+03/02/2012, 09:34:21, Switching to instrument 3
+03/02/2012, 09:34:21, Note,6
+03/02/2012, 09:34:22, Switching to instrument 4
+03/02/2012, 09:34:22, Switching to noises
+03/02/2012, 09:34:22, Switching to instrument 0
+03/02/2012, 09:34:22, Note,1
+03/02/2012, 09:34:22, Switching to instrument 1
+03/02/2012, 09:34:22, Note,1
+03/02/2012, 09:34:22, Note,6
+03/02/2012, 09:34:22, Switching to instrument 2
+03/02/2012, 09:34:22, Note,1
+03/02/2012, 09:34:22, Switching to instrument 3
+03/02/2012, 09:34:22, Note,1
+03/02/2012, 09:34:22, Switching to instrument 4
+03/02/2012, 09:34:22, Note,1
+03/02/2012, 09:34:22, Switching to noises
+03/02/2012, 09:34:22, Note,6
+03/02/2012, 09:34:22, Switching to instrument 0
+03/02/2012, 09:34:22, Note,2
+03/02/2012, 09:34:27, Note,6
+03/02/2012, 09:34:28, Note,6
+03/02/2012, 09:34:28, Note,6
+03/02/2012, 09:34:28, Note,6
+03/02/2012, 09:34:28, Note,6
+03/02/2012, 09:34:28, Note,6
+03/02/2012, 09:34:28, Note,6
+03/02/2012, 09:34:30, Note,6
+03/02/2012, 09:34:30, Switching to instrument 1
+03/02/2012, 09:34:30, Note,6
+03/02/2012, 09:34:30, Note,1
+03/02/2012, 09:34:31, Switching to instrument 2
+03/02/2012, 09:34:31, Note,6
+03/02/2012, 09:34:32, Switching to instrument 3
+03/02/2012, 09:34:33, Switching to instrument 4
+03/02/2012, 09:34:33, Switching to noises
+03/02/2012, 09:34:34, Switching to instrument 0
+03/02/2012, 09:34:34, Switching to instrument 1
+03/02/2012, 09:34:34, Switching to instrument 2
+03/02/2012, 09:34:34, Switching to instrument 3
+03/02/2012, 09:34:34, Switching to instrument 4
+03/02/2012, 09:34:34, Switching to noises
+03/02/2012, 09:34:34, Switching to instrument 0
+03/02/2012, 09:34:34, Switching to instrument 1
+03/02/2012, 09:34:34, Switching to instrument 2
+03/02/2012, 09:34:41, Switching to instrument 3
+03/02/2012, 09:34:42, Switching to instrument 4
+03/02/2012, 09:34:42, Switching to noises
+03/02/2012, 09:34:46, Switching to instrument 0
+03/02/2012, 09:34:47, Switching to instrument 1
+03/02/2012, 09:34:48, Switching to instrument 2
+03/02/2012, 09:34:50, Switching to instrument 3
+03/02/2012, 09:34:51, Switching to instrument 4
+03/02/2012, 09:34:53, Switching to noises
+03/02/2012, 09:34:55, Switching to instrument 0
+03/02/2012, 09:34:56, Switching to instrument 1
+03/02/2012, 09:34:58, Switching to instrument 2
+03/02/2012, 09:35:00, Switching to instrument 3
+03/02/2012, 09:35:02, Switching to instrument 4
+03/02/2012, 09:35:04, Switching to noises
+03/02/2012, 09:35:06, Switching to instrument 0
+03/02/2012, 09:35:08, Switching to instrument 1
+03/02/2012, 09:35:10, Switching to instrument 2
+03/02/2012, 09:35:13, Switching to instrument 3
+03/02/2012, 09:35:15, Switching to instrument 4
+03/02/2012, 09:35:19, Switching to noises
+03/02/2012, 09:35:22, Switching to instrument 0
+03/02/2012, 09:35:25, Switching to instrument 1
+03/02/2012, 09:36:05, Switching to instrument 2
+03/02/2012, 09:36:05, Switching to instrument 3
+03/02/2012, 09:36:05, Switching to instrument 4
+03/02/2012, 09:36:05, Switching to noises
+03/02/2012, 09:36:05, Switching to instrument 0
+03/02/2012, 09:36:05, Switching to instrument 1
+03/02/2012, 09:36:05, Switching to instrument 2
+03/02/2012, 09:36:08, Switching to instrument 3
+03/02/2012, 09:36:08, Switching to instrument 4
+03/02/2012, 09:36:08, Switching to noises
+03/02/2012, 09:36:09, Switching to instrument 0
+03/02/2012, 09:36:09, Switching to instrument 1
+03/02/2012, 09:36:09, Switching to instrument 2
+03/02/2012, 09:36:10, Switching to instrument 3
+03/02/2012, 09:36:10, Switching to instrument 4
+03/02/2012, 09:36:12, Switching to noises
+03/02/2012, 09:36:13, Switching to instrument 0
+03/02/2012, 09:36:14, Switching to instrument 1
+03/02/2012, 09:36:14, Switching to instrument 2
+03/02/2012, 09:36:14, Switching to instrument 3
+03/02/2012, 09:36:14, Switching to instrument 4
+03/02/2012, 09:36:15, Switching to noises
+03/02/2012, 09:36:15, Switching to instrument 0
+03/02/2012, 09:36:15, Switching to instrument 1
+03/02/2012, 09:36:15, Switching to instrument 2
+03/02/2012, 09:36:15, Switching to instrument 3
+03/02/2012, 09:36:15, Switching to instrument 4
+03/02/2012, 09:36:18, Switching to noises
+03/02/2012, 09:36:18, Switching to instrument 0
+03/02/2012, 09:36:18, Switching to instrument 1
+03/02/2012, 09:36:21, Switching to instrument 2
+03/02/2012, 09:36:22, Switching to instrument 3
+03/02/2012, 09:36:22, Switching to instrument 4
+03/02/2012, 09:36:23, Switching to noises
+03/02/2012, 09:36:23, Switching to instrument 0
+03/02/2012, 09:36:23, Switching to instrument 1
+03/02/2012, 09:36:23, Switching to instrument 2
+03/02/2012, 09:36:23, Switching to instrument 3
+03/02/2012, 09:36:23, Switching to instrument 4
+03/02/2012, 09:36:31, Switching to noises
+03/02/2012, 09:36:31, Switching to instrument 0
+03/02/2012, 09:36:31, Switching to instrument 1
+03/02/2012, 09:36:33, Switching to instrument 2
+03/02/2012, 09:36:59, Switching to instrument 3
+03/02/2012, 09:37:02, Switching to instrument 4
+03/02/2012, 09:37:03, Switching to noises
+03/02/2012, 09:37:03, Switching to instrument 0
+03/02/2012, 09:37:04, Switching to instrument 1
+03/02/2012, 09:37:04, Switching to instrument 2
+03/02/2012, 09:37:05, Switching to instrument 3
+03/02/2012, 09:37:05, Switching to instrument 4
+03/02/2012, 09:37:07, Switching to noises
+03/02/2012, 09:37:07, Switching to instrument 0
+03/02/2012, 09:37:09, Switching to instrument 1
+03/02/2012, 09:37:09, Switching to instrument 2
+03/02/2012, 09:37:10, Switching to instrument 3
+03/02/2012, 09:37:10, Switching to instrument 4
+03/02/2012, 09:37:12, Switching to noises
+03/02/2012, 09:37:12, Switching to instrument 0
+03/02/2012, 09:37:12, Switching to instrument 1
+03/02/2012, 09:37:12, Switching to instrument 2
+03/02/2012, 09:37:12, Switching to instrument 3
+03/02/2012, 09:37:12, Switching to instrument 4
+03/02/2012, 09:37:12, Switching to noises
+03/02/2012, 09:37:12, Switching to instrument 0
+03/02/2012, 09:37:16, Switching to instrument 1
+03/02/2012, 09:40:08, Switching to instrument 2

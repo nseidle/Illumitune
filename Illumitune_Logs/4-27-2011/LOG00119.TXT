@@ -1,0 +1,3491 @@
+IR Controller Online
+Light Controller Online
+Master Init Complete
+04/20/2011, 12:11:17, Note,5
+04/20/2011, 12:11:17, Note,5
+04/20/2011, 12:11:26, Note,2
+04/20/2011, 12:11:27, Note,2
+04/20/2011, 12:11:35, Note,1
+04/20/2011, 12:11:35, Note,5
+04/20/2011, 12:11:36, Note,2
+04/20/2011, 12:11:36, Note,1
+04/20/2011, 12:11:36, Switching to instrument 1
+04/20/2011, 12:11:37, Note,2
+04/20/2011, 12:11:38, Note,1
+04/20/2011, 12:11:38, Note,2
+04/20/2011, 12:11:38, Note,5
+04/20/2011, 12:11:38, Note,5
+04/20/2011, 12:11:38, Note,2
+04/20/2011, 12:11:49, Screen Saver
+04/20/2011, 12:12:00, Screen Saver
+04/20/2011, 12:12:11, Screen Saver
+04/20/2011, 12:12:22, Screen Saver
+04/20/2011, 12:12:33, Screen Saver
+04/20/2011, 12:12:44, Screen Saver
+04/20/2011, 12:12:55, Screen Saver
+04/20/2011, 12:13:06, Screen Saver
+04/20/2011, 12:13:17, Screen Saver
+04/20/2011, 12:13:28, Screen Saver
+04/20/2011, 12:13:39, Screen Saver
+04/20/2011, 12:13:42, Note,1
+04/20/2011, 12:13:42, Note,5
+04/20/2011, 12:13:43, Note,7
+04/20/2011, 12:13:43, Note,8
+04/20/2011, 12:13:43, Note,8
+04/20/2011, 12:13:43, Note,8
+04/20/2011, 12:13:54, Screen Saver
+04/20/2011, 12:14:05, Screen Saver
+04/20/2011, 12:14:15, Note,1
+04/20/2011, 12:14:15, Note,2
+04/20/2011, 12:14:16, Note,5
+04/20/2011, 12:14:16, Note,2
+04/20/2011, 12:14:16, Note,1
+04/20/2011, 12:14:17, Note,1
+04/20/2011, 12:14:17, Note,1
+04/20/2011, 12:14:18, Note,1
+04/20/2011, 12:14:18, Note,1
+04/20/2011, 12:14:18, Note,2
+04/20/2011, 12:14:19, Note,3
+04/20/2011, 12:14:19, Note,4
+04/20/2011, 12:14:21, Note,6
+04/20/2011, 12:14:21, Note,5
+04/20/2011, 12:14:21, Note,6
+04/20/2011, 12:14:22, Note,7
+04/20/2011, 12:14:23, Note,8
+04/20/2011, 12:14:25, Note,8
+04/20/2011, 12:14:25, Note,7
+04/20/2011, 12:14:25, Note,2
+04/20/2011, 12:14:26, Note,1
+04/20/2011, 12:14:26, Note,2
+04/20/2011, 12:14:26, Note,5
+04/20/2011, 12:14:27, Note,2
+04/20/2011, 12:14:27, Note,1
+04/20/2011, 12:14:29, Note,5
+04/20/2011, 12:14:29, Note,7
+04/20/2011, 12:14:29, Note,8
+04/20/2011, 12:14:29, Note,8
+04/20/2011, 12:14:30, Note,7
+04/20/2011, 12:14:30, Note,1
+04/20/2011, 12:14:41, Screen Saver
+04/20/2011, 12:14:52, Screen Saver
+04/20/2011, 12:15:03, Screen Saver
+04/20/2011, 12:15:14, Screen Saver
+04/20/2011, 12:15:25, Screen Saver
+04/20/2011, 12:15:36, Screen Saver
+04/20/2011, 12:15:47, Screen Saver
+04/20/2011, 12:15:58, Screen Saver
+04/20/2011, 12:16:09, Screen Saver
+04/20/2011, 12:16:20, Screen Saver
+04/20/2011, 12:16:31, Screen Saver
+04/20/2011, 12:16:42, Screen Saver
+04/20/2011, 12:16:53, Screen Saver
+04/20/2011, 12:17:04, Screen Saver
+04/20/2011, 12:17:15, Screen Saver
+04/20/2011, 12:17:26, Screen Saver
+04/20/2011, 12:17:37, Screen Saver
+04/20/2011, 12:17:48, Screen Saver
+04/20/2011, 12:17:59, Screen Saver
+04/20/2011, 12:18:10, Screen Saver
+04/20/2011, 12:18:21, Screen Saver
+04/20/2011, 12:18:32, Screen Saver
+04/20/2011, 12:18:43, Screen Saver
+04/20/2011, 12:18:54, Screen Saver
+04/20/2011, 12:19:05, Screen Saver
+04/20/2011, 12:19:16, Screen Saver
+04/20/2011, 12:19:27, Screen Saver
+04/20/2011, 12:19:38, Screen Saver
+04/20/2011, 12:19:49, Screen Saver
+04/20/2011, 12:20:00, Screen Saver
+04/20/2011, 12:20:11, Screen Saver
+04/20/2011, 12:20:22, Screen Saver
+04/20/2011, 12:20:33, Screen Saver
+04/20/2011, 12:20:44, Screen Saver
+04/20/2011, 12:20:55, Screen Saver
+04/20/2011, 12:21:06, Screen Saver
+04/20/2011, 12:21:17, Screen Saver
+04/20/2011, 12:21:28, Screen Saver
+04/20/2011, 12:21:39, Screen Saver
+04/20/2011, 12:21:50, Screen Saver
+04/20/2011, 12:22:01, Screen Saver
+04/20/2011, 12:22:12, Screen Saver
+04/20/2011, 12:22:23, Screen Saver
+04/20/2011, 12:22:34, Screen Saver
+04/20/2011, 12:22:45, Screen Saver
+04/20/2011, 12:22:56, Screen Saver
+04/20/2011, 12:23:07, Screen Saver
+04/20/2011, 12:23:18, Screen Saver
+04/20/2011, 12:23:29, Screen Saver
+04/20/2011, 12:23:40, Screen Saver
+04/20/2011, 12:23:51, Screen Saver
+04/20/2011, 12:24:02, Screen Saver
+04/20/2011, 12:24:13, Screen Saver
+04/20/2011, 12:24:24, Screen Saver
+04/20/2011, 12:24:35, Screen Saver
+04/20/2011, 12:24:46, Screen Saver
+04/20/2011, 12:24:57, Screen Saver
+04/20/2011, 12:25:08, Screen Saver
+04/20/2011, 12:25:19, Screen Saver
+04/20/2011, 12:25:30, Screen Saver
+04/20/2011, 12:25:41, Screen Saver
+04/20/2011, 12:25:52, Screen Saver
+04/20/2011, 12:26:03, Screen Saver
+04/20/2011, 12:26:14, Screen Saver
+04/20/2011, 12:26:25, Screen Saver
+04/20/2011, 12:26:36, Screen Saver
+04/20/2011, 12:26:47, Screen Saver
+04/20/2011, 12:26:58, Screen Saver
+04/20/2011, 12:27:09, Screen Saver
+04/20/2011, 12:27:20, Screen Saver
+04/20/2011, 12:27:31, Screen Saver
+04/20/2011, 12:27:42, Screen Saver
+04/20/2011, 12:27:53, Screen Saver
+04/20/2011, 12:28:04, Screen Saver
+04/20/2011, 12:28:15, Screen Saver
+04/20/2011, 12:28:26, Screen Saver
+04/20/2011, 12:28:37, Screen Saver
+04/20/2011, 12:28:48, Screen Saver
+04/20/2011, 12:28:59, Screen Saver
+04/20/2011, 12:29:10, Screen Saver
+04/20/2011, 12:29:21, Screen Saver
+04/20/2011, 12:29:32, Screen Saver
+04/20/2011, 12:29:43, Screen Saver
+04/20/2011, 12:29:54, Screen Saver
+04/20/2011, 12:30:05, Screen Saver
+04/20/2011, 12:30:16, Screen Saver
+04/20/2011, 12:30:27, Screen Saver
+04/20/2011, 12:30:38, Screen Saver
+04/20/2011, 12:30:49, Screen Saver
+04/20/2011, 12:31:00, Screen Saver
+04/20/2011, 12:31:11, Screen Saver
+04/20/2011, 12:31:22, Screen Saver
+04/20/2011, 12:31:33, Screen Saver
+04/20/2011, 12:31:44, Screen Saver
+04/20/2011, 12:31:55, Screen Saver
+04/20/2011, 12:32:06, Screen Saver
+04/20/2011, 12:32:17, Screen Saver
+04/20/2011, 12:32:28, Screen Saver
+04/20/2011, 12:32:39, Screen Saver
+04/20/2011, 12:32:50, Screen Saver
+04/20/2011, 12:33:01, Screen Saver
+04/20/2011, 12:33:12, Screen Saver
+04/20/2011, 12:33:23, Screen Saver
+04/20/2011, 12:33:34, Screen Saver
+04/20/2011, 12:33:45, Screen Saver
+04/20/2011, 12:33:56, Screen Saver
+04/20/2011, 12:34:07, Screen Saver
+04/20/2011, 12:34:18, Screen Saver
+04/20/2011, 12:34:29, Screen Saver
+04/20/2011, 12:34:40, Screen Saver
+04/20/2011, 12:34:51, Screen Saver
+04/20/2011, 12:35:02, Screen Saver
+04/20/2011, 12:35:13, Screen Saver
+04/20/2011, 12:35:24, Screen Saver
+04/20/2011, 12:35:35, Screen Saver
+04/20/2011, 12:35:46, Screen Saver
+04/20/2011, 12:35:57, Screen Saver
+04/20/2011, 12:36:08, Screen Saver
+04/20/2011, 12:36:19, Screen Saver
+04/20/2011, 12:36:30, Screen Saver
+04/20/2011, 12:36:41, Screen Saver
+04/20/2011, 12:36:52, Screen Saver
+04/20/2011, 12:37:03, Screen Saver
+04/20/2011, 12:37:14, Screen Saver
+04/20/2011, 12:37:25, Screen Saver
+04/20/2011, 12:37:36, Screen Saver
+04/20/2011, 12:37:47, Screen Saver
+04/20/2011, 12:37:58, Screen Saver
+04/20/2011, 12:38:09, Screen Saver
+04/20/2011, 12:38:20, Screen Saver
+04/20/2011, 12:38:31, Screen Saver
+04/20/2011, 12:38:42, Screen Saver
+04/20/2011, 12:38:53, Screen Saver
+04/20/2011, 12:39:04, Screen Saver
+04/20/2011, 12:39:15, Screen Saver
+04/20/2011, 12:39:26, Screen Saver
+04/20/2011, 12:39:37, Screen Saver
+04/20/2011, 12:39:48, Screen Saver
+04/20/2011, 12:39:59, Screen Saver
+04/20/2011, 12:40:10, Screen Saver
+04/20/2011, 12:40:21, Screen Saver
+04/20/2011, 12:40:32, Screen Saver
+04/20/2011, 12:40:43, Screen Saver
+04/20/2011, 12:40:54, Screen Saver
+04/20/2011, 12:41:05, Screen Saver
+04/20/2011, 12:41:16, Screen Saver
+04/20/2011, 12:41:27, Screen Saver
+04/20/2011, 12:41:38, Screen Saver
+04/20/2011, 12:41:49, Screen Saver
+04/20/2011, 12:42:00, Screen Saver
+04/20/2011, 12:42:11, Screen Saver
+04/20/2011, 12:42:22, Screen Saver
+04/20/2011, 12:42:33, Screen Saver
+04/20/2011, 12:42:44, Screen Saver
+04/20/2011, 12:42:55, Screen Saver
+04/20/2011, 12:43:06, Screen Saver
+04/20/2011, 12:43:17, Screen Saver
+04/20/2011, 12:43:28, Screen Saver
+04/20/2011, 12:43:39, Screen Saver
+04/20/2011, 12:43:50, Screen Saver
+04/20/2011, 12:44:01, Screen Saver
+04/20/2011, 12:44:12, Screen Saver
+04/20/2011, 12:44:23, Screen Saver
+04/20/2011, 12:44:34, Screen Saver
+04/20/2011, 12:44:45, Screen Saver
+04/20/2011, 12:44:56, Screen Saver
+04/20/2011, 12:45:07, Screen Saver
+04/20/2011, 12:45:18, Screen Saver
+04/20/2011, 12:45:29, Screen Saver
+04/20/2011, 12:45:40, Screen Saver
+04/20/2011, 12:45:51, Screen Saver
+04/20/2011, 12:46:02, Screen Saver
+04/20/2011, 12:46:13, Screen Saver
+04/20/2011, 12:46:24, Screen Saver
+04/20/2011, 12:46:35, Screen Saver
+04/20/2011, 12:46:46, Screen Saver
+04/20/2011, 12:46:57, Screen Saver
+04/20/2011, 12:47:08, Screen Saver
+04/20/2011, 12:47:19, Screen Saver
+04/20/2011, 12:47:30, Screen Saver
+04/20/2011, 12:47:41, Screen Saver
+04/20/2011, 12:47:52, Screen Saver
+04/20/2011, 12:48:03, Screen Saver
+04/20/2011, 12:48:14, Screen Saver
+04/20/2011, 12:48:25, Screen Saver
+04/20/2011, 12:48:36, Screen Saver
+04/20/2011, 12:48:47, Screen Saver
+04/20/2011, 12:48:58, Screen Saver
+04/20/2011, 12:49:09, Screen Saver
+04/20/2011, 12:49:20, Screen Saver
+04/20/2011, 12:49:31, Screen Saver
+04/20/2011, 12:49:42, Screen Saver
+04/20/2011, 12:49:53, Screen Saver
+04/20/2011, 12:50:04, Screen Saver
+04/20/2011, 12:50:15, Screen Saver
+04/20/2011, 12:50:26, Screen Saver
+04/20/2011, 12:50:37, Screen Saver
+04/20/2011, 12:50:48, Screen Saver
+04/20/2011, 12:50:59, Screen Saver
+04/20/2011, 12:51:10, Screen Saver
+04/20/2011, 12:51:21, Screen Saver
+04/20/2011, 12:51:32, Screen Saver
+04/20/2011, 12:51:43, Screen Saver
+04/20/2011, 12:51:54, Screen Saver
+04/20/2011, 12:52:05, Screen Saver
+04/20/2011, 12:52:16, Screen Saver
+04/20/2011, 12:52:27, Screen Saver
+04/20/2011, 12:52:38, Screen Saver
+04/20/2011, 12:52:49, Screen Saver
+04/20/2011, 12:53:00, Screen Saver
+04/20/2011, 12:53:11, Screen Saver
+04/20/2011, 12:53:22, Screen Saver
+04/20/2011, 12:53:33, Screen Saver
+04/20/2011, 12:53:44, Screen Saver
+04/20/2011, 12:53:55, Screen Saver
+04/20/2011, 12:54:06, Screen Saver
+04/20/2011, 12:54:17, Screen Saver
+04/20/2011, 12:54:28, Screen Saver
+04/20/2011, 12:54:39, Screen Saver
+04/20/2011, 12:54:50, Screen Saver
+04/20/2011, 12:55:01, Screen Saver
+04/20/2011, 12:55:12, Screen Saver
+04/20/2011, 12:55:23, Screen Saver
+04/20/2011, 12:55:34, Screen Saver
+04/20/2011, 12:55:45, Screen Saver
+04/20/2011, 12:55:56, Screen Saver
+04/20/2011, 12:56:07, Screen Saver
+04/20/2011, 12:56:18, Screen Saver
+04/20/2011, 12:56:29, Screen Saver
+04/20/2011, 12:56:40, Screen Saver
+04/20/2011, 12:56:51, Screen Saver
+04/20/2011, 12:57:02, Screen Saver
+04/20/2011, 12:57:13, Screen Saver
+04/20/2011, 12:57:24, Screen Saver
+04/20/2011, 12:57:35, Screen Saver
+04/20/2011, 12:57:46, Screen Saver
+04/20/2011, 12:57:57, Screen Saver
+04/20/2011, 12:58:06, Switching to instrument 2
+04/20/2011, 12:58:08, Switching to instrument 3
+04/20/2011, 12:58:11, Switching to instrument 4
+04/20/2011, 12:58:12, Switching to noises
+04/20/2011, 12:58:12, Switching to instrument 0
+04/20/2011, 12:58:12, Switching to instrument 1
+04/20/2011, 12:58:12, Switching to instrument 2
+04/20/2011, 12:58:12, Switching to instrument 3
+04/20/2011, 12:58:14, Switching to instrument 4
+04/20/2011, 12:58:14, Switching to noises
+04/20/2011, 12:58:14, Switching to instrument 0
+04/20/2011, 12:58:14, Switching to instrument 1
+04/20/2011, 12:58:14, Switching to instrument 2
+04/20/2011, 12:58:16, Switching to instrument 3
+04/20/2011, 12:58:17, Switching to instrument 4
+04/20/2011, 12:58:18, Switching to noises
+04/20/2011, 12:58:19, Switching to instrument 0
+04/20/2011, 12:58:19, Switching to instrument 1
+04/20/2011, 12:58:19, Switching to instrument 2
+04/20/2011, 12:58:20, Switching to instrument 3
+04/20/2011, 12:58:20, Switching to instrument 4
+04/20/2011, 12:58:20, Switching to noises
+04/20/2011, 12:58:20, Switching to instrument 0
+04/20/2011, 12:58:22, Switching to instrument 1
+04/20/2011, 12:58:22, Switching to instrument 2
+04/20/2011, 12:58:22, Switching to instrument 3
+04/20/2011, 12:58:23, Switching to instrument 4
+04/20/2011, 12:58:33, Screen Saver
+04/20/2011, 12:58:44, Screen Saver
+04/20/2011, 12:58:55, Screen Saver
+04/20/2011, 12:59:06, Screen Saver
+04/20/2011, 12:59:17, Screen Saver
+04/20/2011, 12:59:28, Screen Saver
+04/20/2011, 12:59:39, Screen Saver
+04/20/2011, 12:59:50, Screen Saver
+04/20/2011, 13:00:01, Screen Saver
+04/20/2011, 13:00:12, Screen Saver
+04/20/2011, 13:00:23, Screen Saver
+04/20/2011, 13:00:34, Screen Saver
+04/20/2011, 13:00:45, Screen Saver
+04/20/2011, 13:00:56, Screen Saver
+04/20/2011, 13:01:07, Screen Saver
+04/20/2011, 13:01:18, Screen Saver
+04/20/2011, 13:01:29, Screen Saver
+04/20/2011, 13:01:40, Screen Saver
+04/20/2011, 13:01:51, Screen Saver
+04/20/2011, 13:02:02, Screen Saver
+04/20/2011, 13:02:13, Screen Saver
+04/20/2011, 13:02:24, Screen Saver
+04/20/2011, 13:02:35, Screen Saver
+04/20/2011, 13:02:46, Screen Saver
+04/20/2011, 13:02:57, Screen Saver
+04/20/2011, 13:03:08, Screen Saver
+04/20/2011, 13:03:19, Screen Saver
+04/20/2011, 13:03:30, Screen Saver
+04/20/2011, 13:03:41, Screen Saver
+04/20/2011, 13:03:52, Screen Saver
+04/20/2011, 13:04:03, Screen Saver
+04/20/2011, 13:04:14, Screen Saver
+04/20/2011, 13:04:25, Screen Saver
+04/20/2011, 13:04:36, Screen Saver
+04/20/2011, 13:04:47, Screen Saver
+04/20/2011, 13:04:58, Screen Saver
+04/20/2011, 13:05:09, Screen Saver
+04/20/2011, 13:05:20, Screen Saver
+04/20/2011, 13:05:31, Screen Saver
+04/20/2011, 13:05:42, Screen Saver
+04/20/2011, 13:05:53, Screen Saver
+04/20/2011, 13:06:04, Screen Saver
+04/20/2011, 13:06:15, Screen Saver
+04/20/2011, 13:06:26, Screen Saver
+04/20/2011, 13:06:37, Screen Saver
+04/20/2011, 13:06:48, Screen Saver
+04/20/2011, 13:06:59, Screen Saver
+04/20/2011, 13:07:10, Screen Saver
+04/20/2011, 13:07:21, Screen Saver
+04/20/2011, 13:07:32, Screen Saver
+04/20/2011, 13:07:43, Screen Saver
+04/20/2011, 13:07:54, Screen Saver
+04/20/2011, 13:08:05, Screen Saver
+04/20/2011, 13:08:16, Screen Saver
+04/20/2011, 13:08:27, Screen Saver
+04/20/2011, 13:08:38, Screen Saver
+04/20/2011, 13:08:49, Screen Saver
+04/20/2011, 13:09:00, Screen Saver
+04/20/2011, 13:09:11, Screen Saver
+04/20/2011, 13:09:22, Screen Saver
+04/20/2011, 13:09:33, Screen Saver
+04/20/2011, 13:09:44, Screen Saver
+04/20/2011, 13:09:55, Screen Saver
+04/20/2011, 13:10:06, Screen Saver
+04/20/2011, 13:10:17, Screen Saver
+04/20/2011, 13:10:28, Screen Saver
+04/20/2011, 13:10:39, Screen Saver
+04/20/2011, 13:10:50, Screen Saver
+04/20/2011, 13:11:01, Screen Saver
+04/20/2011, 13:11:12, Screen Saver
+04/20/2011, 13:11:23, Screen Saver
+04/20/2011, 13:11:34, Screen Saver
+04/20/2011, 13:11:45, Screen Saver
+04/20/2011, 13:11:56, Screen Saver
+04/20/2011, 13:12:07, Screen Saver
+04/20/2011, 13:12:18, Screen Saver
+04/20/2011, 13:12:29, Screen Saver
+04/20/2011, 13:12:40, Screen Saver
+04/20/2011, 13:12:51, Screen Saver
+04/20/2011, 13:13:02, Screen Saver
+04/20/2011, 13:13:13, Screen Saver
+04/20/2011, 13:13:24, Screen Saver
+04/20/2011, 13:13:35, Screen Saver
+04/20/2011, 13:13:46, Screen Saver
+04/20/2011, 13:13:57, Screen Saver
+04/20/2011, 13:14:08, Screen Saver
+04/20/2011, 13:14:19, Screen Saver
+04/20/2011, 13:14:30, Screen Saver
+04/20/2011, 13:14:41, Screen Saver
+04/20/2011, 13:14:52, Screen Saver
+04/20/2011, 13:15:03, Screen Saver
+04/20/2011, 13:15:14, Screen Saver
+04/20/2011, 13:15:25, Screen Saver
+04/20/2011, 13:15:36, Screen Saver
+04/20/2011, 13:15:47, Screen Saver
+04/20/2011, 13:15:58, Screen Saver
+04/20/2011, 13:16:09, Screen Saver
+04/20/2011, 13:16:20, Screen Saver
+04/20/2011, 13:16:31, Screen Saver
+04/20/2011, 13:16:42, Screen Saver
+04/20/2011, 13:16:53, Screen Saver
+04/20/2011, 13:17:04, Screen Saver
+04/20/2011, 13:17:15, Screen Saver
+04/20/2011, 13:17:26, Screen Saver
+04/20/2011, 13:17:37, Screen Saver
+04/20/2011, 13:17:48, Screen Saver
+04/20/2011, 13:17:59, Screen Saver
+04/20/2011, 13:18:10, Screen Saver
+04/20/2011, 13:18:21, Screen Saver
+04/20/2011, 13:18:32, Screen Saver
+04/20/2011, 13:18:43, Screen Saver
+04/20/2011, 13:18:54, Screen Saver
+04/20/2011, 13:19:05, Screen Saver
+04/20/2011, 13:19:16, Screen Saver
+04/20/2011, 13:19:27, Screen Saver
+04/20/2011, 13:19:38, Screen Saver
+04/20/2011, 13:19:49, Screen Saver
+04/20/2011, 13:20:00, Screen Saver
+04/20/2011, 13:20:11, Screen Saver
+04/20/2011, 13:20:22, Screen Saver
+04/20/2011, 13:20:33, Screen Saver
+04/20/2011, 13:20:36, Note,5
+04/20/2011, 13:20:36, Note,8
+04/20/2011, 13:20:37, Note,5
+04/20/2011, 13:20:37, Note,5
+04/20/2011, 13:20:37, Note,5
+04/20/2011, 13:20:37, Note,5
+04/20/2011, 13:20:38, Note,5
+04/20/2011, 13:20:38, Note,7
+04/20/2011, 13:20:40, Note,6
+04/20/2011, 13:20:40, Note,8
+04/20/2011, 13:20:40, Note,7
+04/20/2011, 13:20:41, Note,6
+04/20/2011, 13:20:41, Note,8
+04/20/2011, 13:20:41, Note,6
+04/20/2011, 13:20:41, Note,8
+04/20/2011, 13:20:41, Note,7
+04/20/2011, 13:20:43, Note,4
+04/20/2011, 13:20:43, Note,3
+04/20/2011, 13:20:54, Screen Saver
+04/20/2011, 13:21:00, Note,7
+04/20/2011, 13:21:00, Note,7
+04/20/2011, 13:21:01, Note,4
+04/20/2011, 13:21:01, Note,3
+04/20/2011, 13:21:01, Note,3
+04/20/2011, 13:21:02, Note,6
+04/20/2011, 13:21:02, Note,7
+04/20/2011, 13:21:03, Note,7
+04/20/2011, 13:21:03, Note,5
+04/20/2011, 13:21:03, Note,6
+04/20/2011, 13:21:03, Note,8
+04/20/2011, 13:21:03, Note,6
+04/20/2011, 13:21:03, Note,6
+04/20/2011, 13:21:04, Note,6
+04/20/2011, 13:21:04, Note,8
+04/20/2011, 13:21:04, Note,6
+04/20/2011, 13:21:04, Note,7
+04/20/2011, 13:21:05, Note,6
+04/20/2011, 13:21:05, Note,4
+04/20/2011, 13:21:05, Note,5
+04/20/2011, 13:21:05, Note,5
+04/20/2011, 13:21:06, Note,1
+04/20/2011, 13:21:06, Note,2
+04/20/2011, 13:21:06, Note,2
+04/20/2011, 13:21:06, Note,1
+04/20/2011, 13:21:06, Note,1
+04/20/2011, 13:21:17, Screen Saver
+04/20/2011, 13:21:28, Screen Saver
+04/20/2011, 13:21:39, Screen Saver
+04/20/2011, 13:21:47, Note,3
+04/20/2011, 13:21:47, Note,2
+04/20/2011, 13:21:47, Note,3
+04/20/2011, 13:21:48, Note,2
+04/20/2011, 13:21:49, Note,1
+04/20/2011, 13:21:49, Note,1
+04/20/2011, 13:21:49, Note,2
+04/20/2011, 13:21:49, Note,1
+04/20/2011, 13:21:50, Note,4
+04/20/2011, 13:21:51, Note,5
+04/20/2011, 13:21:51, Note,5
+04/20/2011, 13:22:02, Screen Saver
+04/20/2011, 13:22:13, Screen Saver
+04/20/2011, 13:22:24, Screen Saver
+04/20/2011, 13:22:35, Screen Saver
+04/20/2011, 13:22:46, Screen Saver
+04/20/2011, 13:22:57, Screen Saver
+04/20/2011, 13:23:08, Screen Saver
+04/20/2011, 13:23:19, Screen Saver
+04/20/2011, 13:23:30, Screen Saver
+04/20/2011, 13:23:41, Screen Saver
+04/20/2011, 13:23:52, Screen Saver
+04/20/2011, 13:24:03, Screen Saver
+04/20/2011, 13:24:14, Screen Saver
+04/20/2011, 13:24:25, Screen Saver
+04/20/2011, 13:24:36, Screen Saver
+04/20/2011, 13:24:47, Screen Saver
+04/20/2011, 13:24:58, Screen Saver
+04/20/2011, 13:25:09, Screen Saver
+04/20/2011, 13:25:20, Screen Saver
+04/20/2011, 13:25:31, Screen Saver
+04/20/2011, 13:25:42, Screen Saver
+04/20/2011, 13:25:53, Screen Saver
+04/20/2011, 13:26:04, Screen Saver
+04/20/2011, 13:26:15, Screen Saver
+04/20/2011, 13:26:26, Screen Saver
+04/20/2011, 13:26:37, Screen Saver
+04/20/2011, 13:26:48, Screen Saver
+04/20/2011, 13:26:59, Screen Saver
+04/20/2011, 13:27:10, Screen Saver
+04/20/2011, 13:27:21, Screen Saver
+04/20/2011, 13:27:32, Screen Saver
+04/20/2011, 13:27:43, Screen Saver
+04/20/2011, 13:27:54, Screen Saver
+04/20/2011, 13:28:05, Screen Saver
+04/20/2011, 13:28:16, Screen Saver
+04/20/2011, 13:28:27, Screen Saver
+04/20/2011, 13:28:27, Note,6
+04/20/2011, 13:28:27, Note,6
+04/20/2011, 13:28:28, Note,6
+04/20/2011, 13:28:29, Note,6
+04/20/2011, 13:28:30, Note,5
+04/20/2011, 13:28:30, Note,5
+04/20/2011, 13:28:30, Note,5
+04/20/2011, 13:28:32, Note,4
+04/20/2011, 13:28:32, Note,4
+04/20/2011, 13:28:37, Note,7
+04/20/2011, 13:28:40, Note,7
+04/20/2011, 13:28:40, Note,7
+04/20/2011, 13:28:40, Note,8
+04/20/2011, 13:28:40, Note,7
+04/20/2011, 13:28:41, Note,5
+04/20/2011, 13:28:41, Note,7
+04/20/2011, 13:28:41, Note,5
+04/20/2011, 13:28:42, Note,6
+04/20/2011, 13:28:42, Note,6
+04/20/2011, 13:28:44, Note,5
+04/20/2011, 13:28:44, Note,6
+04/20/2011, 13:28:55, Screen Saver
+04/20/2011, 13:29:06, Screen Saver
+04/20/2011, 13:29:17, Screen Saver
+04/20/2011, 13:29:28, Screen Saver
+04/20/2011, 13:29:39, Screen Saver
+04/20/2011, 13:29:50, Screen Saver
+04/20/2011, 13:30:01, Screen Saver
+04/20/2011, 13:30:12, Screen Saver
+04/20/2011, 13:30:23, Screen Saver
+04/20/2011, 13:30:34, Screen Saver
+04/20/2011, 13:30:45, Screen Saver
+04/20/2011, 13:30:56, Screen Saver
+04/20/2011, 13:31:07, Screen Saver
+04/20/2011, 13:31:18, Screen Saver
+04/20/2011, 13:31:29, Screen Saver
+04/20/2011, 13:31:40, Screen Saver
+04/20/2011, 13:31:51, Screen Saver
+04/20/2011, 13:32:02, Screen Saver
+04/20/2011, 13:32:13, Screen Saver
+04/20/2011, 13:32:24, Screen Saver
+04/20/2011, 13:32:35, Screen Saver
+04/20/2011, 13:32:46, Screen Saver
+04/20/2011, 13:32:57, Screen Saver
+04/20/2011, 13:33:08, Screen Saver
+04/20/2011, 13:33:19, Screen Saver
+04/20/2011, 13:33:30, Screen Saver
+04/20/2011, 13:33:41, Screen Saver
+04/20/2011, 13:33:52, Screen Saver
+04/20/2011, 13:34:03, Screen Saver
+04/20/2011, 13:34:14, Screen Saver
+04/20/2011, 13:34:25, Screen Saver
+04/20/2011, 13:34:36, Screen Saver
+04/20/2011, 13:34:47, Screen Saver
+04/20/2011, 13:34:58, Screen Saver
+04/20/2011, 13:35:09, Screen Saver
+04/20/2011, 13:35:20, Screen Saver
+04/20/2011, 13:35:31, Screen Saver
+04/20/2011, 13:35:42, Screen Saver
+04/20/2011, 13:35:53, Screen Saver
+04/20/2011, 13:36:04, Screen Saver
+04/20/2011, 13:36:15, Screen Saver
+04/20/2011, 13:36:26, Screen Saver
+04/20/2011, 13:36:37, Screen Saver
+04/20/2011, 13:36:48, Screen Saver
+04/20/2011, 13:36:59, Screen Saver
+04/20/2011, 13:37:10, Screen Saver
+04/20/2011, 13:37:21, Screen Saver
+04/20/2011, 13:37:32, Screen Saver
+04/20/2011, 13:37:43, Screen Saver
+04/20/2011, 13:37:54, Screen Saver
+04/20/2011, 13:38:05, Screen Saver
+04/20/2011, 13:38:16, Screen Saver
+04/20/2011, 13:38:27, Screen Saver
+04/20/2011, 13:38:38, Screen Saver
+04/20/2011, 13:38:49, Screen Saver
+04/20/2011, 13:39:00, Screen Saver
+04/20/2011, 13:39:11, Screen Saver
+04/20/2011, 13:39:22, Screen Saver
+04/20/2011, 13:39:33, Screen Saver
+04/20/2011, 13:39:44, Screen Saver
+04/20/2011, 13:39:55, Screen Saver
+04/20/2011, 13:40:06, Screen Saver
+04/20/2011, 13:40:17, Screen Saver
+04/20/2011, 13:40:28, Screen Saver
+04/20/2011, 13:40:39, Screen Saver
+04/20/2011, 13:40:50, Screen Saver
+04/20/2011, 13:41:01, Screen Saver
+04/20/2011, 13:41:12, Screen Saver
+04/20/2011, 13:41:23, Screen Saver
+04/20/2011, 13:41:34, Screen Saver
+04/20/2011, 13:41:45, Screen Saver
+04/20/2011, 13:41:56, Screen Saver
+04/20/2011, 13:42:07, Screen Saver
+04/20/2011, 13:42:18, Screen Saver
+04/20/2011, 13:42:29, Screen Saver
+04/20/2011, 13:42:40, Screen Saver
+04/20/2011, 13:42:51, Screen Saver
+04/20/2011, 13:43:02, Screen Saver
+04/20/2011, 13:43:13, Screen Saver
+04/20/2011, 13:43:24, Screen Saver
+04/20/2011, 13:43:28, Note,8
+04/20/2011, 13:43:29, Note,8
+04/20/2011, 13:43:30, Note,7
+04/20/2011, 13:43:31, Note,2
+04/20/2011, 13:43:32, Note,1
+04/20/2011, 13:43:33, Switching to noises
+04/20/2011, 13:43:33, Switching to instrument 0
+04/20/2011, 13:43:34, Switching to instrument 1
+04/20/2011, 13:43:34, Switching to instrument 2
+04/20/2011, 13:43:35, Switching to instrument 3
+04/20/2011, 13:43:35, Switching to instrument 4
+04/20/2011, 13:43:38, Note,1
+04/20/2011, 13:43:38, Note,2
+04/20/2011, 13:43:39, Note,1
+04/20/2011, 13:43:39, Note,2
+04/20/2011, 13:43:39, Note,4
+04/20/2011, 13:43:39, Note,3
+04/20/2011, 13:43:40, Note,5
+04/20/2011, 13:43:40, Note,7
+04/20/2011, 13:43:40, Note,8
+04/20/2011, 13:43:40, Note,8
+04/20/2011, 13:43:40, Note,7
+04/20/2011, 13:43:41, Note,8
+04/20/2011, 13:43:43, Note,1
+04/20/2011, 13:43:44, Note,1
+04/20/2011, 13:43:44, Note,1
+04/20/2011, 13:43:44, Switching to noises
+04/20/2011, 13:43:45, Switching to instrument 0
+04/20/2011, 13:43:46, Note,1
+04/20/2011, 13:43:46, Note,2
+04/20/2011, 13:43:47, Note,2
+04/20/2011, 13:43:57, Screen Saver
+04/20/2011, 13:44:05, Switching to instrument 1
+04/20/2011, 13:44:06, Switching to instrument 2
+04/20/2011, 13:44:07, Switching to instrument 3
+04/20/2011, 13:44:08, Note,1
+04/20/2011, 13:44:08, Note,1
+04/20/2011, 13:44:08, Note,1
+04/20/2011, 13:44:09, Note,1
+04/20/2011, 13:44:09, Note,1
+04/20/2011, 13:44:09, Note,1
+04/20/2011, 13:44:09, Note,1
+04/20/2011, 13:44:09, Note,1
+04/20/2011, 13:44:09, Note,1
+04/20/2011, 13:44:09, Note,1
+04/20/2011, 13:44:10, Note,1
+04/20/2011, 13:44:10, Note,1
+04/20/2011, 13:44:10, Note,1
+04/20/2011, 13:44:10, Note,1
+04/20/2011, 13:44:10, Note,1
+04/20/2011, 13:44:10, Note,1
+04/20/2011, 13:44:10, Note,1
+04/20/2011, 13:44:10, Note,1
+04/20/2011, 13:44:11, Note,1
+04/20/2011, 13:44:11, Note,1
+04/20/2011, 13:44:12, Note,1
+04/20/2011, 13:44:12, Note,1
+04/20/2011, 13:44:12, Note,1
+04/20/2011, 13:44:12, Note,1
+04/20/2011, 13:44:12, Note,1
+04/20/2011, 13:44:12, Note,1
+04/20/2011, 13:44:12, Note,1
+04/20/2011, 13:44:13, Note,1
+04/20/2011, 13:44:13, Note,1
+04/20/2011, 13:44:13, Note,1
+04/20/2011, 13:44:14, Note,1
+04/20/2011, 13:44:14, Note,1
+04/20/2011, 13:44:14, Note,1
+04/20/2011, 13:44:15, Note,1
+04/20/2011, 13:44:26, Screen Saver
+04/20/2011, 13:44:37, Screen Saver
+04/20/2011, 13:44:40, Note,6
+04/20/2011, 13:44:40, Note,4
+04/20/2011, 13:44:40, Note,4
+04/20/2011, 13:44:40, Note,6
+04/20/2011, 13:44:41, Note,6
+04/20/2011, 13:44:41, Note,4
+04/20/2011, 13:44:41, Note,6
+04/20/2011, 13:44:42, Note,4
+04/20/2011, 13:44:42, Note,4
+04/20/2011, 13:44:43, Note,4
+04/20/2011, 13:44:43, Note,4
+04/20/2011, 13:44:44, Note,5
+04/20/2011, 13:44:45, Note,4
+04/20/2011, 13:44:45, Note,5
+04/20/2011, 13:44:45, Note,5
+04/20/2011, 13:44:47, Note,5
+04/20/2011, 13:44:48, Note,4
+04/20/2011, 13:44:58, Screen Saver
+04/20/2011, 13:45:09, Screen Saver
+04/20/2011, 13:45:20, Screen Saver
+04/20/2011, 13:45:31, Screen Saver
+04/20/2011, 13:45:42, Screen Saver
+04/20/2011, 13:45:53, Screen Saver
+04/20/2011, 13:46:04, Screen Saver
+04/20/2011, 13:46:15, Screen Saver
+04/20/2011, 13:46:26, Screen Saver
+04/20/2011, 13:46:37, Switching to instrument 4
+04/20/2011, 13:46:37, Switching to noises
+04/20/2011, 13:46:48, Screen Saver
+04/20/2011, 13:46:59, Screen Saver
+04/20/2011, 13:47:10, Screen Saver
+04/20/2011, 13:47:21, Screen Saver
+04/20/2011, 13:47:32, Screen Saver
+04/20/2011, 13:47:43, Screen Saver
+04/20/2011, 13:47:54, Screen Saver
+04/20/2011, 13:48:05, Screen Saver
+04/20/2011, 13:48:16, Screen Saver
+04/20/2011, 13:48:27, Screen Saver
+04/20/2011, 13:48:38, Screen Saver
+04/20/2011, 13:48:49, Screen Saver
+04/20/2011, 13:49:00, Screen Saver
+04/20/2011, 13:49:11, Screen Saver
+04/20/2011, 13:49:22, Screen Saver
+04/20/2011, 13:49:33, Screen Saver
+04/20/2011, 13:49:44, Screen Saver
+04/20/2011, 13:49:55, Screen Saver
+04/20/2011, 13:50:06, Screen Saver
+04/20/2011, 13:50:17, Screen Saver
+04/20/2011, 13:50:28, Screen Saver
+04/20/2011, 13:50:39, Screen Saver
+04/20/2011, 13:50:50, Screen Saver
+04/20/2011, 13:51:01, Screen Saver
+04/20/2011, 13:51:12, Screen Saver
+04/20/2011, 13:51:23, Screen Saver
+04/20/2011, 13:51:34, Screen Saver
+04/20/2011, 13:51:45, Screen Saver
+04/20/2011, 13:51:56, Screen Saver
+04/20/2011, 13:52:07, Screen Saver
+04/20/2011, 13:52:18, Screen Saver
+04/20/2011, 13:52:29, Screen Saver
+04/20/2011, 13:52:40, Screen Saver
+04/20/2011, 13:52:51, Screen Saver
+04/20/2011, 13:53:02, Screen Saver
+04/20/2011, 13:53:13, Screen Saver
+04/20/2011, 13:53:24, Screen Saver
+04/20/2011, 13:53:35, Screen Saver
+04/20/2011, 13:53:46, Screen Saver
+04/20/2011, 13:53:57, Screen Saver
+04/20/2011, 13:54:08, Screen Saver
+04/20/2011, 13:54:19, Screen Saver
+04/20/2011, 13:54:30, Screen Saver
+04/20/2011, 13:54:41, Screen Saver
+04/20/2011, 13:54:52, Screen Saver
+04/20/2011, 13:55:03, Screen Saver
+04/20/2011, 13:55:14, Screen Saver
+04/20/2011, 13:55:25, Screen Saver
+04/20/2011, 13:55:36, Screen Saver
+04/20/2011, 13:55:47, Screen Saver
+04/20/2011, 13:55:58, Screen Saver
+04/20/2011, 13:56:09, Screen Saver
+04/20/2011, 13:56:20, Screen Saver
+04/20/2011, 13:56:31, Screen Saver
+04/20/2011, 13:56:42, Screen Saver
+04/20/2011, 13:56:53, Screen Saver
+04/20/2011, 13:57:04, Screen Saver
+04/20/2011, 13:57:04, Note,1
+04/20/2011, 13:57:06, Note,1
+04/20/2011, 13:57:07, Note,2
+04/20/2011, 13:57:07, Note,1
+04/20/2011, 13:57:07, Note,1
+04/20/2011, 13:57:07, Note,2
+04/20/2011, 13:57:07, Note,2
+04/20/2011, 13:57:08, Note,3
+04/20/2011, 13:57:09, Note,4
+04/20/2011, 13:57:11, Note,5
+04/20/2011, 13:57:11, Note,5
+04/20/2011, 13:57:12, Note,6
+04/20/2011, 13:57:12, Note,6
+04/20/2011, 13:57:15, Note,7
+04/20/2011, 13:57:19, Note,7
+04/20/2011, 13:57:21, Switching to instrument 0
+04/20/2011, 13:57:23, Switching to instrument 1
+04/20/2011, 13:57:24, Switching to instrument 2
+04/20/2011, 13:57:25, Switching to instrument 3
+04/20/2011, 13:57:25, Switching to instrument 4
+04/20/2011, 13:57:26, Switching to noises
+04/20/2011, 13:57:27, Switching to instrument 0
+04/20/2011, 13:57:28, Switching to instrument 1
+04/20/2011, 13:57:30, Switching to instrument 2
+04/20/2011, 13:57:31, Switching to instrument 3
+04/20/2011, 13:57:33, Switching to instrument 4
+04/20/2011, 13:57:34, Switching to noises
+04/20/2011, 13:57:35, Switching to instrument 0
+04/20/2011, 13:57:36, Switching to instrument 1
+04/20/2011, 13:57:37, Switching to instrument 2
+04/20/2011, 13:57:38, Switching to instrument 3
+04/20/2011, 13:57:39, Switching to instrument 4
+04/20/2011, 13:57:39, Switching to noises
+04/20/2011, 13:57:40, Switching to instrument 0
+04/20/2011, 13:57:40, Switching to instrument 1
+04/20/2011, 13:57:40, Switching to instrument 2
+04/20/2011, 13:57:51, Screen Saver
+04/20/2011, 13:58:02, Screen Saver
+04/20/2011, 13:58:13, Screen Saver
+04/20/2011, 13:58:19, Switching to instrument 3
+04/20/2011, 13:58:20, Switching to instrument 4
+04/20/2011, 13:58:21, Switching to noises
+04/20/2011, 13:58:22, Note,1
+04/20/2011, 13:58:22, Note,1
+04/20/2011, 13:58:22, Note,1
+04/20/2011, 13:58:22, Note,1
+04/20/2011, 13:58:22, Note,1
+04/20/2011, 13:58:23, Note,2
+04/20/2011, 13:58:23, Note,2
+04/20/2011, 13:58:24, Note,2
+04/20/2011, 13:58:24, Note,2
+04/20/2011, 13:58:24, Note,2
+04/20/2011, 13:58:24, Note,2
+04/20/2011, 13:58:25, Note,3
+04/20/2011, 13:58:25, Note,3
+04/20/2011, 13:58:26, Note,3
+04/20/2011, 13:58:27, Note,4
+04/20/2011, 13:58:28, Note,5
+04/20/2011, 13:58:29, Note,6
+04/20/2011, 13:58:30, Note,7
+04/20/2011, 13:58:31, Note,8
+04/20/2011, 13:58:31, Note,7
+04/20/2011, 13:58:33, Switching to instrument 0
+04/20/2011, 13:58:34, Switching to instrument 1
+04/20/2011, 13:58:34, Switching to instrument 2
+04/20/2011, 13:58:34, Switching to instrument 3
+04/20/2011, 13:58:35, Switching to instrument 4
+04/20/2011, 13:58:35, Switching to noises
+04/20/2011, 13:58:36, Switching to instrument 0
+04/20/2011, 13:58:37, Switching to instrument 1
+04/20/2011, 13:58:39, Note,1
+04/20/2011, 13:58:40, Note,1
+04/20/2011, 13:58:40, Note,1
+04/20/2011, 13:58:40, Note,1
+04/20/2011, 13:58:40, Note,2
+04/20/2011, 13:58:44, Note,2
+04/20/2011, 13:58:44, Note,3
+04/20/2011, 13:58:44, Note,5
+04/20/2011, 13:58:45, Note,4
+04/20/2011, 13:58:45, Note,5
+04/20/2011, 13:58:47, Note,4
+04/20/2011, 13:58:48, Note,4
+04/20/2011, 13:58:48, Note,4
+04/20/2011, 13:58:51, Note,6
+04/20/2011, 13:58:52, Note,5
+04/20/2011, 13:58:53, Note,6
+04/20/2011, 13:58:53, Note,6
+04/20/2011, 13:58:53, Note,6
+04/20/2011, 13:58:54, Note,6
+04/20/2011, 13:58:54, Note,6
+04/20/2011, 13:58:54, Note,6
+04/20/2011, 13:58:55, Note,6
+04/20/2011, 13:58:55, Note,6
+04/20/2011, 13:58:56, Note,6
+04/20/2011, 13:58:56, Note,6
+04/20/2011, 13:58:57, Note,7
+04/20/2011, 13:59:00, Switching to instrument 2
+04/20/2011, 13:59:01, Switching to instrument 3
+04/20/2011, 13:59:02, Switching to instrument 4
+04/20/2011, 13:59:02, Switching to noises
+04/20/2011, 13:59:03, Switching to instrument 0
+04/20/2011, 13:59:04, Switching to instrument 1
+04/20/2011, 13:59:04, Switching to instrument 2
+04/20/2011, 13:59:05, Switching to instrument 3
+04/20/2011, 13:59:06, Switching to instrument 4
+04/20/2011, 13:59:16, Screen Saver
+04/20/2011, 13:59:27, Screen Saver
+04/20/2011, 13:59:38, Screen Saver
+04/20/2011, 13:59:49, Screen Saver
+04/20/2011, 14:00:00, Screen Saver
+04/20/2011, 14:00:11, Screen Saver
+04/20/2011, 14:00:22, Screen Saver
+04/20/2011, 14:00:33, Screen Saver
+04/20/2011, 14:00:44, Screen Saver
+04/20/2011, 14:00:55, Screen Saver
+04/20/2011, 14:01:06, Screen Saver
+04/20/2011, 14:01:17, Screen Saver
+04/20/2011, 14:01:26, Switching to noises
+04/20/2011, 14:01:27, Switching to instrument 0
+04/20/2011, 14:01:28, Switching to instrument 1
+04/20/2011, 14:01:29, Switching to instrument 2
+04/20/2011, 14:01:29, Switching to instrument 3
+04/20/2011, 14:01:31, Switching to instrument 4
+04/20/2011, 14:01:33, Note,1
+04/20/2011, 14:01:33, Note,1
+04/20/2011, 14:01:34, Note,1
+04/20/2011, 14:01:34, Note,1
+04/20/2011, 14:01:34, Note,1
+04/20/2011, 14:01:34, Note,1
+04/20/2011, 14:01:34, Note,1
+04/20/2011, 14:01:34, Note,1
+04/20/2011, 14:01:34, Note,1
+04/20/2011, 14:01:36, Note,2
+04/20/2011, 14:01:38, Note,2
+04/20/2011, 14:01:38, Note,2
+04/20/2011, 14:01:38, Note,2
+04/20/2011, 14:01:38, Note,2
+04/20/2011, 14:01:38, Note,2
+04/20/2011, 14:01:38, Note,2
+04/20/2011, 14:01:39, Note,2
+04/20/2011, 14:01:40, Note,3
+04/20/2011, 14:01:41, Note,3
+04/20/2011, 14:01:42, Note,4
+04/20/2011, 14:01:43, Note,4
+04/20/2011, 14:01:46, Note,5
+04/20/2011, 14:01:46, Note,5
+04/20/2011, 14:01:46, Note,5
+04/20/2011, 14:01:50, Note,5
+04/20/2011, 14:01:52, Note,6
+04/20/2011, 14:01:53, Note,7
+04/20/2011, 14:01:54, Note,8
+04/20/2011, 14:01:56, Switching to noises
+04/20/2011, 14:01:57, Switching to instrument 0
+04/20/2011, 14:01:58, Switching to instrument 1
+04/20/2011, 14:01:59, Switching to instrument 2
+04/20/2011, 14:01:59, Switching to instrument 3
+04/20/2011, 14:02:00, Switching to instrument 4
+04/20/2011, 14:02:00, Switching to noises
+04/20/2011, 14:02:11, Screen Saver
+04/20/2011, 14:02:22, Screen Saver
+04/20/2011, 14:02:33, Screen Saver
+04/20/2011, 14:02:44, Screen Saver
+04/20/2011, 14:02:55, Screen Saver
+04/20/2011, 14:03:06, Screen Saver
+04/20/2011, 14:03:17, Screen Saver
+04/20/2011, 14:03:28, Screen Saver
+04/20/2011, 14:03:39, Screen Saver
+04/20/2011, 14:03:50, Screen Saver
+04/20/2011, 14:04:01, Screen Saver
+04/20/2011, 14:04:12, Screen Saver
+04/20/2011, 14:04:23, Screen Saver
+04/20/2011, 14:04:34, Screen Saver
+04/20/2011, 14:04:45, Screen Saver
+04/20/2011, 14:04:56, Screen Saver
+04/20/2011, 14:05:07, Screen Saver
+04/20/2011, 14:05:18, Screen Saver
+04/20/2011, 14:05:29, Screen Saver
+04/20/2011, 14:05:40, Screen Saver
+04/20/2011, 14:05:51, Screen Saver
+04/20/2011, 14:06:02, Screen Saver
+04/20/2011, 14:06:13, Screen Saver
+04/20/2011, 14:06:24, Screen Saver
+04/20/2011, 14:06:35, Screen Saver
+04/20/2011, 14:06:46, Screen Saver
+04/20/2011, 14:06:57, Screen Saver
+04/20/2011, 14:07:08, Screen Saver
+04/20/2011, 14:07:15, Note,8
+04/20/2011, 14:07:15, Note,7
+04/20/2011, 14:07:16, Note,5
+04/20/2011, 14:07:17, Note,1
+04/20/2011, 14:07:18, Note,7
+04/20/2011, 14:07:19, Note,2
+04/20/2011, 14:07:20, Note,3
+04/20/2011, 14:07:22, Switching to instrument 0
+04/20/2011, 14:07:23, Note,1
+04/20/2011, 14:07:23, Note,2
+04/20/2011, 14:07:24, Note,4
+04/20/2011, 14:07:24, Note,4
+04/20/2011, 14:07:24, Note,3
+04/20/2011, 14:07:24, Note,3
+04/20/2011, 14:07:25, Note,2
+04/20/2011, 14:07:26, Note,2
+04/20/2011, 14:07:28, Note,8
+04/20/2011, 14:07:29, Note,7
+04/20/2011, 14:07:39, Screen Saver
+04/20/2011, 14:07:50, Screen Saver
+04/20/2011, 14:08:01, Screen Saver
+04/20/2011, 14:08:12, Screen Saver
+04/20/2011, 14:08:23, Screen Saver
+04/20/2011, 14:08:34, Screen Saver
+04/20/2011, 14:08:45, Screen Saver
+04/20/2011, 14:08:56, Screen Saver
+04/20/2011, 14:09:07, Screen Saver
+04/20/2011, 14:09:18, Screen Saver
+04/20/2011, 14:09:29, Screen Saver
+04/20/2011, 14:09:40, Screen Saver
+04/20/2011, 14:09:51, Screen Saver
+04/20/2011, 14:10:02, Screen Saver
+04/20/2011, 14:10:13, Screen Saver
+04/20/2011, 14:10:24, Screen Saver
+04/20/2011, 14:10:35, Screen Saver
+04/20/2011, 14:10:46, Screen Saver
+04/20/2011, 14:10:57, Screen Saver
+04/20/2011, 14:11:08, Screen Saver
+04/20/2011, 14:11:19, Screen Saver
+04/20/2011, 14:11:30, Screen Saver
+04/20/2011, 14:11:41, Screen Saver
+04/20/2011, 14:11:52, Screen Saver
+04/20/2011, 14:12:03, Screen Saver
+04/20/2011, 14:12:14, Screen Saver
+04/20/2011, 14:12:25, Screen Saver
+04/20/2011, 14:12:36, Screen Saver
+04/20/2011, 14:12:47, Screen Saver
+04/20/2011, 14:12:58, Screen Saver
+04/20/2011, 14:13:09, Screen Saver
+04/20/2011, 14:13:20, Screen Saver
+04/20/2011, 14:13:31, Screen Saver
+04/20/2011, 14:13:42, Screen Saver
+04/20/2011, 14:13:53, Screen Saver
+04/20/2011, 14:14:04, Screen Saver
+04/20/2011, 14:14:15, Screen Saver
+04/20/2011, 14:14:26, Screen Saver
+04/20/2011, 14:14:37, Screen Saver
+04/20/2011, 14:14:48, Screen Saver
+04/20/2011, 14:14:59, Screen Saver
+04/20/2011, 14:15:10, Screen Saver
+04/20/2011, 14:15:21, Screen Saver
+04/20/2011, 14:15:32, Screen Saver
+04/20/2011, 14:15:43, Screen Saver
+04/20/2011, 14:15:54, Screen Saver
+04/20/2011, 14:16:05, Screen Saver
+04/20/2011, 14:16:16, Screen Saver
+04/20/2011, 14:16:27, Screen Saver
+04/20/2011, 14:16:38, Screen Saver
+04/20/2011, 14:16:49, Screen Saver
+04/20/2011, 14:17:00, Screen Saver
+04/20/2011, 14:17:11, Screen Saver
+04/20/2011, 14:17:22, Screen Saver
+04/20/2011, 14:17:33, Screen Saver
+04/20/2011, 14:17:44, Screen Saver
+04/20/2011, 14:17:55, Screen Saver
+04/20/2011, 14:18:06, Screen Saver
+04/20/2011, 14:18:17, Screen Saver
+04/20/2011, 14:18:28, Screen Saver
+04/20/2011, 14:18:39, Screen Saver
+04/20/2011, 14:18:48, Note,8
+04/20/2011, 14:18:49, Note,8
+04/20/2011, 14:18:49, Note,7
+04/20/2011, 14:18:49, Note,7
+04/20/2011, 14:18:50, Note,7
+04/20/2011, 14:18:50, Note,6
+04/20/2011, 14:18:50, Note,6
+04/20/2011, 14:18:50, Note,5
+04/20/2011, 14:18:50, Note,5
+04/20/2011, 14:18:51, Note,3
+04/20/2011, 14:18:51, Note,4
+04/20/2011, 14:18:51, Note,2
+04/20/2011, 14:18:51, Note,3
+04/20/2011, 14:18:52, Note,2
+04/20/2011, 14:18:52, Note,1
+04/20/2011, 14:18:52, Note,1
+04/20/2011, 14:18:53, Note,1
+04/20/2011, 14:18:53, Note,1
+04/20/2011, 14:18:54, Note,2
+04/20/2011, 14:18:55, Note,2
+04/20/2011, 14:18:56, Note,2
+04/20/2011, 14:18:59, Note,4
+04/20/2011, 14:19:00, Note,3
+04/20/2011, 14:19:00, Note,4
+04/20/2011, 14:19:01, Note,5
+04/20/2011, 14:19:01, Note,3
+04/20/2011, 14:19:01, Note,5
+04/20/2011, 14:19:01, Note,5
+04/20/2011, 14:19:01, Note,5
+04/20/2011, 14:19:02, Note,2
+04/20/2011, 14:19:02, Note,5
+04/20/2011, 14:19:02, Note,8
+04/20/2011, 14:19:02, Note,3
+04/20/2011, 14:19:02, Note,4
+04/20/2011, 14:19:02, Note,3
+04/20/2011, 14:19:02, Note,2
+04/20/2011, 14:19:03, Note,8
+04/20/2011, 14:19:03, Note,8
+04/20/2011, 14:19:03, Note,7
+04/20/2011, 14:19:03, Note,6
+04/20/2011, 14:19:03, Note,7
+04/20/2011, 14:19:03, Note,6
+04/20/2011, 14:19:03, Note,7
+04/20/2011, 14:19:04, Note,5
+04/20/2011, 14:19:04, Note,3
+04/20/2011, 14:19:04, Note,3
+04/20/2011, 14:19:05, Note,1
+04/20/2011, 14:19:05, Note,1
+04/20/2011, 14:19:05, Switching to instrument 1
+04/20/2011, 14:19:05, Switching to instrument 2
+04/20/2011, 14:19:05, Switching to instrument 3
+04/20/2011, 14:19:05, Note,1
+04/20/2011, 14:19:17, Screen Saver
+04/20/2011, 14:19:21, Note,8
+04/20/2011, 14:19:22, Note,5
+04/20/2011, 14:19:22, Note,6
+04/20/2011, 14:19:22, Note,8
+04/20/2011, 14:19:22, Note,6
+04/20/2011, 14:19:23, Note,6
+04/20/2011, 14:19:23, Note,6
+04/20/2011, 14:19:23, Note,6
+04/20/2011, 14:19:23, Note,6
+04/20/2011, 14:19:23, Note,6
+04/20/2011, 14:19:23, Note,5
+04/20/2011, 14:19:23, Note,6
+04/20/2011, 14:19:23, Note,6
+04/20/2011, 14:19:24, Note,6
+04/20/2011, 14:19:25, Note,6
+04/20/2011, 14:19:25, Note,6
+04/20/2011, 14:19:25, Note,6
+04/20/2011, 14:19:25, Note,5
+04/20/2011, 14:19:25, Note,7
+04/20/2011, 14:19:26, Note,6
+04/20/2011, 14:19:26, Note,6
+04/20/2011, 14:19:26, Note,5
+04/20/2011, 14:19:26, Note,5
+04/20/2011, 14:19:27, Note,4
+04/20/2011, 14:19:27, Note,3
+04/20/2011, 14:19:27, Note,3
+04/20/2011, 14:19:28, Note,3
+04/20/2011, 14:19:28, Note,3
+04/20/2011, 14:19:28, Note,3
+04/20/2011, 14:19:28, Note,3
+04/20/2011, 14:19:30, Note,2
+04/20/2011, 14:19:30, Note,3
+04/20/2011, 14:19:30, Note,1
+04/20/2011, 14:19:30, Note,3
+04/20/2011, 14:19:30, Note,2
+04/20/2011, 14:19:30, Note,2
+04/20/2011, 14:19:30, Note,2
+04/20/2011, 14:19:31, Note,5
+04/20/2011, 14:19:31, Note,5
+04/20/2011, 14:19:31, Note,5
+04/20/2011, 14:19:32, Note,5
+04/20/2011, 14:19:32, Note,3
+04/20/2011, 14:19:32, Note,4
+04/20/2011, 14:19:32, Note,3
+04/20/2011, 14:19:32, Note,3
+04/20/2011, 14:19:32, Note,2
+04/20/2011, 14:19:42, Screen Saver
+04/20/2011, 14:19:53, Screen Saver
+04/20/2011, 14:20:04, Screen Saver
+04/20/2011, 14:20:15, Screen Saver
+04/20/2011, 14:20:26, Screen Saver
+04/20/2011, 14:20:37, Screen Saver
+04/20/2011, 14:20:48, Screen Saver
+04/20/2011, 14:20:59, Screen Saver
+04/20/2011, 14:21:10, Screen Saver
+04/20/2011, 14:21:21, Screen Saver
+04/20/2011, 14:21:32, Screen Saver
+04/20/2011, 14:21:43, Screen Saver
+04/20/2011, 14:21:54, Screen Saver
+04/20/2011, 14:22:05, Screen Saver
+04/20/2011, 14:22:16, Screen Saver
+04/20/2011, 14:22:27, Screen Saver
+04/20/2011, 14:22:38, Screen Saver
+04/20/2011, 14:22:49, Screen Saver
+04/20/2011, 14:23:00, Screen Saver
+04/20/2011, 14:23:11, Screen Saver
+04/20/2011, 14:23:22, Screen Saver
+04/20/2011, 14:23:33, Screen Saver
+04/20/2011, 14:23:44, Screen Saver
+04/20/2011, 14:23:55, Screen Saver
+04/20/2011, 14:24:06, Screen Saver
+04/20/2011, 14:24:17, Screen Saver
+04/20/2011, 14:24:28, Screen Saver
+04/20/2011, 14:24:39, Screen Saver
+04/20/2011, 14:24:50, Screen Saver
+04/20/2011, 14:25:01, Screen Saver
+04/20/2011, 14:25:12, Screen Saver
+04/20/2011, 14:25:23, Screen Saver
+04/20/2011, 14:25:34, Screen Saver
+04/20/2011, 14:25:45, Screen Saver
+04/20/2011, 14:25:56, Screen Saver
+04/20/2011, 14:26:07, Screen Saver
+04/20/2011, 14:26:18, Screen Saver
+04/20/2011, 14:26:29, Screen Saver
+04/20/2011, 14:26:40, Screen Saver
+04/20/2011, 14:26:51, Screen Saver
+04/20/2011, 14:27:02, Screen Saver
+04/20/2011, 14:27:13, Screen Saver
+04/20/2011, 14:27:24, Screen Saver
+04/20/2011, 14:27:35, Screen Saver
+04/20/2011, 14:27:46, Screen Saver
+04/20/2011, 14:27:57, Screen Saver
+04/20/2011, 14:28:08, Screen Saver
+04/20/2011, 14:28:19, Screen Saver
+04/20/2011, 14:28:30, Screen Saver
+04/20/2011, 14:28:41, Screen Saver
+04/20/2011, 14:28:52, Screen Saver
+04/20/2011, 14:29:03, Screen Saver
+04/20/2011, 14:29:14, Screen Saver
+04/20/2011, 14:29:25, Screen Saver
+04/20/2011, 14:29:36, Screen Saver
+04/20/2011, 14:29:47, Screen Saver
+04/20/2011, 14:29:58, Screen Saver
+04/20/2011, 14:30:09, Screen Saver
+04/20/2011, 14:30:20, Screen Saver
+04/20/2011, 14:30:31, Screen Saver
+04/20/2011, 14:30:42, Screen Saver
+04/20/2011, 14:30:53, Screen Saver
+04/20/2011, 14:31:04, Screen Saver
+04/20/2011, 14:31:15, Screen Saver
+04/20/2011, 14:31:26, Screen Saver
+04/20/2011, 14:31:37, Screen Saver
+04/20/2011, 14:31:48, Screen Saver
+04/20/2011, 14:31:59, Screen Saver
+04/20/2011, 14:32:10, Screen Saver
+04/20/2011, 14:32:21, Screen Saver
+04/20/2011, 14:32:32, Screen Saver
+04/20/2011, 14:32:43, Screen Saver
+04/20/2011, 14:32:54, Screen Saver
+04/20/2011, 14:33:05, Screen Saver
+04/20/2011, 14:33:16, Screen Saver
+04/20/2011, 14:33:27, Screen Saver
+04/20/2011, 14:33:38, Screen Saver
+04/20/2011, 14:33:49, Screen Saver
+04/20/2011, 14:34:00, Screen Saver
+04/20/2011, 14:34:11, Screen Saver
+04/20/2011, 14:34:22, Screen Saver
+04/20/2011, 14:34:28, Note,5
+04/20/2011, 14:34:28, Note,5
+04/20/2011, 14:34:29, Note,4
+04/20/2011, 14:34:31, Note,5
+04/20/2011, 14:34:33, Note,5
+04/20/2011, 14:34:33, Note,4
+04/20/2011, 14:34:37, Note,5
+04/20/2011, 14:34:38, Note,5
+04/20/2011, 14:34:38, Note,4
+04/20/2011, 14:34:48, Screen Saver
+04/20/2011, 14:34:59, Screen Saver
+04/20/2011, 14:35:10, Screen Saver
+04/20/2011, 14:35:21, Screen Saver
+04/20/2011, 14:35:32, Screen Saver
+04/20/2011, 14:35:43, Screen Saver
+04/20/2011, 14:35:54, Screen Saver
+04/20/2011, 14:36:02, Note,5
+04/20/2011, 14:36:02, Note,5
+04/20/2011, 14:36:03, Note,6
+04/20/2011, 14:36:03, Note,8
+04/20/2011, 14:36:03, Note,8
+04/20/2011, 14:36:03, Note,7
+04/20/2011, 14:36:03, Note,7
+04/20/2011, 14:36:08, Note,8
+04/20/2011, 14:36:10, Note,8
+04/20/2011, 14:36:11, Note,7
+04/20/2011, 14:36:11, Note,7
+04/20/2011, 14:36:12, Note,7
+04/20/2011, 14:36:12, Note,6
+04/20/2011, 14:36:13, Note,5
+04/20/2011, 14:36:14, Note,6
+04/20/2011, 14:36:15, Note,5
+04/20/2011, 14:36:15, Note,5
+04/20/2011, 14:36:15, Note,5
+04/20/2011, 14:36:16, Note,5
+04/20/2011, 14:36:17, Note,5
+04/20/2011, 14:36:18, Note,5
+04/20/2011, 14:36:18, Note,5
+04/20/2011, 14:36:28, Screen Saver
+04/20/2011, 14:36:39, Switching to instrument 4
+04/20/2011, 14:36:39, Note,7
+04/20/2011, 14:36:40, Switching to noises
+04/20/2011, 14:36:40, Switching to instrument 0
+04/20/2011, 14:36:41, Note,7
+04/20/2011, 14:36:41, Switching to instrument 1
+04/20/2011, 14:36:41, Switching to instrument 2
+04/20/2011, 14:36:41, Switching to instrument 3
+04/20/2011, 14:36:41, Switching to instrument 4
+04/20/2011, 14:36:41, Note,8
+04/20/2011, 14:36:41, Switching to noises
+04/20/2011, 14:36:41, Note,8
+04/20/2011, 14:36:41, Switching to instrument 0
+04/20/2011, 14:36:41, Note,8
+04/20/2011, 14:36:41, Switching to instrument 1
+04/20/2011, 14:36:41, Note,6
+04/20/2011, 14:36:41, Switching to instrument 2
+04/20/2011, 14:36:41, Note,7
+04/20/2011, 14:36:45, Switching to instrument 3
+04/20/2011, 14:36:45, Note,1
+04/20/2011, 14:36:45, Note,1
+04/20/2011, 14:36:46, Note,1
+04/20/2011, 14:36:46, Note,1
+04/20/2011, 14:36:46, Note,8
+04/20/2011, 14:36:47, Note,2
+04/20/2011, 14:36:47, Note,3
+04/20/2011, 14:36:48, Note,1
+04/20/2011, 14:36:49, Note,1
+04/20/2011, 14:36:49, Note,1
+04/20/2011, 14:36:49, Note,1
+04/20/2011, 14:36:49, Note,2
+04/20/2011, 14:36:49, Note,3
+04/20/2011, 14:36:50, Note,7
+04/20/2011, 14:36:50, Note,1
+04/20/2011, 14:36:51, Note,6
+04/20/2011, 14:36:52, Note,5
+04/20/2011, 14:36:53, Note,4
+04/20/2011, 14:36:53, Note,8
+04/20/2011, 14:36:53, Note,7
+04/20/2011, 14:36:53, Note,1
+04/20/2011, 14:36:53, Note,1
+04/20/2011, 14:36:53, Note,4
+04/20/2011, 14:36:53, Note,7
+04/20/2011, 14:36:54, Note,7
+04/20/2011, 14:36:54, Note,1
+04/20/2011, 14:36:54, Note,5
+04/20/2011, 14:36:54, Note,5
+04/20/2011, 14:36:54, Note,1
+04/20/2011, 14:36:54, Note,4
+04/20/2011, 14:36:54, Note,6
+04/20/2011, 14:36:55, Note,3
+04/20/2011, 14:36:55, Note,7
+04/20/2011, 14:36:55, Note,6
+04/20/2011, 14:36:55, Note,2
+04/20/2011, 14:36:57, Note,2
+04/20/2011, 14:36:57, Note,1
+04/20/2011, 14:36:57, Note,2
+04/20/2011, 14:36:57, Note,2
+04/20/2011, 14:36:57, Note,2
+04/20/2011, 14:36:58, Note,1
+04/20/2011, 14:36:58, Note,6
+04/20/2011, 14:36:58, Note,3
+04/20/2011, 14:36:58, Note,6
+04/20/2011, 14:36:58, Note,6
+04/20/2011, 14:36:59, Note,6
+04/20/2011, 14:36:59, Note,7
+04/20/2011, 14:36:59, Note,7
+04/20/2011, 14:36:59, Note,3
+04/20/2011, 14:36:59, Note,2
+04/20/2011, 14:36:59, Note,2
+04/20/2011, 14:37:00, Note,3
+04/20/2011, 14:37:00, Note,3
+04/20/2011, 14:37:00, Note,8
+04/20/2011, 14:37:01, Note,6
+04/20/2011, 14:37:01, Note,3
+04/20/2011, 14:37:01, Note,3
+04/20/2011, 14:37:01, Note,6
+04/20/2011, 14:37:02, Note,6
+04/20/2011, 14:37:02, Note,3
+04/20/2011, 14:37:02, Note,3
+04/20/2011, 14:37:02, Note,3
+04/20/2011, 14:37:03, Note,6
+04/20/2011, 14:37:04, Note,3
+04/20/2011, 14:37:04, Note,8
+04/20/2011, 14:37:05, Note,3
+04/20/2011, 14:37:05, Note,3
+04/20/2011, 14:37:06, Note,8
+04/20/2011, 14:37:06, Note,8
+04/20/2011, 14:37:06, Note,4
+04/20/2011, 14:37:06, Note,3
+04/20/2011, 14:37:06, Note,8
+04/20/2011, 14:37:06, Note,3
+04/20/2011, 14:37:06, Note,3
+04/20/2011, 14:37:07, Note,8
+04/20/2011, 14:37:07, Note,6
+04/20/2011, 14:37:07, Note,4
+04/20/2011, 14:37:07, Note,2
+04/20/2011, 14:37:08, Note,3
+04/20/2011, 14:37:08, Note,3
+04/20/2011, 14:37:08, Note,2
+04/20/2011, 14:37:09, Note,8
+04/20/2011, 14:37:09, Note,8
+04/20/2011, 14:37:10, Note,8
+04/20/2011, 14:37:10, Note,8
+04/20/2011, 14:37:11, Note,2
+04/20/2011, 14:37:11, Note,1
+04/20/2011, 14:37:11, Note,8
+04/20/2011, 14:37:12, Note,1
+04/20/2011, 14:37:12, Switching to instrument 4
+04/20/2011, 14:37:12, Note,8
+04/20/2011, 14:37:12, Switching to noises
+04/20/2011, 14:37:12, Note,5
+04/20/2011, 14:37:12, Switching to instrument 0
+04/20/2011, 14:37:12, Note,5
+04/20/2011, 14:37:12, Switching to instrument 1
+04/20/2011, 14:37:12, Note,8
+04/20/2011, 14:37:12, Switching to instrument 2
+04/20/2011, 14:37:15, Switching to instrument 3
+04/20/2011, 14:37:15, Switching to instrument 4
+04/20/2011, 14:37:16, Switching to noises
+04/20/2011, 14:37:16, Note,5
+04/20/2011, 14:37:16, Note,8
+04/20/2011, 14:37:16, Note,8
+04/20/2011, 14:37:16, Switching to instrument 0
+04/20/2011, 14:37:16, Note,8
+04/20/2011, 14:37:16, Switching to instrument 1
+04/20/2011, 14:37:16, Note,6
+04/20/2011, 14:37:16, Switching to instrument 2
+04/20/2011, 14:37:18, Note,6
+04/20/2011, 14:37:18, Note,6
+04/20/2011, 14:37:18, Switching to instrument 3
+04/20/2011, 14:37:19, Switching to instrument 4
+04/20/2011, 14:37:19, Note,6
+04/20/2011, 14:37:20, Switching to noises
+04/20/2011, 14:37:20, Switching to instrument 0
+04/20/2011, 14:37:20, Note,1
+04/20/2011, 14:37:21, Note,6
+04/20/2011, 14:37:21, Switching to instrument 1
+04/20/2011, 14:37:21, Switching to instrument 2
+04/20/2011, 14:37:22, Switching to instrument 3
+04/20/2011, 14:37:22, Note,3
+04/20/2011, 14:37:22, Note,2
+04/20/2011, 14:37:22, Note,1
+04/20/2011, 14:37:23, Note,1
+04/20/2011, 14:37:23, Note,1
+04/20/2011, 14:37:23, Note,1
+04/20/2011, 14:37:24, Note,1
+04/20/2011, 14:37:24, Note,1
+04/20/2011, 14:37:24, Note,1
+04/20/2011, 14:37:25, Switching to instrument 4
+04/20/2011, 14:37:25, Note,1
+04/20/2011, 14:37:25, Note,1
+04/20/2011, 14:37:26, Switching to noises
+04/20/2011, 14:37:26, Note,2
+04/20/2011, 14:37:27, Note,1
+04/20/2011, 14:37:29, Switching to instrument 0
+04/20/2011, 14:37:31, Switching to instrument 1
+04/20/2011, 14:37:31, Switching to instrument 2
+04/20/2011, 14:37:33, Switching to instrument 3
+04/20/2011, 14:37:34, Note,1
+04/20/2011, 14:37:34, Switching to instrument 4
+04/20/2011, 14:37:34, Note,1
+04/20/2011, 14:37:34, Switching to noises
+04/20/2011, 14:37:34, Note,1
+04/20/2011, 14:37:34, Switching to instrument 0
+04/20/2011, 14:37:34, Switching to instrument 1
+04/20/2011, 14:37:34, Switching to instrument 2
+04/20/2011, 14:37:34, Note,2
+04/20/2011, 14:37:36, Note,1
+04/20/2011, 14:37:36, Note,1
+04/20/2011, 14:37:36, Note,3
+04/20/2011, 14:37:36, Note,1
+04/20/2011, 14:37:37, Note,1
+04/20/2011, 14:37:37, Note,4
+04/20/2011, 14:37:37, Note,3
+04/20/2011, 14:37:37, Note,3
+04/20/2011, 14:37:39, Note,1
+04/20/2011, 14:37:50, Screen Saver
+04/20/2011, 14:38:01, Screen Saver
+04/20/2011, 14:38:12, Screen Saver
+04/20/2011, 14:38:14, Note,1
+04/20/2011, 14:38:14, Note,1
+04/20/2011, 14:38:14, Note,1
+04/20/2011, 14:38:15, Note,2
+04/20/2011, 14:38:15, Note,2
+04/20/2011, 14:38:15, Note,2
+04/20/2011, 14:38:16, Note,2
+04/20/2011, 14:38:16, Note,2
+04/20/2011, 14:38:17, Note,1
+04/20/2011, 14:38:17, Note,3
+04/20/2011, 14:38:17, Note,2
+04/20/2011, 14:38:17, Note,3
+04/20/2011, 14:38:22, Note,3
+04/20/2011, 14:38:23, Note,3
+04/20/2011, 14:38:23, Note,3
+04/20/2011, 14:38:25, Note,4
+04/20/2011, 14:38:25, Note,3
+04/20/2011, 14:38:27, Note,5
+04/20/2011, 14:38:27, Note,4
+04/20/2011, 14:38:28, Note,5
+04/20/2011, 14:38:30, Note,6
+04/20/2011, 14:38:30, Note,5
+04/20/2011, 14:38:30, Note,6
+04/20/2011, 14:38:31, Note,6
+04/20/2011, 14:38:31, Note,5
+04/20/2011, 14:38:31, Note,5
+04/20/2011, 14:38:32, Note,5
+04/20/2011, 14:38:32, Note,5
+04/20/2011, 14:38:32, Note,7
+04/20/2011, 14:38:32, Note,5
+04/20/2011, 14:38:32, Note,7
+04/20/2011, 14:38:33, Note,7
+04/20/2011, 14:38:34, Note,7
+04/20/2011, 14:38:34, Note,8
+04/20/2011, 14:38:35, Note,6
+04/20/2011, 14:38:35, Note,5
+04/20/2011, 14:38:36, Note,5
+04/20/2011, 14:38:36, Note,5
+04/20/2011, 14:38:36, Note,6
+04/20/2011, 14:38:37, Note,5
+04/20/2011, 14:38:37, Note,5
+04/20/2011, 14:38:38, Note,4
+04/20/2011, 14:38:38, Note,3
+04/20/2011, 14:38:38, Note,3
+04/20/2011, 14:38:39, Note,1
+04/20/2011, 14:38:39, Note,1
+04/20/2011, 14:38:39, Note,1
+04/20/2011, 14:38:39, Note,1
+04/20/2011, 14:38:39, Note,1
+04/20/2011, 14:38:40, Note,1
+04/20/2011, 14:38:40, Note,3
+04/20/2011, 14:38:40, Note,3
+04/20/2011, 14:38:41, Note,3
+04/20/2011, 14:38:43, Note,1
+04/20/2011, 14:38:44, Note,3
+04/20/2011, 14:38:44, Note,1
+04/20/2011, 14:38:44, Note,1
+04/20/2011, 14:38:44, Note,1
+04/20/2011, 14:38:44, Note,1
+04/20/2011, 14:38:45, Note,1
+04/20/2011, 14:38:45, Note,1
+04/20/2011, 14:38:45, Note,1
+04/20/2011, 14:38:45, Note,1
+04/20/2011, 14:38:46, Note,1
+04/20/2011, 14:38:46, Note,1
+04/20/2011, 14:38:47, Note,1
+04/20/2011, 14:38:47, Note,2
+04/20/2011, 14:38:47, Note,1
+04/20/2011, 14:38:47, Note,1
+04/20/2011, 14:38:48, Note,3
+04/20/2011, 14:38:48, Note,3
+04/20/2011, 14:38:48, Note,1
+04/20/2011, 14:38:49, Note,1
+04/20/2011, 14:38:49, Note,3
+04/20/2011, 14:38:50, Note,1
+04/20/2011, 14:38:51, Note,1
+04/20/2011, 14:38:51, Note,1
+04/20/2011, 14:38:51, Note,3
+04/20/2011, 14:38:52, Note,1
+04/20/2011, 14:38:52, Note,3
+04/20/2011, 14:38:52, Note,1
+04/20/2011, 14:38:52, Note,1
+04/20/2011, 14:38:52, Note,1
+04/20/2011, 14:38:52, Note,1
+04/20/2011, 14:38:52, Note,1
+04/20/2011, 14:38:53, Note,1
+04/20/2011, 14:38:53, Note,1
+04/20/2011, 14:38:53, Note,1
+04/20/2011, 14:38:54, Note,1
+04/20/2011, 14:38:54, Note,1
+04/20/2011, 14:38:54, Note,1
+04/20/2011, 14:38:54, Note,1
+04/20/2011, 14:38:55, Note,1
+04/20/2011, 14:39:01, Note,1
+04/20/2011, 14:39:01, Note,1
+04/20/2011, 14:39:01, Note,1
+04/20/2011, 14:39:01, Note,1
+04/20/2011, 14:39:01, Note,1
+04/20/2011, 14:39:01, Note,1
+04/20/2011, 14:39:02, Note,1
+04/20/2011, 14:39:02, Note,1
+04/20/2011, 14:39:02, Note,1
+04/20/2011, 14:39:02, Note,1
+04/20/2011, 14:39:02, Note,1
+04/20/2011, 14:39:03, Note,1
+04/20/2011, 14:39:03, Note,1
+04/20/2011, 14:39:03, Note,1
+04/20/2011, 14:39:03, Note,1
+04/20/2011, 14:39:04, Note,1
+04/20/2011, 14:39:04, Note,1
+04/20/2011, 14:39:04, Note,1
+04/20/2011, 14:39:04, Note,1
+04/20/2011, 14:39:05, Note,1
+04/20/2011, 14:39:06, Note,1
+04/20/2011, 14:39:06, Note,1
+04/20/2011, 14:39:06, Note,1
+04/20/2011, 14:39:06, Note,1
+04/20/2011, 14:39:06, Note,1
+04/20/2011, 14:39:07, Note,1
+04/20/2011, 14:39:07, Note,1
+04/20/2011, 14:39:07, Note,2
+04/20/2011, 14:39:09, Note,3
+04/20/2011, 14:39:09, Note,3
+04/20/2011, 14:39:09, Note,3
+04/20/2011, 14:39:09, Note,3
+04/20/2011, 14:39:10, Note,3
+04/20/2011, 14:39:10, Note,3
+04/20/2011, 14:39:14, Note,4
+04/20/2011, 14:39:14, Note,4
+04/20/2011, 14:39:17, Note,4
+04/20/2011, 14:39:19, Note,1
+04/20/2011, 14:39:21, Note,2
+04/20/2011, 14:39:24, Note,3
+04/20/2011, 14:39:25, Note,3
+04/20/2011, 14:39:35, Note,4
+04/20/2011, 14:39:45, Screen Saver
+04/20/2011, 14:39:56, Screen Saver
+04/20/2011, 14:40:07, Screen Saver
+04/20/2011, 14:40:18, Screen Saver
+04/20/2011, 14:40:29, Screen Saver
+04/20/2011, 14:40:40, Screen Saver
+04/20/2011, 14:40:51, Screen Saver
+04/20/2011, 14:41:02, Screen Saver
+04/20/2011, 14:41:13, Screen Saver
+04/20/2011, 14:41:24, Screen Saver
+04/20/2011, 14:41:35, Screen Saver
+04/20/2011, 14:41:46, Screen Saver
+04/20/2011, 14:41:57, Screen Saver
+04/20/2011, 14:42:08, Screen Saver
+04/20/2011, 14:42:19, Screen Saver
+04/20/2011, 14:42:30, Screen Saver
+04/20/2011, 14:42:41, Screen Saver
+04/20/2011, 14:42:52, Screen Saver
+04/20/2011, 14:43:03, Screen Saver
+04/20/2011, 14:43:14, Screen Saver
+04/20/2011, 14:43:25, Screen Saver
+04/20/2011, 14:43:36, Screen Saver
+04/20/2011, 14:43:47, Screen Saver
+04/20/2011, 14:43:58, Screen Saver
+04/20/2011, 14:44:09, Screen Saver
+04/20/2011, 14:44:11, Note,8
+04/20/2011, 14:44:11, Note,8
+04/20/2011, 14:44:12, Note,7
+04/20/2011, 14:44:12, Note,8
+04/20/2011, 14:44:13, Switching to instrument 3
+04/20/2011, 14:44:13, Switching to instrument 4
+04/20/2011, 14:44:14, Switching to noises
+04/20/2011, 14:44:14, Switching to instrument 0
+04/20/2011, 14:44:15, Switching to instrument 1
+04/20/2011, 14:44:16, Switching to instrument 2
+04/20/2011, 14:44:16, Note,8
+04/20/2011, 14:44:18, Note,7
+04/20/2011, 14:44:18, Note,7
+04/20/2011, 14:44:18, Note,6
+04/20/2011, 14:44:18, Note,6
+04/20/2011, 14:44:19, Note,5
+04/20/2011, 14:44:19, Note,5
+04/20/2011, 14:44:19, Note,4
+04/20/2011, 14:44:19, Note,4
+04/20/2011, 14:44:20, Note,1
+04/20/2011, 14:44:20, Note,1
+04/20/2011, 14:44:20, Note,3
+04/20/2011, 14:44:21, Note,3
+04/20/2011, 14:44:21, Note,2
+04/20/2011, 14:44:21, Note,3
+04/20/2011, 14:44:21, Note,3
+04/20/2011, 14:44:21, Note,2
+04/20/2011, 14:44:22, Note,2
+04/20/2011, 14:44:22, Note,4
+04/20/2011, 14:44:22, Note,3
+04/20/2011, 14:44:23, Note,4
+04/20/2011, 14:44:23, Note,2
+04/20/2011, 14:44:23, Note,6
+04/20/2011, 14:44:24, Note,7
+04/20/2011, 14:44:24, Note,2
+04/20/2011, 14:44:24, Note,6
+04/20/2011, 14:44:24, Note,6
+04/20/2011, 14:44:24, Note,5
+04/20/2011, 14:44:24, Note,6
+04/20/2011, 14:44:25, Note,7
+04/20/2011, 14:44:25, Note,7
+04/20/2011, 14:44:25, Note,1
+04/20/2011, 14:44:25, Note,8
+04/20/2011, 14:44:25, Note,7
+04/20/2011, 14:44:25, Note,4
+04/20/2011, 14:44:25, Note,3
+04/20/2011, 14:44:25, Note,7
+04/20/2011, 14:44:26, Note,3
+04/20/2011, 14:44:26, Note,6
+04/20/2011, 14:44:26, Note,3
+04/20/2011, 14:44:26, Note,4
+04/20/2011, 14:44:26, Note,3
+04/20/2011, 14:44:26, Note,5
+04/20/2011, 14:44:26, Note,5
+04/20/2011, 14:44:26, Note,6
+04/20/2011, 14:44:27, Note,3
+04/20/2011, 14:44:27, Note,7
+04/20/2011, 14:44:27, Note,8
+04/20/2011, 14:44:27, Note,8
+04/20/2011, 14:44:27, Note,3
+04/20/2011, 14:44:27, Note,8
+04/20/2011, 14:44:27, Note,3
+04/20/2011, 14:44:27, Note,7
+04/20/2011, 14:44:27, Note,6
+04/20/2011, 14:44:28, Note,3
+04/20/2011, 14:44:28, Note,5
+04/20/2011, 14:44:28, Note,6
+04/20/2011, 14:44:28, Note,7
+04/20/2011, 14:44:29, Note,7
+04/20/2011, 14:44:29, Note,2
+04/20/2011, 14:44:29, Note,6
+04/20/2011, 14:44:29, Note,4
+04/20/2011, 14:44:30, Note,1
+04/20/2011, 14:44:30, Note,2
+04/20/2011, 14:44:30, Note,4
+04/20/2011, 14:44:30, Note,5
+04/20/2011, 14:44:31, Note,4
+04/20/2011, 14:44:31, Note,6
+04/20/2011, 14:44:31, Note,7
+04/20/2011, 14:44:31, Note,7
+04/20/2011, 14:44:31, Note,2
+04/20/2011, 14:44:32, Note,8
+04/20/2011, 14:44:32, Note,7
+04/20/2011, 14:44:32, Note,2
+04/20/2011, 14:44:32, Note,6
+04/20/2011, 14:44:32, Note,6
+04/20/2011, 14:44:32, Note,3
+04/20/2011, 14:44:33, Note,5
+04/20/2011, 14:44:33, Note,5
+04/20/2011, 14:44:33, Note,6
+04/20/2011, 14:44:33, Note,4
+04/20/2011, 14:44:33, Note,8
+04/20/2011, 14:44:33, Note,3
+04/20/2011, 14:44:34, Note,1
+04/20/2011, 14:44:34, Note,2
+04/20/2011, 14:44:34, Note,7
+04/20/2011, 14:44:35, Note,2
+04/20/2011, 14:44:35, Note,6
+04/20/2011, 14:44:35, Note,4
+04/20/2011, 14:44:35, Note,5
+04/20/2011, 14:44:36, Note,7
+04/20/2011, 14:44:36, Note,7
+04/20/2011, 14:44:36, Note,3
+04/20/2011, 14:44:36, Note,8
+04/20/2011, 14:44:36, Note,3
+04/20/2011, 14:44:36, Note,8
+04/20/2011, 14:44:37, Note,3
+04/20/2011, 14:44:37, Note,3
+04/20/2011, 14:44:39, Note,2
+04/20/2011, 14:44:40, Note,2
+04/20/2011, 14:44:50, Screen Saver
+04/20/2011, 14:45:01, Screen Saver
+04/20/2011, 14:45:12, Screen Saver
+04/20/2011, 14:45:23, Screen Saver
+04/20/2011, 14:45:34, Screen Saver
+04/20/2011, 14:45:45, Screen Saver
+04/20/2011, 14:45:56, Screen Saver
+04/20/2011, 14:46:07, Screen Saver
+04/20/2011, 14:46:18, Screen Saver
+04/20/2011, 14:46:29, Screen Saver
+04/20/2011, 14:46:31, Note,6
+04/20/2011, 14:46:31, Note,6
+04/20/2011, 14:46:31, Note,5
+04/20/2011, 14:46:31, Note,5
+04/20/2011, 14:46:31, Note,7
+04/20/2011, 14:46:32, Note,6
+04/20/2011, 14:46:32, Note,5
+04/20/2011, 14:46:33, Note,5
+04/20/2011, 14:46:33, Note,5
+04/20/2011, 14:46:33, Note,3
+04/20/2011, 14:46:33, Note,3
+04/20/2011, 14:46:34, Note,2
+04/20/2011, 14:46:34, Note,2
+04/20/2011, 14:46:34, Note,3
+04/20/2011, 14:46:35, Note,5
+04/20/2011, 14:46:46, Screen Saver
+04/20/2011, 14:46:57, Screen Saver
+04/20/2011, 14:47:08, Screen Saver
+04/20/2011, 14:47:11, Note,8
+04/20/2011, 14:47:12, Note,8
+04/20/2011, 14:47:12, Note,6
+04/20/2011, 14:47:12, Note,6
+04/20/2011, 14:47:12, Note,6
+04/20/2011, 14:47:12, Note,5
+04/20/2011, 14:47:12, Note,7
+04/20/2011, 14:47:13, Note,8
+04/20/2011, 14:47:13, Note,8
+04/20/2011, 14:47:14, Note,5
+04/20/2011, 14:47:14, Note,5
+04/20/2011, 14:47:14, Note,6
+04/20/2011, 14:47:14, Note,6
+04/20/2011, 14:47:14, Note,5
+04/20/2011, 14:47:14, Note,6
+04/20/2011, 14:47:14, Note,6
+04/20/2011, 14:47:15, Note,7
+04/20/2011, 14:47:15, Note,8
+04/20/2011, 14:47:16, Note,7
+04/20/2011, 14:47:16, Note,6
+04/20/2011, 14:47:16, Note,5
+04/20/2011, 14:47:26, Screen Saver
+04/20/2011, 14:47:37, Screen Saver
+04/20/2011, 14:47:48, Screen Saver
+04/20/2011, 14:47:59, Screen Saver
+04/20/2011, 14:48:10, Screen Saver
+04/20/2011, 14:48:21, Screen Saver
+04/20/2011, 14:48:32, Screen Saver
+04/20/2011, 14:48:43, Screen Saver
+04/20/2011, 14:48:54, Screen Saver
+04/20/2011, 14:49:05, Screen Saver
+04/20/2011, 14:49:16, Screen Saver
+04/20/2011, 14:49:27, Screen Saver
+04/20/2011, 14:49:38, Screen Saver
+04/20/2011, 14:49:49, Screen Saver
+04/20/2011, 14:49:49, Note,1
+04/20/2011, 14:49:50, Note,1
+04/20/2011, 14:49:51, Note,2
+04/20/2011, 14:49:52, Note,3
+04/20/2011, 14:49:53, Note,4
+04/20/2011, 14:49:53, Note,5
+04/20/2011, 14:49:54, Note,7
+04/20/2011, 14:49:54, Note,7
+04/20/2011, 14:49:58, Note,8
+04/20/2011, 14:49:58, Note,7
+04/20/2011, 14:49:59, Note,7
+04/20/2011, 14:50:01, Note,8
+04/20/2011, 14:50:05, Note,8
+04/20/2011, 14:50:05, Note,7
+04/20/2011, 14:50:06, Note,7
+04/20/2011, 14:50:06, Note,7
+04/20/2011, 14:50:09, Note,8
+04/20/2011, 14:50:11, Note,8
+04/20/2011, 14:50:20, Note,8
+04/20/2011, 14:50:20, Note,7
+04/20/2011, 14:50:21, Note,6
+04/20/2011, 14:50:21, Note,6
+04/20/2011, 14:50:22, Note,6
+04/20/2011, 14:50:23, Note,6
+04/20/2011, 14:50:23, Note,6
+04/20/2011, 14:50:23, Note,5
+04/20/2011, 14:50:24, Note,5
+04/20/2011, 14:50:24, Note,5
+04/20/2011, 14:50:24, Note,5
+04/20/2011, 14:50:26, Note,4
+04/20/2011, 14:50:27, Note,4
+04/20/2011, 14:50:27, Note,3
+04/20/2011, 14:50:27, Note,2
+04/20/2011, 14:50:28, Note,1
+04/20/2011, 14:50:28, Note,1
+04/20/2011, 14:50:39, Screen Saver
+04/20/2011, 14:50:50, Screen Saver
+04/20/2011, 14:51:01, Screen Saver
+04/20/2011, 14:51:12, Screen Saver
+04/20/2011, 14:51:23, Screen Saver
+04/20/2011, 14:51:34, Screen Saver
+04/20/2011, 14:51:45, Screen Saver
+04/20/2011, 14:51:56, Screen Saver
+04/20/2011, 14:52:07, Screen Saver
+04/20/2011, 14:52:18, Screen Saver
+04/20/2011, 14:52:29, Screen Saver
+04/20/2011, 14:52:40, Screen Saver
+04/20/2011, 14:52:51, Screen Saver
+04/20/2011, 14:53:02, Screen Saver
+04/20/2011, 14:53:13, Screen Saver
+04/20/2011, 14:53:24, Screen Saver
+04/20/2011, 14:53:35, Screen Saver
+04/20/2011, 14:53:46, Screen Saver
+04/20/2011, 14:53:57, Screen Saver
+04/20/2011, 14:54:08, Screen Saver
+04/20/2011, 14:54:19, Screen Saver
+04/20/2011, 14:54:30, Screen Saver
+04/20/2011, 14:54:41, Screen Saver
+04/20/2011, 14:54:52, Screen Saver
+04/20/2011, 14:55:03, Screen Saver
+04/20/2011, 14:55:14, Screen Saver
+04/20/2011, 14:55:25, Screen Saver
+04/20/2011, 14:55:36, Screen Saver
+04/20/2011, 14:55:47, Screen Saver
+04/20/2011, 14:55:58, Screen Saver
+04/20/2011, 14:56:09, Screen Saver
+04/20/2011, 14:56:20, Screen Saver
+04/20/2011, 14:56:31, Screen Saver
+04/20/2011, 14:56:42, Screen Saver
+04/20/2011, 14:56:53, Screen Saver
+04/20/2011, 14:57:04, Screen Saver
+04/20/2011, 14:57:15, Screen Saver
+04/20/2011, 14:57:26, Screen Saver
+04/20/2011, 14:57:37, Screen Saver
+04/20/2011, 14:57:48, Screen Saver
+04/20/2011, 14:57:59, Screen Saver
+04/20/2011, 14:58:10, Screen Saver
+04/20/2011, 14:58:21, Screen Saver
+04/20/2011, 14:58:32, Screen Saver
+04/20/2011, 14:58:43, Screen Saver
+04/20/2011, 14:58:54, Screen Saver
+04/20/2011, 14:59:05, Screen Saver
+04/20/2011, 14:59:16, Screen Saver
+04/20/2011, 14:59:27, Screen Saver
+04/20/2011, 14:59:38, Screen Saver
+04/20/2011, 14:59:49, Screen Saver
+04/20/2011, 15:00:00, Screen Saver
+04/20/2011, 15:00:11, Screen Saver
+04/20/2011, 15:00:22, Screen Saver
+04/20/2011, 15:00:33, Screen Saver
+04/20/2011, 15:00:44, Screen Saver
+04/20/2011, 15:00:55, Screen Saver
+04/20/2011, 15:01:06, Screen Saver
+04/20/2011, 15:01:17, Screen Saver
+04/20/2011, 15:01:28, Screen Saver
+04/20/2011, 15:01:39, Screen Saver
+04/20/2011, 15:01:50, Screen Saver
+04/20/2011, 15:02:01, Screen Saver
+04/20/2011, 15:02:12, Screen Saver
+04/20/2011, 15:02:23, Screen Saver
+04/20/2011, 15:02:34, Screen Saver
+04/20/2011, 15:02:45, Screen Saver
+04/20/2011, 15:02:56, Screen Saver
+04/20/2011, 15:03:07, Screen Saver
+04/20/2011, 15:03:18, Screen Saver
+04/20/2011, 15:03:29, Screen Saver
+04/20/2011, 15:03:40, Screen Saver
+04/20/2011, 15:03:51, Screen Saver
+04/20/2011, 15:04:02, Screen Saver
+04/20/2011, 15:04:13, Screen Saver
+04/20/2011, 15:04:24, Screen Saver
+04/20/2011, 15:04:35, Screen Saver
+04/20/2011, 15:04:46, Screen Saver
+04/20/2011, 15:04:57, Screen Saver
+04/20/2011, 15:05:08, Screen Saver
+04/20/2011, 15:05:19, Screen Saver
+04/20/2011, 15:05:30, Screen Saver
+04/20/2011, 15:05:41, Screen Saver
+04/20/2011, 15:05:52, Screen Saver
+04/20/2011, 15:06:03, Screen Saver
+04/20/2011, 15:06:14, Screen Saver
+04/20/2011, 15:06:25, Screen Saver
+04/20/2011, 15:06:36, Screen Saver
+04/20/2011, 15:06:47, Screen Saver
+04/20/2011, 15:06:58, Screen Saver
+04/20/2011, 15:07:09, Screen Saver
+04/20/2011, 15:07:20, Screen Saver
+04/20/2011, 15:07:31, Screen Saver
+04/20/2011, 15:07:42, Screen Saver
+04/20/2011, 15:07:53, Screen Saver
+04/20/2011, 15:08:04, Screen Saver
+04/20/2011, 15:08:15, Screen Saver
+04/20/2011, 15:08:26, Screen Saver
+04/20/2011, 15:08:37, Screen Saver
+04/20/2011, 15:08:48, Screen Saver
+04/20/2011, 15:08:59, Screen Saver
+04/20/2011, 15:09:10, Screen Saver
+04/20/2011, 15:09:21, Screen Saver
+04/20/2011, 15:09:32, Screen Saver
+04/20/2011, 15:09:43, Screen Saver
+04/20/2011, 15:09:54, Screen Saver
+04/20/2011, 15:10:05, Screen Saver
+04/20/2011, 15:10:16, Screen Saver
+04/20/2011, 15:10:27, Screen Saver
+04/20/2011, 15:10:38, Screen Saver
+04/20/2011, 15:10:49, Screen Saver
+04/20/2011, 15:11:00, Screen Saver
+04/20/2011, 15:11:11, Screen Saver
+04/20/2011, 15:11:22, Screen Saver
+04/20/2011, 15:11:33, Screen Saver
+04/20/2011, 15:11:44, Screen Saver
+04/20/2011, 15:11:55, Screen Saver
+04/20/2011, 15:12:06, Screen Saver
+04/20/2011, 15:12:17, Screen Saver
+04/20/2011, 15:12:28, Screen Saver
+04/20/2011, 15:12:39, Screen Saver
+04/20/2011, 15:12:50, Screen Saver
+04/20/2011, 15:13:01, Screen Saver
+04/20/2011, 15:13:12, Screen Saver
+04/20/2011, 15:13:22, Note,8
+04/20/2011, 15:13:25, Note,8
+04/20/2011, 15:13:26, Note,7
+04/20/2011, 15:13:27, Note,7
+04/20/2011, 15:13:27, Note,7
+04/20/2011, 15:13:27, Note,7
+04/20/2011, 15:13:28, Note,7
+04/20/2011, 15:13:28, Note,7
+04/20/2011, 15:13:28, Note,7
+04/20/2011, 15:13:29, Note,8
+04/20/2011, 15:13:29, Note,8
+04/20/2011, 15:13:30, Note,7
+04/20/2011, 15:13:30, Note,6
+04/20/2011, 15:13:30, Note,6
+04/20/2011, 15:13:30, Note,5
+04/20/2011, 15:13:31, Note,5
+04/20/2011, 15:13:31, Note,4
+04/20/2011, 15:13:34, Note,3
+04/20/2011, 15:13:34, Note,3
+04/20/2011, 15:13:34, Note,3
+04/20/2011, 15:13:35, Note,5
+04/20/2011, 15:13:38, Note,5
+04/20/2011, 15:13:41, Note,6
+04/20/2011, 15:13:42, Note,7
+04/20/2011, 15:13:43, Note,5
+04/20/2011, 15:13:43, Note,4
+04/20/2011, 15:13:43, Note,5
+04/20/2011, 15:13:44, Note,6
+04/20/2011, 15:13:45, Note,6
+04/20/2011, 15:13:45, Note,5
+04/20/2011, 15:13:46, Note,5
+04/20/2011, 15:13:52, Note,5
+04/20/2011, 15:13:56, Note,6
+04/20/2011, 15:13:57, Note,3
+04/20/2011, 15:13:57, Note,6
+04/20/2011, 15:13:57, Note,3
+04/20/2011, 15:13:58, Note,6
+04/20/2011, 15:13:58, Note,2
+04/20/2011, 15:13:58, Note,6
+04/20/2011, 15:13:59, Note,6
+04/20/2011, 15:13:59, Note,2
+04/20/2011, 15:14:00, Note,2
+04/20/2011, 15:14:01, Note,1
+04/20/2011, 15:14:02, Note,2
+04/20/2011, 15:14:03, Note,2
+04/20/2011, 15:14:04, Switching to instrument 3
+04/20/2011, 15:14:05, Note,2
+04/20/2011, 15:14:07, Switching to instrument 4
+04/20/2011, 15:14:11, Switching to noises
+04/20/2011, 15:14:13, Switching to instrument 0
+04/20/2011, 15:14:16, Switching to instrument 1
+04/20/2011, 15:14:16, Note,8
+04/20/2011, 15:14:16, Switching to instrument 2
+04/20/2011, 15:14:16, Note,8
+04/20/2011, 15:14:16, Note,7
+04/20/2011, 15:14:17, Note,6
+04/20/2011, 15:14:18, Note,5
+04/20/2011, 15:14:18, Note,5
+04/20/2011, 15:14:18, Note,6
+04/20/2011, 15:14:18, Note,6
+04/20/2011, 15:14:18, Note,7
+04/20/2011, 15:14:18, Note,2
+04/20/2011, 15:14:18, Note,8
+04/20/2011, 15:14:18, Note,8
+04/20/2011, 15:14:18, Note,2
+04/20/2011, 15:14:18, Note,8
+04/20/2011, 15:14:19, Note,2
+04/20/2011, 15:14:19, Note,8
+04/20/2011, 15:14:19, Note,7
+04/20/2011, 15:14:19, Note,6
+04/20/2011, 15:14:20, Note,2
+04/20/2011, 15:14:20, Note,2
+04/20/2011, 15:14:21, Note,2
+04/20/2011, 15:14:24, Note,7
+04/20/2011, 15:14:24, Note,6
+04/20/2011, 15:14:24, Note,5
+04/20/2011, 15:14:25, Note,4
+04/20/2011, 15:14:25, Note,2
+04/20/2011, 15:14:26, Note,2
+04/20/2011, 15:14:26, Note,1
+04/20/2011, 15:14:26, Note,1
+04/20/2011, 15:14:27, Note,3
+04/20/2011, 15:14:28, Note,4
+04/20/2011, 15:14:30, Note,8
+04/20/2011, 15:14:30, Note,5
+04/20/2011, 15:14:31, Note,4
+04/20/2011, 15:14:31, Note,2
+04/20/2011, 15:14:32, Note,1
+04/20/2011, 15:14:37, Note,1
+04/20/2011, 15:14:37, Note,1
+04/20/2011, 15:14:38, Note,2
+04/20/2011, 15:14:38, Note,2
+04/20/2011, 15:14:40, Note,8
+04/20/2011, 15:14:41, Note,7
+04/20/2011, 15:14:42, Note,1
+04/20/2011, 15:14:42, Note,2
+04/20/2011, 15:14:50, Note,2
+04/20/2011, 15:14:50, Note,2
+04/20/2011, 15:14:55, Note,2
+04/20/2011, 15:14:56, Note,2
+04/20/2011, 15:14:56, Note,2
+04/20/2011, 15:14:59, Note,2
+04/20/2011, 15:15:00, Note,2
+04/20/2011, 15:15:05, Note,2
+04/20/2011, 15:15:06, Note,2
+04/20/2011, 15:15:06, Note,2
+04/20/2011, 15:15:06, Note,2
+04/20/2011, 15:15:12, Note,2
+04/20/2011, 15:15:13, Note,2
+04/20/2011, 15:15:17, Note,2
+04/20/2011, 15:15:20, Note,2
+04/20/2011, 15:15:28, Note,2
+04/20/2011, 15:15:32, Note,2
+04/20/2011, 15:15:37, Note,2
+04/20/2011, 15:15:48, Screen Saver
+04/20/2011, 15:15:52, Note,2
+04/20/2011, 15:15:53, Note,2
+04/20/2011, 15:15:58, Note,2
+04/20/2011, 15:16:03, Note,2
+04/20/2011, 15:16:14, Screen Saver
+04/20/2011, 15:16:19, Note,2
+04/20/2011, 15:16:29, Screen Saver
+04/20/2011, 15:16:34, Note,2
+04/20/2011, 15:16:34, Note,2
+04/20/2011, 15:16:39, Note,2
+04/20/2011, 15:16:45, Note,2
+04/20/2011, 15:16:46, Note,2
+04/20/2011, 15:16:48, Note,2
+04/20/2011, 15:16:48, Note,2
+04/20/2011, 15:16:48, Note,2
+04/20/2011, 15:16:51, Note,2
+04/20/2011, 15:16:57, Note,2
+04/20/2011, 15:17:03, Note,2
+04/20/2011, 15:17:03, Note,2
+04/20/2011, 15:17:04, Note,2
+04/20/2011, 15:17:09, Note,2
+04/20/2011, 15:17:14, Note,2
+04/20/2011, 15:17:14, Note,2
+04/20/2011, 15:17:18, Note,2
+04/20/2011, 15:17:20, Note,2
+04/20/2011, 15:17:23, Note,2
+04/20/2011, 15:17:24, Note,2
+04/20/2011, 15:17:24, Note,2
+04/20/2011, 15:17:25, Note,2
+04/20/2011, 15:17:26, Note,2
+04/20/2011, 15:17:26, Note,2
+04/20/2011, 15:17:28, Note,2
+04/20/2011, 15:17:29, Note,2
+04/20/2011, 15:17:29, Note,1
+04/20/2011, 15:17:30, Note,2
+04/20/2011, 15:17:32, Note,3
+04/20/2011, 15:17:32, Note,3
+04/20/2011, 15:17:32, Note,3
+04/20/2011, 15:17:36, Note,2
+04/20/2011, 15:17:39, Note,2
+04/20/2011, 15:17:39, Note,2
+04/20/2011, 15:17:42, Note,2
+04/20/2011, 15:17:43, Note,2
+04/20/2011, 15:17:48, Note,8
+04/20/2011, 15:17:49, Note,4
+04/20/2011, 15:17:49, Note,3
+04/20/2011, 15:17:50, Note,1
+04/20/2011, 15:17:51, Note,2
+04/20/2011, 15:17:51, Note,3
+04/20/2011, 15:17:51, Note,3
+04/20/2011, 15:17:54, Note,7
+04/20/2011, 15:17:54, Note,2
+04/20/2011, 15:17:55, Note,2
+04/20/2011, 15:17:55, Note,2
+04/20/2011, 15:17:55, Note,1
+04/20/2011, 15:17:55, Note,1
+04/20/2011, 15:17:59, Note,2
+04/20/2011, 15:18:02, Note,2
+04/20/2011, 15:18:03, Note,2
+04/20/2011, 15:18:03, Note,2
+04/20/2011, 15:18:08, Note,2
+04/20/2011, 15:18:08, Note,2
+04/20/2011, 15:18:11, Note,2
+04/20/2011, 15:18:12, Note,2
+04/20/2011, 15:18:15, Note,2
+04/20/2011, 15:18:15, Note,2
+04/20/2011, 15:18:16, Note,2
+04/20/2011, 15:18:27, Note,2
+04/20/2011, 15:18:29, Note,2
+04/20/2011, 15:18:36, Note,2
+04/20/2011, 15:18:38, Note,2
+04/20/2011, 15:18:46, Note,2
+04/20/2011, 15:18:54, Note,2
+04/20/2011, 15:18:55, Note,2
+04/20/2011, 15:18:55, Note,2
+04/20/2011, 15:19:00, Note,2
+04/20/2011, 15:19:00, Note,2
+04/20/2011, 15:19:11, Screen Saver
+04/20/2011, 15:19:11, Note,2
+04/20/2011, 15:19:17, Note,2
+04/20/2011, 15:19:19, Note,2
+04/20/2011, 15:19:29, Note,2
+04/20/2011, 15:19:31, Note,2
+04/20/2011, 15:19:33, Note,2
+04/20/2011, 15:19:36, Note,2
+04/20/2011, 15:19:36, Note,2
+04/20/2011, 15:19:47, Screen Saver
+04/20/2011, 15:19:58, Screen Saver
+04/20/2011, 15:20:08, Note,2
+04/20/2011, 15:20:09, Note,2
+04/20/2011, 15:20:16, Note,2
+04/20/2011, 15:20:17, Note,2
+04/20/2011, 15:20:18, Note,2
+04/20/2011, 15:20:18, Note,2
+04/20/2011, 15:20:21, Note,2
+04/20/2011, 15:20:21, Note,2
+04/20/2011, 15:20:30, Note,2
+04/20/2011, 15:20:31, Note,2
+04/20/2011, 15:20:39, Note,2
+04/20/2011, 15:20:47, Note,2
+04/20/2011, 15:20:47, Note,2
+04/20/2011, 15:20:50, Note,2
+04/20/2011, 15:20:52, Note,2
+04/20/2011, 15:20:57, Note,2
+04/20/2011, 15:20:59, Note,2
+04/20/2011, 15:20:59, Note,2
+04/20/2011, 15:20:59, Note,2
+04/20/2011, 15:21:00, Note,2
+04/20/2011, 15:21:04, Note,2
+04/20/2011, 15:21:07, Note,2
+04/20/2011, 15:21:08, Note,2
+04/20/2011, 15:21:13, Note,2
+04/20/2011, 15:21:14, Note,2
+04/20/2011, 15:21:14, Note,2
+04/20/2011, 15:21:16, Note,2
+04/20/2011, 15:21:24, Note,2
+04/20/2011, 15:21:26, Note,2
+04/20/2011, 15:21:27, Note,2
+04/20/2011, 15:21:38, Note,2
+04/20/2011, 15:21:39, Note,2
+04/20/2011, 15:21:44, Note,2
+04/20/2011, 15:21:47, Note,2
+04/20/2011, 15:21:47, Note,2
+04/20/2011, 15:21:50, Note,2
+04/20/2011, 15:22:01, Screen Saver
+04/20/2011, 15:22:09, Note,2
+04/20/2011, 15:22:16, Note,2
+04/20/2011, 15:22:19, Note,2
+04/20/2011, 15:22:21, Note,2
+04/20/2011, 15:22:32, Screen Saver
+04/20/2011, 15:22:34, Note,2
+04/20/2011, 15:22:36, Note,2
+04/20/2011, 15:22:47, Screen Saver
+04/20/2011, 15:22:52, Note,2
+04/20/2011, 15:22:56, Note,2
+04/20/2011, 15:22:56, Note,2
+04/20/2011, 15:22:59, Note,2
+04/20/2011, 15:23:01, Note,2
+04/20/2011, 15:23:12, Screen Saver
+04/20/2011, 15:23:14, Note,2
+04/20/2011, 15:23:18, Note,2
+04/20/2011, 15:23:24, Note,2
+04/20/2011, 15:23:26, Note,2
+04/20/2011, 15:23:27, Note,2
+04/20/2011, 15:23:27, Note,2
+04/20/2011, 15:23:27, Note,2
+04/20/2011, 15:23:28, Note,2
+04/20/2011, 15:23:28, Note,2
+04/20/2011, 15:23:29, Note,2
+04/20/2011, 15:23:29, Note,2
+04/20/2011, 15:23:36, Note,2
+04/20/2011, 15:23:42, Note,2
+04/20/2011, 15:23:52, Screen Saver
+04/20/2011, 15:23:52, Note,2
+04/20/2011, 15:23:54, Note,2
+04/20/2011, 15:23:54, Note,2
+04/20/2011, 15:24:05, Screen Saver
+04/20/2011, 15:24:13, Note,2
+04/20/2011, 15:24:24, Screen Saver
+04/20/2011, 15:24:28, Note,2
+04/20/2011, 15:24:31, Note,2
+04/20/2011, 15:24:31, Note,2
+04/20/2011, 15:24:42, Screen Saver
+04/20/2011, 15:24:44, Note,2
+04/20/2011, 15:24:46, Note,2
+04/20/2011, 15:24:55, Note,2
+04/20/2011, 15:24:55, Note,2
+04/20/2011, 15:24:57, Note,2
+04/20/2011, 15:24:58, Note,2
+04/20/2011, 15:25:00, Note,2
+04/20/2011, 15:25:11, Screen Saver
+04/20/2011, 15:25:11, Note,2
+04/20/2011, 15:25:14, Note,2
+04/20/2011, 15:25:21, Note,2
+04/20/2011, 15:25:32, Note,2
+04/20/2011, 15:25:41, Note,2
+04/20/2011, 15:25:51, Screen Saver
+04/20/2011, 15:26:02, Screen Saver
+04/20/2011, 15:26:10, Note,2
+04/20/2011, 15:26:11, Note,2
+04/20/2011, 15:26:12, Note,2
+04/20/2011, 15:26:15, Note,2
+04/20/2011, 15:26:17, Note,2
+04/20/2011, 15:26:19, Note,2
+04/20/2011, 15:26:27, Note,2
+04/20/2011, 15:26:38, Screen Saver
+04/20/2011, 15:26:38, Note,2
+04/20/2011, 15:26:39, Note,2
+04/20/2011, 15:26:41, Note,2
+04/20/2011, 15:26:45, Note,2
+04/20/2011, 15:26:45, Note,2
+04/20/2011, 15:26:48, Note,2
+04/20/2011, 15:26:54, Note,2
+04/20/2011, 15:26:54, Note,2
+04/20/2011, 15:27:04, Screen Saver
+04/20/2011, 15:27:08, Note,2
+04/20/2011, 15:27:18, Screen Saver
+04/20/2011, 15:27:18, Note,2
+04/20/2011, 15:27:27, Note,2
+04/20/2011, 15:27:28, Note,2
+04/20/2011, 15:27:31, Note,2
+04/20/2011, 15:27:31, Note,2
+04/20/2011, 15:27:32, Note,2
+04/20/2011, 15:27:32, Note,2
+04/20/2011, 15:27:42, Screen Saver
+04/20/2011, 15:27:42, Note,2
+04/20/2011, 15:27:53, Screen Saver
+04/20/2011, 15:28:04, Screen Saver
+04/20/2011, 15:28:09, Note,2
+04/20/2011, 15:28:09, Note,2
+04/20/2011, 15:28:17, Note,2
+04/20/2011, 15:28:17, Note,2
+04/20/2011, 15:28:22, Note,2
+04/20/2011, 15:28:22, Note,2
+04/20/2011, 15:28:24, Note,2
+04/20/2011, 15:28:34, Note,5
+04/20/2011, 15:28:40, Note,4
+04/20/2011, 15:28:41, Note,5
+04/20/2011, 15:28:42, Note,2
+04/20/2011, 15:28:44, Note,2
+04/20/2011, 15:28:46, Note,2
+04/20/2011, 15:28:51, Note,2
+04/20/2011, 15:28:51, Note,2
+04/20/2011, 15:28:53, Note,1
+04/20/2011, 15:28:54, Note,1
+04/20/2011, 15:29:00, Note,2
+04/20/2011, 15:29:03, Note,2
+04/20/2011, 15:29:08, Note,2
+04/20/2011, 15:29:09, Note,2
+04/20/2011, 15:29:13, Note,2
+04/20/2011, 15:29:19, Note,2
+04/20/2011, 15:29:22, Note,2
+04/20/2011, 15:29:30, Note,2
+04/20/2011, 15:29:32, Note,2
+04/20/2011, 15:29:33, Note,2
+04/20/2011, 15:29:38, Note,2
+04/20/2011, 15:29:49, Screen Saver
+04/20/2011, 15:29:49, Note,2
+04/20/2011, 15:29:54, Note,2
+04/20/2011, 15:29:56, Note,2
+04/20/2011, 15:30:07, Screen Saver
+04/20/2011, 15:30:10, Note,2
+04/20/2011, 15:30:11, Note,2
+04/20/2011, 15:30:13, Note,2
+04/20/2011, 15:30:22, Note,2
+04/20/2011, 15:30:33, Screen Saver
+04/20/2011, 15:30:44, Screen Saver
+04/20/2011, 15:30:55, Screen Saver
+04/20/2011, 15:30:55, Note,2
+04/20/2011, 15:31:03, Note,2
+04/20/2011, 15:31:08, Note,2
+04/20/2011, 15:31:08, Note,2
+04/20/2011, 15:31:18, Screen Saver
+04/20/2011, 15:31:27, Note,2
+04/20/2011, 15:31:27, Note,2
+04/20/2011, 15:31:28, Note,2
+04/20/2011, 15:31:29, Note,2
+04/20/2011, 15:31:39, Screen Saver
+04/20/2011, 15:31:47, Note,2
+04/20/2011, 15:31:51, Note,2
+04/20/2011, 15:31:52, Note,2
+04/20/2011, 15:31:56, Note,2
+04/20/2011, 15:32:02, Note,2
+04/20/2011, 15:32:03, Note,2
+04/20/2011, 15:32:03, Note,2
+04/20/2011, 15:32:06, Note,7
+04/20/2011, 15:32:06, Note,6
+04/20/2011, 15:32:07, Note,6
+04/20/2011, 15:32:08, Note,6
+04/20/2011, 15:32:09, Note,6
+04/20/2011, 15:32:10, Note,5
+04/20/2011, 15:32:11, Note,7
+04/20/2011, 15:32:11, Note,6
+04/20/2011, 15:32:12, Note,5
+04/20/2011, 15:32:12, Note,5
+04/20/2011, 15:32:12, Note,5
+04/20/2011, 15:32:12, Note,4
+04/20/2011, 15:32:13, Note,6
+04/20/2011, 15:32:14, Note,1
+04/20/2011, 15:32:14, Note,2
+04/20/2011, 15:32:14, Note,2
+04/20/2011, 15:32:20, Note,2
+04/20/2011, 15:32:22, Note,2
+04/20/2011, 15:32:23, Note,2
+04/20/2011, 15:32:23, Note,2
+04/20/2011, 15:32:25, Note,4
+04/20/2011, 15:32:25, Note,3
+04/20/2011, 15:32:25, Note,3
+04/20/2011, 15:32:25, Note,2
+04/20/2011, 15:32:30, Note,6
+04/20/2011, 15:32:30, Note,7
+04/20/2011, 15:32:31, Note,3
+04/20/2011, 15:32:31, Note,5
+04/20/2011, 15:32:32, Note,3
+04/20/2011, 15:32:32, Note,3
+04/20/2011, 15:32:32, Note,3
+04/20/2011, 15:32:32, Note,2
+04/20/2011, 15:32:34, Note,1
+04/20/2011, 15:32:34, Note,5
+04/20/2011, 15:32:34, Note,2
+04/20/2011, 15:32:34, Note,3
+04/20/2011, 15:32:34, Note,5
+04/20/2011, 15:32:34, Note,6
+04/20/2011, 15:32:34, Note,5
+04/20/2011, 15:32:34, Note,3
+04/20/2011, 15:32:34, Note,6
+04/20/2011, 15:32:34, Note,5
+04/20/2011, 15:32:35, Note,3
+04/20/2011, 15:32:35, Note,6
+04/20/2011, 15:32:35, Note,7
+04/20/2011, 15:32:36, Note,7
+04/20/2011, 15:32:36, Note,3
+04/20/2011, 15:32:38, Note,5
+04/20/2011, 15:32:38, Note,5
+04/20/2011, 15:32:39, Note,5
+04/20/2011, 15:32:39, Note,5
+04/20/2011, 15:32:39, Note,5
+04/20/2011, 15:32:39, Note,4
+04/20/2011, 15:32:40, Note,5
+04/20/2011, 15:32:40, Note,4
+04/20/2011, 15:32:40, Note,4
+04/20/2011, 15:32:42, Note,2
+04/20/2011, 15:32:50, Note,2
+04/20/2011, 15:32:59, Note,2
+04/20/2011, 15:33:04, Note,2
+04/20/2011, 15:33:14, Screen Saver
+04/20/2011, 15:33:16, Note,2
+04/20/2011, 15:33:25, Note,2
+04/20/2011, 15:33:29, Note,2
+04/20/2011, 15:33:30, Note,2
+04/20/2011, 15:33:33, Note,2
+04/20/2011, 15:33:34, Note,2
+04/20/2011, 15:33:41, Note,2
+04/20/2011, 15:33:51, Screen Saver
+04/20/2011, 15:33:58, Note,2
+04/20/2011, 15:33:58, Note,2
+04/20/2011, 15:34:02, Note,2
+04/20/2011, 15:34:03, Note,2
+04/20/2011, 15:34:05, Note,2
+04/20/2011, 15:34:16, Screen Saver
+04/20/2011, 15:34:21, Note,2
+04/20/2011, 15:34:23, Note,2
+04/20/2011, 15:34:27, Note,2
+04/20/2011, 15:34:32, Note,2
+04/20/2011, 15:34:41, Note,2
+04/20/2011, 15:34:43, Note,2
+04/20/2011, 15:34:45, Note,2
+04/20/2011, 15:34:45, Note,2
+04/20/2011, 15:34:45, Note,2
+04/20/2011, 15:34:49, Note,2
+04/20/2011, 15:34:50, Note,2
+04/20/2011, 15:34:54, Note,2
+04/20/2011, 15:35:03, Note,2
+04/20/2011, 15:35:05, Note,2
+04/20/2011, 15:35:08, Note,2
+04/20/2011, 15:35:08, Note,2
+04/20/2011, 15:35:09, Note,2
+04/20/2011, 15:35:10, Note,2
+04/20/2011, 15:35:21, Screen Saver
+04/20/2011, 15:35:24, Note,2
+04/20/2011, 15:35:24, Note,2
+04/20/2011, 15:35:29, Note,2
+04/20/2011, 15:35:39, Screen Saver
+04/20/2011, 15:35:44, Note,2
+04/20/2011, 15:35:49, Note,2
+04/20/2011, 15:35:55, Note,2
+04/20/2011, 15:36:06, Screen Saver
+04/20/2011, 15:36:09, Note,2
+04/20/2011, 15:36:12, Note,2
+04/20/2011, 15:36:12, Note,2
+04/20/2011, 15:36:12, Note,2
+04/20/2011, 15:36:14, Note,2
+04/20/2011, 15:36:24, Note,2
+04/20/2011, 15:36:30, Note,2
+04/20/2011, 15:36:36, Note,2
+04/20/2011, 15:36:44, Note,2
+04/20/2011, 15:36:49, Note,2
+04/20/2011, 15:36:50, Note,2
+04/20/2011, 15:36:57, Note,2
+04/20/2011, 15:37:08, Screen Saver
+04/20/2011, 15:37:18, Note,2
+04/20/2011, 15:37:29, Note,2
+04/20/2011, 15:37:30, Note,2
+04/20/2011, 15:37:31, Note,2
+04/20/2011, 15:37:34, Note,2
+04/20/2011, 15:37:38, Note,2
+04/20/2011, 15:37:43, Note,2
+04/20/2011, 15:37:53, Screen Saver
+04/20/2011, 15:37:55, Note,2
+04/20/2011, 15:37:58, Note,2
+04/20/2011, 15:38:02, Note,2
+04/20/2011, 15:38:03, Note,2
+04/20/2011, 15:38:13, Screen Saver
+04/20/2011, 15:38:20, Note,2
+04/20/2011, 15:38:24, Note,2
+04/20/2011, 15:38:27, Note,2
+04/20/2011, 15:38:29, Note,2
+04/20/2011, 15:38:33, Note,2
+04/20/2011, 15:38:35, Note,2
+04/20/2011, 15:38:39, Note,2
+04/20/2011, 15:38:40, Note,2
+04/20/2011, 15:38:41, Note,2
+04/20/2011, 15:38:51, Screen Saver
+04/20/2011, 15:39:01, Note,2
+04/20/2011, 15:39:03, Note,2
+04/20/2011, 15:39:09, Note,2
+04/20/2011, 15:39:16, Note,2
+04/20/2011, 15:39:23, Note,2
+04/20/2011, 15:39:24, Note,2
+04/20/2011, 15:39:25, Note,2
+04/20/2011, 15:39:33, Note,2
+04/20/2011, 15:39:38, Note,2
+04/20/2011, 15:39:38, Note,2
+04/20/2011, 15:39:44, Note,2
+04/20/2011, 15:39:54, Screen Saver
+04/20/2011, 15:39:54, Note,2
+04/20/2011, 15:39:55, Note,2
+04/20/2011, 15:39:58, Note,2
+04/20/2011, 15:39:58, Note,2
+04/20/2011, 15:39:58, Note,2
+04/20/2011, 15:40:00, Note,2
+04/20/2011, 15:40:03, Note,2
+04/20/2011, 15:40:04, Note,2
+04/20/2011, 15:40:14, Screen Saver
+04/20/2011, 15:40:19, Note,2
+04/20/2011, 15:40:29, Screen Saver
+04/20/2011, 15:40:29, Note,2
+04/20/2011, 15:40:33, Note,2
+04/20/2011, 15:40:39, Note,2
+04/20/2011, 15:40:46, Note,2
+04/20/2011, 15:40:47, Note,2
+04/20/2011, 15:40:49, Note,2
+04/20/2011, 15:40:53, Note,2
+04/20/2011, 15:40:55, Note,2
+04/20/2011, 15:41:05, Screen Saver
+04/20/2011, 15:41:11, Note,2
+04/20/2011, 15:41:22, Screen Saver
+04/20/2011, 15:41:22, Note,2
+04/20/2011, 15:41:24, Note,2
+04/20/2011, 15:41:28, Note,2
+04/20/2011, 15:41:33, Note,2
+04/20/2011, 15:41:34, Note,2
+04/20/2011, 15:41:36, Note,2
+04/20/2011, 15:41:46, Screen Saver
+04/20/2011, 15:41:57, Screen Saver
+04/20/2011, 15:42:03, Note,2
+04/20/2011, 15:42:11, Note,2
+04/20/2011, 15:42:11, Note,2
+04/20/2011, 15:42:14, Note,2
+04/20/2011, 15:42:14, Note,2
+04/20/2011, 15:42:23, Note,2
+04/20/2011, 15:42:27, Note,2
+04/20/2011, 15:42:37, Screen Saver
+04/20/2011, 15:42:48, Screen Saver
+04/20/2011, 15:42:59, Screen Saver
+04/20/2011, 15:43:08, Note,2
+04/20/2011, 15:43:18, Note,2
+04/20/2011, 15:43:18, Note,2
+04/20/2011, 15:43:28, Screen Saver
+04/20/2011, 15:43:30, Note,2
+04/20/2011, 15:43:31, Note,2
+04/20/2011, 15:43:38, Note,2
+04/20/2011, 15:43:43, Note,2
+04/20/2011, 15:43:45, Note,2
+04/20/2011, 15:43:56, Screen Saver
+04/20/2011, 15:44:00, Note,2
+04/20/2011, 15:44:05, Note,2
+04/20/2011, 15:44:07, Note,2
+04/20/2011, 15:44:18, Screen Saver
+04/20/2011, 15:44:18, Note,2
+04/20/2011, 15:44:22, Note,2
+04/20/2011, 15:44:32, Screen Saver
+04/20/2011, 15:44:43, Screen Saver
+04/20/2011, 15:44:54, Screen Saver
+04/20/2011, 15:45:01, Note,2
+04/20/2011, 15:45:10, Note,2
+04/20/2011, 15:45:20, Screen Saver
+04/20/2011, 15:45:22, Note,2
+04/20/2011, 15:45:33, Screen Saver
+04/20/2011, 15:45:33, Note,2
+04/20/2011, 15:45:44, Screen Saver
+04/20/2011, 15:45:50, Note,2
+04/20/2011, 15:46:00, Screen Saver
+04/20/2011, 15:46:11, Screen Saver
+04/20/2011, 15:46:11, Note,2
+04/20/2011, 15:46:19, Note,2
+04/20/2011, 15:46:29, Screen Saver
+04/20/2011, 15:46:40, Screen Saver
+04/20/2011, 15:46:42, Note,2
+04/20/2011, 15:46:42, Note,2
+04/20/2011, 15:46:53, Screen Saver
+04/20/2011, 15:46:57, Note,2
+04/20/2011, 15:47:08, Screen Saver
+04/20/2011, 15:47:11, Note,2
+04/20/2011, 15:47:11, Note,2
+04/20/2011, 15:47:12, Note,8
+04/20/2011, 15:47:13, Note,7
+04/20/2011, 15:47:13, Note,6
+04/20/2011, 15:47:14, Note,6
+04/20/2011, 15:47:14, Note,5
+04/20/2011, 15:47:14, Note,4
+04/20/2011, 15:47:15, Note,2
+04/20/2011, 15:47:16, Note,1
+04/20/2011, 15:47:17, Note,2
+04/20/2011, 15:47:18, Note,4
+04/20/2011, 15:47:19, Note,5
+04/20/2011, 15:47:20, Note,6
+04/20/2011, 15:47:20, Note,7
+04/20/2011, 15:47:21, Note,7
+04/20/2011, 15:47:21, Note,8
+04/20/2011, 15:47:26, Note,2
+04/20/2011, 15:47:37, Screen Saver
+04/20/2011, 15:47:37, Note,2
+04/20/2011, 15:47:39, Note,2
+04/20/2011, 15:47:40, Note,2
+04/20/2011, 15:47:50, Screen Saver
+04/20/2011, 15:47:59, Note,2
+04/20/2011, 15:48:05, Note,2
+04/20/2011, 15:48:10, Note,2
+04/20/2011, 15:48:12, Note,2
+04/20/2011, 15:48:23, Screen Saver
+04/20/2011, 15:48:34, Screen Saver
+04/20/2011, 15:48:45, Screen Saver
+04/20/2011, 15:48:56, Note,2
+04/20/2011, 15:49:04, Note,2
+04/20/2011, 15:49:12, Note,2
+04/20/2011, 15:49:22, Screen Saver
+04/20/2011, 15:49:33, Screen Saver
+04/20/2011, 15:49:33, Note,2
+04/20/2011, 15:49:44, Screen Saver
+04/20/2011, 15:49:46, Note,2
+04/20/2011, 15:49:49, Note,2
+04/20/2011, 15:49:56, Note,2
+04/20/2011, 15:50:03, Note,2
+04/20/2011, 15:50:09, Note,2
+04/20/2011, 15:50:09, Note,2
+04/20/2011, 15:50:20, Screen Saver
+04/20/2011, 15:50:27, Note,2
+04/20/2011, 15:50:34, Note,2
+04/20/2011, 15:50:36, Note,2
+04/20/2011, 15:50:47, Screen Saver
+04/20/2011, 15:50:58, Screen Saver
+04/20/2011, 15:51:09, Screen Saver
+04/20/2011, 15:51:15, Note,2
+04/20/2011, 15:51:16, Note,2
+04/20/2011, 15:51:25, Note,2
+04/20/2011, 15:51:29, Note,2
+04/20/2011, 15:51:34, Note,2
+04/20/2011, 15:51:42, Note,2
+04/20/2011, 15:51:52, Screen Saver
+04/20/2011, 15:52:03, Screen Saver
+04/20/2011, 15:52:14, Screen Saver
+04/20/2011, 15:52:16, Note,2
+04/20/2011, 15:52:26, Screen Saver
+04/20/2011, 15:52:29, Note,2
+04/20/2011, 15:52:30, Note,2
+04/20/2011, 15:52:40, Screen Saver
+04/20/2011, 15:52:51, Screen Saver
+04/20/2011, 15:53:00, Note,2
+04/20/2011, 15:53:05, Note,2
+04/20/2011, 15:53:15, Screen Saver
+04/20/2011, 15:53:26, Screen Saver
+04/20/2011, 15:53:36, Note,2
+04/20/2011, 15:53:38, Note,2
+04/20/2011, 15:53:49, Screen Saver
+04/20/2011, 15:53:52, Note,2
+04/20/2011, 15:54:00, Note,2
+04/20/2011, 15:54:10, Note,2
+04/20/2011, 15:54:20, Screen Saver
+04/20/2011, 15:54:24, Note,2
+04/20/2011, 15:54:35, Screen Saver
+04/20/2011, 15:54:43, Note,2
+04/20/2011, 15:54:50, Note,2
+04/20/2011, 15:54:56, Note,2
+04/20/2011, 15:55:00, Note,2
+04/20/2011, 15:55:10, Note,2
+04/20/2011, 15:55:16, Note,2
+04/20/2011, 15:55:26, Screen Saver
+04/20/2011, 15:55:37, Screen Saver
+04/20/2011, 15:55:48, Screen Saver
+04/20/2011, 15:55:56, Note,2
+04/20/2011, 15:55:59, Note,2
+04/20/2011, 15:56:04, Note,2
+04/20/2011, 15:56:15, Screen Saver
+04/20/2011, 15:56:26, Screen Saver
+04/20/2011, 15:56:30, Note,2
+04/20/2011, 15:56:34, Note,2
+04/20/2011, 15:56:37, Note,2
+04/20/2011, 15:56:43, Note,2
+04/20/2011, 15:56:53, Screen Saver
+04/20/2011, 15:56:56, Note,2
+04/20/2011, 15:57:06, Screen Saver
+04/20/2011, 15:57:17, Screen Saver
+04/20/2011, 15:57:23, Note,2
+04/20/2011, 15:57:34, Screen Saver
+04/20/2011, 15:57:45, Screen Saver
+04/20/2011, 15:57:49, Note,2
+04/20/2011, 15:58:00, Screen Saver
+04/20/2011, 15:58:00, Note,2
+04/20/2011, 15:58:11, Screen Saver
+04/20/2011, 15:58:22, Screen Saver
+04/20/2011, 15:58:28, Note,2
+04/20/2011, 15:58:29, Note,2
+04/20/2011, 15:58:39, Screen Saver
+04/20/2011, 15:58:50, Screen Saver
+04/20/2011, 15:58:56, Note,2
+04/20/2011, 15:58:57, Note,2
+04/20/2011, 15:58:58, Note,2
+04/20/2011, 15:58:58, Note,2
+04/20/2011, 15:59:09, Screen Saver
+04/20/2011, 15:59:20, Screen Saver
+04/20/2011, 15:59:31, Screen Saver
+04/20/2011, 15:59:42, Screen Saver
+04/20/2011, 15:59:53, Note,2
+04/20/2011, 16:00:03, Screen Saver
+04/20/2011, 16:00:08, Note,2
+04/20/2011, 16:00:17, Note,2
+04/20/2011, 16:00:17, Note,2
+04/20/2011, 16:00:27, Screen Saver
+04/20/2011, 16:00:38, Screen Saver
+04/20/2011, 16:00:49, Screen Saver
+04/20/2011, 16:00:49, Note,2
+04/20/2011, 16:00:54, Note,2
+04/20/2011, 16:00:59, Note,2
+04/20/2011, 16:01:03, Note,2
+04/20/2011, 16:01:08, Note,2
+04/20/2011, 16:01:18, Screen Saver
+04/20/2011, 16:01:20, Note,2
+04/20/2011, 16:01:30, Screen Saver
+04/20/2011, 16:01:41, Screen Saver
+04/20/2011, 16:01:52, Screen Saver
+04/20/2011, 16:01:52, Note,2
+04/20/2011, 16:02:03, Screen Saver
+04/20/2011, 16:02:14, Screen Saver
+04/20/2011, 16:02:14, Note,2
+04/20/2011, 16:02:19, Note,2
+04/20/2011, 16:02:29, Screen Saver
+04/20/2011, 16:02:40, Screen Saver
+04/20/2011, 16:02:50, Note,2
+04/20/2011, 16:03:01, Screen Saver
+04/20/2011, 16:03:09, Note,2
+04/20/2011, 16:03:15, Note,2
+04/20/2011, 16:03:26, Screen Saver
+04/20/2011, 16:03:26, Note,2
+04/20/2011, 16:03:37, Screen Saver
+04/20/2011, 16:03:42, Note,2
+04/20/2011, 16:03:52, Screen Saver
+04/20/2011, 16:04:03, Screen Saver
+04/20/2011, 16:04:14, Screen Saver
+04/20/2011, 16:04:18, Note,2
+04/20/2011, 16:04:28, Screen Saver
+04/20/2011, 16:04:39, Screen Saver
+04/20/2011, 16:04:39, Note,2
+04/20/2011, 16:04:50, Note,2
+04/20/2011, 16:04:57, Note,2
+04/20/2011, 16:05:08, Screen Saver
+04/20/2011, 16:05:19, Screen Saver
+04/20/2011, 16:05:25, Note,2
+04/20/2011, 16:05:35, Screen Saver
+04/20/2011, 16:05:40, Note,2
+04/20/2011, 16:05:48, Note,2
+04/20/2011, 16:05:50, Note,2
+04/20/2011, 16:06:00, Screen Saver
+04/20/2011, 16:06:11, Screen Saver
+04/20/2011, 16:06:14, Note,2
+04/20/2011, 16:06:25, Screen Saver
+04/20/2011, 16:06:31, Note,2
+04/20/2011, 16:06:41, Screen Saver
+04/20/2011, 16:06:50, Note,2
+04/20/2011, 16:07:01, Screen Saver
+04/20/2011, 16:07:01, Note,2
+04/20/2011, 16:07:13, Note,2
+04/20/2011, 16:07:14, Note,2
+04/20/2011, 16:07:24, Note,2
+04/20/2011, 16:07:34, Note,2
+04/20/2011, 16:07:44, Screen Saver
+04/20/2011, 16:07:53, Note,2
+04/20/2011, 16:08:01, Note,2
+04/20/2011, 16:08:12, Note,2
+04/20/2011, 16:08:12, Note,2
+04/20/2011, 16:08:14, Note,2
+04/20/2011, 16:08:19, Note,2
+04/20/2011, 16:08:29, Screen Saver
+04/20/2011, 16:08:40, Screen Saver
+04/20/2011, 16:08:46, Note,2
+04/20/2011, 16:08:56, Screen Saver
+04/20/2011, 16:09:03, Note,2
+04/20/2011, 16:09:14, Screen Saver
+04/20/2011, 16:09:19, Note,2
+04/20/2011, 16:09:23, Note,2
+04/20/2011, 16:09:32, Note,2
+04/20/2011, 16:09:42, Screen Saver
+04/20/2011, 16:09:49, Note,2
+04/20/2011, 16:09:53, Note,2
+04/20/2011, 16:09:57, Note,2
+04/20/2011, 16:10:01, Note,2
+04/20/2011, 16:10:01, Note,2
+04/20/2011, 16:10:08, Note,2
+04/20/2011, 16:10:09, Note,2
+04/20/2011, 16:10:19, Screen Saver
+04/20/2011, 16:10:19, Note,2
+04/20/2011, 16:10:31, Screen Saver
+04/20/2011, 16:10:33, Note,2
+04/20/2011, 16:10:37, Note,2
+04/20/2011, 16:10:46, Note,2
+04/20/2011, 16:10:51, Note,2
+04/20/2011, 16:10:54, Note,2
+04/20/2011, 16:11:04, Screen Saver
+04/20/2011, 16:11:07, Note,2
+04/20/2011, 16:11:17, Screen Saver
+04/20/2011, 16:11:20, Note,2
+04/20/2011, 16:11:20, Note,2
+04/20/2011, 16:11:23, Note,2
+04/20/2011, 16:11:33, Screen Saver
+04/20/2011, 16:11:44, Screen Saver
+04/20/2011, 16:11:48, Note,2
+04/20/2011, 16:11:58, Screen Saver
+04/20/2011, 16:11:58, Note,2
+04/20/2011, 16:12:10, Screen Saver
+04/20/2011, 16:12:21, Note,2
+04/20/2011, 16:12:31, Screen Saver
+04/20/2011, 16:12:42, Note,2
+04/20/2011, 16:12:52, Screen Saver
+04/20/2011, 16:13:03, Screen Saver
+04/20/2011, 16:13:13, Note,2
+04/20/2011, 16:13:23, Screen Saver
+04/20/2011, 16:13:34, Screen Saver
+04/20/2011, 16:13:34, Note,2
+04/20/2011, 16:13:39, Note,2
+04/20/2011, 16:13:39, Note,2
+04/20/2011, 16:13:40, Note,2
+04/20/2011, 16:13:48, Note,2
+04/20/2011, 16:13:51, Note,2
+04/20/2011, 16:13:56, Note,2
+04/20/2011, 16:14:04, Note,2
+04/20/2011, 16:14:14, Screen Saver
+04/20/2011, 16:14:25, Screen Saver
+04/20/2011, 16:14:36, Screen Saver
+04/20/2011, 16:14:38, Note,2
+04/20/2011, 16:14:48, Note,2
+04/20/2011, 16:14:58, Screen Saver
+04/20/2011, 16:15:05, Note,2
+04/20/2011, 16:15:15, Screen Saver
+04/20/2011, 16:15:26, Screen Saver
+04/20/2011, 16:15:26, Note,2
+04/20/2011, 16:15:27, Note,2
+04/20/2011, 16:15:33, Note,2
+04/20/2011, 16:15:43, Note,2
+04/20/2011, 16:15:43, Note,2
+04/20/2011, 16:15:51, Note,2
+04/20/2011, 16:15:55, Note,2
+04/20/2011, 16:15:58, Note,2
+04/20/2011, 16:16:08, Screen Saver
+04/20/2011, 16:16:11, Note,2
+04/20/2011, 16:16:22, Screen Saver
+04/20/2011, 16:16:30, Note,2
+04/20/2011, 16:16:37, Note,2
+04/20/2011, 16:16:44, Note,2
+04/20/2011, 16:16:47, Note,2
+04/20/2011, 16:16:52, Note,2
+04/20/2011, 16:17:02, Screen Saver
+04/20/2011, 16:17:07, Note,2
+04/20/2011, 16:17:12, Note,2
+04/20/2011, 16:17:17, Note,2
+04/20/2011, 16:17:25, Note,2
+04/20/2011, 16:17:35, Screen Saver
+04/20/2011, 16:17:46, Screen Saver
+04/20/2011, 16:17:46, Note,2
+04/20/2011, 16:17:52, Note,2
+04/20/2011, 16:18:02, Screen Saver
+04/20/2011, 16:18:06, Note,2
+04/20/2011, 16:18:06, Note,2
+04/20/2011, 16:18:16, Screen Saver
+04/20/2011, 16:18:20, Note,2
+04/20/2011, 16:18:31, Screen Saver
+04/20/2011, 16:18:42, Screen Saver
+04/20/2011, 16:18:53, Screen Saver
+04/20/2011, 16:19:04, Screen Saver
+04/20/2011, 16:19:15, Screen Saver
+04/20/2011, 16:19:26, Screen Saver
+04/20/2011, 16:19:34, Note,2
+04/20/2011, 16:19:35, Note,2
+04/20/2011, 16:19:45, Screen Saver
+04/20/2011, 16:19:45, Note,2
+04/20/2011, 16:19:51, Note,2
+04/20/2011, 16:20:00, Note,2
+04/20/2011, 16:20:05, Note,2
+04/20/2011, 16:20:15, Screen Saver
+04/20/2011, 16:20:22, Note,2
+04/20/2011, 16:20:24, Note,2
+04/20/2011, 16:20:33, Note,2
+04/20/2011, 16:20:43, Screen Saver
+04/20/2011, 16:20:46, Note,2
+04/20/2011, 16:20:57, Screen Saver
+04/20/2011, 16:21:08, Note,2
+04/20/2011, 16:21:08, Note,2
+04/20/2011, 16:21:09, Note,2
+04/20/2011, 16:21:17, Note,2
+04/20/2011, 16:21:27, Screen Saver
+04/20/2011, 16:21:38, Screen Saver
+04/20/2011, 16:21:49, Screen Saver
+04/20/2011, 16:22:00, Screen Saver
+04/20/2011, 16:22:03, Note,2
+04/20/2011, 16:22:13, Screen Saver
+04/20/2011, 16:22:17, Note,2
+04/20/2011, 16:22:26, Note,2
+04/20/2011, 16:22:36, Screen Saver
+04/20/2011, 16:22:47, Screen Saver
+04/20/2011, 16:22:58, Screen Saver
+04/20/2011, 16:23:09, Screen Saver
+04/20/2011, 16:23:13, Note,2
+04/20/2011, 16:23:14, Note,2
+04/20/2011, 16:23:24, Screen Saver
+04/20/2011, 16:23:28, Note,2
+04/20/2011, 16:23:33, Note,2
+04/20/2011, 16:23:40, Note,2
+04/20/2011, 16:23:44, Note,2
+04/20/2011, 16:23:54, Screen Saver
+04/20/2011, 16:24:03, Note,2
+04/20/2011, 16:24:08, Note,2
+04/20/2011, 16:24:11, Note,2
+04/20/2011, 16:24:11, Note,2
+04/20/2011, 16:24:21, Screen Saver
+04/20/2011, 16:24:25, Note,2
+04/20/2011, 16:24:36, Screen Saver
+04/20/2011, 16:24:47, Screen Saver
+04/20/2011, 16:24:52, Note,2
+04/20/2011, 16:24:56, Note,2
+04/20/2011, 16:25:06, Screen Saver
+04/20/2011, 16:25:17, Screen Saver
+04/20/2011, 16:25:26, Note,2
+04/20/2011, 16:25:34, Note,2
+04/20/2011, 16:25:41, Note,2
+04/20/2011, 16:25:42, Note,2
+04/20/2011, 16:25:52, Screen Saver
+04/20/2011, 16:25:59, Note,2
+04/20/2011, 16:26:09, Screen Saver
+04/20/2011, 16:26:12, Note,2
+04/20/2011, 16:26:22, Screen Saver
+04/20/2011, 16:26:27, Note,2
+04/20/2011, 16:26:33, Note,2
+04/20/2011, 16:26:37, Note,2
+04/20/2011, 16:26:47, Screen Saver
+04/20/2011, 16:26:58, Screen Saver
+04/20/2011, 16:26:58, Note,2
+04/20/2011, 16:27:02, Note,2
+04/20/2011, 16:27:13, Screen Saver
+04/20/2011, 16:27:13, Note,2
+04/20/2011, 16:27:25, Screen Saver
+04/20/2011, 16:27:25, Note,2
+04/20/2011, 16:27:29, Note,2
+04/20/2011, 16:27:33, Note,2
+04/20/2011, 16:27:38, Note,2
+04/20/2011, 16:27:39, Note,2
+04/20/2011, 16:27:45, Note,2
+04/20/2011, 16:27:47, Note,2
+04/20/2011, 16:27:49, Note,2
+04/20/2011, 16:27:58, Note,2
+04/20/2011, 16:27:59, Note,2
+04/20/2011, 16:27:59, Note,2
+04/20/2011, 16:28:06, Note,2
+04/20/2011, 16:28:14, Note,2
+04/20/2011, 16:28:24, Screen Saver
+04/20/2011, 16:28:27, Note,2
+04/20/2011, 16:28:30, Note,2
+04/20/2011, 16:28:32, Note,2
+04/20/2011, 16:28:42, Screen Saver
+04/20/2011, 16:28:46, Note,2
+04/20/2011, 16:28:46, Note,2
+04/20/2011, 16:28:47, Note,2
+04/20/2011, 16:28:57, Screen Saver
+04/20/2011, 16:29:01, Note,2
+04/20/2011, 16:29:11, Screen Saver
+04/20/2011, 16:29:22, Screen Saver
+04/20/2011, 16:29:32, Note,2
+04/20/2011, 16:29:39, Note,2
+04/20/2011, 16:29:49, Screen Saver
+04/20/2011, 16:29:57, Note,2
+04/20/2011, 16:30:00, Note,2
+04/20/2011, 16:30:10, Screen Saver
+04/20/2011, 16:30:10, Note,2
+04/20/2011, 16:30:21, Screen Saver
+04/20/2011, 16:30:30, Note,2
+04/20/2011, 16:30:33, Switching to instrument 3
+04/20/2011, 16:30:35, Switching to instrument 4
+04/20/2011, 16:30:36, Switching to noises
+04/20/2011, 16:30:36, Switching to instrument 0
+04/20/2011, 16:30:36, Switching to instrument 1
+04/20/2011, 16:30:36, Switching to instrument 2
+04/20/2011, 16:30:36, Switching to instrument 3
+04/20/2011, 16:30:38, Switching to instrument 4
+04/20/2011, 16:30:38, Switching to noises
+04/20/2011, 16:30:38, Switching to instrument 0
+04/20/2011, 16:30:44, Switching to instrument 1
+04/20/2011, 16:30:46, Note,2
+04/20/2011, 16:30:46, Note,7
+04/20/2011, 16:30:49, Note,2
+04/20/2011, 16:30:50, Note,2
+04/20/2011, 16:30:50, Note,7
+04/20/2011, 16:30:50, Note,2
+04/20/2011, 16:30:50, Note,2
+04/20/2011, 16:30:50, Note,8
+04/20/2011, 16:30:50, Note,6
+04/20/2011, 16:30:50, Note,6
+04/20/2011, 16:30:51, Note,8
+04/20/2011, 16:30:52, Note,7
+04/20/2011, 16:30:53, Note,8
+04/20/2011, 16:30:53, Note,7
+04/20/2011, 16:30:54, Note,8
+04/20/2011, 16:30:54, Note,7
+04/20/2011, 16:30:54, Note,8
+04/20/2011, 16:30:54, Note,7
+04/20/2011, 16:30:55, Note,5
+04/20/2011, 16:30:55, Note,4
+04/20/2011, 16:30:55, Note,3
+04/20/2011, 16:30:56, Note,1
+04/20/2011, 16:30:56, Note,2
+04/20/2011, 16:30:57, Note,1
+04/20/2011, 16:30:57, Note,2
+04/20/2011, 16:30:58, Note,2
+04/20/2011, 16:31:01, Note,1
+04/20/2011, 16:31:01, Note,2
+04/20/2011, 16:31:02, Note,4
+04/20/2011, 16:31:04, Note,8
+04/20/2011, 16:31:04, Note,7
+04/20/2011, 16:31:04, Note,4
+04/20/2011, 16:31:05, Note,2
+04/20/2011, 16:31:05, Note,2
+04/20/2011, 16:31:05, Note,1
+04/20/2011, 16:31:07, Switching to instrument 2
+04/20/2011, 16:31:07, Switching to instrument 3
+04/20/2011, 16:31:08, Switching to instrument 4
+04/20/2011, 16:31:09, Switching to noises
+04/20/2011, 16:31:20, Screen Saver
+04/20/2011, 16:31:31, Screen Saver
+04/20/2011, 16:31:35, Note,2
+04/20/2011, 16:31:45, Note,2
+04/20/2011, 16:31:55, Screen Saver
+04/20/2011, 16:31:58, Note,2
+04/20/2011, 16:32:01, Note,2
+04/20/2011, 16:32:02, Note,2
+04/20/2011, 16:32:06, Note,2
+04/20/2011, 16:32:16, Screen Saver
+04/20/2011, 16:32:23, Note,2
+04/20/2011, 16:32:32, Note,2
+04/20/2011, 16:32:40, Note,2
+04/20/2011, 16:32:45, Note,2
+04/20/2011, 16:32:55, Screen Saver
+04/20/2011, 16:32:55, Note,7
+04/20/2011, 16:32:57, Note,7
+04/20/2011, 16:32:57, Note,8
+04/20/2011, 16:32:57, Note,7
+04/20/2011, 16:32:58, Note,2
+04/20/2011, 16:32:58, Note,1
+04/20/2011, 16:32:59, Note,2
+04/20/2011, 16:32:59, Note,1
+04/20/2011, 16:32:59, Note,2
+04/20/2011, 16:33:04, Note,8
+04/20/2011, 16:33:04, Note,7
+04/20/2011, 16:33:04, Note,7
+04/20/2011, 16:33:05, Note,6
+04/20/2011, 16:33:05, Note,5
+04/20/2011, 16:33:05, Note,4
+04/20/2011, 16:33:05, Note,3
+04/20/2011, 16:33:05, Note,2
+04/20/2011, 16:33:05, Note,3
+04/20/2011, 16:33:05, Note,3
+04/20/2011, 16:33:06, Note,1
+04/20/2011, 16:33:06, Note,1
+04/20/2011, 16:33:06, Note,1
+04/20/2011, 16:33:07, Note,1
+04/20/2011, 16:33:08, Note,1
+04/20/2011, 16:33:08, Note,2
+04/20/2011, 16:33:08, Note,1
+04/20/2011, 16:33:08, Note,2
+04/20/2011, 16:33:08, Note,3
+04/20/2011, 16:33:09, Note,5
+04/20/2011, 16:33:09, Note,5
+04/20/2011, 16:33:09, Note,7
+04/20/2011, 16:33:09, Note,4
+04/20/2011, 16:33:10, Note,8
+04/20/2011, 16:33:11, Note,7
+04/20/2011, 16:33:12, Note,2
+04/20/2011, 16:33:13, Note,1
+04/20/2011, 16:33:13, Note,2
+04/20/2011, 16:33:14, Note,7
+04/20/2011, 16:33:15, Note,7
+04/20/2011, 16:33:15, Note,8
+04/20/2011, 16:33:16, Note,8
+04/20/2011, 16:33:19, Note,1
+04/20/2011, 16:33:19, Note,2
+04/20/2011, 16:33:20, Note,7
+04/20/2011, 16:33:20, Note,8
+04/20/2011, 16:33:21, Note,8
+04/20/2011, 16:33:21, Note,7
+04/20/2011, 16:33:22, Note,2
+04/20/2011, 16:33:22, Note,2
+04/20/2011, 16:33:22, Note,2
+04/20/2011, 16:33:32, Screen Saver
+04/20/2011, 16:33:43, Screen Saver
+04/20/2011, 16:33:54, Screen Saver
+04/20/2011, 16:34:02, Note,2
+04/20/2011, 16:34:07, Note,2
+04/20/2011, 16:34:17, Screen Saver
+04/20/2011, 16:34:17, Note,2
+04/20/2011, 16:34:29, Screen Saver
+04/20/2011, 16:34:32, Note,2
+04/20/2011, 16:34:33, Note,2
+04/20/2011, 16:34:43, Screen Saver
+04/20/2011, 16:34:54, Screen Saver
+04/20/2011, 16:34:54, Note,2
+04/20/2011, 16:35:05, Screen Saver
+04/20/2011, 16:35:11, Note,2
+04/20/2011, 16:35:18, Note,2
+04/20/2011, 16:35:28, Note,2
+04/20/2011, 16:35:37, Note,2
+04/20/2011, 16:35:43, Note,2
+04/20/2011, 16:35:45, Note,2
+04/20/2011, 16:35:55, Note,2
+04/20/2011, 16:35:56, Note,2
+04/20/2011, 16:35:58, Note,2
+04/20/2011, 16:36:08, Screen Saver
+04/20/2011, 16:36:08, Note,2
+04/20/2011, 16:36:11, Note,2
+04/20/2011, 16:36:12, Note,2
+04/20/2011, 16:36:12, Note,2
+04/20/2011, 16:36:15, Note,2
+04/20/2011, 16:36:15, Note,2
+04/20/2011, 16:36:25, Screen Saver
+04/20/2011, 16:36:25, Note,2
+04/20/2011, 16:36:36, Note,2
+04/20/2011, 16:36:39, Note,2
+04/20/2011, 16:36:49, Screen Saver
+04/20/2011, 16:36:54, Note,2
+04/20/2011, 16:37:04, Note,2
+04/20/2011, 16:37:06, Note,2
+04/20/2011, 16:37:16, Screen Saver
+04/20/2011, 16:37:19, Note,2
+04/20/2011, 16:37:29, Screen Saver
+04/20/2011, 16:37:34, Note,2
+04/20/2011, 16:37:44, Screen Saver
+04/20/2011, 16:37:48, Note,2
+04/20/2011, 16:37:50, Note,2
+04/20/2011, 16:37:52, Note,2
+04/20/2011, 16:37:57, Note,2
+04/20/2011, 16:38:07, Screen Saver
+04/20/2011, 16:38:18, Screen Saver
+04/20/2011, 16:38:29, Screen Saver
+04/20/2011, 16:38:40, Screen Saver
+04/20/2011, 16:38:47, Note,2
+04/20/2011, 16:38:57, Screen Saver
+04/20/2011, 16:39:02, Note,2
+04/20/2011, 16:39:06, Note,2
+04/20/2011, 16:39:16, Screen Saver
+04/20/2011, 16:39:27, Screen Saver
+04/20/2011, 16:39:38, Screen Saver
+04/20/2011, 16:39:40, Note,2
+04/20/2011, 16:39:41, Note,2
+04/20/2011, 16:39:51, Screen Saver
+04/20/2011, 16:40:02, Note,2
+04/20/2011, 16:40:04, Note,2
+04/20/2011, 16:40:14, Screen Saver
+04/20/2011, 16:40:21, Note,2
+04/20/2011, 16:40:27, Note,2
+04/20/2011, 16:40:28, Note,2
+04/20/2011, 16:40:38, Screen Saver
+04/20/2011, 16:40:49, Screen Saver
+04/20/2011, 16:40:57, Note,2
+04/20/2011, 16:41:04, Note,2
+04/20/2011, 16:41:14, Screen Saver
+04/20/2011, 16:41:25, Screen Saver
+04/20/2011, 16:41:36, Screen Saver
+04/20/2011, 16:41:47, Screen Saver
+04/20/2011, 16:41:54, Note,2
+04/20/2011, 16:41:54, Note,2
+04/20/2011, 16:42:04, Screen Saver
+04/20/2011, 16:42:14, Note,2
+04/20/2011, 16:42:18, Note,2
+04/20/2011, 16:42:26, Note,2
+04/20/2011, 16:42:27, Note,2
+04/20/2011, 16:42:38, Screen Saver
+04/20/2011, 16:42:40, Note,2
+04/20/2011, 16:42:50, Screen Saver
+04/20/2011, 16:43:01, Screen Saver
+04/20/2011, 16:43:01, Note,2
+04/20/2011, 16:43:07, Note,2
+04/20/2011, 16:43:07, Note,2
+04/20/2011, 16:43:10, Note,2
+04/20/2011, 16:43:20, Screen Saver
+04/20/2011, 16:43:31, Screen Saver
+04/20/2011, 16:43:36, Note,2
+04/20/2011, 16:43:36, Note,7
+04/20/2011, 16:43:36, Note,8
+04/20/2011, 16:43:36, Note,8
+04/20/2011, 16:43:37, Note,7
+04/20/2011, 16:43:42, Note,8
+04/20/2011, 16:43:52, Screen Saver
+04/20/2011, 16:44:03, Screen Saver
+04/20/2011, 16:44:10, Note,2
+04/20/2011, 16:44:12, Note,2
+04/20/2011, 16:44:17, Note,2
+04/20/2011, 16:44:20, Note,8
+04/20/2011, 16:44:20, Note,8
+04/20/2011, 16:44:21, Note,2
+04/20/2011, 16:44:23, Note,7
+04/20/2011, 16:44:23, Note,6
+04/20/2011, 16:44:23, Note,6
+04/20/2011, 16:44:24, Note,7
+04/20/2011, 16:44:24, Note,7
+04/20/2011, 16:44:24, Note,6
+04/20/2011, 16:44:25, Note,7
+04/20/2011, 16:44:25, Note,6
+04/20/2011, 16:44:25, Note,6
+04/20/2011, 16:44:25, Note,7
+04/20/2011, 16:44:26, Note,6
+04/20/2011, 16:44:26, Note,7
+04/20/2011, 16:44:26, Note,7
+04/20/2011, 16:44:26, Note,6
+04/20/2011, 16:44:26, Note,6
+04/20/2011, 16:44:26, Note,6
+04/20/2011, 16:44:27, Note,7
+04/20/2011, 16:44:27, Note,5
+04/20/2011, 16:44:28, Note,4
+04/20/2011, 16:44:28, Note,8
+04/20/2011, 16:44:28, Note,5
+04/20/2011, 16:44:28, Note,5
+04/20/2011, 16:44:28, Note,5
+04/20/2011, 16:44:28, Note,5
+04/20/2011, 16:44:29, Note,5
+04/20/2011, 16:44:29, Note,3
+04/20/2011, 16:44:29, Note,7
+04/20/2011, 16:44:29, Note,2
+04/20/2011, 16:44:29, Note,7
+04/20/2011, 16:44:30, Note,7
+04/20/2011, 16:44:30, Note,4
+04/20/2011, 16:44:30, Note,2
+04/20/2011, 16:44:30, Note,3
+04/20/2011, 16:44:30, Note,1
+04/20/2011, 16:44:31, Note,2
+04/20/2011, 16:44:31, Switching to instrument 0
+04/20/2011, 16:44:31, Note,2
+04/20/2011, 16:44:32, Note,8
+04/20/2011, 16:44:33, Note,1
+04/20/2011, 16:44:34, Note,1
+04/20/2011, 16:44:34, Note,3
+04/20/2011, 16:44:34, Note,3
+04/20/2011, 16:44:35, Note,1
+04/20/2011, 16:44:35, Note,2
+04/20/2011, 16:44:35, Note,3
+04/20/2011, 16:44:36, Note,5
+04/20/2011, 16:44:36, Note,5
+04/20/2011, 16:44:36, Note,3
+04/20/2011, 16:44:36, Note,4
+04/20/2011, 16:44:36, Note,2
+04/20/2011, 16:44:36, Note,2
+04/20/2011, 16:44:36, Note,3
+04/20/2011, 16:44:37, Note,8
+04/20/2011, 16:44:37, Note,1
+04/20/2011, 16:44:37, Note,3
+04/20/2011, 16:44:37, Note,8
+04/20/2011, 16:44:37, Note,1
+04/20/2011, 16:44:37, Note,7
+04/20/2011, 16:44:37, Note,3
+04/20/2011, 16:44:37, Note,2
+04/20/2011, 16:44:38, Note,6
+04/20/2011, 16:44:38, Note,5
+04/20/2011, 16:44:38, Note,3
+04/20/2011, 16:44:39, Note,5
+04/20/2011, 16:44:39, Note,6
+04/20/2011, 16:44:39, Note,2
+04/20/2011, 16:44:39, Note,3
+04/20/2011, 16:44:39, Note,5
+04/20/2011, 16:44:39, Note,3
+04/20/2011, 16:44:39, Note,1
+04/20/2011, 16:44:39, Note,2
+04/20/2011, 16:44:39, Note,6
+04/20/2011, 16:44:39, Note,2
+04/20/2011, 16:44:39, Note,3
+04/20/2011, 16:44:40, Note,2
+04/20/2011, 16:44:40, Note,1
+04/20/2011, 16:44:40, Note,3
+04/20/2011, 16:44:40, Note,2
+04/20/2011, 16:44:40, Note,3
+04/20/2011, 16:44:41, Note,5
+04/20/2011, 16:44:41, Note,2
+04/20/2011, 16:44:41, Note,4
+04/20/2011, 16:44:41, Note,3
+04/20/2011, 16:44:42, Note,3
+04/20/2011, 16:44:42, Note,5
+04/20/2011, 16:44:42, Note,1
+04/20/2011, 16:44:42, Note,4
+04/20/2011, 16:44:42, Note,7
+04/20/2011, 16:44:42, Note,2
+04/20/2011, 16:44:42, Note,3
+04/20/2011, 16:44:42, Note,2
+04/20/2011, 16:44:43, Note,3
+04/20/2011, 16:44:43, Note,5
+04/20/2011, 16:44:43, Note,7
+04/20/2011, 16:44:43, Note,5
+04/20/2011, 16:44:44, Note,5
+04/20/2011, 16:44:44, Note,4
+04/20/2011, 16:44:44, Note,4
+04/20/2011, 16:44:44, Note,8
+04/20/2011, 16:44:44, Note,3
+04/20/2011, 16:44:44, Note,1
+04/20/2011, 16:44:44, Note,1
+04/20/2011, 16:44:44, Note,2
+04/20/2011, 16:44:45, Note,1
+04/20/2011, 16:44:45, Note,3
+04/20/2011, 16:44:45, Note,2
+04/20/2011, 16:44:45, Note,2
+04/20/2011, 16:44:45, Note,2
+04/20/2011, 16:44:45, Note,5
+04/20/2011, 16:44:45, Note,3
+04/20/2011, 16:44:45, Note,6
+04/20/2011, 16:44:45, Note,4
+04/20/2011, 16:44:45, Note,4
+04/20/2011, 16:44:45, Note,7
+04/20/2011, 16:44:45, Note,6
+04/20/2011, 16:44:46, Note,7
+04/20/2011, 16:44:46, Note,6
+04/20/2011, 16:44:46, Note,8
+04/20/2011, 16:44:46, Note,5
+04/20/2011, 16:44:46, Note,4
+04/20/2011, 16:44:46, Note,3
+04/20/2011, 16:44:46, Note,4
+04/20/2011, 16:44:46, Note,5
+04/20/2011, 16:44:46, Note,3
+04/20/2011, 16:44:46, Note,3
+04/20/2011, 16:44:47, Note,1
+04/20/2011, 16:44:47, Note,2
+04/20/2011, 16:44:47, Note,5
+04/20/2011, 16:44:47, Note,1
+04/20/2011, 16:44:47, Note,1
+04/20/2011, 16:44:47, Note,1
+04/20/2011, 16:44:48, Note,3
+04/20/2011, 16:44:48, Note,3
+04/20/2011, 16:44:48, Note,5
+04/20/2011, 16:44:48, Note,2
+04/20/2011, 16:44:48, Note,6
+04/20/2011, 16:44:49, Switching to instrument 1
+04/20/2011, 16:44:49, Note,3
+04/20/2011, 16:44:49, Note,8
+04/20/2011, 16:44:49, Note,1
+04/20/2011, 16:44:49, Note,8
+04/20/2011, 16:44:50, Note,1
+04/20/2011, 16:44:50, Note,8
+04/20/2011, 16:44:50, Note,3
+04/20/2011, 16:44:50, Note,3
+04/20/2011, 16:44:51, Note,3
+04/20/2011, 16:44:51, Note,3
+04/20/2011, 16:44:51, Note,3
+04/20/2011, 16:44:51, Note,4
+04/20/2011, 16:44:51, Note,3
+04/20/2011, 16:44:52, Note,3
+04/20/2011, 16:44:52, Note,5
+04/20/2011, 16:44:52, Note,1
+04/20/2011, 16:44:52, Note,5
+04/20/2011, 16:44:53, Note,4
+04/20/2011, 16:44:53, Note,5
+04/20/2011, 16:44:53, Note,4
+04/20/2011, 16:44:53, Note,5
+04/20/2011, 16:44:53, Note,2
+04/20/2011, 16:44:53, Note,1
+04/20/2011, 16:44:53, Note,2
+04/20/2011, 16:44:54, Switching to instrument 2
+04/20/2011, 16:44:54, Note,2
+04/20/2011, 16:44:54, Note,3
+04/20/2011, 16:44:55, Note,5
+04/20/2011, 16:44:55, Note,5
+04/20/2011, 16:44:55, Note,5
+04/20/2011, 16:44:55, Note,5
+04/20/2011, 16:44:55, Note,5
+04/20/2011, 16:44:55, Note,5
+04/20/2011, 16:44:55, Note,5
+04/20/2011, 16:44:56, Note,2
+04/20/2011, 16:44:56, Note,4
+04/20/2011, 16:44:56, Note,3
+04/20/2011, 16:44:56, Note,1
+04/20/2011, 16:44:56, Note,2
+04/20/2011, 16:44:57, Note,3
+04/20/2011, 16:44:57, Note,5
+04/20/2011, 16:44:57, Note,3
+04/20/2011, 16:44:57, Note,5
+04/20/2011, 16:44:57, Switching to instrument 3
+04/20/2011, 16:44:57, Note,4
+04/20/2011, 16:44:58, Note,7
+04/20/2011, 16:44:58, Note,4
+04/20/2011, 16:44:58, Note,7
+04/20/2011, 16:44:58, Note,6
+04/20/2011, 16:44:59, Note,5
+04/20/2011, 16:44:59, Note,5
+04/20/2011, 16:44:59, Switching to instrument 4
+04/20/2011, 16:44:59, Note,5
+04/20/2011, 16:44:59, Switching to noises
+04/20/2011, 16:45:00, Switching to instrument 0
+04/20/2011, 16:45:01, Switching to instrument 1
+04/20/2011, 16:45:01, Switching to instrument 2
+04/20/2011, 16:45:04, Note,1
+04/20/2011, 16:45:04, Note,1
+04/20/2011, 16:45:04, Note,2
+04/20/2011, 16:45:05, Note,3
+04/20/2011, 16:45:06, Note,4
+04/20/2011, 16:45:07, Note,7
+04/20/2011, 16:45:07, Note,5
+04/20/2011, 16:45:07, Note,6
+04/20/2011, 16:45:07, Note,6
+04/20/2011, 16:45:07, Note,4
+04/20/2011, 16:45:07, Note,5
+04/20/2011, 16:45:07, Note,2
+04/20/2011, 16:45:07, Note,1
+04/20/2011, 16:45:07, Note,1
+04/20/2011, 16:45:08, Note,2
+04/20/2011, 16:45:09, Note,1
+04/20/2011, 16:45:09, Note,1
+04/20/2011, 16:45:10, Switching to instrument 3
+04/20/2011, 16:45:10, Note,1
+04/20/2011, 16:45:10, Note,1
+04/20/2011, 16:45:10, Note,3
+04/20/2011, 16:45:11, Note,2
+04/20/2011, 16:45:11, Note,3
+04/20/2011, 16:45:11, Note,4
+04/20/2011, 16:45:12, Note,2
+04/20/2011, 16:45:23, Screen Saver
+04/20/2011, 16:45:34, Screen Saver
+04/20/2011, 16:45:43, Note,2
+04/20/2011, 16:45:43, Note,2
+04/20/2011, 16:45:47, Note,2
+04/20/2011, 16:45:58, Screen Saver
+04/20/2011, 16:46:05, Note,2
+04/20/2011, 16:46:06, Note,2
+04/20/2011, 16:46:16, Note,2
+04/20/2011, 16:46:21, Note,2
+04/20/2011, 16:46:24, Note,2
+04/20/2011, 16:46:35, Screen Saver
+04/20/2011, 16:46:35, Note,2
+04/20/2011, 16:46:44, Note,2
+04/20/2011, 16:46:52, Note,2
+04/20/2011, 16:47:03, Screen Saver
+04/20/2011, 16:47:03, Note,2
+04/20/2011, 16:47:13, Note,2
+04/20/2011, 16:47:24, Screen Saver
+04/20/2011, 16:47:35, Screen Saver
+04/20/2011, 16:47:46, Screen Saver
+04/20/2011, 16:47:48, Note,2
+04/20/2011, 16:47:48, Note,2
+04/20/2011, 16:47:51, Note,2
+04/20/2011, 16:47:52, Note,2
+04/20/2011, 16:48:01, Note,2
+04/20/2011, 16:48:01, Note,2
+04/20/2011, 16:48:07, Note,2
+04/20/2011, 16:48:10, Note,2
+04/20/2011, 16:48:21, Screen Saver
+04/20/2011, 16:48:30, Note,2
+04/20/2011, 16:48:41, Screen Saver
+04/20/2011, 16:48:45, Note,2
+04/20/2011, 16:48:53, Note,2
+04/20/2011, 16:49:00, Note,2
+04/20/2011, 16:49:00, Note,2
+04/20/2011, 16:49:02, Note,2
+04/20/2011, 16:49:04, Note,2
+04/20/2011, 16:49:09, Note,2
+04/20/2011, 16:49:15, Note,2
+04/20/2011, 16:49:26, Screen Saver
+04/20/2011, 16:49:31, Note,2
+04/20/2011, 16:49:36, Note,2
+04/20/2011, 16:49:47, Screen Saver
+04/20/2011, 16:49:47, Note,2
+04/20/2011, 16:49:53, Note,2
+04/20/2011, 16:49:53, Note,2
+04/20/2011, 16:49:56, Note,2
+04/20/2011, 16:49:59, Note,2
+04/20/2011, 16:50:00, Note,2
+04/20/2011, 16:50:10, Screen Saver
+04/20/2011, 16:50:21, Screen Saver
+04/20/2011, 16:50:32, Screen Saver
+04/20/2011, 16:50:37, Note,2
+04/20/2011, 16:50:39, Note,2
+04/20/2011, 16:50:44, Note,2
+04/20/2011, 16:50:52, Note,2
+04/20/2011, 16:51:02, Note,2
+04/20/2011, 16:51:13, Screen Saver
+04/20/2011, 16:51:13, Note,2
+04/20/2011, 16:51:25, Screen Saver
+04/20/2011, 16:51:25, Note,2
+04/20/2011, 16:51:25, Note,2
+04/20/2011, 16:51:25, Note,2
+04/20/2011, 16:51:36, Screen Saver
+04/20/2011, 16:51:41, Note,2
+04/20/2011, 16:51:51, Screen Saver
+04/20/2011, 16:52:02, Screen Saver
+04/20/2011, 16:52:06, Note,2
+04/20/2011, 16:52:10, Note,2
+04/20/2011, 16:52:16, Note,2
+04/20/2011, 16:52:26, Screen Saver
+04/20/2011, 16:52:26, Note,2
+04/20/2011, 16:52:30, Note,2
+04/20/2011, 16:52:35, Note,2
+04/20/2011, 16:52:41, Note,2
+04/20/2011, 16:52:42, Note,2
+04/20/2011, 16:52:53, Screen Saver
+04/20/2011, 16:53:04, Screen Saver
+04/20/2011, 16:53:14, Note,2
+04/20/2011, 16:53:15, Note,2
+04/20/2011, 16:53:20, Note,2
+04/20/2011, 16:53:20, Note,2
+04/20/2011, 16:53:21, Note,2
+04/20/2011, 16:53:25, Note,2
+04/20/2011, 16:53:28, Note,2
+04/20/2011, 16:53:28, Note,2
+04/20/2011, 16:53:28, Note,2
+04/20/2011, 16:53:30, Note,2
+04/20/2011, 16:53:34, Note,2
+04/20/2011, 16:53:36, Note,2
+04/20/2011, 16:53:41, Note,2

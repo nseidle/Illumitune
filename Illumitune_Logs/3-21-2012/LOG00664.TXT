@@ -1,0 +1,65 @@
+Turning off amp!
+Turning on amp!
+Down
+Up
+Amplifier On and turned up
+GPS Configured
+IR Controller Online
+Light Controller Online
+Master Init Complete
+03/21/2012, 08:53:15, Note,1
+03/21/2012, 08:53:16, Note,1
+03/21/2012, 08:55:17, Note,1
+03/21/2012, 08:55:42, Switching to instrument 0
+03/21/2012, 08:55:49, Switching to instrument 1
+03/21/2012, 08:55:49, Note,6
+03/21/2012, 08:55:51, Switching to instrument 2
+03/21/2012, 08:55:52, Switching to instrument 3
+03/21/2012, 08:55:52, Switching to instrument 4
+03/21/2012, 08:55:53, Note,1
+03/21/2012, 08:55:54, Switching to noises
+03/21/2012, 08:55:55, Note,1
+03/21/2012, 08:55:55, Note,1
+03/21/2012, 08:55:56, Switching to instrument 0
+03/21/2012, 08:55:56, Note,1
+03/21/2012, 08:57:00, Switching to instrument 1
+03/21/2012, 08:57:01, Switching to instrument 2
+03/21/2012, 08:57:20, Switching to instrument 3
+03/21/2012, 08:57:20, Note,6
+03/21/2012, 08:57:22, Switching to instrument 4
+03/21/2012, 08:57:32, Note,2
+03/21/2012, 08:57:32, Note,3
+03/21/2012, 08:57:32, Note,3
+03/21/2012, 08:57:51, Note,7
+03/21/2012, 08:57:53, Note,7
+03/21/2012, 08:57:53, Note,7
+03/21/2012, 08:57:53, Note,7
+03/21/2012, 08:57:53, Note,6
+03/21/2012, 08:57:53, Note,7
+03/21/2012, 08:57:53, Note,7
+03/21/2012, 08:57:54, Note,6
+03/21/2012, 08:57:54, Note,6
+03/21/2012, 08:57:54, Note,6
+03/21/2012, 08:57:54, Note,6
+03/21/2012, 08:57:54, Note,6
+03/21/2012, 08:57:55, Note,6
+03/21/2012, 08:57:55, Note,6
+03/21/2012, 08:57:55, Note,6
+03/21/2012, 08:57:56, Note,6
+03/21/2012, 08:57:56, Note,6
+03/21/2012, 08:57:58, Note,7
+03/21/2012, 08:57:59, Note,7
+03/21/2012, 08:58:03, Switching to noises
+03/21/2012, 08:58:03, Note,1
+03/21/2012, 08:58:04, Note,1
+03/21/2012, 08:58:04, Switching to instrument 0
+03/21/2012, 08:58:05, Note,2
+03/21/2012, 08:58:06, Note,3
+03/21/2012, 08:58:07, Note,4
+03/21/2012, 08:58:07, Note,4
+03/21/2012, 08:58:07, Note,5
+03/21/2012, 08:58:07, Note,5
+03/21/2012, 08:58:08, Note,6
+03/21/2012, 08:58:08, Note,6
+03/21/2012, 08:58:09, Note,7
+03/21/2012, 08:58:09, Note,7

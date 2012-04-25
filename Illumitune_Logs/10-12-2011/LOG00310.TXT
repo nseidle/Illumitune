@@ -1,0 +1,6 @@
+Turning off amp!
+Turning on amp!
+Down
+Up
+Amplifier On and turned up
+00/00/0000, 00:00:00, Switching to instrument 0

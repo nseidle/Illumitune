@@ -1,0 +1,71 @@
+Turning off amp!
+Turning on amp!
+Down
+Up
+Amplifier On and turned up
+IR Controller Online
+Light Controller Online
+Master Init Complete
+00/00/0000, 00:00:00, Screen Saver
+07/27/2011, 08:55:37, Screen Saver
+07/27/2011, 08:55:48, Screen Saver
+07/27/2011, 08:55:59, Screen Saver
+07/27/2011, 08:56:10, Screen Saver
+07/27/2011, 08:56:21, Screen Saver
+07/27/2011, 08:56:32, Screen Saver
+07/27/2011, 08:56:43, Screen Saver
+07/27/2011, 08:56:54, Screen Saver
+07/27/2011, 08:57:05, Screen Saver
+07/27/2011, 08:57:16, Screen Saver
+07/27/2011, 08:57:27, Screen Saver
+07/27/2011, 08:57:38, Screen Saver
+07/27/2011, 08:57:49, Screen Saver
+07/27/2011, 08:58:00, Screen Saver
+07/27/2011, 08:58:11, Screen Saver
+07/27/2011, 08:58:22, Screen Saver
+07/27/2011, 08:58:33, Screen Saver
+07/27/2011, 08:58:44, Screen Saver
+07/27/2011, 08:58:55, Screen Saver
+07/27/2011, 08:59:06, Screen Saver
+07/27/2011, 08:59:17, Screen Saver
+07/27/2011, 08:59:28, Screen Saver
+07/27/2011, 08:59:39, Screen Saver
+07/27/2011, 08:59:50, Screen Saver
+07/27/2011, 09:00:01, Screen Saver
+07/27/2011, 09:00:12, Screen Saver
+07/27/2011, 09:00:23, Screen Saver
+07/27/2011, 09:00:34, Screen Saver
+07/27/2011, 09:00:45, Screen Saver
+07/27/2011, 09:00:56, Screen Saver
+07/27/2011, 09:01:07, Screen Saver
+07/27/2011, 09:01:18, Screen Saver
+07/27/2011, 09:01:29, Screen Saver
+07/27/2011, 09:01:40, Screen Saver
+07/27/2011, 09:01:44, Note,8
+07/27/2011, 09:01:44, Note,7
+07/27/2011, 09:01:45, Note,5
+07/27/2011, 09:01:45, Note,3
+07/27/2011, 09:01:45, Note,2
+07/27/2011, 09:01:45, Note,1
+07/27/2011, 09:01:46, Switching to instrument 0
+07/27/2011, 09:01:47, Note,1
+07/27/2011, 09:01:47, Note,2
+07/27/2011, 09:01:47, Note,3
+07/27/2011, 09:01:48, Note,4
+07/27/2011, 09:01:48, Note,5
+07/27/2011, 09:01:48, Note,6
+07/27/2011, 09:01:58, Screen Saver
+07/27/2011, 09:02:09, Screen Saver
+07/27/2011, 09:02:20, Screen Saver
+07/27/2011, 09:02:31, Screen Saver
+07/27/2011, 09:02:42, Screen Saver
+07/27/2011, 09:02:53, Screen Saver
+07/27/2011, 09:03:04, Screen Saver
+07/27/2011, 09:03:15, Screen Saver
+07/27/2011, 09:03:26, Screen Saver
+07/27/2011, 09:03:37, Screen Saver
+07/27/2011, 09:03:48, Screen Saver
+07/27/2011, 09:03:59, Screen Saver
+07/27/2011, 09:04:10, Screen Saver
+07/27/2011, 09:04:21, Screen Saver
+07/27/2011, 09:04:32, Screen Saver

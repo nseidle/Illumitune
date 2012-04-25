@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="5">
+<LogicSettings class_id="0" tracking_level="0" version="2">
+	<mSampleRateHz>2000000</mSampleRateHz>
+	<mTargetPreTriggerSamples>10000000</mTargetPreTriggerSamples>
+	<mTargetPostTriggerSamples>2000000</mTargetPostTriggerSamples>
+	<mDisplayBase>2</mDisplayBase>
+	<mChannelSettings class_id="2" tracking_level="0" version="0">
+		<count>8</count>
+		<item_version>0</item_version>
+		<item class_id="3" tracking_level="0" version="0">
+			<first class_id="4" tracking_level="0" version="2">
+				<upper_device_id>2326561540</upper_device_id>
+				<lower_device_id>2830245688</lower_device_id>
+				<mChannelIndex>0</mChannelIndex>
+			</first>
+			<second class_id="5" tracking_level="0" version="2">
+				<mR>0</mR>
+				<mG>0</mG>
+				<mB>0</mB>
+				<mA>255</mA>
+				<mDisplayIndex>0</mDisplayIndex>
+				<mLabel>Channel 0</mLabel>
+				<mMinimized>0</mMinimized>
+				<mInvertData>0</mInvertData>
+			</second>
+		</item>
+		<item>
+			<first>
+				<upper_device_id>2326561540</upper_device_id>
+				<lower_device_id>2830245688</lower_device_id>
+				<mChannelIndex>1</mChannelIndex>
+			</first>
+			<second>
+				<mR>139</mR>
+				<mG>69</mG>
+				<mB>19</mB>
+				<mA>255</mA>
+				<mDisplayIndex>1</mDisplayIndex>
+				<mLabel>Channel 1</mLabel>
+				<mMinimized>0</mMinimized>
+				<mInvertData>0</mInvertData>
+			</second>
+		</item>
+		<item>
+			<first>
+				<upper_device_id>2326561540</upper_device_id>
+				<lower_device_id>2830245688</lower_device_id>
+				<mChannelIndex>2</mChannelIndex>
+			</first>
+			<second>
+				<mR>255</mR>
+				<mG>0</mG>
+				<mB>0</mB>
+				<mA>255</mA>
+				<mDisplayIndex>2</mDisplayIndex>
+				<mLabel>Channel 2</mLabel>
+				<mMinimized>0</mMinimized>
+				<mInvertData>0</mInvertData>
+			</second>
+		</item>
+		<item>
+			<first>
+				<upper_device_id>2326561540</upper_device_id>
+				<lower_device_id>2830245688</lower_device_id>
+				<mChannelIndex>3</mChannelIndex>
+			</first>
+			<second>
+				<mR>249</mR>
+				<mG>160</mG>
+				<mB>0</mB>
+				<mA>255</mA>
+				<mDisplayIndex>3</mDisplayIndex>
+				<mLabel>Channel 3</mLabel>
+				<mMinimized>0</mMinimized>
+				<mInvertData>0</mInvertData>
+			</second>
+		</item>
+		<item>
+			<first>
+				<upper_device_id>2326561540</upper_device_id>
+				<lower_device_id>2830245688</lower_device_id>
+				<mChannelIndex>4</mChannelIndex>
+			</first>
+			<second>
+				<mR>255</mR>
+				<mG>255</mG>
+				<mB>0</mB>
+				<mA>255</mA>
+				<mDisplayIndex>4</mDisplayIndex>
+				<mLabel>E1</mLabel>
+				<mMinimized>0</mMinimized>
+				<mInvertData>0</mInvertData>
+			</second>
+		</item>
+		<item>
+			<first>
+				<upper_device_id>2326561540</upper_device_id>
+				<lower_device_id>2830245688</lower_device_id>
+				<mChannelIndex>5</mChannelIndex>
+			</first>
+			<second>
+				<mR>0</mR>
+				<mG>255</mG>
+				<mB>0</mB>
+				<mA>255</mA>
+				<mDisplayIndex>5</mDisplayIndex>
+				<mLabel>Channel 5</mLabel>
+				<mMinimized>0</mMinimized>
+				<mInvertData>0</mInvertData>
+			</second>
+		</item>
+		<item>
+			<first>
+				<upper_device_id>2326561540</upper_device_id>
+				<lower_device_id>2830245688</lower_device_id>
+				<mChannelIndex>6</mChannelIndex>
+			</first>
+			<second>
+				<mR>0</mR>
+				<mG>0</mG>
+				<mB>255</mB>
+				<mA>255</mA>
+				<mDisplayIndex>6</mDisplayIndex>
+				<mLabel>E7</mLabel>
+				<mMinimized>0</mMinimized>
+				<mInvertData>0</mInvertData>
+			</second>
+		</item>
+		<item>
+			<first>
+				<upper_device_id>2326561540</upper_device_id>
+				<lower_device_id>2830245688</lower_device_id>
+				<mChannelIndex>7</mChannelIndex>
+			</first>
+			<second>
+				<mR>160</mR>
+				<mG>32</mG>
+				<mB>240</mB>
+				<mA>255</mA>
+				<mDisplayIndex>7</mDisplayIndex>
+				<mLabel>Detector7</mLabel>
+				<mMinimized>0</mMinimized>
+				<mInvertData>0</mInvertData>
+			</second>
+		</item>
+	</mChannelSettings>
+	<mMetaDataPanelSettings class_id="6" tracking_level="0" version="2">
+		<mShowWidth>1</mShowWidth>
+		<mShowPeriod>1</mShowPeriod>
+		<mShowDutyCycle>0</mShowDutyCycle>
+		<mShowFrequency>1</mShowFrequency>
+		<mShowByte>0</mShowByte>
+		<mShowTimingMarkers>1</mShowTimingMarkers>
+		<mShowError>0</mShowError>
+		<mT1Active>0</mT1Active>
+		<mT2Active>0</mT2Active>
+		<mT1Sample>0</mT1Sample>
+		<mT2Sample>0</mT2Sample>
+	</mMetaDataPanelSettings>
+	<mDataExportSettings class_id="7" tracking_level="0" version="2">
+		<mExportAllChannels>1</mExportAllChannels>
+		<mChannelsToExport class_id="8" tracking_level="0" version="0">
+			<count>0</count>
+			<item_version>2</item_version>
+		</mChannelsToExport>
+		<mSamplesRageType>0</mSamplesRageType>
+		<mStartingTime>0</mStartingTime>
+		<mEndingTime>1</mEndingTime>
+		<mStartingSampleInclusive>0</mStartingSampleInclusive>
+		<mEndingSampleInclusive>0</mEndingSampleInclusive>
+		<mDataExportType>1</mDataExportType>
+		<mCsvIncludeHeaders>0</mCsvIncludeHeaders>
+		<mCsvDelimiterType>0</mCsvDelimiterType>
+		<mCsvOutputMode>1</mCsvOutputMode>
+		<mCsvTimestampType>0</mCsvTimestampType>
+		<mCsvDensity>0</mCsvDensity>
+		<mCsvDisplayBase>2</mCsvDisplayBase>
+		<mBinaryOutputMode>0</mBinaryOutputMode>
+		<mBinaryBitShifting>0</mBinaryBitShifting>
+		<mBinaryOutputWordSize>0</mBinaryOutputWordSize>
+		<mFileName></mFileName>
+	</mDataExportSettings>
+	<mSavedAnalyzers>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot; ?&gt;
+&lt;!DOCTYPE boost_serialization&gt;
+&lt;boost_serialization signature=&quot;serialization::archive&quot; version=&quot;5&quot;&gt;
+&lt;SessionAnalyzers class_id=&quot;0&quot; tracking_level=&quot;0&quot; version=&quot;2&quot;&gt;
+	&lt;mAnalyzerNameStrings class_id=&quot;1&quot; tracking_level=&quot;0&quot; version=&quot;0&quot;&gt;
+		&lt;count&gt;1&lt;/count&gt;
+		&lt;item_version&gt;0&lt;/item_version&gt;
+		&lt;item&gt;I2C&lt;/item&gt;
+	&lt;/mAnalyzerNameStrings&gt;
+	&lt;mAnalyzerSettingsStrings&gt;
+		&lt;count&gt;1&lt;/count&gt;
+		&lt;item_version&gt;0&lt;/item_version&gt;
+		&lt;item&gt;22 serialization::archive 5 17 SaleaeI2CAnalyzer 0 2 2326561540 2830245688 7 2326561540 2830245688 6 0&lt;/item&gt;
+	&lt;/mAnalyzerSettingsStrings&gt;
+&lt;/SessionAnalyzers&gt;
+</mSavedAnalyzers>
+	<mSavedEdgeFinderWidgets>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot; ?&gt;
+&lt;!DOCTYPE boost_serialization&gt;
+&lt;boost_serialization signature=&quot;serialization::archive&quot; version=&quot;5&quot;&gt;
+&lt;mEdgeFinderWidgets class_id=&quot;0&quot; tracking_level=&quot;0&quot; version=&quot;1&quot;&gt;
+	&lt;px class_id=&quot;1&quot; tracking_level=&quot;1&quot; version=&quot;0&quot; object_id=&quot;_0&quot;&gt;
+		&lt;count&gt;1&lt;/count&gt;
+		&lt;item_version&gt;0&lt;/item_version&gt;
+		&lt;item class_id=&quot;2&quot; tracking_level=&quot;1&quot; version=&quot;2&quot; object_id=&quot;_1&quot;&gt;
+			&lt;mFinder class_id=&quot;3&quot; tracking_level=&quot;0&quot; version=&quot;1&quot;&gt;
+				&lt;px class_id=&quot;4&quot; tracking_level=&quot;1&quot; version=&quot;2&quot; object_id=&quot;_2&quot;&gt;
+					&lt;mName&gt;Edge Finder&lt;/mName&gt;
+					&lt;mUse&gt;1&lt;/mUse&gt;
+					&lt;mUseAsSoftwareTrigger&gt;1&lt;/mUseAsSoftwareTrigger&gt;
+					&lt;mUseAsHardwareTrigger&gt;0&lt;/mUseAsHardwareTrigger&gt;
+					&lt;mStates class_id=&quot;5&quot; tracking_level=&quot;0&quot; version=&quot;0&quot;&gt;
+						&lt;count&gt;1&lt;/count&gt;
+						&lt;item_version&gt;0&lt;/item_version&gt;
+						&lt;item class_id=&quot;6&quot; tracking_level=&quot;1&quot; version=&quot;2&quot; object_id=&quot;_3&quot;&gt;
+							&lt;mName&gt;State 1&lt;/mName&gt;
+							&lt;mNumRepeats&gt;0&lt;/mNumRepeats&gt;
+							&lt;mNextStateOnRepeat&gt;4294967294&lt;/mNextStateOnRepeat&gt;
+							&lt;mDelay&gt;0&lt;/mDelay&gt;
+							&lt;mNextStateOnDelay&gt;4294967294&lt;/mNextStateOnDelay&gt;
+							&lt;mEdgeConditions class_id=&quot;7&quot; tracking_level=&quot;0&quot; version=&quot;0&quot;&gt;
+								&lt;count&gt;1&lt;/count&gt;
+								&lt;item_version&gt;0&lt;/item_version&gt;
+								&lt;item class_id=&quot;8&quot; tracking_level=&quot;1&quot; version=&quot;2&quot; object_id=&quot;_4&quot;&gt;
+									&lt;mNextStateIndex&gt;4294967295&lt;/mNextStateIndex&gt;
+									&lt;mEdgeChannel class_id=&quot;9&quot; tracking_level=&quot;0&quot; version=&quot;2&quot;&gt;
+										&lt;upper_device_id&gt;2326561540&lt;/upper_device_id&gt;
+										&lt;lower_device_id&gt;2830245688&lt;/lower_device_id&gt;
+										&lt;mChannelIndex&gt;4&lt;/mChannelIndex&gt;
+									&lt;/mEdgeChannel&gt;
+									&lt;mPosedge&gt;0&lt;/mPosedge&gt;
+									&lt;mLowChannels class_id=&quot;10&quot; tracking_level=&quot;0&quot; version=&quot;0&quot;&gt;
+										&lt;count&gt;0&lt;/count&gt;
+										&lt;item_version&gt;2&lt;/item_version&gt;
+									&lt;/mLowChannels&gt;
+									&lt;mHighChannels&gt;
+										&lt;count&gt;0&lt;/count&gt;
+										&lt;item_version&gt;2&lt;/item_version&gt;
+									&lt;/mHighChannels&gt;
+								&lt;/item&gt;
+							&lt;/mEdgeConditions&gt;
+						&lt;/item&gt;
+					&lt;/mStates&gt;
+				&lt;/px&gt;
+			&lt;/mFinder&gt;
+		&lt;/item&gt;
+	&lt;/px&gt;
+&lt;/mEdgeFinderWidgets&gt;
+</mSavedEdgeFinderWidgets>
+</LogicSettings>
+</boost_serialization>
+

@@ -1,0 +1,31 @@
+IR Controller Online
+Light Controller Online
+Master Init Complete
+04/27/2011, 10:30:30, Screen Saver
+04/27/2011, 10:30:41, Screen Saver
+04/27/2011, 10:30:43, Note,1
+04/27/2011, 10:30:44, Note,3
+04/27/2011, 10:30:44, Note,3
+04/27/2011, 10:30:44, Note,2
+04/27/2011, 10:30:54, Screen Saver
+04/27/2011, 10:31:05, Screen Saver
+04/27/2011, 10:31:16, Screen Saver
+04/27/2011, 10:31:27, Screen Saver
+04/27/2011, 10:31:38, Screen Saver
+04/27/2011, 10:31:49, Screen Saver
+04/27/2011, 10:32:00, Screen Saver
+04/27/2011, 10:32:11, Screen Saver
+04/27/2011, 10:32:22, Screen Saver
+04/27/2011, 10:32:33, Screen Saver
+04/27/2011, 10:32:44, Screen Saver
+04/27/2011, 10:32:55, Screen Saver
+04/27/2011, 10:33:06, Screen Saver
+04/27/2011, 10:33:17, Screen Saver
+04/27/2011, 10:33:28, Screen Saver
+04/27/2011, 10:33:39, Screen Saver
+04/27/2011, 10:33:50, Screen Saver
+04/27/2011, 10:34:01, Screen Saver
+04/27/2011, 10:34:12, Screen Saver
+04/27/2011, 10:34:23, Screen Saver
+04/27/2011, 10:34:34, Screen Saver
+04/27/2011, 10:34:45, Screen Saver

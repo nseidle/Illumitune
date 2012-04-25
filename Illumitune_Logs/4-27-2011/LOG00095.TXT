@@ -1,0 +1,222 @@
+IR Controller Online
+Light Controller Online
+Master Init Complete
+04/14/2011, 16:14:01, Note,6
+04/14/2011, 16:14:08, Note,2
+04/14/2011, 16:14:09, Note,4
+04/14/2011, 16:14:09, Note,2
+04/14/2011, 16:14:09, Note,1
+04/14/2011, 16:14:11, Note,2
+04/14/2011, 16:14:11, Note,4
+04/14/2011, 16:14:12, Note,6
+04/14/2011, 16:14:12, Note,8
+04/14/2011, 16:14:12, Note,5
+04/14/2011, 16:14:13, Note,4
+04/14/2011, 16:14:13, Note,2
+04/14/2011, 16:14:13, Note,1
+04/14/2011, 16:14:14, Note,1
+04/14/2011, 16:14:14, Note,2
+04/14/2011, 16:14:14, Note,4
+04/14/2011, 16:14:14, Note,5
+04/14/2011, 16:14:15, Note,8
+04/14/2011, 16:14:16, Note,5
+04/14/2011, 16:14:16, Note,4
+04/14/2011, 16:14:16, Note,2
+04/14/2011, 16:14:16, Note,1
+04/14/2011, 16:14:17, Note,1
+04/14/2011, 16:14:17, Note,2
+04/14/2011, 16:14:18, Note,4
+04/14/2011, 16:14:18, Note,5
+04/14/2011, 16:14:18, Note,8
+04/14/2011, 16:14:19, Note,8
+04/14/2011, 16:14:20, Note,2
+04/14/2011, 16:14:21, Note,2
+04/14/2011, 16:14:21, Note,8
+04/14/2011, 16:14:22, Note,2
+04/14/2011, 16:14:22, Note,8
+04/14/2011, 16:14:23, Note,8
+04/14/2011, 16:14:23, Note,8
+04/14/2011, 16:14:33, Screen Saver
+04/14/2011, 16:14:44, Screen Saver
+04/14/2011, 16:14:55, Screen Saver
+04/14/2011, 16:15:06, Screen Saver
+04/14/2011, 16:15:17, Screen Saver
+04/14/2011, 16:15:28, Screen Saver
+04/14/2011, 16:15:39, Screen Saver
+04/14/2011, 16:15:50, Screen Saver
+04/14/2011, 16:16:01, Screen Saver
+04/14/2011, 16:16:12, Screen Saver
+04/14/2011, 16:16:23, Screen Saver
+04/14/2011, 16:16:34, Screen Saver
+04/14/2011, 16:16:45, Screen Saver
+04/14/2011, 16:16:56, Screen Saver
+04/14/2011, 16:17:07, Screen Saver
+04/14/2011, 16:17:18, Screen Saver
+04/14/2011, 16:17:29, Screen Saver
+04/14/2011, 16:17:40, Screen Saver
+04/14/2011, 16:17:51, Screen Saver
+04/14/2011, 16:18:02, Screen Saver
+04/14/2011, 16:18:13, Screen Saver
+04/14/2011, 16:18:24, Screen Saver
+04/14/2011, 16:18:35, Screen Saver
+04/14/2011, 16:18:46, Screen Saver
+04/14/2011, 16:18:57, Screen Saver
+04/14/2011, 16:19:08, Screen Saver
+04/14/2011, 16:19:19, Screen Saver
+04/14/2011, 16:19:30, Screen Saver
+04/14/2011, 16:19:41, Screen Saver
+04/14/2011, 16:19:52, Screen Saver
+04/14/2011, 16:20:03, Screen Saver
+04/14/2011, 16:20:14, Screen Saver
+04/14/2011, 16:20:25, Screen Saver
+04/14/2011, 16:20:36, Screen Saver
+04/14/2011, 16:20:47, Screen Saver
+04/14/2011, 16:20:58, Screen Saver
+04/14/2011, 16:21:09, Screen Saver
+04/14/2011, 16:21:20, Screen Saver
+04/14/2011, 16:21:31, Screen Saver
+04/14/2011, 16:21:42, Screen Saver
+04/14/2011, 16:21:53, Screen Saver
+04/14/2011, 16:22:04, Screen Saver
+04/14/2011, 16:22:15, Screen Saver
+04/14/2011, 16:22:26, Screen Saver
+04/14/2011, 16:22:37, Screen Saver
+04/14/2011, 16:22:48, Screen Saver
+04/14/2011, 16:22:59, Screen Saver
+04/14/2011, 16:23:10, Screen Saver
+04/14/2011, 16:23:21, Screen Saver
+04/14/2011, 16:23:32, Screen Saver
+04/14/2011, 16:23:43, Screen Saver
+04/14/2011, 16:23:54, Screen Saver
+04/14/2011, 16:24:05, Screen Saver
+04/14/2011, 16:24:16, Screen Saver
+04/14/2011, 16:24:27, Screen Saver
+04/14/2011, 16:24:38, Screen Saver
+04/14/2011, 16:24:49, Screen Saver
+04/14/2011, 16:25:00, Screen Saver
+04/14/2011, 16:25:11, Screen Saver
+04/14/2011, 16:25:22, Screen Saver
+04/14/2011, 16:25:33, Screen Saver
+04/14/2011, 16:25:44, Screen Saver
+04/14/2011, 16:25:55, Screen Saver
+04/14/2011, 16:26:06, Screen Saver
+04/14/2011, 16:26:17, Screen Saver
+04/14/2011, 16:26:28, Screen Saver
+04/14/2011, 16:26:39, Screen Saver
+04/14/2011, 16:26:50, Screen Saver
+04/14/2011, 16:27:01, Screen Saver
+04/14/2011, 16:27:12, Screen Saver
+04/14/2011, 16:27:23, Screen Saver
+04/14/2011, 16:27:34, Screen Saver
+04/14/2011, 16:27:45, Screen Saver
+04/14/2011, 16:27:56, Screen Saver
+04/14/2011, 16:28:07, Screen Saver
+04/14/2011, 16:28:18, Screen Saver
+04/14/2011, 16:28:29, Screen Saver
+04/14/2011, 16:28:40, Screen Saver
+04/14/2011, 16:28:51, Screen Saver
+04/14/2011, 16:29:02, Screen Saver
+04/14/2011, 16:29:13, Screen Saver
+04/14/2011, 16:29:24, Screen Saver
+04/14/2011, 16:29:35, Screen Saver
+04/14/2011, 16:29:46, Screen Saver
+04/14/2011, 16:29:57, Screen Saver
+04/14/2011, 16:30:08, Screen Saver
+04/14/2011, 16:30:19, Screen Saver
+04/14/2011, 16:30:30, Screen Saver
+04/14/2011, 16:30:41, Screen Saver
+04/14/2011, 16:30:52, Screen Saver
+04/14/2011, 16:31:03, Screen Saver
+04/14/2011, 16:31:14, Screen Saver
+04/14/2011, 16:31:25, Screen Saver
+04/14/2011, 16:31:36, Screen Saver
+04/14/2011, 16:31:47, Screen Saver
+04/14/2011, 16:31:58, Screen Saver
+04/14/2011, 16:32:09, Screen Saver
+04/14/2011, 16:32:20, Screen Saver
+04/14/2011, 16:32:31, Screen Saver
+04/14/2011, 16:32:42, Screen Saver
+04/14/2011, 16:32:53, Screen Saver
+04/14/2011, 16:33:04, Screen Saver
+04/14/2011, 16:33:15, Screen Saver
+04/14/2011, 16:33:26, Screen Saver
+04/14/2011, 16:33:37, Screen Saver
+04/14/2011, 16:33:48, Screen Saver
+04/14/2011, 16:33:59, Screen Saver
+04/14/2011, 16:34:10, Screen Saver
+04/14/2011, 16:34:21, Screen Saver
+04/14/2011, 16:34:32, Screen Saver
+04/14/2011, 16:34:43, Screen Saver
+04/14/2011, 16:34:54, Screen Saver
+04/14/2011, 16:35:05, Screen Saver
+04/14/2011, 16:35:16, Screen Saver
+04/14/2011, 16:35:27, Screen Saver
+04/14/2011, 16:35:38, Screen Saver
+04/14/2011, 16:35:49, Screen Saver
+04/14/2011, 16:36:00, Screen Saver
+04/14/2011, 16:36:11, Screen Saver
+04/14/2011, 16:36:22, Screen Saver
+04/14/2011, 16:36:33, Screen Saver
+04/14/2011, 16:36:44, Screen Saver
+04/14/2011, 16:36:55, Screen Saver
+04/14/2011, 16:37:06, Screen Saver
+04/14/2011, 16:37:17, Screen Saver
+04/14/2011, 16:37:28, Screen Saver
+04/14/2011, 16:37:39, Screen Saver
+04/14/2011, 16:37:50, Screen Saver
+04/14/2011, 16:38:01, Screen Saver
+04/14/2011, 16:38:12, Screen Saver
+04/14/2011, 16:38:23, Screen Saver
+04/14/2011, 16:38:34, Screen Saver
+04/14/2011, 16:38:45, Screen Saver
+04/14/2011, 16:38:56, Screen Saver
+04/14/2011, 16:39:07, Screen Saver
+04/14/2011, 16:39:18, Screen Saver
+04/14/2011, 16:39:29, Screen Saver
+04/14/2011, 16:39:40, Screen Saver
+04/14/2011, 16:39:51, Screen Saver
+04/14/2011, 16:40:02, Screen Saver
+04/14/2011, 16:40:13, Screen Saver
+04/14/2011, 16:40:24, Screen Saver
+04/14/2011, 16:40:35, Screen Saver
+04/14/2011, 16:40:46, Screen Saver
+04/14/2011, 16:40:57, Screen Saver
+04/14/2011, 16:41:08, Screen Saver
+04/14/2011, 16:41:19, Screen Saver
+04/14/2011, 16:41:30, Screen Saver
+04/14/2011, 16:41:41, Screen Saver
+04/14/2011, 16:41:52, Screen Saver
+04/14/2011, 16:42:03, Screen Saver
+04/14/2011, 16:42:14, Screen Saver
+04/14/2011, 16:42:25, Screen Saver
+04/14/2011, 16:42:36, Screen Saver
+04/14/2011, 16:42:47, Screen Saver
+04/14/2011, 16:42:58, Screen Saver
+04/14/2011, 16:43:09, Screen Saver
+04/14/2011, 16:43:20, Screen Saver
+04/14/2011, 16:43:31, Screen Saver
+04/14/2011, 16:43:42, Screen Saver
+04/14/2011, 16:43:53, Screen Saver
+04/14/2011, 16:44:04, Screen Saver
+04/14/2011, 16:44:15, Screen Saver
+04/14/2011, 16:44:26, Screen Saver
+04/14/2011, 16:44:37, Screen Saver
+04/14/2011, 16:44:48, Screen Saver
+04/14/2011, 16:44:59, Screen Saver
+04/14/2011, 16:45:10, Screen Saver
+04/14/2011, 16:45:21, Screen Saver
+04/14/2011, 16:45:32, Screen Saver
+04/14/2011, 16:45:43, Screen Saver
+04/14/2011, 16:45:54, Screen Saver
+04/14/2011, 16:46:05, Screen Saver
+04/14/2011, 16:46:16, Screen Saver
+04/14/2011, 16:46:27, Screen Saver
+04/14/2011, 16:46:38, Screen Saver
+04/14/2011, 16:46:49, Screen Saver
+04/14/2011, 16:47:00, Screen Saver
+04/14/2011, 16:47:11, Screen Saver
+04/14/2011, 16:47:22, Screen Saver
+04/14/2011, 16:47:33, Screen Saver
+04/14/2011, 16:47:44, Screen Saver
+04/14/2011, 16:47:55, Screen Saver
+04/14/2011, 16:48:06, Screen Saver

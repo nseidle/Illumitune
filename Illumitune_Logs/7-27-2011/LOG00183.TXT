@@ -1,0 +1,299 @@
+Turning off amp!
+Turning on amp!
+Down
+Up
+Amplifier On and turned up
+IR Controller Online
+Light Controller Online
+Master Init Complete
+06/01/2011, 08:49:45, Screen Saver
+06/01/2011, 08:49:56, Screen Saver
+06/01/2011, 08:50:07, Screen Saver
+06/01/2011, 08:50:18, Screen Saver
+06/01/2011, 08:50:29, Screen Saver
+06/01/2011, 08:50:40, Screen Saver
+06/01/2011, 08:50:51, Screen Saver
+06/01/2011, 08:51:02, Screen Saver
+06/01/2011, 08:51:13, Screen Saver
+06/01/2011, 08:51:24, Screen Saver
+06/01/2011, 08:51:35, Screen Saver
+06/01/2011, 08:51:46, Screen Saver
+06/01/2011, 08:51:57, Screen Saver
+06/01/2011, 08:52:08, Screen Saver
+06/01/2011, 08:52:19, Screen Saver
+06/01/2011, 08:52:30, Screen Saver
+06/01/2011, 08:52:41, Screen Saver
+06/01/2011, 08:52:52, Screen Saver
+06/01/2011, 08:53:03, Screen Saver
+06/01/2011, 08:53:14, Screen Saver
+06/01/2011, 08:53:25, Screen Saver
+06/01/2011, 08:53:36, Screen Saver
+06/01/2011, 08:53:47, Screen Saver
+06/01/2011, 08:53:58, Screen Saver
+06/01/2011, 08:54:09, Screen Saver
+06/01/2011, 08:54:20, Screen Saver
+06/01/2011, 08:54:31, Screen Saver
+06/01/2011, 08:54:42, Screen Saver
+06/01/2011, 08:54:53, Screen Saver
+06/01/2011, 08:55:04, Screen Saver
+06/01/2011, 08:55:15, Screen Saver
+06/01/2011, 08:55:26, Screen Saver
+06/01/2011, 08:55:37, Screen Saver
+06/01/2011, 08:55:48, Screen Saver
+06/01/2011, 08:55:59, Screen Saver
+06/01/2011, 08:56:10, Screen Saver
+06/01/2011, 08:56:21, Screen Saver
+06/01/2011, 08:56:32, Screen Saver
+06/01/2011, 08:56:43, Screen Saver
+06/01/2011, 08:56:54, Screen Saver
+06/01/2011, 08:57:05, Screen Saver
+06/01/2011, 08:57:16, Screen Saver
+06/01/2011, 08:57:27, Screen Saver
+06/01/2011, 08:57:38, Screen Saver
+06/01/2011, 08:57:49, Screen Saver
+06/01/2011, 08:58:00, Screen Saver
+06/01/2011, 08:58:11, Screen Saver
+06/01/2011, 08:58:22, Screen Saver
+06/01/2011, 08:58:33, Screen Saver
+06/01/2011, 08:58:44, Screen Saver
+06/01/2011, 08:58:55, Screen Saver
+06/01/2011, 08:59:06, Screen Saver
+06/01/2011, 08:59:17, Screen Saver
+06/01/2011, 08:59:28, Screen Saver
+06/01/2011, 08:59:39, Screen Saver
+06/01/2011, 08:59:50, Screen Saver
+06/01/2011, 09:00:01, Screen Saver
+06/01/2011, 09:00:12, Screen Saver
+06/01/2011, 09:00:23, Screen Saver
+06/01/2011, 09:00:34, Screen Saver
+06/01/2011, 09:00:45, Screen Saver
+06/01/2011, 09:00:56, Screen Saver
+06/01/2011, 09:01:07, Screen Saver
+06/01/2011, 09:01:18, Screen Saver
+06/01/2011, 09:01:29, Screen Saver
+06/01/2011, 09:01:40, Screen Saver
+06/01/2011, 09:01:51, Screen Saver
+06/01/2011, 09:02:02, Screen Saver
+06/01/2011, 09:02:13, Screen Saver
+06/01/2011, 09:02:24, Screen Saver
+06/01/2011, 09:02:35, Screen Saver
+06/01/2011, 09:02:46, Screen Saver
+06/01/2011, 09:02:57, Screen Saver
+06/01/2011, 09:03:08, Screen Saver
+06/01/2011, 09:03:19, Screen Saver
+06/01/2011, 09:03:30, Screen Saver
+06/01/2011, 09:03:41, Screen Saver
+06/01/2011, 09:03:52, Screen Saver
+06/01/2011, 09:04:03, Screen Saver
+06/01/2011, 09:04:14, Screen Saver
+06/01/2011, 09:04:25, Screen Saver
+06/01/2011, 09:04:36, Screen Saver
+06/01/2011, 09:04:47, Screen Saver
+06/01/2011, 09:04:58, Screen Saver
+06/01/2011, 09:05:09, Screen Saver
+06/01/2011, 09:05:20, Screen Saver
+06/01/2011, 09:05:31, Screen Saver
+06/01/2011, 09:05:42, Screen Saver
+06/01/2011, 09:05:53, Screen Saver
+06/01/2011, 09:06:04, Screen Saver
+06/01/2011, 09:06:15, Screen Saver
+06/01/2011, 09:06:26, Screen Saver
+06/01/2011, 09:06:37, Screen Saver
+06/01/2011, 09:06:48, Screen Saver
+06/01/2011, 09:06:59, Screen Saver
+06/01/2011, 09:07:10, Screen Saver
+06/01/2011, 09:07:21, Screen Saver
+06/01/2011, 09:07:21, Note,8
+06/01/2011, 09:07:22, Note,6
+06/01/2011, 09:07:23, Note,4
+06/01/2011, 09:07:24, Note,3
+06/01/2011, 09:07:25, Note,2
+06/01/2011, 09:07:25, Note,1
+06/01/2011, 09:07:26, Note,2
+06/01/2011, 09:07:26, Note,4
+06/01/2011, 09:07:26, Note,6
+06/01/2011, 09:07:26, Note,7
+06/01/2011, 09:07:27, Note,8
+06/01/2011, 09:07:29, Switching to instrument 0
+06/01/2011, 09:07:31, Note,8
+06/01/2011, 09:07:32, Note,6
+06/01/2011, 09:07:32, Note,6
+06/01/2011, 09:07:34, Switching to instrument 1
+06/01/2011, 09:07:36, Note,8
+06/01/2011, 09:07:36, Note,7
+06/01/2011, 09:07:37, Note,5
+06/01/2011, 09:07:37, Note,4
+06/01/2011, 09:07:38, Note,4
+06/01/2011, 09:07:38, Note,5
+06/01/2011, 09:07:38, Note,6
+06/01/2011, 09:07:48, Screen Saver
+06/01/2011, 09:07:59, Screen Saver
+06/01/2011, 09:08:10, Screen Saver
+06/01/2011, 09:08:21, Screen Saver
+06/01/2011, 09:08:32, Screen Saver
+06/01/2011, 09:08:43, Screen Saver
+06/01/2011, 09:08:54, Screen Saver
+06/01/2011, 09:09:05, Screen Saver
+06/01/2011, 09:09:16, Screen Saver
+06/01/2011, 09:09:27, Screen Saver
+06/01/2011, 09:09:38, Screen Saver
+06/01/2011, 09:09:49, Screen Saver
+06/01/2011, 09:10:00, Screen Saver
+06/01/2011, 09:10:11, Screen Saver
+06/01/2011, 09:10:22, Screen Saver
+06/01/2011, 09:10:33, Screen Saver
+06/01/2011, 09:10:44, Screen Saver
+06/01/2011, 09:10:55, Screen Saver
+06/01/2011, 09:11:06, Screen Saver
+06/01/2011, 09:11:17, Screen Saver
+06/01/2011, 09:11:28, Screen Saver
+06/01/2011, 09:11:39, Screen Saver
+06/01/2011, 09:11:50, Screen Saver
+06/01/2011, 09:12:01, Screen Saver
+06/01/2011, 09:12:12, Screen Saver
+06/01/2011, 09:12:23, Screen Saver
+06/01/2011, 09:12:34, Screen Saver
+06/01/2011, 09:12:45, Screen Saver
+06/01/2011, 09:12:56, Screen Saver
+06/01/2011, 09:13:07, Screen Saver
+06/01/2011, 09:13:18, Screen Saver
+06/01/2011, 09:13:29, Screen Saver
+06/01/2011, 09:13:40, Screen Saver
+06/01/2011, 09:13:51, Screen Saver
+06/01/2011, 09:14:02, Screen Saver
+06/01/2011, 09:14:13, Screen Saver
+06/01/2011, 09:14:24, Screen Saver
+06/01/2011, 09:14:35, Screen Saver
+06/01/2011, 09:14:46, Screen Saver
+06/01/2011, 09:14:57, Screen Saver
+06/01/2011, 09:15:08, Screen Saver
+06/01/2011, 09:15:19, Screen Saver
+06/01/2011, 09:15:30, Screen Saver
+06/01/2011, 09:15:41, Screen Saver
+06/01/2011, 09:15:52, Screen Saver
+06/01/2011, 09:16:03, Screen Saver
+06/01/2011, 09:16:14, Screen Saver
+06/01/2011, 09:16:25, Screen Saver
+06/01/2011, 09:16:36, Screen Saver
+06/01/2011, 09:16:47, Screen Saver
+06/01/2011, 09:16:58, Screen Saver
+06/01/2011, 09:17:09, Screen Saver
+06/01/2011, 09:17:20, Screen Saver
+06/01/2011, 09:17:31, Screen Saver
+06/01/2011, 09:17:42, Screen Saver
+06/01/2011, 09:17:45, Note,8
+06/01/2011, 09:17:46, Note,7
+06/01/2011, 09:17:46, Note,7
+06/01/2011, 09:17:46, Note,7
+06/01/2011, 09:17:52, Note,4
+06/01/2011, 09:17:54, Note,4
+06/01/2011, 09:17:54, Note,4
+06/01/2011, 09:18:04, Screen Saver
+06/01/2011, 09:18:15, Screen Saver
+06/01/2011, 09:18:26, Screen Saver
+06/01/2011, 09:18:37, Screen Saver
+06/01/2011, 09:18:48, Screen Saver
+06/01/2011, 09:18:59, Screen Saver
+06/01/2011, 09:19:10, Screen Saver
+06/01/2011, 09:19:21, Screen Saver
+06/01/2011, 09:19:32, Screen Saver
+06/01/2011, 09:19:43, Screen Saver
+06/01/2011, 09:19:54, Screen Saver
+06/01/2011, 09:20:05, Screen Saver
+06/01/2011, 09:20:16, Screen Saver
+06/01/2011, 09:20:27, Screen Saver
+06/01/2011, 09:20:38, Screen Saver
+06/01/2011, 09:20:49, Screen Saver
+06/01/2011, 09:21:00, Screen Saver
+06/01/2011, 09:21:11, Screen Saver
+06/01/2011, 09:21:22, Screen Saver
+06/01/2011, 09:21:33, Screen Saver
+06/01/2011, 09:21:44, Screen Saver
+06/01/2011, 09:21:55, Screen Saver
+06/01/2011, 09:22:06, Screen Saver
+06/01/2011, 09:22:17, Screen Saver
+06/01/2011, 09:22:28, Screen Saver
+06/01/2011, 09:22:39, Screen Saver
+06/01/2011, 09:22:50, Screen Saver
+06/01/2011, 09:23:01, Screen Saver
+06/01/2011, 09:23:12, Screen Saver
+06/01/2011, 09:23:23, Screen Saver
+06/01/2011, 09:23:34, Screen Saver
+06/01/2011, 09:23:45, Screen Saver
+06/01/2011, 09:23:56, Screen Saver
+06/01/2011, 09:24:07, Screen Saver
+06/01/2011, 09:24:18, Screen Saver
+06/01/2011, 09:24:29, Screen Saver
+06/01/2011, 09:24:40, Screen Saver
+06/01/2011, 09:24:51, Screen Saver
+06/01/2011, 09:25:02, Screen Saver
+06/01/2011, 09:25:13, Screen Saver
+06/01/2011, 09:25:24, Screen Saver
+06/01/2011, 09:25:35, Screen Saver
+06/01/2011, 09:25:46, Screen Saver
+06/01/2011, 09:25:57, Screen Saver
+06/01/2011, 09:26:08, Screen Saver
+06/01/2011, 09:26:19, Screen Saver
+06/01/2011, 09:26:30, Screen Saver
+06/01/2011, 09:26:41, Screen Saver
+06/01/2011, 09:26:52, Screen Saver
+06/01/2011, 09:27:03, Screen Saver
+06/01/2011, 09:27:14, Screen Saver
+06/01/2011, 09:27:25, Screen Saver
+06/01/2011, 09:27:36, Screen Saver
+06/01/2011, 09:27:47, Screen Saver
+06/01/2011, 09:27:58, Screen Saver
+06/01/2011, 09:28:09, Screen Saver
+06/01/2011, 09:28:20, Screen Saver
+06/01/2011, 09:28:31, Screen Saver
+06/01/2011, 09:28:42, Screen Saver
+06/01/2011, 09:28:53, Screen Saver
+06/01/2011, 09:29:04, Screen Saver
+06/01/2011, 09:29:09, Switching to instrument 2
+06/01/2011, 09:29:12, Switching to instrument 3
+06/01/2011, 09:29:13, Switching to instrument 4
+06/01/2011, 09:29:15, Switching to noises
+06/01/2011, 09:29:16, Switching to instrument 0
+06/01/2011, 09:29:26, Screen Saver
+06/01/2011, 09:29:37, Screen Saver
+06/01/2011, 09:29:48, Screen Saver
+06/01/2011, 09:29:59, Screen Saver
+06/01/2011, 09:30:04, Switching to instrument 1
+06/01/2011, 09:30:08, Switching to instrument 2
+06/01/2011, 09:30:10, Switching to instrument 3
+06/01/2011, 09:30:13, Switching to instrument 4
+06/01/2011, 09:30:25, Screen Saver
+06/01/2011, 09:30:32, Switching to noises
+06/01/2011, 09:30:33, Switching to instrument 0
+06/01/2011, 09:30:34, Switching to instrument 1
+06/01/2011, 09:30:36, Switching to instrument 2
+06/01/2011, 09:30:37, Switching to instrument 3
+06/01/2011, 09:30:37, Switching to instrument 4
+06/01/2011, 09:30:39, Switching to noises
+06/01/2011, 09:30:41, Switching to instrument 0
+06/01/2011, 09:30:41, Switching to instrument 1
+06/01/2011, 09:30:42, Switching to instrument 2
+06/01/2011, 09:30:53, Screen Saver
+06/01/2011, 09:31:04, Screen Saver
+06/01/2011, 09:31:14, Switching to instrument 3
+06/01/2011, 09:31:16, Switching to instrument 4
+06/01/2011, 09:31:17, Switching to noises
+06/01/2011, 09:31:27, Screen Saver
+06/01/2011, 09:31:38, Screen Saver
+06/01/2011, 09:31:49, Screen Saver
+06/01/2011, 09:32:00, Screen Saver
+06/01/2011, 09:32:11, Screen Saver
+06/01/2011, 09:32:16, Switching to instrument 0
+06/01/2011, 09:32:19, Switching to instrument 1
+06/01/2011, 09:32:21, Switching to instrument 2
+06/01/2011, 09:32:27, Switching to instrument 3
+06/01/2011, 09:32:37, Screen Saver
+06/01/2011, 09:32:48, Screen Saver
+06/01/2011, 09:32:59, Screen Saver
+06/01/2011, 09:33:10, Screen Saver
+06/01/2011, 09:33:21, Screen Saver
+06/01/2011, 09:33:32, Screen Saver
+06/01/2011, 09:33:43, Screen Saver
+06/01/2011, 09:33:54, Screen Saver
+06/01/2011, 09:34:05, Screen Saver
+06/01/2011, 09:34:16, Screen Saver

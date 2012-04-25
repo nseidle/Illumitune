@@ -1,0 +1,43 @@
+Turning off amp!
+Turning on amp!
+Down
+Up
+Amplifier On and turned up
+IR Controller Online
+Light Controller Online
+Master Init Complete
+00/00/0000, 00:00:00, Screen Saver
+00/00/0000, 00:00:00, Screen Saver
+00/00/0000, 00:00:00, Screen Saver
+05/02/2011, 10:24:43, Screen Saver
+05/02/2011, 10:24:54, Screen Saver
+05/02/2011, 10:25:05, Screen Saver
+05/02/2011, 10:25:16, Screen Saver
+05/02/2011, 10:25:27, Screen Saver
+05/02/2011, 10:25:38, Screen Saver
+05/02/2011, 10:25:49, Screen Saver
+05/02/2011, 10:26:00, Screen Saver
+05/02/2011, 10:26:11, Screen Saver
+05/02/2011, 10:26:22, Screen Saver
+05/02/2011, 10:26:33, Screen Saver
+05/02/2011, 10:26:44, Screen Saver
+05/02/2011, 10:26:55, Screen Saver
+05/02/2011, 10:27:06, Screen Saver
+05/02/2011, 10:27:17, Screen Saver
+05/02/2011, 10:27:28, Screen Saver
+05/02/2011, 10:27:39, Screen Saver
+05/02/2011, 10:27:50, Screen Saver
+05/02/2011, 10:28:01, Screen Saver
+05/02/2011, 10:28:12, Screen Saver
+05/02/2011, 10:28:23, Screen Saver
+05/02/2011, 10:28:34, Screen Saver
+05/02/2011, 10:28:45, Screen Saver
+05/02/2011, 10:28:56, Screen Saver
+05/02/2011, 10:29:07, Screen Saver
+05/02/2011, 10:29:18, Screen Saver
+05/02/2011, 10:29:29, Screen Saver
+05/02/2011, 10:29:40, Screen Saver
+05/02/2011, 10:29:51, Screen Saver
+05/02/2011, 10:30:02, Screen Saver
+05/02/2011, 10:30:13, Screen Saver
+05/02/2011, 10:30:24, Screen Saver

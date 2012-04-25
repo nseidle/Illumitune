@@ -1,0 +1,735 @@
+Turning off amp!
+Turning on amp!
+Down
+Up
+Amplifier On and turned up
+GPS Configured
+IR Controller Online
+Light Controller Online
+Master Init Complete
+[GPS disabled], 141, Note,1
+[GPS disabled], 141, Note,1
+[GPS disabled], 142, Note,1
+[GPS disabled], 144, Note,2
+[GPS disabled], 144, Note,1
+[GPS disabled], 144, Note,3
+[GPS disabled], 145, Note,2
+[GPS disabled], 145, Note,4
+[GPS disabled], 145, Note,2
+[GPS disabled], 145, Note,1
+[GPS disabled], 145, Note,2
+[GPS disabled], 145, Note,3
+[GPS disabled], 145, Note,4
+[GPS disabled], 146, Note,4
+[GPS disabled], 146, Note,4
+[GPS disabled], 146, Note,2
+[GPS disabled], 146, Note,5
+[GPS disabled], 147, Note,3
+[GPS disabled], 147, Note,4
+[GPS disabled], 147, Note,5
+[GPS disabled], 147, Note,6
+[GPS disabled], 147, Note,7
+[GPS disabled], 147, Note,6
+[GPS disabled], 148, Note,5
+[GPS disabled], 148, Note,4
+[GPS disabled], 148, Note,2
+[GPS disabled], 148, Note,4
+[GPS disabled], 148, Note,1
+[GPS disabled], 148, Note,2
+[GPS disabled], 148, Note,3
+[GPS disabled], 148, Note,5
+[GPS disabled], 148, Note,4
+[GPS disabled], 149, Note,4
+[GPS disabled], 149, Note,3
+[GPS disabled], 149, Note,3
+[GPS disabled], 149, Note,4
+[GPS disabled], 149, Note,6
+[GPS disabled], 149, Note,5
+[GPS disabled], 150, Note,4
+[GPS disabled], 150, Note,5
+[GPS disabled], 150, Note,7
+[GPS disabled], 151, Note,7
+[GPS disabled], 151, Note,5
+[GPS disabled], 151, Note,6
+[GPS disabled], 151, Note,6
+[GPS disabled], 151, Note,8
+[GPS disabled], 152, Note,6
+[GPS disabled], 152, Note,7
+[GPS disabled], 152, Note,8
+[GPS disabled], 152, Note,7
+[GPS disabled], 152, Note,8
+[GPS disabled], 588, Note,8
+[GPS disabled], 772, Note,2
+[GPS disabled], 773, Note,3
+[GPS disabled], 773, Note,3
+[GPS disabled], 774, Note,4
+[GPS disabled], 775, Note,5
+[GPS disabled], 778, Note,4
+[GPS disabled], 778, Note,3
+[GPS disabled], 779, Note,3
+[GPS disabled], 779, Note,2
+[GPS disabled], 780, Note,2
+[GPS disabled], 780, Note,3
+[GPS disabled], 781, Note,2
+[GPS disabled], 782, Note,2
+[GPS disabled], 782, Note,1
+[GPS disabled], 782, Note,2
+[GPS disabled], 782, Note,2
+[GPS disabled], 782, Note,2
+[GPS disabled], 783, Note,2
+[GPS disabled], 783, Note,2
+[GPS disabled], 784, Note,4
+[GPS disabled], 785, Note,5
+[GPS disabled], 785, Note,5
+[GPS disabled], 785, Note,5
+[GPS disabled], 786, Note,5
+[GPS disabled], 786, Note,5
+[GPS disabled], 787, Note,4
+[GPS disabled], 788, Note,6
+[GPS disabled], 789, Note,6
+[GPS disabled], 790, Note,7
+[GPS disabled], 791, Note,8
+[GPS disabled], 791, Note,7
+[GPS disabled], 791, Note,6
+[GPS disabled], 792, Note,5
+[GPS disabled], 792, Note,4
+[GPS disabled], 793, Note,2
+[GPS disabled], 793, Note,1
+[GPS disabled], 794, Note,1
+[GPS disabled], 794, Note,2
+[GPS disabled], 794, Note,4
+[GPS disabled], 794, Note,5
+[GPS disabled], 794, Note,6
+[GPS disabled], 795, Note,6
+[GPS disabled], 795, Note,5
+[GPS disabled], 795, Note,5
+[GPS disabled], 795, Note,4
+[GPS disabled], 795, Note,2
+[GPS disabled], 795, Note,3
+[GPS disabled], 795, Note,3
+[GPS disabled], 796, Note,4
+[GPS disabled], 796, Note,5
+[GPS disabled], 796, Note,6
+[GPS disabled], 796, Note,6
+[GPS disabled], 797, Note,5
+[GPS disabled], 797, Note,4
+[GPS disabled], 797, Note,3
+[GPS disabled], 797, Note,3
+[GPS disabled], 798, Note,3
+[GPS disabled], 798, Note,4
+[GPS disabled], 798, Note,5
+[GPS disabled], 799, Note,6
+[GPS disabled], 799, Note,7
+[GPS disabled], 800, Note,8
+[GPS disabled], 800, Note,8
+[GPS disabled], 801, Note,4
+[GPS disabled], 801, Note,5
+[GPS disabled], 801, Note,4
+[GPS disabled], 801, Note,6
+[GPS disabled], 802, Note,5
+[GPS disabled], 802, Note,4
+[GPS disabled], 802, Note,2
+[GPS disabled], 803, Note,4
+[GPS disabled], 803, Note,2
+[GPS disabled], 803, Note,5
+[GPS disabled], 803, Note,5
+[GPS disabled], 803, Note,4
+[GPS disabled], 804, Note,5
+[GPS disabled], 804, Note,5
+[GPS disabled], 805, Note,3
+[GPS disabled], 847, Note,8
+[GPS disabled], 1041, Note,8
+[GPS disabled], 1055, Note,3
+[GPS disabled], 1055, Note,3
+[GPS disabled], 1055, Note,2
+[GPS disabled], 1055, Note,1
+[GPS disabled], 1055, Note,5
+[GPS disabled], 1055, Note,4
+[GPS disabled], 1056, Note,3
+[GPS disabled], 1056, Note,1
+[GPS disabled], 1056, Note,3
+[GPS disabled], 1056, Note,4
+[GPS disabled], 1056, Note,5
+[GPS disabled], 1056, Note,5
+[GPS disabled], 1056, Note,4
+[GPS disabled], 1056, Note,1
+[GPS disabled], 1057, Note,2
+[GPS disabled], 1057, Note,1
+[GPS disabled], 1057, Note,3
+[GPS disabled], 1057, Note,3
+[GPS disabled], 1057, Note,1
+[GPS disabled], 1057, Note,4
+[GPS disabled], 1058, Note,5
+[GPS disabled], 1058, Note,4
+[GPS disabled], 1058, Note,4
+[GPS disabled], 1058, Note,1
+[GPS disabled], 1058, Note,2
+[GPS disabled], 1058, Note,3
+[GPS disabled], 1058, Note,3
+[GPS disabled], 1058, Note,3
+[GPS disabled], 1058, Note,2
+[GPS disabled], 1059, Note,4
+[GPS disabled], 1059, Note,4
+[GPS disabled], 1060, Note,1
+[GPS disabled], 1060, Note,1
+[GPS disabled], 1064, Switching to instrument 1
+[GPS disabled], 1064, Note,1
+[GPS disabled], 1064, Note,1
+[GPS disabled], 1066, Note,1
+[GPS disabled], 1066, Note,1
+[GPS disabled], 1066, Note,1
+[GPS disabled], 1066, Note,1
+[GPS disabled], 1067, Note,1
+[GPS disabled], 1067, Note,2
+[GPS disabled], 1067, Note,2
+[GPS disabled], 1067, Note,2
+[GPS disabled], 1067, Note,2
+[GPS disabled], 1067, Note,2
+[GPS disabled], 1067, Note,2
+[GPS disabled], 1067, Note,3
+[GPS disabled], 1068, Note,2
+[GPS disabled], 1068, Note,1
+[GPS disabled], 1068, Note,8
+[GPS disabled], 1070, Note,1
+[GPS disabled], 1070, Note,2
+[GPS disabled], 1070, Note,7
+[GPS disabled], 1071, Note,6
+[GPS disabled], 1071, Note,4
+[GPS disabled], 1071, Note,6
+[GPS disabled], 1071, Note,6
+[GPS disabled], 1071, Note,4
+[GPS disabled], 1073, Note,5
+[GPS disabled], 1073, Note,5
+[GPS disabled], 1073, Note,1
+[GPS disabled], 1074, Note,2
+[GPS disabled], 1074, Note,2
+[GPS disabled], 1074, Note,4
+[GPS disabled], 1075, Note,1
+[GPS disabled], 1075, Note,4
+[GPS disabled], 1075, Note,5
+[GPS disabled], 1075, Note,1
+[GPS disabled], 1075, Note,5
+[GPS disabled], 1076, Note,5
+[GPS disabled], 1076, Note,1
+[GPS disabled], 1076, Note,6
+[GPS disabled], 1076, Note,2
+[GPS disabled], 1077, Note,7
+[GPS disabled], 1077, Note,7
+[GPS disabled], 1077, Note,4
+[GPS disabled], 1077, Note,4
+[GPS disabled], 1077, Note,8
+[GPS disabled], 1079, Note,8
+[GPS disabled], 1079, Note,7
+[GPS disabled], 1080, Note,1
+[GPS disabled], 1081, Switching to instrument 2
+[GPS disabled], 1081, Note,2
+[GPS disabled], 1081, Note,4
+[GPS disabled], 1081, Note,5
+[GPS disabled], 1081, Note,5
+[GPS disabled], 1081, Note,6
+[GPS disabled], 1082, Note,7
+[GPS disabled], 1082, Note,7
+[GPS disabled], 1082, Note,7
+[GPS disabled], 1082, Note,8
+[GPS disabled], 1086, Switching to instrument 3
+[GPS disabled], 1086, Note,6
+[GPS disabled], 1095, Note,8
+[GPS disabled], 1142, Note,1
+[GPS disabled], 1142, Note,1
+[GPS disabled], 1142, Note,1
+[GPS disabled], 1143, Note,2
+[GPS disabled], 1144, Note,3
+[GPS disabled], 1144, Note,3
+[GPS disabled], 1144, Note,2
+[GPS disabled], 1144, Note,4
+[GPS disabled], 1144, Note,4
+[GPS disabled], 1144, Note,4
+[GPS disabled], 1145, Note,3
+[GPS disabled], 1145, Note,1
+[GPS disabled], 1146, Switching to instrument 4
+[GPS disabled], 1146, Note,6
+[GPS disabled], 1147, Note,2
+[GPS disabled], 1147, Note,3
+[GPS disabled], 1148, Note,2
+[GPS disabled], 1148, Note,1
+[GPS disabled], 1149, Note,1
+[GPS disabled], 1149, Note,2
+[GPS disabled], 1149, Note,3
+[GPS disabled], 1150, Note,2
+[GPS disabled], 1150, Switching to noises
+[GPS disabled], 1151, Note,2
+[GPS disabled], 1151, Note,3
+[GPS disabled], 1151, Note,2
+[GPS disabled], 1152, Note,2
+[GPS disabled], 1152, Note,2
+[GPS disabled], 1152, Note,2
+[GPS disabled], 1152, Note,1
+[GPS disabled], 1153, Note,2
+[GPS disabled], 1153, Note,2
+[GPS disabled], 1153, Note,1
+[GPS disabled], 1153, Note,1
+[GPS disabled], 1154, Note,3
+[GPS disabled], 1154, Note,3
+[GPS disabled], 1154, Note,3
+[GPS disabled], 1155, Note,4
+[GPS disabled], 1155, Note,4
+[GPS disabled], 1155, Note,5
+[GPS disabled], 1156, Note,5
+[GPS disabled], 1156, Note,5
+[GPS disabled], 1156, Note,4
+[GPS disabled], 1157, Note,5
+[GPS disabled], 1157, Note,3
+[GPS disabled], 1157, Note,4
+[GPS disabled], 1157, Note,2
+[GPS disabled], 1205, Note,1
+[GPS disabled], 1205, Note,1
+[GPS disabled], 1206, Note,7
+[GPS disabled], 1207, Note,1
+[GPS disabled], 1207, Note,2
+[GPS disabled], 1207, Note,7
+[GPS disabled], 1207, Note,6
+[GPS disabled], 1207, Note,2
+[GPS disabled], 1207, Note,3
+[GPS disabled], 1207, Note,3
+[GPS disabled], 1207, Note,3
+[GPS disabled], 1208, Note,1
+[GPS disabled], 1208, Note,3
+[GPS disabled], 1208, Note,7
+[GPS disabled], 1208, Note,3
+[GPS disabled], 1208, Note,7
+[GPS disabled], 1208, Note,5
+[GPS disabled], 1208, Note,3
+[GPS disabled], 1208, Note,2
+[GPS disabled], 1208, Note,7
+[GPS disabled], 1208, Note,1
+[GPS disabled], 1209, Note,3
+[GPS disabled], 1209, Note,3
+[GPS disabled], 1209, Note,3
+[GPS disabled], 1209, Note,2
+[GPS disabled], 1209, Note,3
+[GPS disabled], 1209, Note,5
+[GPS disabled], 1209, Note,4
+[GPS disabled], 1209, Note,3
+[GPS disabled], 1210, Note,5
+[GPS disabled], 1210, Note,2
+[GPS disabled], 1210, Note,7
+[GPS disabled], 1210, Note,7
+[GPS disabled], 1210, Note,1
+[GPS disabled], 1210, Note,7
+[GPS disabled], 1210, Note,2
+[GPS disabled], 1210, Note,7
+[GPS disabled], 1210, Note,7
+[GPS disabled], 1211, Note,2
+[GPS disabled], 1211, Note,2
+[GPS disabled], 1211, Note,3
+[GPS disabled], 1211, Note,2
+[GPS disabled], 1211, Note,6
+[GPS disabled], 1211, Note,3
+[GPS disabled], 1211, Note,8
+[GPS disabled], 1212, Note,3
+[GPS disabled], 1212, Note,4
+[GPS disabled], 1212, Note,7
+[GPS disabled], 1212, Note,2
+[GPS disabled], 1212, Note,3
+[GPS disabled], 1212, Note,8
+[GPS disabled], 1212, Note,1
+[GPS disabled], 1212, Note,7
+[GPS disabled], 1212, Note,1
+[GPS disabled], 1212, Note,2
+[GPS disabled], 1212, Note,6
+[GPS disabled], 1213, Note,5
+[GPS disabled], 1214, Note,5
+[GPS disabled], 1214, Note,1
+[GPS disabled], 1214, Note,5
+[GPS disabled], 1214, Switching to instrument 0
+[GPS disabled], 1214, Note,5
+[GPS disabled], 1214, Note,5
+[GPS disabled], 1214, Note,7
+[GPS disabled], 1214, Note,2
+[GPS disabled], 1215, Note,6
+[GPS disabled], 1216, Note,2
+[GPS disabled], 1217, Note,5
+[GPS disabled], 1217, Note,4
+[GPS disabled], 1217, Note,4
+[GPS disabled], 1217, Note,6
+[GPS disabled], 1218, Note,4
+[GPS disabled], 1218, Note,5
+[GPS disabled], 1218, Note,7
+[GPS disabled], 1218, Note,6
+[GPS disabled], 1219, Note,8
+[GPS disabled], 1219, Note,7
+[GPS disabled], 1219, Note,7
+[GPS disabled], 1219, Note,6
+[GPS disabled], 1219, Note,7
+[GPS disabled], 1220, Note,5
+[GPS disabled], 1220, Note,4
+[GPS disabled], 1220, Note,6
+[GPS disabled], 1220, Note,5
+[GPS disabled], 1220, Note,3
+[GPS disabled], 1220, Note,3
+[GPS disabled], 1221, Note,4
+[GPS disabled], 1221, Note,4
+[GPS disabled], 1221, Note,3
+[GPS disabled], 1222, Note,2
+[GPS disabled], 1222, Note,4
+[GPS disabled], 1222, Note,8
+[GPS disabled], 1222, Note,7
+[GPS disabled], 1222, Note,2
+[GPS disabled], 1222, Note,7
+[GPS disabled], 1222, Note,3
+[GPS disabled], 1222, Note,2
+[GPS disabled], 1222, Note,3
+[GPS disabled], 1222, Note,6
+[GPS disabled], 1222, Note,3
+[GPS disabled], 1223, Note,2
+[GPS disabled], 1223, Note,7
+[GPS disabled], 1223, Note,1
+[GPS disabled], 1223, Note,8
+[GPS disabled], 1223, Note,7
+[GPS disabled], 1223, Note,3
+[GPS disabled], 1223, Note,6
+[GPS disabled], 1224, Note,7
+[GPS disabled], 1224, Note,2
+[GPS disabled], 1224, Note,3
+[GPS disabled], 1224, Note,6
+[GPS disabled], 1224, Note,3
+[GPS disabled], 1224, Note,5
+[GPS disabled], 1224, Note,3
+[GPS disabled], 1224, Note,2
+[GPS disabled], 1224, Note,5
+[GPS disabled], 1225, Note,2
+[GPS disabled], 1225, Note,2
+[GPS disabled], 1225, Note,2
+[GPS disabled], 1225, Note,1
+[GPS disabled], 1225, Note,2
+[GPS disabled], 1225, Note,2
+[GPS disabled], 1225, Note,1
+[GPS disabled], 1226, Note,1
+[GPS disabled], 1226, Note,2
+[GPS disabled], 1227, Note,3
+[GPS disabled], 1227, Note,2
+[GPS disabled], 1227, Note,4
+[GPS disabled], 1227, Note,3
+[GPS disabled], 1228, Note,4
+[GPS disabled], 1228, Note,3
+[GPS disabled], 1228, Note,3
+[GPS disabled], 1228, Note,5
+[GPS disabled], 1228, Note,4
+[GPS disabled], 1228, Note,5
+[GPS disabled], 1228, Note,4
+[GPS disabled], 1229, Note,4
+[GPS disabled], 1230, Note,4
+[GPS disabled], 1230, Note,4
+[GPS disabled], 1230, Note,5
+[GPS disabled], 1231, Note,5
+[GPS disabled], 1231, Note,5
+[GPS disabled], 1232, Note,4
+[GPS disabled], 1232, Note,6
+[GPS disabled], 1232, Note,5
+[GPS disabled], 1232, Note,7
+[GPS disabled], 1233, Note,6
+[GPS disabled], 1233, Note,8
+[GPS disabled], 1234, Note,7
+[GPS disabled], 1236, Switching to instrument 1
+[GPS disabled], 1238, Note,1
+[GPS disabled], 1239, Note,1
+[GPS disabled], 1240, Note,3
+[GPS disabled], 1240, Note,2
+[GPS disabled], 1240, Note,3
+[GPS disabled], 1241, Note,5
+[GPS disabled], 1241, Note,5
+[GPS disabled], 1241, Note,5
+[GPS disabled], 1241, Note,4
+[GPS disabled], 1242, Note,4
+[GPS disabled], 1242, Note,6
+[GPS disabled], 1243, Note,7
+[GPS disabled], 1243, Note,6
+[GPS disabled], 1243, Note,6
+[GPS disabled], 1243, Note,8
+[GPS disabled], 1244, Note,7
+[GPS disabled], 1244, Note,7
+[GPS disabled], 1244, Note,7
+[GPS disabled], 1245, Note,8
+[GPS disabled], 1245, Note,5
+[GPS disabled], 1245, Note,7
+[GPS disabled], 1245, Note,4
+[GPS disabled], 1246, Note,6
+[GPS disabled], 1246, Note,4
+[GPS disabled], 1246, Note,5
+[GPS disabled], 1246, Note,2
+[GPS disabled], 1246, Note,4
+[GPS disabled], 1247, Note,4
+[GPS disabled], 1248, Note,3
+[GPS disabled], 1248, Note,5
+[GPS disabled], 1248, Note,5
+[GPS disabled], 1248, Note,5
+[GPS disabled], 1249, Note,4
+[GPS disabled], 1249, Note,1
+[GPS disabled], 1249, Note,1
+[GPS disabled], 1249, Note,3
+[GPS disabled], 1249, Note,3
+[GPS disabled], 1249, Note,3
+[GPS disabled], 1323, Switching to instrument 2
+[GPS disabled], 1323, Note,1
+[GPS disabled], 1323, Note,6
+[GPS disabled], 1323, Note,2
+[GPS disabled], 1324, Note,2
+[GPS disabled], 1324, Note,2
+[GPS disabled], 1324, Note,2
+[GPS disabled], 1325, Note,2
+[GPS disabled], 1326, Note,2
+[GPS disabled], 1326, Note,2
+[GPS disabled], 1327, Note,2
+[GPS disabled], 1327, Note,3
+[GPS disabled], 1327, Note,2
+[GPS disabled], 1327, Note,1
+[GPS disabled], 1327, Note,3
+[GPS disabled], 1327, Note,1
+[GPS disabled], 1327, Note,3
+[GPS disabled], 1328, Note,3
+[GPS disabled], 1329, Note,1
+[GPS disabled], 1329, Note,3
+[GPS disabled], 1329, Note,2
+[GPS disabled], 1330, Note,4
+[GPS disabled], 1330, Note,5
+[GPS disabled], 1330, Note,5
+[GPS disabled], 1330, Note,6
+[GPS disabled], 1330, Note,5
+[GPS disabled], 1331, Note,6
+[GPS disabled], 1331, Note,5
+[GPS disabled], 1331, Note,7
+[GPS disabled], 1331, Note,6
+[GPS disabled], 1331, Note,8
+[GPS disabled], 1331, Note,7
+[GPS disabled], 1332, Note,6
+[GPS disabled], 1332, Note,8
+[GPS disabled], 1333, Note,7
+[GPS disabled], 1333, Note,6
+[GPS disabled], 1334, Note,6
+[GPS disabled], 1334, Note,5
+[GPS disabled], 1334, Note,4
+[GPS disabled], 1335, Note,3
+[GPS disabled], 1335, Note,3
+[GPS disabled], 1335, Note,2
+[GPS disabled], 1335, Note,1
+[GPS disabled], 1335, Note,2
+[GPS disabled], 1335, Note,2
+[GPS disabled], 1336, Note,1
+[GPS disabled], 1336, Note,2
+[GPS disabled], 1336, Note,1
+[GPS disabled], 1336, Note,1
+[GPS disabled], 1336, Note,1
+[GPS disabled], 1338, Switching to instrument 3
+[GPS disabled], 1338, Note,1
+[GPS disabled], 1338, Note,1
+[GPS disabled], 1338, Note,2
+[GPS disabled], 1339, Note,3
+[GPS disabled], 1340, Note,1
+[GPS disabled], 1340, Note,1
+[GPS disabled], 1341, Note,1
+[GPS disabled], 1341, Note,3
+[GPS disabled], 1341, Note,4
+[GPS disabled], 1342, Note,5
+[GPS disabled], 1342, Note,5
+[GPS disabled], 1346, Note,6
+[GPS disabled], 1347, Note,5
+[GPS disabled], 1347, Note,5
+[GPS disabled], 1347, Note,4
+[GPS disabled], 1347, Note,4
+[GPS disabled], 1348, Note,3
+[GPS disabled], 1348, Note,2
+[GPS disabled], 1349, Note,4
+[GPS disabled], 1349, Note,5
+[GPS disabled], 1350, Note,6
+[GPS disabled], 1350, Note,4
+[GPS disabled], 1350, Note,7
+[GPS disabled], 1351, Note,5
+[GPS disabled], 1351, Note,8
+[GPS disabled], 1351, Note,5
+[GPS disabled], 1351, Note,5
+[GPS disabled], 1351, Note,7
+[GPS disabled], 1389, Switching to instrument 4
+[GPS disabled], 1392, Switching to noises
+[GPS disabled], 1394, Switching to instrument 0
+[GPS disabled], 1394, Note,6
+[GPS disabled], 1394, Switching to instrument 1
+[GPS disabled], 1395, Switching to instrument 2
+[GPS disabled], 1395, Switching to instrument 3
+[GPS disabled], 1396, Switching to instrument 4
+[GPS disabled], 1396, Switching to noises
+[GPS disabled], 1397, Switching to instrument 0
+[GPS disabled], 1397, Switching to instrument 1
+[GPS disabled], 1398, Switching to instrument 2
+[GPS disabled], 1398, Switching to instrument 3
+[GPS disabled], 1398, Switching to instrument 4
+[GPS disabled], 1398, Note,2
+[GPS disabled], 1399, Note,2
+[GPS disabled], 1399, Note,2
+[GPS disabled], 1400, Note,1
+[GPS disabled], 1400, Switching to noises
+[GPS disabled], 1401, Switching to instrument 0
+[GPS disabled], 1401, Note,1
+[GPS disabled], 1401, Note,2
+[GPS disabled], 1401, Switching to instrument 1
+[GPS disabled], 1402, Switching to instrument 2
+[GPS disabled], 1403, Switching to instrument 3
+[GPS disabled], 1404, Switching to instrument 4
+[GPS disabled], 1404, Switching to noises
+[GPS disabled], 1404, Note,6
+[GPS disabled], 1405, Note,1
+[GPS disabled], 1406, Note,2
+[GPS disabled], 1406, Note,3
+[GPS disabled], 1407, Switching to instrument 0
+[GPS disabled], 1407, Note,3
+[GPS disabled], 1407, Note,1
+[GPS disabled], 1408, Note,4
+[GPS disabled], 1408, Note,1
+[GPS disabled], 1408, Switching to instrument 1
+[GPS disabled], 1408, Note,3
+[GPS disabled], 1409, Switching to instrument 2
+[GPS disabled], 1409, Note,2
+[GPS disabled], 1409, Note,6
+[GPS disabled], 1409, Note,1
+[GPS disabled], 1409, Note,2
+[GPS disabled], 1410, Switching to instrument 3
+[GPS disabled], 1411, Switching to instrument 4
+[GPS disabled], 1411, Note,6
+[GPS disabled], 1411, Switching to noises
+[GPS disabled], 1412, Switching to instrument 0
+[GPS disabled], 1412, Switching to instrument 1
+[GPS disabled], 1413, Switching to instrument 2
+[GPS disabled], 1443, Switching to instrument 3
+[GPS disabled], 1443, Switching to instrument 4
+[GPS disabled], 1444, Switching to noises
+[GPS disabled], 1444, Switching to instrument 0
+[GPS disabled], 1445, Switching to instrument 1
+[GPS disabled], 1445, Switching to instrument 2
+[GPS disabled], 1446, Switching to instrument 3
+[GPS disabled], 1447, Switching to instrument 4
+[GPS disabled], 1447, Switching to noises
+[GPS disabled], 1448, Switching to instrument 0
+[GPS disabled], 1448, Note,6
+[GPS disabled], 1448, Switching to instrument 1
+[GPS disabled], 1449, Switching to instrument 2
+[GPS disabled], 1449, Note,6
+[GPS disabled], 1450, Switching to instrument 3
+[GPS disabled], 1451, Switching to instrument 4
+[GPS disabled], 1451, Switching to noises
+[GPS disabled], 1452, Switching to instrument 0
+[GPS disabled], 1454, Switching to instrument 1
+[GPS disabled], 1455, Switching to instrument 2
+[GPS disabled], 1455, Switching to instrument 3
+[GPS disabled], 1457, Switching to instrument 4
+[GPS disabled], 1458, Switching to noises
+[GPS disabled], 1694, Note,7
+[GPS disabled], 1695, Note,7
+[GPS disabled], 1713, Note,8
+[GPS disabled], 1741, Note,1
+[GPS disabled], 1743, Note,2
+[GPS disabled], 1743, Note,4
+[GPS disabled], 1744, Note,3
+[GPS disabled], 1744, Note,2
+[GPS disabled], 1746, Note,2
+[GPS disabled], 1746, Note,2
+[GPS disabled], 1746, Switching to instrument 0
+[GPS disabled], 1747, Switching to instrument 1
+[GPS disabled], 1747, Note,2
+[GPS disabled], 1747, Note,2
+[GPS disabled], 1747, Switching to instrument 2
+[GPS disabled], 1747, Note,2
+[GPS disabled], 1748, Note,2
+[GPS disabled], 1748, Note,1
+[GPS disabled], 1749, Note,1
+[GPS disabled], 1749, Note,1
+[GPS disabled], 1749, Note,1
+[GPS disabled], 1750, Note,1
+[GPS disabled], 1750, Switching to instrument 3
+[GPS disabled], 1751, Switching to instrument 4
+[GPS disabled], 1751, Note,2
+[GPS disabled], 1751, Switching to noises
+[GPS disabled], 1752, Switching to instrument 0
+[GPS disabled], 1752, Note,2
+[GPS disabled], 1752, Note,6
+[GPS disabled], 1752, Note,2
+[GPS disabled], 1752, Switching to instrument 1
+[GPS disabled], 1752, Note,1
+[GPS disabled], 1753, Switching to instrument 2
+[GPS disabled], 1754, Switching to instrument 3
+[GPS disabled], 1754, Switching to instrument 4
+[GPS disabled], 1755, Switching to noises
+[GPS disabled], 1755, Note,6
+[GPS disabled], 1755, Switching to instrument 0
+[GPS disabled], 1757, Switching to instrument 1
+[GPS disabled], 1758, Switching to instrument 2
+[GPS disabled], 1759, Switching to instrument 3
+[GPS disabled], 1759, Switching to instrument 4
+[GPS disabled], 1766, Switching to noises
+[GPS disabled], 1767, Switching to instrument 0
+[GPS disabled], 1767, Switching to instrument 1
+[GPS disabled], 1774, Note,4
+[GPS disabled], 1774, Note,4
+[GPS disabled], 1780, Note,5
+[GPS disabled], 1782, Note,4
+[GPS disabled], 1785, Note,4
+[GPS disabled], 1785, Note,6
+[GPS disabled], 1785, Note,4
+[GPS disabled], 1785, Note,4
+[GPS disabled], 1786, Note,5
+[GPS disabled], 1786, Note,4
+[GPS disabled], 1786, Note,4
+[GPS disabled], 1786, Note,6
+[GPS disabled], 1786, Note,4
+[GPS disabled], 1786, Note,4
+[GPS disabled], 1786, Note,7
+[GPS disabled], 1787, Note,8
+[GPS disabled], 1787, Note,8
+[GPS disabled], 1787, Note,7
+[GPS disabled], 1787, Note,6
+[GPS disabled], 1788, Note,7
+[GPS disabled], 1788, Note,4
+[GPS disabled], 1788, Note,3
+[GPS disabled], 1788, Note,3
+[GPS disabled], 1788, Note,4
+[GPS disabled], 1788, Note,6
+[GPS disabled], 1789, Note,5
+[GPS disabled], 1789, Note,7
+[GPS disabled], 1789, Note,5
+[GPS disabled], 1789, Note,5
+[GPS disabled], 1789, Note,6
+[GPS disabled], 1789, Note,4
+[GPS disabled], 1790, Note,6
+[GPS disabled], 1790, Note,5
+[GPS disabled], 1790, Note,3
+[GPS disabled], 1790, Note,3
+[GPS disabled], 1791, Note,2
+[GPS disabled], 1791, Note,2
+[GPS disabled], 1791, Note,3
+[GPS disabled], 1791, Note,2
+[GPS disabled], 1791, Note,4
+[GPS disabled], 1791, Note,3
+[GPS disabled], 1792, Note,4
+[GPS disabled], 1792, Note,2
+[GPS disabled], 1792, Note,1
+[GPS disabled], 1792, Switching to instrument 2
+[GPS disabled], 1792, Note,2
+[GPS disabled], 1792, Note,1
+[GPS disabled], 1793, Note,2
+[GPS disabled], 1793, Note,3
+[GPS disabled], 1793, Note,3
+[GPS disabled], 1793, Note,4
+[GPS disabled], 1793, Note,5
+[GPS disabled], 1793, Note,5
+[GPS disabled], 1793, Note,6
+[GPS disabled], 1794, Note,7
+[GPS disabled], 1794, Note,8
+[GPS disabled], 1794, Note,8
+[GPS disabled], 1794, Note,7
+[GPS disabled], 1795, Note,6
+[GPS disabled], 1795, Note,5
+[GPS disabled], 1795, Note,3
+[GPS disabled], 1795, Note,2
+[GPS disabled], 1822, Switching to instrument 3
+[GPS disabled], 1823, Switching to instrument 4
+[GPS disabled], 1823, Switching to noises
+[GPS disabled], 1824, Switching to instrument 0
+[GPS disabled], 2291, Note,8

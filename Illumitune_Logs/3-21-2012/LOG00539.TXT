@@ -1,0 +1,21 @@
+Turning off amp!
+Turning on amp!
+Down
+Up
+Amplifier On and turned up
+00/00/0000, 00:00:00, Switching to instrument 0
+GPS Configured
+IR Controller Online
+Light Controller Online
+Master Init Complete
+01/09/2012, 11:16:40, Note,8
+01/09/2012, 11:16:41, Note,7
+01/09/2012, 11:16:41, Note,7
+01/09/2012, 11:16:41, Note,6
+01/09/2012, 11:16:42, Note,5
+01/09/2012, 11:16:42, Note,4
+01/09/2012, 11:16:42, Note,4
+01/09/2012, 11:16:43, Note,5
+01/09/2012, 11:16:43, Note,6
+01/09/2012, 11:16:43, Note,7
+01/09/2012, 11:16:43, Note,8

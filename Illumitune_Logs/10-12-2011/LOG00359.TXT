@@ -1,0 +1,130 @@
+Turning off amp!
+Turning on amp!
+Down
+Up
+Amplifier On and turned up
+00/00/0000, 00:00:00, Switching to instrument 0
+IR Controller Online
+Light Controller Online
+Master Init Complete
+10/09/2011, 12:21:25, Switching to instrument 1
+10/09/2011, 12:21:26, Switching to instrument 2
+10/09/2011, 12:21:26, Switching to instrument 3
+10/09/2011, 12:21:26, Switching to instrument 4
+10/09/2011, 12:21:28, Note,1
+10/09/2011, 12:21:29, Note,2
+10/09/2011, 12:21:29, Note,2
+10/09/2011, 12:21:30, Note,4
+10/09/2011, 12:21:30, Note,5
+10/09/2011, 12:21:30, Note,6
+10/09/2011, 12:21:31, Note,7
+10/09/2011, 12:21:31, Note,7
+10/09/2011, 12:21:31, Note,8
+10/09/2011, 12:21:32, Note,7
+10/09/2011, 12:29:20, Note,7
+10/09/2011, 12:29:21, Note,7
+10/09/2011, 12:29:21, Note,7
+10/09/2011, 12:29:21, Note,7
+10/09/2011, 12:29:21, Note,7
+10/09/2011, 12:29:21, Note,7
+10/09/2011, 12:29:21, Note,7
+10/09/2011, 12:29:21, Note,7
+10/09/2011, 12:29:22, Note,7
+10/09/2011, 12:29:22, Note,7
+10/09/2011, 12:29:22, Note,7
+10/09/2011, 12:29:22, Note,7
+10/09/2011, 12:29:22, Note,7
+10/09/2011, 12:29:23, Note,7
+10/09/2011, 12:29:23, Note,7
+10/09/2011, 12:29:23, Note,5
+10/09/2011, 12:29:23, Note,7
+10/09/2011, 12:29:24, Note,7
+10/09/2011, 12:29:24, Note,5
+10/09/2011, 12:29:24, Note,7
+10/09/2011, 12:29:24, Note,7
+10/09/2011, 12:29:24, Note,7
+10/09/2011, 12:29:25, Note,4
+10/09/2011, 12:29:25, Note,7
+10/09/2011, 12:29:26, Note,3
+10/09/2011, 12:29:27, Note,7
+10/09/2011, 12:29:27, Note,7
+10/09/2011, 12:29:27, Note,2
+10/09/2011, 12:29:27, Note,7
+10/09/2011, 12:29:28, Note,3
+10/09/2011, 12:29:29, Note,6
+10/09/2011, 12:29:29, Note,4
+10/09/2011, 12:29:30, Note,3
+10/09/2011, 12:29:30, Note,5
+10/09/2011, 12:29:30, Note,5
+10/09/2011, 12:29:30, Note,2
+10/09/2011, 12:29:30, Note,5
+10/09/2011, 12:29:31, Note,2
+10/09/2011, 12:29:31, Note,7
+10/09/2011, 12:29:31, Note,1
+10/09/2011, 12:29:31, Note,1
+10/09/2011, 12:29:31, Note,1
+10/09/2011, 12:29:32, Note,1
+10/09/2011, 12:29:32, Note,6
+10/09/2011, 12:29:33, Note,4
+10/09/2011, 12:29:33, Note,3
+10/09/2011, 12:29:34, Note,6
+10/09/2011, 12:29:34, Note,1
+10/09/2011, 12:29:35, Note,1
+10/09/2011, 12:29:40, Switching to noises
+10/09/2011, 12:29:40, Switching to instrument 0
+10/09/2011, 12:30:52, Switching to instrument 1
+10/09/2011, 12:30:52, Switching to instrument 2
+10/09/2011, 12:30:54, Switching to instrument 3
+10/09/2011, 12:30:54, Switching to instrument 4
+10/09/2011, 12:30:55, Switching to noises
+10/09/2011, 12:30:55, Switching to instrument 0
+10/09/2011, 12:31:06, Switching to instrument 1
+10/09/2011, 12:31:06, Switching to instrument 2
+10/09/2011, 12:31:07, Switching to instrument 3
+10/09/2011, 12:31:08, Switching to instrument 4
+10/09/2011, 12:31:09, Switching to noises
+10/09/2011, 12:31:10, Switching to instrument 0
+10/09/2011, 12:31:10, Switching to instrument 1
+10/09/2011, 12:31:10, Switching to instrument 2
+10/09/2011, 12:31:10, Switching to instrument 3
+10/09/2011, 12:31:11, Switching to instrument 4
+10/09/2011, 12:31:11, Switching to noises
+10/09/2011, 12:31:18, Switching to instrument 0
+10/09/2011, 12:36:37, Switching to instrument 1
+10/09/2011, 12:36:41, Switching to instrument 2
+10/09/2011, 12:36:46, Switching to instrument 3
+10/09/2011, 12:36:46, Switching to instrument 4
+10/09/2011, 12:36:46, Switching to noises
+10/09/2011, 12:36:46, Switching to instrument 0
+10/09/2011, 12:36:46, Switching to instrument 1
+10/09/2011, 12:36:46, Switching to instrument 2
+10/09/2011, 12:36:48, Switching to instrument 3
+10/09/2011, 12:36:48, Switching to instrument 4
+10/09/2011, 12:36:48, Switching to noises
+10/09/2011, 12:36:49, Switching to instrument 0
+10/09/2011, 12:36:49, Switching to instrument 1
+10/09/2011, 12:36:49, Switching to instrument 2
+10/09/2011, 12:36:50, Switching to instrument 3
+10/09/2011, 12:36:50, Switching to instrument 4
+10/09/2011, 12:36:50, Switching to noises
+10/09/2011, 12:36:50, Switching to instrument 0
+10/09/2011, 12:38:06, Switching to instrument 1
+10/09/2011, 12:38:06, Switching to instrument 2
+10/09/2011, 12:38:09, Switching to instrument 3
+10/09/2011, 12:38:09, Switching to instrument 4
+10/09/2011, 12:38:09, Switching to noises
+10/09/2011, 12:38:10, Switching to instrument 0
+10/09/2011, 12:38:10, Switching to instrument 1
+10/09/2011, 12:38:11, Switching to instrument 2
+10/09/2011, 12:38:13, Switching to instrument 3
+10/09/2011, 12:38:13, Switching to instrument 4
+Illumitune Master Controller v2.0
+Turning off amp!
+Turning on amp!
+Down
+Up
+Amplifier On and turned up
+00/00/0000, 00:00:00, Switching to instrument 0
+IR Controller Online
+Light Controller Online
+Master Init Complete

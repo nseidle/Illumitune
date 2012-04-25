@@ -1,0 +1,148 @@
+Turning off amp!
+Turning on amp!
+Down
+Up
+Amplifier On and turned up
+00/00/0000, 00:00:00, Switching to instrument 0
+IR Controller Online
+Light Controller Online
+Master Init Complete
+10/27/2011, 10:10:52, Note,4
+10/27/2011, 10:10:52, Note,3
+10/27/2011, 10:10:52, Note,2
+10/27/2011, 10:10:53, Note,2
+10/27/2011, 10:10:53, Note,3
+10/27/2011, 10:10:53, Note,4
+10/27/2011, 10:10:53, Note,5
+10/27/2011, 10:10:53, Note,5
+10/27/2011, 10:10:53, Note,5
+10/27/2011, 10:10:53, Note,6
+10/27/2011, 10:10:54, Note,7
+10/27/2011, 10:10:54, Note,8
+10/27/2011, 10:10:54, Note,6
+10/27/2011, 10:10:55, Note,5
+10/27/2011, 10:10:55, Note,4
+10/27/2011, 10:10:55, Note,3
+10/27/2011, 10:10:55, Note,2
+10/27/2011, 10:10:55, Note,1
+10/27/2011, 10:10:56, Note,2
+10/27/2011, 10:10:56, Note,2
+10/27/2011, 10:10:56, Note,3
+10/27/2011, 10:10:56, Note,4
+10/27/2011, 10:10:56, Note,5
+10/27/2011, 10:10:56, Note,5
+10/27/2011, 10:10:57, Note,7
+10/27/2011, 10:10:57, Note,8
+10/27/2011, 10:10:57, Note,7
+10/27/2011, 10:10:57, Note,6
+10/27/2011, 10:10:58, Note,5
+10/27/2011, 10:10:58, Note,4
+10/27/2011, 10:10:58, Note,8
+10/27/2011, 10:10:58, Note,3
+10/27/2011, 10:10:58, Note,2
+10/27/2011, 10:10:59, Note,6
+10/27/2011, 10:10:59, Note,1
+10/27/2011, 10:10:59, Note,5
+10/27/2011, 10:10:59, Note,5
+10/27/2011, 10:10:59, Note,5
+10/27/2011, 10:11:00, Note,3
+10/27/2011, 10:11:00, Note,3
+10/27/2011, 10:11:00, Note,4
+10/27/2011, 10:11:00, Note,5
+10/27/2011, 10:11:00, Note,6
+10/27/2011, 10:11:00, Note,4
+10/27/2011, 10:11:00, Note,4
+10/27/2011, 10:11:00, Note,6
+10/27/2011, 10:11:00, Note,5
+10/27/2011, 10:11:01, Note,5
+10/27/2011, 10:11:01, Note,6
+10/27/2011, 10:11:01, Note,4
+10/27/2011, 10:11:01, Note,4
+10/27/2011, 10:11:06, Note,3
+10/27/2011, 10:11:06, Note,5
+10/27/2011, 10:11:06, Note,3
+10/27/2011, 10:11:06, Note,6
+10/27/2011, 10:11:06, Note,3
+10/27/2011, 10:11:06, Note,5
+10/27/2011, 10:11:06, Note,6
+10/27/2011, 10:11:07, Note,3
+10/27/2011, 10:11:07, Note,5
+10/27/2011, 10:11:07, Note,4
+10/27/2011, 10:11:07, Note,3
+10/27/2011, 10:11:07, Note,4
+10/27/2011, 10:11:07, Note,5
+10/27/2011, 10:11:07, Note,5
+10/27/2011, 10:11:07, Note,5
+10/27/2011, 10:11:08, Note,6
+10/27/2011, 10:11:08, Note,6
+10/27/2011, 10:11:08, Note,6
+10/27/2011, 10:11:08, Note,5
+10/27/2011, 10:11:09, Note,6
+10/27/2011, 10:11:10, Note,8
+10/27/2011, 10:11:10, Note,7
+10/27/2011, 10:11:10, Note,6
+10/27/2011, 10:11:10, Note,4
+10/27/2011, 10:11:18, Note,8
+10/27/2011, 10:11:18, Note,7
+10/27/2011, 10:11:18, Note,6
+10/27/2011, 10:11:19, Note,7
+10/27/2011, 10:11:19, Note,6
+10/27/2011, 10:11:19, Note,5
+10/27/2011, 10:11:19, Note,4
+10/27/2011, 10:11:20, Note,2
+10/27/2011, 10:11:22, Note,4
+10/27/2011, 10:11:22, Note,4
+10/27/2011, 10:11:22, Note,5
+10/27/2011, 10:11:22, Note,6
+10/27/2011, 10:11:22, Note,4
+10/27/2011, 10:11:23, Note,4
+10/27/2011, 10:11:23, Note,4
+10/27/2011, 10:11:24, Note,5
+10/27/2011, 10:11:24, Note,4
+10/27/2011, 10:11:24, Note,3
+10/27/2011, 10:11:39, Note,7
+10/27/2011, 10:12:31, Switching to instrument 1
+10/27/2011, 10:12:45, Switching to instrument 2
+10/27/2011, 10:12:48, Switching to instrument 3
+10/27/2011, 10:14:45, Switching to instrument 4
+10/27/2011, 10:14:50, Switching to noises
+10/27/2011, 10:14:50, Switching to instrument 0
+10/27/2011, 10:14:55, Switching to instrument 1
+10/27/2011, 10:14:57, Switching to instrument 2
+10/27/2011, 10:14:58, Switching to instrument 3
+10/27/2011, 10:15:00, Switching to instrument 4
+10/27/2011, 10:15:01, Switching to noises
+10/27/2011, 10:21:22, Switching to instrument 0
+10/27/2011, 10:21:23, Switching to instrument 1
+10/27/2011, 10:21:23, Switching to instrument 2
+10/27/2011, 10:21:24, Switching to instrument 3
+10/27/2011, 10:21:25, Switching to instrument 4
+10/27/2011, 10:21:25, Switching to noises
+10/27/2011, 10:21:25, Switching to instrument 0
+10/27/2011, 10:21:25, Switching to instrument 1
+10/27/2011, 10:21:25, Switching to instrument 2
+10/27/2011, 10:21:25, Switching to instrument 3
+10/27/2011, 10:21:28, Switching to instrument 4
+10/27/2011, 10:21:28, Switching to noises
+10/27/2011, 10:21:28, Switching to instrument 0
+10/27/2011, 10:21:34, Switching to instrument 1
+10/27/2011, 10:21:34, Switching to instrument 2
+10/27/2011, 10:21:35, Switching to instrument 3
+10/27/2011, 10:21:35, Switching to instrument 4
+10/27/2011, 10:21:36, Switching to noises
+10/27/2011, 10:21:36, Switching to instrument 0
+10/27/2011, 10:21:37, Switching to instrument 1
+10/27/2011, 10:21:39, Switching to instrument 2
+10/27/2011, 10:21:40, Switching to instrument 3
+10/27/2011, 10:21:40, Switching to instrument 4
+10/27/2011, 10:21:43, Switching to noises
+10/27/2011, 10:21:43, Switching to instrument 0
+10/27/2011, 10:21:44, Switching to instrument 1
+10/27/2011, 10:21:44, Switching to instrument 2
+10/27/2011, 10:23:11, Switching to instrument 3
+10/27/2011, 10:23:13, Switching to instrument 4
+10/27/2011, 10:23:14, Switching to noises
+10/27/2011, 10:23:17, Switching to instrument 0
+10/27/2011, 10:23:18, Switching to instrument 1
+10/27/2011, 10:23:20, Switching to instrument 2
+10/27/2011, 10:23:22, Switching to instrument 3

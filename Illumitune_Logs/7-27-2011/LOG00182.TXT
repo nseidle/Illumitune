@@ -1,0 +1,536 @@
+Turning off amp!
+Turning on amp!
+Down
+Up
+Amplifier On and turned up
+IR Controller Online
+Light Controller Online
+Master Init Complete
+05/31/2011, 15:52:30, Screen Saver
+05/31/2011, 15:52:41, Screen Saver
+05/31/2011, 15:52:51, Note,2
+05/31/2011, 15:52:51, Note,4
+05/31/2011, 15:52:51, Note,5
+05/31/2011, 15:52:51, Note,5
+05/31/2011, 15:52:51, Note,6
+05/31/2011, 15:52:51, Note,5
+05/31/2011, 15:52:51, Note,4
+05/31/2011, 15:52:51, Note,4
+05/31/2011, 15:52:51, Note,7
+05/31/2011, 15:52:52, Note,8
+05/31/2011, 15:52:52, Note,7
+05/31/2011, 15:52:52, Note,4
+05/31/2011, 15:52:52, Note,7
+05/31/2011, 15:52:52, Note,7
+05/31/2011, 15:52:52, Note,1
+05/31/2011, 15:52:52, Note,1
+05/31/2011, 15:52:52, Note,1
+05/31/2011, 15:52:52, Note,8
+05/31/2011, 15:52:52, Note,6
+05/31/2011, 15:52:52, Note,6
+05/31/2011, 15:52:52, Note,7
+05/31/2011, 15:52:52, Note,2
+05/31/2011, 15:52:52, Note,2
+05/31/2011, 15:52:53, Note,7
+05/31/2011, 15:52:53, Note,6
+05/31/2011, 15:52:53, Note,2
+05/31/2011, 15:52:53, Note,8
+05/31/2011, 15:52:53, Note,7
+05/31/2011, 15:52:53, Note,8
+05/31/2011, 15:52:53, Note,7
+05/31/2011, 15:52:54, Note,6
+05/31/2011, 15:52:54, Note,8
+05/31/2011, 15:52:54, Note,7
+05/31/2011, 15:52:54, Note,8
+05/31/2011, 15:52:56, Note,8
+05/31/2011, 15:52:56, Note,8
+05/31/2011, 15:52:56, Note,8
+05/31/2011, 15:52:56, Note,7
+05/31/2011, 15:52:56, Note,6
+05/31/2011, 15:52:57, Note,6
+05/31/2011, 15:52:57, Note,5
+05/31/2011, 15:52:57, Note,5
+05/31/2011, 15:52:57, Note,4
+05/31/2011, 15:52:57, Note,5
+05/31/2011, 15:52:58, Note,3
+05/31/2011, 15:52:58, Note,3
+05/31/2011, 15:52:58, Note,2
+05/31/2011, 15:53:00, Note,6
+05/31/2011, 15:53:00, Note,3
+05/31/2011, 15:53:01, Note,3
+05/31/2011, 15:53:01, Note,2
+05/31/2011, 15:53:01, Note,4
+05/31/2011, 15:53:01, Note,3
+05/31/2011, 15:53:01, Note,4
+05/31/2011, 15:53:11, Screen Saver
+05/31/2011, 15:53:22, Screen Saver
+05/31/2011, 15:53:33, Screen Saver
+05/31/2011, 15:53:44, Screen Saver
+05/31/2011, 15:53:55, Screen Saver
+05/31/2011, 15:54:06, Screen Saver
+05/31/2011, 15:54:17, Screen Saver
+05/31/2011, 15:54:28, Screen Saver
+05/31/2011, 15:54:39, Screen Saver
+05/31/2011, 15:54:50, Screen Saver
+05/31/2011, 15:55:01, Screen Saver
+05/31/2011, 15:55:12, Screen Saver
+05/31/2011, 15:55:23, Screen Saver
+05/31/2011, 15:55:34, Screen Saver
+05/31/2011, 15:55:45, Screen Saver
+05/31/2011, 15:55:56, Screen Saver
+05/31/2011, 15:56:07, Screen Saver
+05/31/2011, 15:56:18, Screen Saver
+05/31/2011, 15:56:29, Screen Saver
+05/31/2011, 15:56:40, Screen Saver
+05/31/2011, 15:56:51, Screen Saver
+05/31/2011, 15:57:02, Screen Saver
+05/31/2011, 15:57:13, Screen Saver
+05/31/2011, 15:57:24, Screen Saver
+05/31/2011, 15:57:35, Screen Saver
+05/31/2011, 15:57:46, Screen Saver
+05/31/2011, 15:57:57, Screen Saver
+05/31/2011, 15:58:08, Screen Saver
+05/31/2011, 15:58:19, Screen Saver
+05/31/2011, 15:58:30, Screen Saver
+05/31/2011, 15:58:41, Screen Saver
+05/31/2011, 15:58:52, Screen Saver
+05/31/2011, 15:59:03, Screen Saver
+05/31/2011, 15:59:14, Screen Saver
+05/31/2011, 15:59:25, Screen Saver
+05/31/2011, 15:59:36, Screen Saver
+05/31/2011, 15:59:47, Screen Saver
+05/31/2011, 15:59:58, Screen Saver
+05/31/2011, 16:00:09, Screen Saver
+05/31/2011, 16:00:20, Screen Saver
+05/31/2011, 16:00:31, Screen Saver
+05/31/2011, 16:00:42, Screen Saver
+05/31/2011, 16:00:53, Screen Saver
+05/31/2011, 16:01:04, Screen Saver
+05/31/2011, 16:01:15, Screen Saver
+05/31/2011, 16:01:26, Screen Saver
+05/31/2011, 16:01:37, Screen Saver
+05/31/2011, 16:01:48, Screen Saver
+05/31/2011, 16:01:59, Screen Saver
+05/31/2011, 16:02:10, Screen Saver
+05/31/2011, 16:02:21, Screen Saver
+05/31/2011, 16:02:32, Screen Saver
+05/31/2011, 16:02:43, Screen Saver
+05/31/2011, 16:02:54, Screen Saver
+05/31/2011, 16:03:05, Screen Saver
+05/31/2011, 16:03:16, Screen Saver
+05/31/2011, 16:03:27, Screen Saver
+05/31/2011, 16:03:38, Screen Saver
+05/31/2011, 16:03:49, Screen Saver
+05/31/2011, 16:04:00, Screen Saver
+05/31/2011, 16:04:11, Screen Saver
+05/31/2011, 16:04:22, Screen Saver
+05/31/2011, 16:04:33, Screen Saver
+05/31/2011, 16:04:44, Screen Saver
+05/31/2011, 16:04:55, Screen Saver
+05/31/2011, 16:05:06, Screen Saver
+05/31/2011, 16:05:17, Screen Saver
+05/31/2011, 16:05:28, Screen Saver
+05/31/2011, 16:05:39, Screen Saver
+05/31/2011, 16:05:50, Screen Saver
+05/31/2011, 16:06:01, Screen Saver
+05/31/2011, 16:06:12, Screen Saver
+05/31/2011, 16:06:23, Screen Saver
+05/31/2011, 16:06:34, Screen Saver
+05/31/2011, 16:06:45, Screen Saver
+05/31/2011, 16:06:56, Screen Saver
+05/31/2011, 16:07:07, Screen Saver
+05/31/2011, 16:07:18, Screen Saver
+05/31/2011, 16:07:29, Screen Saver
+05/31/2011, 16:07:40, Screen Saver
+05/31/2011, 16:07:51, Screen Saver
+05/31/2011, 16:08:02, Screen Saver
+05/31/2011, 16:08:08, Note,7
+05/31/2011, 16:08:08, Note,7
+05/31/2011, 16:08:08, Note,8
+05/31/2011, 16:08:09, Note,7
+05/31/2011, 16:08:09, Note,7
+05/31/2011, 16:08:09, Note,7
+05/31/2011, 16:08:09, Note,7
+05/31/2011, 16:08:10, Note,7
+05/31/2011, 16:08:10, Note,6
+05/31/2011, 16:08:10, Note,6
+05/31/2011, 16:08:10, Note,5
+05/31/2011, 16:08:10, Note,5
+05/31/2011, 16:08:10, Note,6
+05/31/2011, 16:08:10, Note,5
+05/31/2011, 16:08:11, Note,5
+05/31/2011, 16:08:11, Note,5
+05/31/2011, 16:08:11, Note,6
+05/31/2011, 16:08:11, Note,5
+05/31/2011, 16:08:11, Note,6
+05/31/2011, 16:08:11, Note,5
+05/31/2011, 16:08:11, Note,5
+05/31/2011, 16:08:11, Note,6
+05/31/2011, 16:08:12, Note,6
+05/31/2011, 16:08:13, Note,5
+05/31/2011, 16:08:13, Note,5
+05/31/2011, 16:08:15, Note,4
+05/31/2011, 16:08:15, Note,4
+05/31/2011, 16:08:15, Note,4
+05/31/2011, 16:08:16, Note,4
+05/31/2011, 16:08:16, Note,4
+05/31/2011, 16:08:16, Note,4
+05/31/2011, 16:08:17, Note,5
+05/31/2011, 16:08:18, Note,4
+05/31/2011, 16:08:19, Note,4
+05/31/2011, 16:08:20, Note,4
+05/31/2011, 16:08:20, Note,6
+05/31/2011, 16:08:21, Note,6
+05/31/2011, 16:08:21, Note,6
+05/31/2011, 16:08:21, Note,7
+05/31/2011, 16:08:23, Note,4
+05/31/2011, 16:08:25, Note,4
+05/31/2011, 16:08:25, Note,6
+05/31/2011, 16:08:26, Note,4
+05/31/2011, 16:08:27, Switching to instrument 0
+05/31/2011, 16:08:29, Switching to instrument 1
+05/31/2011, 16:08:31, Switching to instrument 2
+05/31/2011, 16:08:33, Switching to instrument 3
+05/31/2011, 16:08:34, Switching to instrument 4
+05/31/2011, 16:08:35, Switching to noises
+05/31/2011, 16:08:36, Switching to instrument 0
+05/31/2011, 16:08:36, Switching to instrument 1
+05/31/2011, 16:08:37, Switching to instrument 2
+05/31/2011, 16:08:37, Switching to instrument 3
+05/31/2011, 16:08:37, Switching to instrument 4
+05/31/2011, 16:08:37, Switching to noises
+05/31/2011, 16:08:39, Switching to instrument 0
+05/31/2011, 16:08:40, Switching to instrument 1
+05/31/2011, 16:08:41, Switching to instrument 2
+05/31/2011, 16:08:42, Note,2
+05/31/2011, 16:08:43, Switching to instrument 3
+05/31/2011, 16:08:43, Switching to instrument 4
+05/31/2011, 16:08:44, Switching to noises
+05/31/2011, 16:08:46, Note,1
+05/31/2011, 16:08:48, Switching to instrument 0
+05/31/2011, 16:08:58, Screen Saver
+05/31/2011, 16:09:09, Screen Saver
+05/31/2011, 16:09:20, Screen Saver
+05/31/2011, 16:09:31, Screen Saver
+05/31/2011, 16:09:42, Screen Saver
+05/31/2011, 16:09:53, Screen Saver
+05/31/2011, 16:10:04, Screen Saver
+05/31/2011, 16:10:15, Screen Saver
+05/31/2011, 16:10:26, Screen Saver
+05/31/2011, 16:10:37, Screen Saver
+05/31/2011, 16:10:48, Screen Saver
+05/31/2011, 16:10:59, Screen Saver
+05/31/2011, 16:11:10, Screen Saver
+05/31/2011, 16:11:21, Screen Saver
+05/31/2011, 16:11:32, Screen Saver
+05/31/2011, 16:11:43, Screen Saver
+05/31/2011, 16:11:54, Screen Saver
+05/31/2011, 16:12:05, Screen Saver
+05/31/2011, 16:12:16, Screen Saver
+05/31/2011, 16:12:27, Screen Saver
+05/31/2011, 16:12:38, Screen Saver
+05/31/2011, 16:12:49, Screen Saver
+05/31/2011, 16:13:00, Screen Saver
+05/31/2011, 16:13:11, Screen Saver
+05/31/2011, 16:13:22, Screen Saver
+05/31/2011, 16:13:33, Screen Saver
+05/31/2011, 16:13:44, Screen Saver
+05/31/2011, 16:13:55, Screen Saver
+05/31/2011, 16:14:06, Screen Saver
+05/31/2011, 16:14:17, Screen Saver
+05/31/2011, 16:14:28, Screen Saver
+05/31/2011, 16:14:39, Screen Saver
+05/31/2011, 16:14:50, Screen Saver
+05/31/2011, 16:15:01, Screen Saver
+05/31/2011, 16:15:12, Screen Saver
+05/31/2011, 16:15:23, Screen Saver
+05/31/2011, 16:15:34, Screen Saver
+05/31/2011, 16:15:45, Screen Saver
+05/31/2011, 16:15:56, Screen Saver
+05/31/2011, 16:16:07, Screen Saver
+05/31/2011, 16:16:18, Screen Saver
+05/31/2011, 16:16:29, Screen Saver
+05/31/2011, 16:16:40, Screen Saver
+05/31/2011, 16:16:51, Screen Saver
+05/31/2011, 16:17:02, Screen Saver
+05/31/2011, 16:17:13, Screen Saver
+05/31/2011, 16:17:24, Screen Saver
+05/31/2011, 16:17:35, Screen Saver
+05/31/2011, 16:17:46, Screen Saver
+05/31/2011, 16:17:57, Screen Saver
+05/31/2011, 16:18:08, Screen Saver
+05/31/2011, 16:18:19, Screen Saver
+05/31/2011, 16:18:30, Screen Saver
+05/31/2011, 16:18:41, Screen Saver
+05/31/2011, 16:18:52, Screen Saver
+05/31/2011, 16:19:03, Screen Saver
+05/31/2011, 16:19:14, Screen Saver
+05/31/2011, 16:19:25, Screen Saver
+05/31/2011, 16:19:36, Screen Saver
+05/31/2011, 16:19:47, Screen Saver
+05/31/2011, 16:19:58, Screen Saver
+05/31/2011, 16:20:09, Screen Saver
+05/31/2011, 16:20:20, Screen Saver
+05/31/2011, 16:20:31, Screen Saver
+05/31/2011, 16:20:42, Screen Saver
+05/31/2011, 16:20:53, Screen Saver
+05/31/2011, 16:21:04, Screen Saver
+05/31/2011, 16:21:15, Screen Saver
+05/31/2011, 16:21:26, Screen Saver
+05/31/2011, 16:21:37, Screen Saver
+05/31/2011, 16:21:48, Screen Saver
+05/31/2011, 16:21:59, Screen Saver
+05/31/2011, 16:22:10, Screen Saver
+05/31/2011, 16:22:21, Screen Saver
+05/31/2011, 16:22:32, Screen Saver
+05/31/2011, 16:22:43, Screen Saver
+05/31/2011, 16:22:54, Screen Saver
+05/31/2011, 16:23:05, Screen Saver
+05/31/2011, 16:23:16, Screen Saver
+05/31/2011, 16:23:27, Screen Saver
+05/31/2011, 16:23:38, Screen Saver
+05/31/2011, 16:23:49, Screen Saver
+05/31/2011, 16:24:00, Screen Saver
+05/31/2011, 16:24:11, Screen Saver
+05/31/2011, 16:24:22, Screen Saver
+05/31/2011, 16:24:33, Screen Saver
+05/31/2011, 16:24:44, Screen Saver
+05/31/2011, 16:24:55, Screen Saver
+05/31/2011, 16:25:06, Screen Saver
+05/31/2011, 16:25:17, Screen Saver
+05/31/2011, 16:25:28, Screen Saver
+05/31/2011, 16:25:39, Screen Saver
+05/31/2011, 16:25:50, Screen Saver
+05/31/2011, 16:26:01, Screen Saver
+05/31/2011, 16:26:12, Screen Saver
+05/31/2011, 16:26:23, Screen Saver
+05/31/2011, 16:26:34, Screen Saver
+05/31/2011, 16:26:45, Screen Saver
+05/31/2011, 16:26:56, Screen Saver
+05/31/2011, 16:27:07, Screen Saver
+05/31/2011, 16:27:18, Screen Saver
+05/31/2011, 16:27:29, Screen Saver
+05/31/2011, 16:27:40, Screen Saver
+05/31/2011, 16:27:51, Screen Saver
+05/31/2011, 16:28:02, Screen Saver
+05/31/2011, 16:28:13, Screen Saver
+05/31/2011, 16:28:24, Screen Saver
+05/31/2011, 16:28:35, Screen Saver
+05/31/2011, 16:28:46, Screen Saver
+05/31/2011, 16:28:57, Screen Saver
+05/31/2011, 16:29:08, Screen Saver
+05/31/2011, 16:29:19, Screen Saver
+05/31/2011, 16:29:30, Screen Saver
+05/31/2011, 16:29:41, Screen Saver
+05/31/2011, 16:29:52, Screen Saver
+05/31/2011, 16:30:03, Screen Saver
+05/31/2011, 16:30:14, Screen Saver
+05/31/2011, 16:30:25, Screen Saver
+05/31/2011, 16:30:36, Screen Saver
+05/31/2011, 16:30:47, Screen Saver
+05/31/2011, 16:30:58, Screen Saver
+05/31/2011, 16:31:09, Screen Saver
+05/31/2011, 16:31:20, Screen Saver
+05/31/2011, 16:31:31, Screen Saver
+05/31/2011, 16:31:42, Screen Saver
+05/31/2011, 16:31:53, Screen Saver
+05/31/2011, 16:32:04, Screen Saver
+05/31/2011, 16:32:15, Screen Saver
+05/31/2011, 16:32:26, Screen Saver
+05/31/2011, 16:32:37, Screen Saver
+05/31/2011, 16:32:48, Screen Saver
+05/31/2011, 16:32:59, Screen Saver
+05/31/2011, 16:33:10, Screen Saver
+05/31/2011, 16:33:21, Screen Saver
+05/31/2011, 16:33:32, Screen Saver
+05/31/2011, 16:33:43, Screen Saver
+05/31/2011, 16:33:54, Screen Saver
+05/31/2011, 16:34:05, Screen Saver
+05/31/2011, 16:34:16, Screen Saver
+05/31/2011, 16:34:27, Screen Saver
+05/31/2011, 16:34:38, Screen Saver
+05/31/2011, 16:34:49, Screen Saver
+05/31/2011, 16:35:00, Screen Saver
+05/31/2011, 16:35:11, Screen Saver
+05/31/2011, 16:35:22, Screen Saver
+05/31/2011, 16:35:33, Screen Saver
+05/31/2011, 16:35:44, Screen Saver
+05/31/2011, 16:35:55, Screen Saver
+05/31/2011, 16:36:06, Screen Saver
+05/31/2011, 16:36:17, Screen Saver
+05/31/2011, 16:36:28, Screen Saver
+05/31/2011, 16:36:39, Screen Saver
+05/31/2011, 16:36:50, Screen Saver
+05/31/2011, 16:37:01, Screen Saver
+05/31/2011, 16:37:12, Screen Saver
+05/31/2011, 16:37:23, Screen Saver
+05/31/2011, 16:37:34, Screen Saver
+05/31/2011, 16:37:45, Screen Saver
+05/31/2011, 16:37:56, Screen Saver
+05/31/2011, 16:38:07, Screen Saver
+05/31/2011, 16:38:18, Screen Saver
+05/31/2011, 16:38:29, Screen Saver
+05/31/2011, 16:38:40, Screen Saver
+05/31/2011, 16:38:51, Screen Saver
+05/31/2011, 16:39:02, Screen Saver
+05/31/2011, 16:39:13, Screen Saver
+05/31/2011, 16:39:24, Screen Saver
+05/31/2011, 16:39:35, Screen Saver
+05/31/2011, 16:39:46, Screen Saver
+05/31/2011, 16:39:57, Screen Saver
+05/31/2011, 16:40:08, Screen Saver
+05/31/2011, 16:40:19, Screen Saver
+05/31/2011, 16:40:30, Screen Saver
+05/31/2011, 16:40:41, Screen Saver
+05/31/2011, 16:40:52, Screen Saver
+05/31/2011, 16:41:03, Screen Saver
+05/31/2011, 16:41:14, Screen Saver
+05/31/2011, 16:41:25, Screen Saver
+05/31/2011, 16:41:36, Screen Saver
+05/31/2011, 16:41:47, Screen Saver
+05/31/2011, 16:41:58, Screen Saver
+05/31/2011, 16:42:09, Screen Saver
+05/31/2011, 16:42:20, Screen Saver
+05/31/2011, 16:42:31, Screen Saver
+05/31/2011, 16:42:42, Screen Saver
+05/31/2011, 16:42:53, Screen Saver
+05/31/2011, 16:43:04, Screen Saver
+05/31/2011, 16:43:15, Screen Saver
+05/31/2011, 16:43:26, Screen Saver
+05/31/2011, 16:43:37, Screen Saver
+05/31/2011, 16:43:48, Screen Saver
+05/31/2011, 16:43:59, Screen Saver
+05/31/2011, 16:44:10, Screen Saver
+05/31/2011, 16:44:21, Screen Saver
+05/31/2011, 16:44:32, Screen Saver
+05/31/2011, 16:44:43, Screen Saver
+05/31/2011, 16:44:54, Screen Saver
+05/31/2011, 16:45:05, Screen Saver
+05/31/2011, 16:45:16, Screen Saver
+05/31/2011, 16:45:27, Screen Saver
+05/31/2011, 16:45:38, Screen Saver
+05/31/2011, 16:45:49, Screen Saver
+05/31/2011, 16:46:00, Screen Saver
+05/31/2011, 16:46:11, Screen Saver
+05/31/2011, 16:46:22, Screen Saver
+05/31/2011, 16:46:33, Screen Saver
+05/31/2011, 16:46:44, Screen Saver
+05/31/2011, 16:46:55, Screen Saver
+05/31/2011, 16:47:06, Screen Saver
+05/31/2011, 16:47:17, Screen Saver
+05/31/2011, 16:47:28, Screen Saver
+05/31/2011, 16:47:39, Screen Saver
+05/31/2011, 16:47:50, Screen Saver
+05/31/2011, 16:48:01, Screen Saver
+05/31/2011, 16:48:12, Screen Saver
+05/31/2011, 16:48:23, Screen Saver
+05/31/2011, 16:48:34, Screen Saver
+05/31/2011, 16:48:45, Screen Saver
+05/31/2011, 16:48:56, Screen Saver
+05/31/2011, 16:49:07, Screen Saver
+05/31/2011, 16:49:18, Screen Saver
+05/31/2011, 16:49:29, Screen Saver
+05/31/2011, 16:49:40, Screen Saver
+05/31/2011, 16:49:51, Screen Saver
+05/31/2011, 16:50:02, Screen Saver
+05/31/2011, 16:50:13, Screen Saver
+05/31/2011, 16:50:24, Screen Saver
+05/31/2011, 16:50:35, Screen Saver
+05/31/2011, 16:50:46, Screen Saver
+05/31/2011, 16:50:57, Screen Saver
+05/31/2011, 16:51:08, Screen Saver
+05/31/2011, 16:51:19, Screen Saver
+05/31/2011, 16:51:30, Screen Saver
+05/31/2011, 16:51:41, Screen Saver
+05/31/2011, 16:51:52, Screen Saver
+05/31/2011, 16:52:03, Screen Saver
+05/31/2011, 16:52:14, Screen Saver
+05/31/2011, 16:52:25, Screen Saver
+05/31/2011, 16:52:36, Screen Saver
+05/31/2011, 16:52:47, Screen Saver
+05/31/2011, 16:52:58, Screen Saver
+05/31/2011, 16:53:09, Screen Saver
+05/31/2011, 16:53:20, Screen Saver
+05/31/2011, 16:53:31, Screen Saver
+05/31/2011, 16:53:42, Screen Saver
+05/31/2011, 16:53:53, Screen Saver
+05/31/2011, 16:54:04, Screen Saver
+05/31/2011, 16:54:15, Screen Saver
+05/31/2011, 16:54:26, Screen Saver
+05/31/2011, 16:54:37, Screen Saver
+05/31/2011, 16:54:48, Screen Saver
+05/31/2011, 16:54:59, Screen Saver
+05/31/2011, 16:55:10, Screen Saver
+05/31/2011, 16:55:21, Screen Saver
+05/31/2011, 16:55:32, Screen Saver
+05/31/2011, 16:55:43, Screen Saver
+05/31/2011, 16:55:54, Screen Saver
+05/31/2011, 16:56:05, Screen Saver
+05/31/2011, 16:56:16, Screen Saver
+05/31/2011, 16:56:27, Screen Saver
+05/31/2011, 16:56:38, Screen Saver
+05/31/2011, 16:56:49, Screen Saver
+05/31/2011, 16:57:00, Screen Saver
+05/31/2011, 16:57:11, Screen Saver
+05/31/2011, 16:57:22, Screen Saver
+05/31/2011, 16:57:33, Screen Saver
+05/31/2011, 16:57:44, Screen Saver
+05/31/2011, 16:57:55, Screen Saver
+05/31/2011, 16:58:06, Screen Saver
+05/31/2011, 16:58:17, Screen Saver
+05/31/2011, 16:58:28, Screen Saver
+05/31/2011, 16:58:39, Screen Saver
+05/31/2011, 16:58:50, Screen Saver
+05/31/2011, 16:59:01, Screen Saver
+05/31/2011, 16:59:12, Screen Saver
+05/31/2011, 16:59:23, Screen Saver
+05/31/2011, 16:59:34, Screen Saver
+05/31/2011, 16:59:45, Screen Saver
+05/31/2011, 16:59:56, Screen Saver
+05/31/2011, 17:00:07, Screen Saver
+05/31/2011, 17:00:18, Screen Saver
+05/31/2011, 17:00:29, Screen Saver
+05/31/2011, 17:00:40, Screen Saver
+05/31/2011, 17:00:51, Screen Saver
+05/31/2011, 17:01:02, Screen Saver
+05/31/2011, 17:01:13, Screen Saver
+05/31/2011, 17:01:24, Screen Saver
+05/31/2011, 17:01:35, Screen Saver
+05/31/2011, 17:01:46, Screen Saver
+05/31/2011, 17:01:57, Screen Saver
+05/31/2011, 17:02:08, Screen Saver
+05/31/2011, 17:02:19, Screen Saver
+05/31/2011, 17:02:30, Screen Saver
+05/31/2011, 17:02:41, Screen Saver
+05/31/2011, 17:02:52, Screen Saver
+05/31/2011, 17:03:03, Screen Saver
+05/31/2011, 17:03:14, Screen Saver
+05/31/2011, 17:03:25, Screen Saver
+05/31/2011, 17:03:36, Screen Saver
+05/31/2011, 17:03:47, Screen Saver
+05/31/2011, 17:03:58, Screen Saver
+05/31/2011, 17:04:09, Screen Saver
+05/31/2011, 17:04:20, Screen Saver
+05/31/2011, 17:04:31, Screen Saver
+05/31/2011, 17:04:42, Screen Saver
+05/31/2011, 17:04:53, Screen Saver
+05/31/2011, 17:05:04, Screen Saver
+05/31/2011, 17:05:15, Screen Saver
+05/31/2011, 17:05:26, Screen Saver
+05/31/2011, 17:05:37, Screen Saver
+05/31/2011, 17:05:48, Screen Saver
+05/31/2011, 17:05:59, Screen Saver
+05/31/2011, 17:06:10, Screen Saver
+05/31/2011, 17:06:21, Screen Saver
+05/31/2011, 17:06:32, Screen Saver
+05/31/2011, 17:06:43, Screen Saver
+05/31/2011, 17:06:54, Screen Saver
+05/31/2011, 17:07:05, Screen Saver
+05/31/2011, 17:07:16, Screen Saver
+05/31/2011, 17:07:27, Screen Saver
+05/31/2011, 17:07:38, Screen Saver
+05/31/2011, 17:07:49, Screen Saver
+05/31/2011, 17:08:00, Screen Saver
+05/31/2011, 17:08:11, Screen Saver
+05/31/2011, 17:08:22, Screen Saver
+05/31/2011, 17:08:33, Screen Saver

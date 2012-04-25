@@ -1,0 +1,19 @@
+Turning off amp!
+Turning on amp!
+Down
+Up
+Amplifier On and turned up
+00/00/0000, 00:00:00, Switching to instrument 0
+IR Controller Online
+Light Controller Online
+Master Init Complete
+10/12/2011, 09:26:06, Note,2
+10/12/2011, 09:26:07, Note,5
+10/12/2011, 09:26:07, Note,6
+10/12/2011, 09:26:08, Note,3
+10/12/2011, 09:26:09, Note,2
+10/12/2011, 09:26:09, Note,1
+10/12/2011, 09:26:09, Note,1
+10/12/2011, 09:26:09, Note,2
+10/12/2011, 09:26:09, Note,3
+10/12/2011, 09:26:09, Note,4
