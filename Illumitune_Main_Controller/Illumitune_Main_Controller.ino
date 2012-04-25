@@ -163,8 +163,12 @@
  Leave extra parts in red box, including microSD adapter.
  
  4-24-12
+ Commiting code and eagle files to Github.
  
- 
+ To do:
+ Removing IR code - done
+ Log all error ridden data - done
+ Check for errors from light controller (we normally just pass commands to it) - done
 
  */
 
@@ -196,14 +200,6 @@ unsigned long age, date, time;
 int year;
 byte month, day, hour, minute, second, hundredths;
 #endif
-
-#include <IRremote.h>
-IRsend irsend;
-#define IR_POWER 0xC1A28877
-#define IR_AUX 0xC1A250AF
-#define IR_STANDBY 0xC1A2B847
-#define IR_VOLUP 0xC1A2E21D
-#define IR_VOLDOWN 0xC1A2D22D
 
 //Pin definitions
 //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -268,18 +264,13 @@ void setup() {
   digitalWrite(resetLightController, LOW); //Put Light Controller into reset
 
   pinMode(resetMIDI, OUTPUT);
-  digitalWrite(resetMIDI, HIGH); //Hold VS1053 in reset while we turn on the amp
+  digitalWrite(resetMIDI, HIGH); //Hold VS1053 in reset while we get setup
 
-  //Setup soft serial for MIDI control
-  softMIDI.begin(31250);
+  softMIDI.begin(31250); //Setup soft serial for MIDI control
 
   setupMIDI(); //Sets the volume and initial instrument bank
 
-  setupAmplifier(); //Turn on amp and set the volume correctly, this takes ~20 seconds
-  Serial.println("Amplifier On and turned up"); 
-
-  //Setup soft serial for Light Controller
-  softLightControl.begin(38400);
+  softLightControl.begin(38400); //Setup soft serial for Light Controller
 
   //Act as if the button has been hit for the first time to put illumitune into default piano mode
   ButtonPresses = 0; //This controls which set of sounds we play. 0 is the special sounds, 1 through 9 are pianos.
@@ -333,7 +324,6 @@ void loop() {
     else
       digitalWrite(StatusLED, LOW);
     secondsSinceInteraction++;
-    //MISWatcher++; //Count seconds for resetting MIS after 10 minutes
   }
 
   //Add time to each of the note's timeouts
@@ -348,11 +338,28 @@ void loop() {
 
     char newChar = Serial.read();
 
-    if(incomingSpot > 19) incomingSpot = 0; //Wrap incomingSpot variable
+    if(incomingSpot > 19) {
+      incomingSpot = 0; //Wrap incomingSpot variable
+      //We've received some error - log it
+      petDog(PET_MAIN); //Pet the dog
+      printTimeDate(); //Print current time and date to log file
+
+      petDog(PET_MAIN); //Pet the dog
+      Serial.println("Error: Too many characters received from Light Controller!");
+    }
     incomingIRs[incomingSpot++] = newChar; //Record this char to the array
 
     if(newChar == '$') incomingSpot = 0; //Reset the incoming reading spot
-    if(newChar == '#') parseNotes(); //If we see the end character then let's make music! Watchdog pet
+    if(newChar == '#')
+      parseNotes(); //If we see the end character then let's make music! Watchdog pet
+    else {
+      //We've received some error - log it
+      petDog(PET_MAIN); //Pet the dog
+      printTimeDate(); //Print current time and date to log file
+
+      petDog(PET_MAIN); //Pet the dog
+      Serial.println("Error: Bad frame received from Light Controller!");
+    }
   }
 
   //If button is pressed, debounce and cycle to the next set of instruments
@@ -369,20 +376,18 @@ void loop() {
     secondsSinceInteraction = 0; //Reset the time since last interaction
     playWithMe(); //!!! Watchdog pet
   }
-
-  //Reset the Musical Instrument Shield after 10 minutes of inactivity
-  //10min = 10 * 60s = 600s
-  //This causes more problems then it helps
-  //When we reset MIS, it pulls resetMIDI low for 100ms which causes white noise for 100ms
-  //Bad. Instead, have ATmega run watchdog
-  /*if(MISWatcher > 60) {
-   MISWatcher = 0; //Reset the MIS timeout
-   
-   printTimeDate(); //Print current time and date to log file
-   Serial.println("MIS Reset");
-   
-   setupMIDI(); //This will reinit the MIS
-   }*/
+  
+  //This is an odd test where we check to see if the light controller is reporting it is reset
+  if(softLightControl.available() > 2) {
+    //Read in two bytes and check them
+    byte char1 = softLightControl.read();
+    if(char1 == 'I') { //Light controller reports 'Illumitune Light Controller v2.0 Online' each time it resets
+      byte char2 = softLightControl.read();
+      if(char2 == 'l'){ //Confirmed reset
+        Serial.println("Error: Light controller reset");
+      }
+    }
+  }
 }
 
 //This function pets the dog and then records at what stage it was called to EEPROM
@@ -595,7 +600,10 @@ void parseNotes(void) {
     }
 
     spot++;
-    if(spot > 8) break; //This is the super safe catch in case things get crazy. Should never happen.
+    if(spot > 8){ //This is the super safe catch in case things get crazy. Should never happen.
+      Serial.println("Error: Spot incremented too far!");
+      break; 
+    }
   }
 
   //Send commands to the light controller to turn on these channels
@@ -614,56 +622,6 @@ void setupMIDI(void){
   delay(100);
 
   talkMIDI(0xB0, 0x07, 120); //0xB0 is channel message, set channel volume to near max (127)
-}
-
-//Turns on the amplifier
-//Waits a bit
-//Turns down the amp to zero so we know the volume level
-//Then turns the amp to a known volume level. 42 is pretty good.
-//Turns on the amplifier
-//Waits a bit
-//Turns down the amp to zero so we know the volume level
-//Then turns the amp to a known volume level. 42 is pretty good.
-void setupAmplifier(void) {
-  //100ms is too fast
-  //200ms is too fast
-  //250ms works well
-#define IRDELAY  250
-
-  delay(8000); //Wait for amplifier to come fully on
-
-  //Turn off amplifier
-  Serial.println("Turning off amp!");
-  for(int x = 0 ; x < 3 ; x++) {
-    irsend.sendNEC(IR_STANDBY, 32); //Power down button
-    delay(IRDELAY);
-  }
-  delay(2000); //Wait for amplifier to shut down
-
-  //Turn on amplifier
-  Serial.println("Turning on amp!");
-  for(int x = 0 ; x < 3 ; x++) {
-    irsend.sendNEC(IR_POWER, 32); //Send Aux button
-    delay(IRDELAY);
-  }
-  delay(8000); //Wait for amplifier to power up fully
-
-  //Take volume down to zero
-  Serial.println("Down");
-  for(int x = 0 ; x < 50 ; x++) {
-    irsend.sendNEC(IR_VOLDOWN, 32); //Volume down
-    delay(50);
-  }
-
-  delay(500);
-
-  //Take volume up to 45
-  Serial.println("Up");
-  for(int x = 0 ; x < 45 ; x++) {
-    irsend.sendNEC(IR_VOLUP, 32); //Volume up
-    delay(50);
-  }
-
 }
 
 //Prints the time and date, usually from GPS for logging reasons
