@@ -169,6 +169,16 @@
  Removing IR code - done
  Log all error ridden data - done
  Check for errors from light controller (we normally just pass commands to it) - done
+ 
+ 4-25-12
+ New amp installed. Boot time is much faster.
+ PTCs installed.
+ 
+ Hammering on the instrument button causes system reset. Removing the GPS causes the unit not to reset.
+ I added some dog petting to the button. I believe there is a spot where the watch dog would reset the system when pounded fast enough.
+ Should be fixed now. I also added error logging to various spots if we received odd data from the IR controller board. This should allow us
+ to tell when and if it resets.
+ 
 
  */
 
@@ -217,7 +227,8 @@ char buffer[100]; //Used for GPS sprintf things
 long ThisSecond = 0;
 long lastMillis = 0;
 
-char incomingIRs[20]; //This array stores the incoming IR beam breaks in the form: $12345678#
+#define INCOMING_BUFF_SIZE 100
+char incomingIRs[INCOMING_BUFF_SIZE]; //This array stores the incoming IR beam breaks in the form: $12345678#
 int incomingSpot = 0;
 
 long NoteTimeout[10]; //This array stores the number of millis seconds since a note has been played
@@ -265,20 +276,23 @@ void setup() {
 
   pinMode(resetMIDI, OUTPUT);
   digitalWrite(resetMIDI, HIGH); //Hold VS1053 in reset while we get setup
-
   softMIDI.begin(31250); //Setup soft serial for MIDI control
-
   setupMIDI(); //Sets the volume and initial instrument bank
+  Serial.println("MIDI Online"); 
 
+  digitalWrite(resetIRController, HIGH); //Bring IR Controller online
+  Serial.println("IR Controller Online"); 
+
+  digitalWrite(resetLightController, HIGH); //Bring Light Controller online
   softLightControl.begin(38400); //Setup soft serial for Light Controller
-
-  //Act as if the button has been hit for the first time to put illumitune into default piano mode
-  ButtonPresses = 0; //This controls which set of sounds we play. 0 is the special sounds, 1 through 9 are pianos.
-  //This doesn't init the MIDI correctly if button gets jammed or stuck so let's init the MIDI separately
-  //dealWithButton(); //Calling this function will run with the next button press, in this case, Piano #1 because BP = 0;
+  Serial.println("Light Controller Online"); 
 
   setupGPS(); //Configure the GPS module
   Serial.println("GPS Configured"); 
+
+  //delay(2000); //It takes a few seconds for the new amp to click on
+  
+  while(Serial.available() > 5) Serial.read(); //Digest all the incoming serial trash from the IR controller
 
   //demoPlay(); //Play some sounds to tell the world we are alive
   //demoPlayAll(); //Play all the sounds and instruments that we've specially selected
@@ -297,12 +311,6 @@ void setup() {
 
   for(int x = 1 ; x < 9 ; x++)
     NoteTimeout[x] = 0; //Reset all the note timeouts
-
-  digitalWrite(resetIRController, HIGH); //Bring IR Controller online
-  Serial.println("IR Controller Online"); 
-
-  digitalWrite(resetLightController, HIGH); //Bring Light Controller online
-  Serial.println("Light Controller Online"); 
 
   if (feedgps()) lookUpDate(); //Watchdog pet both places
   printTimeDate(); //Print current time and date to log file
@@ -338,28 +346,25 @@ void loop() {
 
     char newChar = Serial.read();
 
-    if(incomingSpot > 19) {
+    if(incomingSpot >= INCOMING_BUFF_SIZE) {
       incomingSpot = 0; //Wrap incomingSpot variable
       //We've received some error - log it
       petDog(PET_MAIN); //Pet the dog
       printTimeDate(); //Print current time and date to log file
 
       petDog(PET_MAIN); //Pet the dog
-      Serial.println("Error: Too many characters received from Light Controller!");
+      Serial.println("Error: Too many characters received from IR Controller!");
+
+      //Print the array for debugging
+      Serial.print("Incoming buffer: ");
+      for(int x = 0 ; x < INCOMING_BUFF_SIZE ; x++)
+        Serial.write(incomingIRs[x]);
+      Serial.println();
     }
     incomingIRs[incomingSpot++] = newChar; //Record this char to the array
 
     if(newChar == '$') incomingSpot = 0; //Reset the incoming reading spot
-    if(newChar == '#')
-      parseNotes(); //If we see the end character then let's make music! Watchdog pet
-    else {
-      //We've received some error - log it
-      petDog(PET_MAIN); //Pet the dog
-      printTimeDate(); //Print current time and date to log file
-
-      petDog(PET_MAIN); //Pet the dog
-      Serial.println("Error: Bad frame received from Light Controller!");
-    }
+    if(newChar == '#') parseNotes(); //If we see the end character then let's make music! Watchdog pet
   }
 
   //If button is pressed, debounce and cycle to the next set of instruments
@@ -457,7 +462,7 @@ void dealWithButton(void) {
 
   if(ignoreButton == true) return; //If we are ignoring the button then bail immediately
   
-  #define waitLimit  500
+  #define waitLimit  50
 
   int loopCount = 0;
   while(digitalRead(InputButton) == LOW) {
@@ -465,7 +470,7 @@ void dealWithButton(void) {
     petDog(PET_BUTTON); //Pet the dog
 
     //The button has jammed shut before. Let's make it fail gracefully
-    delay(1);
+    delay(10);
     if(loopCount++ >= waitLimit) break; 
   }
 
@@ -475,13 +480,15 @@ void dealWithButton(void) {
     ignoreButton = false;
 
   delay(200); //Debouncing
+  petDog(PET_BUTTON); //Pet the dog
+
   loopCount = 0;
   while(digitalRead(InputButton) == LOW) { 
     //This switch seems to be pretty dirty so we do this twice
     petDog(PET_BUTTON); //Pet the dog
 
     //The button has jammed shut before. Let's make it fail gracefully
-    delay(1);
+    delay(10);
     if(loopCount++ >= waitLimit) break; 
   }
 
@@ -512,6 +519,7 @@ void dealWithButton(void) {
   ButtonPresses++; //Go to next instrument bank
 
   printTimeDate(); //Print current time and date to log file
+  petDog(PET_BUTTON); //Pet the dog
 
     //We have one set of noises and 9 instruments to play
   if(ButtonPresses >= MaxNumberInstruments) ButtonPresses = 0; //Loop the variable
@@ -532,6 +540,8 @@ void dealWithButton(void) {
     talkMIDI(0xB0, 0, 0x00); //Default bank GM1
     talkMIDI(0xC0, InstrumentLookup[instrument], 0); //Set instrument number. 0xC0 is a 1 data byte command  
   }
+
+  petDog(PET_BUTTON); //Pet the dog
 }
 
 //Reads the notes from the incomingIR array and plays them
@@ -555,48 +565,63 @@ void parseNotes(void) {
   //Send commands to the light controller to turn on these channels
   softLightControl.print("$");
 
+  //Print the array for debugging
+  /*Serial.print("Incoming buffer: ");
+  for(int x = 0 ; x < INCOMING_BUFF_SIZE ; x++)
+    Serial.write(incomingIRs[x]);
+  Serial.println();*/
+
   while(incomingIRs[spot] != '#') {
     petDog(PET_NOTES); //Pet the dog
 
     //Serial.print(incomingIRs[spot]); //Debugging
 
-    note = incomingIRs[spot] - '0'; //Adjust the character from a character to a number, so '5' becomes 5.
-    if(note > 8) note = 8; //Notes should only be channels 1 to 8
-    if(note < 1) note = 1;
-
-    //sprintf(buffer, "%02d:%02ld", note, NoteTimeout[note]); //Debugging
-    //Serial.println(buffer);
-
-    //Note will dissapate automatically, but we don't want to play it more than once
-    //So check to see if enough time has passed to play again
-    if(NoteTimeout[note] > MINTIMEOUT){
-      NoteTimeout[note] = 0; //Reset the amount of time to zero
-
-      if(ButtonPresses == 0)
-        noteOn(0, SoundLookup[note], 60); //Play a specific noise
-      else {
-        //noteOn(0, note + 70, 60); //Plays notes 70 to 77, instument is set in main loop
-        if(note == 1) noteOn(0, 60, 60); //Center C
-        if(note == 2) noteOn(0, 62, 60); //D
-        if(note == 3) noteOn(0, 64, 60); //E
-        if(note == 4) noteOn(0, 65, 60); //F
-        if(note == 5) noteOn(0, 67, 60); //G
-        if(note == 6) noteOn(0, 69, 60); //A
-        if(note == 7) noteOn(0, 71, 60); //B
-        if(note == 8) noteOn(0, 72, 60); //2nd C
+    note = incomingIRs[spot];
+    
+    if(note > '8' || note < '1') { //Notes should only be channels 1 to 8
+      Serial.print("Received note out of range: ");
+      Serial.print(spot, DEC);
+      Serial.print(" :");
+      Serial.write(incomingIRs[spot]);
+      Serial.println();
+    }
+    else {
+      note = note - '0'; //Adjust the character from a character to a number, so '5' becomes 5.
+    
+      //sprintf(buffer, "%02d:%02ld", note, NoteTimeout[note]); //Debugging
+      //Serial.println(buffer);
+  
+      //Note will dissapate automatically, but we don't want to play it more than once
+      //So check to see if enough time has passed to play again
+      if(NoteTimeout[note] > MINTIMEOUT){
+        NoteTimeout[note] = 0; //Reset the amount of time to zero
+  
+        if(ButtonPresses == 0)
+          noteOn(0, SoundLookup[note], 60); //Play a specific noise
+        else {
+          //noteOn(0, note + 70, 60); //Plays notes 70 to 77, instument is set in main loop
+          if(note == 1) noteOn(0, 60, 60); //Center C
+          if(note == 2) noteOn(0, 62, 60); //D
+          if(note == 3) noteOn(0, 64, 60); //E
+          if(note == 4) noteOn(0, 65, 60); //F
+          if(note == 5) noteOn(0, 67, 60); //G
+          if(note == 6) noteOn(0, 69, 60); //A
+          if(note == 7) noteOn(0, 71, 60); //B
+          if(note == 8) noteOn(0, 72, 60); //2nd C
+        }
+  
+        petDog(PET_NOTES); //Pet the dog
+        printTimeDate(); //Print current time and date to log file
+  
+        petDog(PET_NOTES); //Pet the dog
+        Serial.print("Note,");
+        Serial.println(note, DEC);
+        petDog(PET_NOTES); //Pet the dog
+  
+        //Send commands to the light controller to turn on these channels
+        softLightControl.print(note, DEC);
+        petDog(PET_NOTES); //Pet the dog
       }
-
-      petDog(PET_NOTES); //Pet the dog
-      printTimeDate(); //Print current time and date to log file
-
-      petDog(PET_NOTES); //Pet the dog
-      Serial.print("Note,");
-      Serial.println(note, DEC);
-      petDog(PET_NOTES); //Pet the dog
-
-      //Send commands to the light controller to turn on these channels
-      softLightControl.print(note, DEC);
-      petDog(PET_NOTES); //Pet the dog
     }
 
     spot++;
@@ -609,6 +634,10 @@ void parseNotes(void) {
   //Send commands to the light controller to turn on these channels
   softLightControl.print("#"); //The closing character of the command packet
   petDog(PET_NOTES); //Pet the dog
+  
+  //Clear out buffer
+  for(int x = 0 ; x < INCOMING_BUFF_SIZE ; x++)
+    incomingIRs[x] = 0;
 }
 
 //Resets Music Instrument shield, then configures it for normal operation
@@ -626,6 +655,7 @@ void setupMIDI(void){
 
 //Prints the time and date, usually from GPS for logging reasons
 void printTimeDate(void) {
+  petDog(PET_GPS); //Pet the dog
   //Print this to the terminal and there for the logger
 #ifdef ENABLE_GPS
   sprintf(buffer, "%02d/%02d/%04d, ", month, day, year);
@@ -633,6 +663,8 @@ void printTimeDate(void) {
   sprintf(buffer, "[GPS disabled], ");
 #endif
   Serial.print(buffer);
+
+  petDog(PET_GPS); //Pet the dog
 
 #ifdef ENABLE_GPS
   sprintf(buffer, "%02d:%02d:%02d, ", hour, minute, second);
@@ -642,6 +674,8 @@ void printTimeDate(void) {
   Serial.print(millis()/1000);
   Serial.print(", ");
 #endif
+
+  petDog(PET_GPS); //Pet the dog
 }
 
 //Plays three notes to let us know the machine is alive
