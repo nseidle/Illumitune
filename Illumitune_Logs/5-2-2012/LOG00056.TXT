@@ -1,0 +1,3188 @@
+00/00/0000, 00:00:00, Master Init Complete
+00/00/0000, 00:00:00, Screen Saver
+00/00/0000, 00:00:00, Screen Saver
+00/00/0000, 00:00:00, Screen Saver
+00/00/0000, 00:00:00, Screen Saver
+04/28/2012, 09:50:05, Screen Saver
+04/28/2012, 09:50:16, Screen Saver
+04/28/2012, 09:50:27, Screen Saver
+04/28/2012, 09:50:38, Screen Saver
+04/28/2012, 09:50:49, Screen Saver
+04/28/2012, 09:51:00, Screen Saver
+04/28/2012, 09:51:11, Screen Saver
+04/28/2012, 09:51:22, Screen Saver
+04/28/2012, 09:51:33, Screen Saver
+04/28/2012, 09:51:44, Screen Saver
+04/28/2012, 09:51:55, Screen Saver
+04/28/2012, 09:52:06, Screen Saver
+04/28/2012, 09:52:17, Screen Saver
+04/28/2012, 09:52:28, Screen Saver
+04/28/2012, 09:52:39, Screen Saver
+04/28/2012, 09:52:50, Screen Saver
+04/28/2012, 09:53:01, Screen Saver
+04/28/2012, 09:53:01, Note,8
+04/28/2012, 09:53:06, Note,6
+04/28/2012, 09:53:11, Note,8
+04/28/2012, 09:53:13, Note,8
+04/28/2012, 09:53:20, Note,6
+04/28/2012, 09:53:29, Note,8
+04/28/2012, 09:53:30, Note,8
+04/28/2012, 09:53:41, Screen Saver
+04/28/2012, 09:53:52, Screen Saver
+04/28/2012, 09:54:03, Screen Saver
+04/28/2012, 09:54:14, Screen Saver
+04/28/2012, 09:54:25, Screen Saver
+04/28/2012, 09:54:33, Note,6
+04/28/2012, 09:54:37, Note,8
+04/28/2012, 09:54:47, Screen Saver
+04/28/2012, 09:54:58, Screen Saver
+04/28/2012, 09:55:09, Screen Saver
+04/28/2012, 09:55:12, Note,6
+04/28/2012, 09:55:22, Screen Saver
+04/28/2012, 09:55:33, Screen Saver
+04/28/2012, 09:55:44, Screen Saver
+04/28/2012, 09:55:55, Screen Saver
+04/28/2012, 09:56:06, Screen Saver
+04/28/2012, 09:56:10, Note,8
+04/28/2012, 09:56:21, Screen Saver
+04/28/2012, 09:56:21, Note,8
+04/28/2012, 09:56:28, Note,8
+04/28/2012, 09:56:28, Note,6
+04/28/2012, 09:56:39, Screen Saver
+04/28/2012, 09:56:49, Note,8
+04/28/2012, 09:56:56, Note,6
+04/28/2012, 09:56:58, Note,8
+04/28/2012, 09:57:04, Note,8
+04/28/2012, 09:57:08, Note,6
+04/28/2012, 09:57:19, Screen Saver
+04/28/2012, 09:57:30, Screen Saver
+04/28/2012, 09:57:40, Note,8
+04/28/2012, 09:57:50, Screen Saver
+04/28/2012, 09:57:59, Note,8
+04/28/2012, 09:58:10, Screen Saver
+04/28/2012, 09:58:21, Screen Saver
+04/28/2012, 09:58:32, Screen Saver
+04/28/2012, 09:58:43, Screen Saver
+04/28/2012, 09:58:54, Screen Saver
+04/28/2012, 09:59:05, Screen Saver
+04/28/2012, 09:59:13, Note,8
+04/28/2012, 09:59:13, Note,6
+04/28/2012, 09:59:24, Screen Saver
+04/28/2012, 09:59:24, Note,6
+04/28/2012, 09:59:36, Screen Saver
+04/28/2012, 09:59:47, Screen Saver
+04/28/2012, 09:59:55, Note,6
+04/28/2012, 09:59:58, Note,8
+04/28/2012, 10:00:03, Note,6
+04/28/2012, 10:00:04, Note,6
+04/28/2012, 10:00:15, Screen Saver
+04/28/2012, 10:00:26, Screen Saver
+04/28/2012, 10:00:37, Screen Saver
+04/28/2012, 10:00:48, Screen Saver
+04/28/2012, 10:00:59, Screen Saver
+04/28/2012, 10:01:10, Screen Saver
+04/28/2012, 10:01:17, Note,8
+04/28/2012, 10:01:22, Note,8
+04/28/2012, 10:01:25, Note,6
+04/28/2012, 10:01:35, Screen Saver
+04/28/2012, 10:01:46, Screen Saver
+04/28/2012, 10:01:49, Note,6
+04/28/2012, 10:01:55, Note,6
+04/28/2012, 10:02:02, Note,8
+04/28/2012, 10:02:06, Note,6
+04/28/2012, 10:02:13, Note,6
+04/28/2012, 10:02:23, Screen Saver
+04/28/2012, 10:02:27, Note,8
+04/28/2012, 10:02:37, Screen Saver
+04/28/2012, 10:02:37, Note,8
+04/28/2012, 10:02:40, Note,8
+04/28/2012, 10:02:50, Screen Saver
+04/28/2012, 10:03:00, Note,8
+04/28/2012, 10:03:11, Screen Saver
+04/28/2012, 10:03:22, Screen Saver
+04/28/2012, 10:03:33, Screen Saver
+04/28/2012, 10:03:44, Screen Saver
+04/28/2012, 10:03:55, Note,6
+04/28/2012, 10:04:03, Note,6
+04/28/2012, 10:04:14, Screen Saver
+04/28/2012, 10:04:25, Screen Saver
+04/28/2012, 10:04:25, Note,6
+04/28/2012, 10:04:37, Screen Saver
+04/28/2012, 10:04:48, Screen Saver
+04/28/2012, 10:04:59, Screen Saver
+04/28/2012, 10:05:10, Screen Saver
+04/28/2012, 10:05:21, Screen Saver
+04/28/2012, 10:05:31, Note,8
+04/28/2012, 10:05:42, Screen Saver
+04/28/2012, 10:05:53, Screen Saver
+04/28/2012, 10:06:04, Screen Saver
+04/28/2012, 10:06:15, Screen Saver
+04/28/2012, 10:06:26, Screen Saver
+04/28/2012, 10:06:29, Note,6
+04/28/2012, 10:06:40, Screen Saver
+04/28/2012, 10:06:40, Note,6
+04/28/2012, 10:06:44, Note,8
+04/28/2012, 10:06:55, Screen Saver
+04/28/2012, 10:07:02, Note,6
+04/28/2012, 10:07:12, Screen Saver
+04/28/2012, 10:07:23, Screen Saver
+04/28/2012, 10:07:34, Screen Saver
+04/28/2012, 10:07:45, Screen Saver
+04/28/2012, 10:07:54, Note,6
+04/28/2012, 10:08:04, Screen Saver
+04/28/2012, 10:08:14, Note,8
+04/28/2012, 10:08:24, Screen Saver
+04/28/2012, 10:08:34, Note,6
+04/28/2012, 10:08:34, Note,6
+04/28/2012, 10:08:44, Screen Saver
+04/28/2012, 10:08:50, Note,8
+04/28/2012, 10:08:52, Note,8
+04/28/2012, 10:09:02, Screen Saver
+04/28/2012, 10:09:07, Note,8
+04/28/2012, 10:09:17, Screen Saver
+04/28/2012, 10:09:28, Screen Saver
+04/28/2012, 10:09:39, Screen Saver
+04/28/2012, 10:09:39, Note,6
+04/28/2012, 10:09:44, Note,6
+04/28/2012, 10:09:55, Screen Saver
+04/28/2012, 10:10:01, Note,8
+04/28/2012, 10:10:09, Note,8
+04/28/2012, 10:10:11, Note,6
+04/28/2012, 10:10:12, Note,6
+04/28/2012, 10:10:23, Screen Saver
+04/28/2012, 10:10:24, Note,8
+04/28/2012, 10:10:28, Note,8
+04/28/2012, 10:10:32, Note,6
+04/28/2012, 10:10:34, Note,8
+04/28/2012, 10:10:40, Note,8
+04/28/2012, 10:10:49, Note,6
+04/28/2012, 10:11:00, Screen Saver
+04/28/2012, 10:11:11, Screen Saver
+04/28/2012, 10:11:11, Note,6
+04/28/2012, 10:11:14, Note,8
+04/28/2012, 10:11:24, Screen Saver
+04/28/2012, 10:11:30, Note,8
+04/28/2012, 10:11:30, Note,8
+04/28/2012, 10:11:41, Screen Saver
+04/28/2012, 10:11:45, Note,6
+04/28/2012, 10:11:54, Note,6
+04/28/2012, 10:11:55, Note,8
+04/28/2012, 10:12:05, Screen Saver
+04/28/2012, 10:12:12, Note,8
+04/28/2012, 10:12:23, Screen Saver
+04/28/2012, 10:12:25, Note,8
+04/28/2012, 10:12:36, Screen Saver
+04/28/2012, 10:12:41, Note,6
+04/28/2012, 10:12:46, Note,6
+04/28/2012, 10:12:49, Note,8
+04/28/2012, 10:12:55, Note,6
+04/28/2012, 10:12:58, Note,8
+04/28/2012, 10:13:00, Note,6
+04/28/2012, 10:13:10, Screen Saver
+04/28/2012, 10:13:18, Note,8
+04/28/2012, 10:13:23, Note,6
+04/28/2012, 10:13:25, Note,8
+04/28/2012, 10:13:33, Note,8
+04/28/2012, 10:13:38, Note,8
+04/28/2012, 10:13:40, Note,6
+04/28/2012, 10:13:51, Screen Saver
+04/28/2012, 10:13:56, Note,6
+04/28/2012, 10:13:59, Note,6
+04/28/2012, 10:14:09, Screen Saver
+04/28/2012, 10:14:20, Screen Saver
+04/28/2012, 10:14:27, Note,6
+04/28/2012, 10:14:28, Note,6
+04/28/2012, 10:14:33, Note,6
+04/28/2012, 10:14:44, Screen Saver
+04/28/2012, 10:14:44, Note,8
+04/28/2012, 10:14:50, Note,6
+04/28/2012, 10:14:51, Note,8
+04/28/2012, 10:15:00, Note,6
+04/28/2012, 10:15:10, Screen Saver
+04/28/2012, 10:15:12, Note,6
+04/28/2012, 10:15:18, Note,6
+04/28/2012, 10:15:28, Screen Saver
+04/28/2012, 10:15:37, Note,8
+04/28/2012, 10:15:44, Note,8
+04/28/2012, 10:15:55, Screen Saver
+04/28/2012, 10:16:06, Screen Saver
+04/28/2012, 10:16:17, Note,6
+04/28/2012, 10:16:22, Note,8
+04/28/2012, 10:16:31, Note,8
+04/28/2012, 10:16:33, Note,6
+04/28/2012, 10:16:36, Note,8
+04/28/2012, 10:16:47, Screen Saver
+04/28/2012, 10:16:52, Note,6
+04/28/2012, 10:17:03, Screen Saver
+04/28/2012, 10:17:14, Screen Saver
+04/28/2012, 10:17:15, Note,6
+04/28/2012, 10:17:26, Screen Saver
+04/28/2012, 10:17:37, Screen Saver
+04/28/2012, 10:17:43, Note,6
+04/28/2012, 10:17:45, Note,6
+04/28/2012, 10:17:56, Screen Saver
+04/28/2012, 10:18:00, Note,8
+04/28/2012, 10:18:02, Note,6
+04/28/2012, 10:18:05, Note,6
+04/28/2012, 10:18:16, Screen Saver
+04/28/2012, 10:18:16, Note,6
+04/28/2012, 10:18:27, Screen Saver
+04/28/2012, 10:18:27, Note,8
+04/28/2012, 10:18:32, Note,6
+04/28/2012, 10:18:35, Note,8
+04/28/2012, 10:18:36, Note,7
+04/28/2012, 10:18:37, Note,7
+04/28/2012, 10:18:37, Note,7
+04/28/2012, 10:18:37, Note,7
+04/28/2012, 10:18:37, Note,7
+04/28/2012, 10:18:37, Note,7
+04/28/2012, 10:18:37, Note,7
+04/28/2012, 10:18:37, Note,7
+04/28/2012, 10:18:38, Note,7
+04/28/2012, 10:18:40, Note,8
+04/28/2012, 10:18:42, Note,6
+04/28/2012, 10:18:43, Note,4
+04/28/2012, 10:18:44, Note,8
+04/28/2012, 10:18:44, Note,5
+04/28/2012, 10:18:45, Note,8
+04/28/2012, 10:18:47, Note,5
+04/28/2012, 10:18:49, Note,4
+04/28/2012, 10:18:51, Note,4
+04/28/2012, 10:18:52, Note,4
+04/28/2012, 10:18:53, Note,3
+04/28/2012, 10:18:53, Note,1
+04/28/2012, 10:18:53, Note,6
+04/28/2012, 10:18:58, Note,1
+04/28/2012, 10:19:00, Note,1
+04/28/2012, 10:19:00, Note,1
+04/28/2012, 10:19:00, Note,1
+04/28/2012, 10:19:01, Note,1
+04/28/2012, 10:19:01, Note,4
+04/28/2012, 10:19:01, Note,3
+04/28/2012, 10:19:02, Note,5
+04/28/2012, 10:19:02, Note,4
+04/28/2012, 10:19:02, Note,6
+04/28/2012, 10:19:02, Note,5
+04/28/2012, 10:19:02, Note,5
+04/28/2012, 10:19:02, Note,6
+04/28/2012, 10:19:03, Note,8
+04/28/2012, 10:19:03, Note,6
+04/28/2012, 10:19:03, Note,7
+04/28/2012, 10:19:03, Note,6
+04/28/2012, 10:19:03, Note,5
+04/28/2012, 10:19:04, Note,7
+04/28/2012, 10:19:04, Note,8
+04/28/2012, 10:19:04, Note,6
+04/28/2012, 10:19:05, Note,4
+04/28/2012, 10:19:05, Note,5
+04/28/2012, 10:19:05, Note,6
+04/28/2012, 10:19:05, Note,6
+04/28/2012, 10:19:05, Note,6
+04/28/2012, 10:19:05, Note,8
+04/28/2012, 10:19:05, Note,7
+04/28/2012, 10:19:06, Note,8
+04/28/2012, 10:19:06, Note,6
+04/28/2012, 10:19:06, Note,8
+04/28/2012, 10:19:06, Note,6
+04/28/2012, 10:19:06, Note,2
+04/28/2012, 10:19:06, Note,8
+04/28/2012, 10:19:06, Note,6
+04/28/2012, 10:19:06, Note,6
+04/28/2012, 10:19:06, Note,8
+04/28/2012, 10:19:06, Note,6
+04/28/2012, 10:19:06, Note,6
+04/28/2012, 10:19:06, Note,6
+04/28/2012, 10:19:06, Note,4
+04/28/2012, 10:19:06, Note,7
+04/28/2012, 10:19:06, Note,4
+04/28/2012, 10:19:07, Note,4
+04/28/2012, 10:19:07, Note,4
+04/28/2012, 10:19:07, Note,4
+04/28/2012, 10:19:07, Note,1
+04/28/2012, 10:19:07, Note,4
+04/28/2012, 10:19:07, Note,4
+04/28/2012, 10:19:07, Note,1
+04/28/2012, 10:19:07, Note,7
+04/28/2012, 10:19:07, Note,5
+04/28/2012, 10:19:07, Note,4
+04/28/2012, 10:19:07, Note,5
+04/28/2012, 10:19:18, Screen Saver
+04/28/2012, 10:19:29, Screen Saver
+04/28/2012, 10:19:40, Screen Saver
+04/28/2012, 10:19:51, Screen Saver
+04/28/2012, 10:20:02, Switching to instrument 1
+04/28/2012, 10:20:05, Switching to instrument 2
+04/28/2012, 10:20:16, Screen Saver
+04/28/2012, 10:20:27, Screen Saver
+04/28/2012, 10:20:31, Switching to instrument 3
+04/28/2012, 10:20:34, Switching to instrument 4
+04/28/2012, 10:20:34, Switching to noises
+04/28/2012, 10:20:36, Switching to instrument 0
+04/28/2012, 10:20:37, Switching to instrument 1
+04/28/2012, 10:20:37, Switching to instrument 2
+04/28/2012, 10:20:38, Switching to instrument 3
+04/28/2012, 10:20:38, Switching to instrument 4
+04/28/2012, 10:20:42, Switching to noises
+04/28/2012, 10:20:43, Switching to instrument 0
+04/28/2012, 10:20:45, Switching to instrument 1
+04/28/2012, 10:20:45, Switching to instrument 2
+04/28/2012, 10:20:45, Switching to instrument 3
+04/28/2012, 10:20:46, Switching to instrument 4
+04/28/2012, 10:20:46, Switching to noises
+04/28/2012, 10:20:48, Switching to instrument 0
+04/28/2012, 10:20:49, Switching to instrument 1
+04/28/2012, 10:20:59, Switching to instrument 2
+04/28/2012, 10:21:03, Switching to instrument 3
+04/28/2012, 10:21:13, Screen Saver
+04/28/2012, 10:21:24, Screen Saver
+04/28/2012, 10:21:35, Screen Saver
+04/28/2012, 10:21:40, Switching to instrument 4
+04/28/2012, 10:21:41, Switching to noises
+04/28/2012, 10:21:42, Switching to instrument 0
+04/28/2012, 10:21:43, Switching to instrument 1
+04/28/2012, 10:21:43, Switching to instrument 2
+04/28/2012, 10:21:53, Screen Saver
+04/28/2012, 10:22:04, Screen Saver
+04/28/2012, 10:22:15, Screen Saver
+04/28/2012, 10:22:27, Screen Saver
+04/28/2012, 10:22:38, Screen Saver
+04/28/2012, 10:22:49, Screen Saver
+04/28/2012, 10:23:00, Screen Saver
+04/28/2012, 10:23:11, Screen Saver
+04/28/2012, 10:23:22, Screen Saver
+04/28/2012, 10:23:33, Screen Saver
+04/28/2012, 10:23:44, Screen Saver
+04/28/2012, 10:23:55, Screen Saver
+04/28/2012, 10:24:06, Screen Saver
+04/28/2012, 10:24:17, Screen Saver
+04/28/2012, 10:24:28, Screen Saver
+04/28/2012, 10:24:39, Screen Saver
+04/28/2012, 10:24:50, Screen Saver
+04/28/2012, 10:25:01, Screen Saver
+04/28/2012, 10:25:12, Screen Saver
+04/28/2012, 10:25:23, Screen Saver
+04/28/2012, 10:25:34, Screen Saver
+04/28/2012, 10:25:45, Screen Saver
+04/28/2012, 10:25:56, Screen Saver
+04/28/2012, 10:26:07, Screen Saver
+04/28/2012, 10:26:18, Screen Saver
+04/28/2012, 10:26:29, Screen Saver
+04/28/2012, 10:26:40, Screen Saver
+04/28/2012, 10:26:51, Screen Saver
+04/28/2012, 10:27:02, Screen Saver
+04/28/2012, 10:27:13, Screen Saver
+04/28/2012, 10:27:24, Screen Saver
+04/28/2012, 10:27:35, Screen Saver
+04/28/2012, 10:27:46, Screen Saver
+04/28/2012, 10:27:57, Screen Saver
+04/28/2012, 10:28:08, Screen Saver
+04/28/2012, 10:28:19, Screen Saver
+04/28/2012, 10:28:30, Screen Saver
+04/28/2012, 10:28:41, Screen Saver
+04/28/2012, 10:28:53, Screen Saver
+04/28/2012, 10:29:04, Screen Saver
+04/28/2012, 10:29:15, Screen Saver
+04/28/2012, 10:29:26, Screen Saver
+04/28/2012, 10:29:37, Screen Saver
+04/28/2012, 10:29:48, Screen Saver
+04/28/2012, 10:29:48, Switching to instrument 3
+04/28/2012, 10:29:55, Switching to instrument 4
+04/28/2012, 10:30:00, Switching to noises
+04/28/2012, 10:30:03, Switching to instrument 0
+04/28/2012, 10:30:14, Screen Saver
+04/28/2012, 10:30:25, Screen Saver
+04/28/2012, 10:30:36, Screen Saver
+04/28/2012, 10:30:47, Screen Saver
+04/28/2012, 10:30:58, Screen Saver
+04/28/2012, 10:31:09, Screen Saver
+04/28/2012, 10:31:20, Screen Saver
+04/28/2012, 10:31:31, Screen Saver
+04/28/2012, 10:31:42, Screen Saver
+04/28/2012, 10:31:53, Screen Saver
+04/28/2012, 10:32:04, Screen Saver
+04/28/2012, 10:32:15, Screen Saver
+04/28/2012, 10:32:26, Screen Saver
+04/28/2012, 10:32:37, Screen Saver
+04/28/2012, 10:32:48, Screen Saver
+04/28/2012, 10:32:59, Screen Saver
+04/28/2012, 10:33:10, Screen Saver
+04/28/2012, 10:33:21, Screen Saver
+04/28/2012, 10:33:32, Screen Saver
+04/28/2012, 10:33:43, Screen Saver
+04/28/2012, 10:33:54, Screen Saver
+04/28/2012, 10:34:05, Screen Saver
+04/28/2012, 10:34:16, Screen Saver
+04/28/2012, 10:34:25, Switching to instrument 1
+04/28/2012, 10:34:28, Switching to instrument 2
+04/28/2012, 10:34:31, Switching to instrument 3
+04/28/2012, 10:34:33, Switching to instrument 4
+04/28/2012, 10:34:36, Switching to noises
+04/28/2012, 10:34:40, Switching to instrument 0
+04/28/2012, 10:34:46, Switching to instrument 1
+04/28/2012, 10:34:51, Switching to instrument 2
+04/28/2012, 10:34:54, Switching to instrument 3
+04/28/2012, 10:35:05, Screen Saver
+04/28/2012, 10:35:16, Screen Saver
+04/28/2012, 10:35:27, Screen Saver
+04/28/2012, 10:35:38, Screen Saver
+04/28/2012, 10:35:49, Screen Saver
+04/28/2012, 10:36:00, Screen Saver
+04/28/2012, 10:36:11, Screen Saver
+04/28/2012, 10:36:22, Screen Saver
+04/28/2012, 10:36:33, Screen Saver
+04/28/2012, 10:36:44, Screen Saver
+04/28/2012, 10:36:55, Screen Saver
+04/28/2012, 10:37:06, Screen Saver
+04/28/2012, 10:37:17, Screen Saver
+04/28/2012, 10:37:28, Screen Saver
+04/28/2012, 10:37:39, Screen Saver
+04/28/2012, 10:37:48, Switching to instrument 4
+04/28/2012, 10:37:54, Switching to noises
+04/28/2012, 10:37:57, Switching to instrument 0
+04/28/2012, 10:37:57, Switching to instrument 1
+04/28/2012, 10:38:08, Screen Saver
+04/28/2012, 10:38:19, Screen Saver
+04/28/2012, 10:38:30, Screen Saver
+04/28/2012, 10:38:41, Screen Saver
+04/28/2012, 10:38:52, Screen Saver
+04/28/2012, 10:39:03, Screen Saver
+04/28/2012, 10:39:14, Screen Saver
+04/28/2012, 10:39:25, Screen Saver
+04/28/2012, 10:39:36, Screen Saver
+04/28/2012, 10:39:47, Screen Saver
+04/28/2012, 10:39:58, Screen Saver
+04/28/2012, 10:40:09, Screen Saver
+04/28/2012, 10:40:20, Screen Saver
+04/28/2012, 10:40:32, Screen Saver
+04/28/2012, 10:40:43, Screen Saver
+04/28/2012, 10:40:54, Screen Saver
+04/28/2012, 10:41:05, Screen Saver
+04/28/2012, 10:41:16, Screen Saver
+04/28/2012, 10:41:27, Screen Saver
+04/28/2012, 10:41:38, Screen Saver
+04/28/2012, 10:41:49, Screen Saver
+04/28/2012, 10:42:00, Screen Saver
+04/28/2012, 10:42:11, Screen Saver
+04/28/2012, 10:42:22, Screen Saver
+04/28/2012, 10:42:33, Screen Saver
+04/28/2012, 10:42:44, Screen Saver
+04/28/2012, 10:42:55, Screen Saver
+04/28/2012, 10:43:06, Screen Saver
+04/28/2012, 10:43:17, Screen Saver
+04/28/2012, 10:43:28, Screen Saver
+04/28/2012, 10:43:39, Screen Saver
+04/28/2012, 10:43:50, Screen Saver
+04/28/2012, 10:44:01, Screen Saver
+04/28/2012, 10:44:12, Screen Saver
+04/28/2012, 10:44:23, Screen Saver
+04/28/2012, 10:44:34, Screen Saver
+04/28/2012, 10:44:45, Screen Saver
+04/28/2012, 10:44:56, Screen Saver
+04/28/2012, 10:45:07, Screen Saver
+04/28/2012, 10:45:18, Screen Saver
+04/28/2012, 10:45:24, Switching to instrument 2
+04/28/2012, 10:45:25, Switching to instrument 3
+04/28/2012, 10:45:28, Switching to instrument 4
+04/28/2012, 10:45:33, Switching to noises
+04/28/2012, 10:45:34, Switching to instrument 0
+04/28/2012, 10:45:38, Switching to instrument 1
+04/28/2012, 10:45:43, Switching to instrument 2
+04/28/2012, 10:45:47, Switching to instrument 3
+04/28/2012, 10:45:51, Switching to instrument 4
+04/28/2012, 10:45:55, Switching to noises
+04/28/2012, 10:46:06, Screen Saver
+04/28/2012, 10:46:17, Screen Saver
+04/28/2012, 10:46:28, Screen Saver
+04/28/2012, 10:46:40, Screen Saver
+04/28/2012, 10:46:51, Screen Saver
+04/28/2012, 10:47:02, Screen Saver
+04/28/2012, 10:47:13, Screen Saver
+04/28/2012, 10:47:24, Screen Saver
+04/28/2012, 10:47:35, Screen Saver
+04/28/2012, 10:47:46, Screen Saver
+04/28/2012, 10:47:57, Screen Saver
+04/28/2012, 10:48:08, Screen Saver
+04/28/2012, 10:48:19, Screen Saver
+04/28/2012, 10:48:30, Screen Saver
+04/28/2012, 10:48:41, Screen Saver
+04/28/2012, 10:48:52, Screen Saver
+04/28/2012, 10:49:03, Screen Saver
+04/28/2012, 10:49:14, Screen Saver
+04/28/2012, 10:49:25, Screen Saver
+04/28/2012, 10:49:36, Screen Saver
+04/28/2012, 10:49:47, Screen Saver
+04/28/2012, 10:49:58, Screen Saver
+04/28/2012, 10:50:09, Screen Saver
+04/28/2012, 10:50:20, Screen Saver
+04/28/2012, 10:50:31, Screen Saver
+04/28/2012, 10:50:42, Screen Saver
+04/28/2012, 10:50:53, Screen Saver
+04/28/2012, 10:51:04, Screen Saver
+04/28/2012, 10:51:15, Screen Saver
+04/28/2012, 10:51:26, Screen Saver
+04/28/2012, 10:51:37, Screen Saver
+04/28/2012, 10:51:48, Screen Saver
+04/28/2012, 10:51:59, Screen Saver
+04/28/2012, 10:52:11, Screen Saver
+04/28/2012, 10:52:22, Screen Saver
+04/28/2012, 10:52:33, Screen Saver
+04/28/2012, 10:52:44, Screen Saver
+04/28/2012, 10:52:55, Screen Saver
+04/28/2012, 10:53:06, Screen Saver
+04/28/2012, 10:53:17, Screen Saver
+04/28/2012, 10:53:28, Screen Saver
+04/28/2012, 10:53:39, Screen Saver
+04/28/2012, 10:53:50, Screen Saver
+04/28/2012, 10:54:01, Screen Saver
+04/28/2012, 10:54:12, Screen Saver
+04/28/2012, 10:54:23, Screen Saver
+04/28/2012, 10:54:34, Screen Saver
+04/28/2012, 10:54:45, Screen Saver
+04/28/2012, 10:54:56, Screen Saver
+04/28/2012, 10:55:07, Screen Saver
+04/28/2012, 10:55:18, Screen Saver
+04/28/2012, 10:55:29, Screen Saver
+04/28/2012, 10:55:40, Screen Saver
+04/28/2012, 10:55:51, Screen Saver
+04/28/2012, 10:56:02, Screen Saver
+04/28/2012, 10:56:13, Screen Saver
+04/28/2012, 10:56:24, Screen Saver
+04/28/2012, 10:56:35, Screen Saver
+04/28/2012, 10:56:46, Screen Saver
+04/28/2012, 10:56:57, Screen Saver
+04/28/2012, 10:57:08, Screen Saver
+04/28/2012, 10:57:19, Screen Saver
+04/28/2012, 10:57:30, Screen Saver
+04/28/2012, 10:57:38, Switching to instrument 0
+04/28/2012, 10:57:46, Switching to instrument 1
+04/28/2012, 10:57:47, Switching to instrument 2
+04/28/2012, 10:57:47, Switching to instrument 3
+04/28/2012, 10:57:47, Switching to instrument 4
+04/28/2012, 10:57:50, Switching to noises
+04/28/2012, 10:57:52, Switching to instrument 0
+04/28/2012, 10:57:53, Switching to instrument 1
+04/28/2012, 10:58:04, Screen Saver
+04/28/2012, 10:58:15, Screen Saver
+04/28/2012, 10:58:26, Screen Saver
+04/28/2012, 10:58:37, Screen Saver
+04/28/2012, 10:58:48, Screen Saver
+04/28/2012, 10:58:59, Screen Saver
+04/28/2012, 10:59:08, Switching to instrument 2
+04/28/2012, 10:59:09, Switching to instrument 3
+04/28/2012, 10:59:11, Switching to instrument 4
+04/28/2012, 10:59:11, Switching to noises
+04/28/2012, 10:59:11, Switching to instrument 0
+04/28/2012, 10:59:13, Switching to instrument 1
+04/28/2012, 10:59:13, Switching to instrument 2
+04/28/2012, 10:59:13, Switching to instrument 3
+04/28/2012, 10:59:13, Switching to instrument 4
+04/28/2012, 10:59:14, Switching to noises
+04/28/2012, 10:59:14, Switching to instrument 0
+04/28/2012, 10:59:14, Switching to instrument 1
+04/28/2012, 10:59:14, Switching to instrument 2
+04/28/2012, 10:59:16, Switching to instrument 3
+04/28/2012, 10:59:16, Switching to instrument 4
+04/28/2012, 10:59:16, Switching to noises
+04/28/2012, 10:59:18, Switching to instrument 0
+04/28/2012, 10:59:18, Switching to instrument 1
+04/28/2012, 10:59:19, Switching to instrument 2
+04/28/2012, 10:59:20, Switching to instrument 3
+04/28/2012, 10:59:20, Switching to instrument 4
+04/28/2012, 10:59:20, Switching to noises
+04/28/2012, 10:59:22, Switching to instrument 0
+04/28/2012, 10:59:22, Switching to instrument 1
+04/28/2012, 10:59:22, Switching to instrument 2
+04/28/2012, 10:59:22, Switching to instrument 3
+04/28/2012, 10:59:24, Switching to instrument 4
+04/28/2012, 10:59:24, Switching to noises
+04/28/2012, 10:59:25, Switching to instrument 0
+04/28/2012, 10:59:26, Switching to instrument 1
+04/28/2012, 10:59:27, Switching to instrument 2
+04/28/2012, 10:59:27, Switching to instrument 3
+04/28/2012, 10:59:29, Switching to instrument 4
+04/28/2012, 10:59:30, Switching to noises
+04/28/2012, 10:59:30, Switching to instrument 0
+04/28/2012, 10:59:31, Switching to instrument 1
+04/28/2012, 10:59:31, Switching to instrument 2
+04/28/2012, 10:59:37, Switching to instrument 3
+04/28/2012, 10:59:38, Switching to instrument 4
+04/28/2012, 10:59:38, Switching to noises
+04/28/2012, 10:59:39, Switching to instrument 0
+04/28/2012, 10:59:40, Switching to instrument 1
+04/28/2012, 10:59:41, Switching to instrument 2
+04/28/2012, 10:59:51, Screen Saver
+04/28/2012, 11:00:02, Screen Saver
+04/28/2012, 11:00:13, Screen Saver
+04/28/2012, 11:00:16, Switching to instrument 3
+04/28/2012, 11:00:27, Screen Saver
+04/28/2012, 11:00:38, Screen Saver
+04/28/2012, 11:00:49, Screen Saver
+04/28/2012, 11:01:00, Screen Saver
+04/28/2012, 11:01:11, Screen Saver
+04/28/2012, 11:01:22, Screen Saver
+04/28/2012, 11:01:33, Screen Saver
+04/28/2012, 11:01:44, Screen Saver
+04/28/2012, 11:01:55, Screen Saver
+04/28/2012, 11:02:06, Screen Saver
+04/28/2012, 11:02:17, Screen Saver
+04/28/2012, 11:02:28, Screen Saver
+04/28/2012, 11:02:40, Screen Saver
+04/28/2012, 11:02:51, Screen Saver
+04/28/2012, 11:03:02, Screen Saver
+04/28/2012, 11:03:13, Screen Saver
+04/28/2012, 11:03:18, Switching to instrument 4
+04/28/2012, 11:03:29, Screen Saver
+04/28/2012, 11:03:40, Screen Saver
+04/28/2012, 11:03:51, Screen Saver
+04/28/2012, 11:04:02, Screen Saver
+04/28/2012, 11:04:13, Screen Saver
+04/28/2012, 11:04:24, Screen Saver
+04/28/2012, 11:04:35, Screen Saver
+04/28/2012, 11:04:46, Screen Saver
+04/28/2012, 11:04:57, Screen Saver
+04/28/2012, 11:05:08, Screen Saver
+04/28/2012, 11:05:19, Screen Saver
+04/28/2012, 11:05:30, Screen Saver
+04/28/2012, 11:05:41, Screen Saver
+04/28/2012, 11:05:52, Screen Saver
+04/28/2012, 11:06:01, Switching to noises
+04/28/2012, 11:06:05, Switching to instrument 0
+04/28/2012, 11:06:15, Screen Saver
+04/28/2012, 11:06:26, Screen Saver
+04/28/2012, 11:06:37, Screen Saver
+04/28/2012, 11:06:48, Screen Saver
+04/28/2012, 11:06:59, Screen Saver
+04/28/2012, 11:07:10, Screen Saver
+04/28/2012, 11:07:21, Screen Saver
+04/28/2012, 11:07:32, Screen Saver
+04/28/2012, 11:07:43, Screen Saver
+04/28/2012, 11:07:45, Switching to instrument 1
+04/28/2012, 11:07:45, Switching to instrument 2
+04/28/2012, 11:07:56, Screen Saver
+04/28/2012, 11:08:07, Screen Saver
+04/28/2012, 11:08:18, Screen Saver
+04/28/2012, 11:08:29, Screen Saver
+04/28/2012, 11:08:41, Screen Saver
+04/28/2012, 11:08:52, Screen Saver
+04/28/2012, 11:09:03, Screen Saver
+04/28/2012, 11:09:14, Screen Saver
+04/28/2012, 11:09:25, Screen Saver
+04/28/2012, 11:09:35, Switching to instrument 3
+04/28/2012, 11:09:45, Screen Saver
+04/28/2012, 11:09:56, Screen Saver
+04/28/2012, 11:10:07, Screen Saver
+04/28/2012, 11:10:18, Switching to instrument 4
+04/28/2012, 11:10:19, Switching to noises
+04/28/2012, 11:10:26, Switching to instrument 0
+04/28/2012, 11:10:26, Switching to instrument 1
+04/28/2012, 11:10:28, Switching to instrument 2
+04/28/2012, 11:10:30, Switching to instrument 3
+04/28/2012, 11:10:31, Switching to instrument 4
+04/28/2012, 11:10:33, Switching to noises
+04/28/2012, 11:10:34, Switching to instrument 0
+04/28/2012, 11:10:36, Switching to instrument 1
+04/28/2012, 11:10:37, Switching to instrument 2
+04/28/2012, 11:10:39, Switching to instrument 3
+04/28/2012, 11:10:40, Switching to instrument 4
+04/28/2012, 11:10:43, Switching to noises
+04/28/2012, 11:10:45, Switching to instrument 0
+04/28/2012, 11:10:47, Switching to instrument 1
+04/28/2012, 11:10:48, Switching to instrument 2
+04/28/2012, 11:10:49, Switching to instrument 3
+04/28/2012, 11:10:50, Switching to instrument 4
+04/28/2012, 11:10:50, Switching to noises
+04/28/2012, 11:10:50, Switching to instrument 0
+04/28/2012, 11:10:50, Switching to instrument 1
+04/28/2012, 11:10:50, Switching to instrument 2
+04/28/2012, 11:10:52, Switching to instrument 3
+04/28/2012, 11:10:53, Switching to instrument 4
+04/28/2012, 11:10:54, Switching to noises
+04/28/2012, 11:10:56, Switching to instrument 0
+04/28/2012, 11:10:56, Switching to instrument 1
+04/28/2012, 11:11:07, Screen Saver
+04/28/2012, 11:11:18, Screen Saver
+04/28/2012, 11:11:18, Switching to instrument 2
+04/28/2012, 11:11:19, Switching to instrument 3
+04/28/2012, 11:11:20, Switching to instrument 4
+04/28/2012, 11:11:20, Switching to noises
+04/28/2012, 11:11:21, Switching to instrument 0
+04/28/2012, 11:11:21, Switching to instrument 1
+04/28/2012, 11:11:24, Switching to instrument 2
+04/28/2012, 11:11:26, Switching to instrument 3
+04/28/2012, 11:11:27, Switching to instrument 4
+04/28/2012, 11:11:29, Switching to noises
+04/28/2012, 11:11:30, Switching to instrument 0
+04/28/2012, 11:11:31, Switching to instrument 1
+04/28/2012, 11:11:34, Switching to instrument 2
+04/28/2012, 11:11:35, Switching to instrument 3
+04/28/2012, 11:11:36, Switching to instrument 4
+04/28/2012, 11:11:39, Switching to noises
+04/28/2012, 11:11:40, Switching to instrument 0
+04/28/2012, 11:11:42, Switching to instrument 1
+04/28/2012, 11:11:44, Switching to instrument 2
+04/28/2012, 11:11:48, Switching to instrument 3
+04/28/2012, 11:11:51, Switching to instrument 4
+04/28/2012, 11:11:52, Switching to noises
+04/28/2012, 11:11:53, Switching to instrument 0
+04/28/2012, 11:11:53, Switching to instrument 1
+04/28/2012, 11:11:59, Switching to instrument 2
+04/28/2012, 11:12:03, Switching to instrument 3
+04/28/2012, 11:12:03, Switching to instrument 4
+04/28/2012, 11:12:14, Screen Saver
+04/28/2012, 11:12:25, Screen Saver
+04/28/2012, 11:12:36, Screen Saver
+04/28/2012, 11:12:47, Screen Saver
+04/28/2012, 11:12:58, Screen Saver
+04/28/2012, 11:13:09, Screen Saver
+04/28/2012, 11:13:20, Screen Saver
+04/28/2012, 11:13:31, Screen Saver
+04/28/2012, 11:13:42, Screen Saver
+04/28/2012, 11:13:53, Screen Saver
+04/28/2012, 11:14:04, Screen Saver
+04/28/2012, 11:14:15, Screen Saver
+04/28/2012, 11:14:26, Screen Saver
+04/28/2012, 11:14:37, Screen Saver
+04/28/2012, 11:14:48, Screen Saver
+04/28/2012, 11:14:59, Screen Saver
+04/28/2012, 11:15:10, Screen Saver
+04/28/2012, 11:15:21, Screen Saver
+04/28/2012, 11:15:24, Switching to noises
+04/28/2012, 11:15:32, Switching to instrument 0
+04/28/2012, 11:15:35, Switching to instrument 1
+04/28/2012, 11:15:37, Switching to instrument 2
+04/28/2012, 11:15:40, Switching to instrument 3
+04/28/2012, 11:15:46, Switching to instrument 4
+04/28/2012, 11:15:50, Switching to noises
+04/28/2012, 11:16:01, Screen Saver
+04/28/2012, 11:16:12, Screen Saver
+04/28/2012, 11:16:23, Screen Saver
+04/28/2012, 11:16:34, Screen Saver
+04/28/2012, 11:16:45, Screen Saver
+04/28/2012, 11:16:56, Screen Saver
+04/28/2012, 11:17:07, Screen Saver
+04/28/2012, 11:17:18, Screen Saver
+04/28/2012, 11:17:29, Screen Saver
+04/28/2012, 11:17:39, Switching to instrument 0
+04/28/2012, 11:17:41, Switching to instrument 1
+04/28/2012, 11:17:51, Screen Saver
+04/28/2012, 11:18:03, Screen Saver
+04/28/2012, 11:18:14, Screen Saver
+04/28/2012, 11:18:25, Screen Saver
+04/28/2012, 11:18:36, Screen Saver
+04/28/2012, 11:18:47, Screen Saver
+04/28/2012, 11:18:58, Screen Saver
+04/28/2012, 11:19:09, Screen Saver
+04/28/2012, 11:19:20, Screen Saver
+04/28/2012, 11:19:31, Screen Saver
+04/28/2012, 11:19:42, Screen Saver
+04/28/2012, 11:19:53, Screen Saver
+04/28/2012, 11:20:04, Screen Saver
+04/28/2012, 11:20:15, Screen Saver
+04/28/2012, 11:20:26, Screen Saver
+04/28/2012, 11:20:37, Screen Saver
+04/28/2012, 11:20:48, Screen Saver
+04/28/2012, 11:20:59, Screen Saver
+04/28/2012, 11:21:10, Screen Saver
+04/28/2012, 11:21:21, Screen Saver
+04/28/2012, 11:21:32, Screen Saver
+04/28/2012, 11:21:43, Screen Saver
+04/28/2012, 11:21:54, Screen Saver
+04/28/2012, 11:22:05, Screen Saver
+04/28/2012, 11:22:16, Screen Saver
+04/28/2012, 11:22:27, Screen Saver
+04/28/2012, 11:22:38, Screen Saver
+04/28/2012, 11:22:49, Screen Saver
+04/28/2012, 11:23:00, Screen Saver
+04/28/2012, 11:23:11, Screen Saver
+04/28/2012, 11:23:22, Screen Saver
+04/28/2012, 11:23:33, Screen Saver
+04/28/2012, 11:23:44, Screen Saver
+04/28/2012, 11:23:55, Screen Saver
+04/28/2012, 11:24:07, Screen Saver
+04/28/2012, 11:24:14, Switching to instrument 2
+04/28/2012, 11:24:18, Switching to instrument 3
+04/28/2012, 11:24:19, Switching to instrument 4
+04/28/2012, 11:24:30, Screen Saver
+04/28/2012, 11:24:34, Switching to noises
+04/28/2012, 11:24:45, Screen Saver
+04/28/2012, 11:24:56, Screen Saver
+04/28/2012, 11:25:07, Screen Saver
+04/28/2012, 11:25:18, Screen Saver
+04/28/2012, 11:25:29, Screen Saver
+04/28/2012, 11:25:40, Screen Saver
+04/28/2012, 11:25:51, Screen Saver
+04/28/2012, 11:26:02, Screen Saver
+04/28/2012, 11:26:13, Screen Saver
+04/28/2012, 11:26:24, Screen Saver
+04/28/2012, 11:26:35, Screen Saver
+04/28/2012, 11:26:46, Screen Saver
+04/28/2012, 11:26:57, Screen Saver
+04/28/2012, 11:27:08, Screen Saver
+04/28/2012, 11:27:19, Screen Saver
+04/28/2012, 11:27:30, Screen Saver
+04/28/2012, 11:27:41, Screen Saver
+04/28/2012, 11:27:52, Screen Saver
+04/28/2012, 11:28:03, Screen Saver
+04/28/2012, 11:28:14, Screen Saver
+04/28/2012, 11:28:25, Screen Saver
+04/28/2012, 11:28:36, Screen Saver
+04/28/2012, 11:28:47, Screen Saver
+04/28/2012, 11:28:58, Screen Saver
+04/28/2012, 11:29:09, Screen Saver
+04/28/2012, 11:29:20, Screen Saver
+04/28/2012, 11:29:31, Screen Saver
+04/28/2012, 11:29:42, Screen Saver
+04/28/2012, 11:29:53, Screen Saver
+04/28/2012, 11:30:05, Screen Saver
+04/28/2012, 11:30:16, Screen Saver
+04/28/2012, 11:30:27, Screen Saver
+04/28/2012, 11:30:38, Screen Saver
+04/28/2012, 11:30:49, Screen Saver
+04/28/2012, 11:31:00, Screen Saver
+04/28/2012, 11:31:11, Screen Saver
+04/28/2012, 11:31:22, Screen Saver
+04/28/2012, 11:31:33, Screen Saver
+04/28/2012, 11:31:44, Screen Saver
+04/28/2012, 11:31:55, Screen Saver
+04/28/2012, 11:32:06, Screen Saver
+04/28/2012, 11:32:17, Screen Saver
+04/28/2012, 11:32:28, Screen Saver
+04/28/2012, 11:32:39, Screen Saver
+04/28/2012, 11:32:50, Screen Saver
+04/28/2012, 11:33:01, Screen Saver
+04/28/2012, 11:33:12, Screen Saver
+04/28/2012, 11:33:23, Screen Saver
+04/28/2012, 11:33:34, Screen Saver
+04/28/2012, 11:33:45, Screen Saver
+04/28/2012, 11:33:56, Screen Saver
+04/28/2012, 11:34:07, Screen Saver
+04/28/2012, 11:34:18, Screen Saver
+04/28/2012, 11:34:29, Screen Saver
+04/28/2012, 11:34:40, Screen Saver
+04/28/2012, 11:34:51, Screen Saver
+04/28/2012, 11:35:02, Screen Saver
+04/28/2012, 11:35:13, Screen Saver
+04/28/2012, 11:35:24, Screen Saver
+04/28/2012, 11:35:35, Screen Saver
+04/28/2012, 11:35:46, Screen Saver
+04/28/2012, 11:35:58, Screen Saver
+04/28/2012, 11:36:09, Screen Saver
+04/28/2012, 11:36:20, Screen Saver
+04/28/2012, 11:36:31, Screen Saver
+04/28/2012, 11:36:42, Screen Saver
+04/28/2012, 11:36:53, Screen Saver
+04/28/2012, 11:37:04, Screen Saver
+04/28/2012, 11:37:15, Screen Saver
+04/28/2012, 11:37:26, Screen Saver
+04/28/2012, 11:37:37, Screen Saver
+04/28/2012, 11:37:48, Screen Saver
+04/28/2012, 11:37:59, Screen Saver
+04/28/2012, 11:38:10, Screen Saver
+04/28/2012, 11:38:21, Screen Saver
+04/28/2012, 11:38:32, Screen Saver
+04/28/2012, 11:38:43, Screen Saver
+04/28/2012, 11:38:54, Screen Saver
+04/28/2012, 11:39:05, Screen Saver
+04/28/2012, 11:39:16, Screen Saver
+04/28/2012, 11:39:27, Screen Saver
+04/28/2012, 11:39:38, Screen Saver
+04/28/2012, 11:39:49, Screen Saver
+04/28/2012, 11:40:00, Screen Saver
+04/28/2012, 11:40:11, Screen Saver
+04/28/2012, 11:40:22, Screen Saver
+04/28/2012, 11:40:33, Screen Saver
+04/28/2012, 11:40:44, Screen Saver
+04/28/2012, 11:40:55, Screen Saver
+04/28/2012, 11:41:06, Screen Saver
+04/28/2012, 11:41:17, Screen Saver
+04/28/2012, 11:41:28, Screen Saver
+04/28/2012, 11:41:39, Screen Saver
+04/28/2012, 11:41:50, Screen Saver
+04/28/2012, 11:42:02, Screen Saver
+04/28/2012, 11:42:13, Screen Saver
+04/28/2012, 11:42:24, Screen Saver
+04/28/2012, 11:42:35, Screen Saver
+04/28/2012, 11:42:46, Screen Saver
+04/28/2012, 11:42:57, Screen Saver
+04/28/2012, 11:43:08, Screen Saver
+04/28/2012, 11:43:19, Screen Saver
+04/28/2012, 11:43:30, Screen Saver
+04/28/2012, 11:43:41, Screen Saver
+04/28/2012, 11:43:52, Screen Saver
+04/28/2012, 11:44:03, Screen Saver
+04/28/2012, 11:44:14, Screen Saver
+04/28/2012, 11:44:25, Screen Saver
+04/28/2012, 11:44:36, Screen Saver
+04/28/2012, 11:44:47, Screen Saver
+04/28/2012, 11:44:58, Screen Saver
+04/28/2012, 11:45:09, Screen Saver
+04/28/2012, 11:45:20, Screen Saver
+04/28/2012, 11:45:31, Screen Saver
+04/28/2012, 11:45:42, Screen Saver
+04/28/2012, 11:45:53, Screen Saver
+04/28/2012, 11:45:53, Switching to instrument 0
+04/28/2012, 11:46:02, Switching to instrument 1
+04/28/2012, 11:46:02, Switching to instrument 2
+04/28/2012, 11:46:03, Switching to instrument 3
+04/28/2012, 11:46:04, Switching to instrument 4
+04/28/2012, 11:46:08, Switching to noises
+04/28/2012, 11:46:08, Switching to instrument 0
+04/28/2012, 11:46:09, Switching to instrument 1
+04/28/2012, 11:46:09, Switching to instrument 2
+04/28/2012, 11:46:09, Switching to instrument 3
+04/28/2012, 11:46:10, Switching to instrument 4
+04/28/2012, 11:46:11, Switching to noises
+04/28/2012, 11:46:21, Screen Saver
+04/28/2012, 11:46:32, Screen Saver
+04/28/2012, 11:46:43, Screen Saver
+04/28/2012, 11:46:54, Screen Saver
+04/28/2012, 11:47:05, Screen Saver
+04/28/2012, 11:47:16, Screen Saver
+04/28/2012, 11:47:28, Screen Saver
+04/28/2012, 11:47:39, Screen Saver
+04/28/2012, 11:47:50, Screen Saver
+04/28/2012, 11:48:01, Screen Saver
+04/28/2012, 11:48:12, Screen Saver
+04/28/2012, 11:48:23, Screen Saver
+04/28/2012, 11:48:34, Screen Saver
+04/28/2012, 11:48:45, Screen Saver
+04/28/2012, 11:48:56, Screen Saver
+04/28/2012, 11:49:07, Screen Saver
+04/28/2012, 11:49:18, Screen Saver
+04/28/2012, 11:49:29, Screen Saver
+04/28/2012, 11:49:40, Screen Saver
+04/28/2012, 11:49:51, Screen Saver
+04/28/2012, 11:50:02, Screen Saver
+04/28/2012, 11:50:13, Screen Saver
+04/28/2012, 11:50:24, Screen Saver
+04/28/2012, 11:50:35, Screen Saver
+04/28/2012, 11:50:46, Screen Saver
+04/28/2012, 11:50:57, Screen Saver
+04/28/2012, 11:51:08, Screen Saver
+04/28/2012, 11:51:19, Screen Saver
+04/28/2012, 11:51:30, Screen Saver
+04/28/2012, 11:51:41, Screen Saver
+04/28/2012, 11:51:52, Screen Saver
+04/28/2012, 11:52:03, Screen Saver
+04/28/2012, 11:52:14, Screen Saver
+04/28/2012, 11:52:25, Screen Saver
+04/28/2012, 11:52:36, Screen Saver
+04/28/2012, 11:52:47, Screen Saver
+04/28/2012, 11:52:58, Screen Saver
+04/28/2012, 11:53:09, Screen Saver
+04/28/2012, 11:53:20, Screen Saver
+04/28/2012, 11:53:31, Screen Saver
+04/28/2012, 11:53:42, Screen Saver
+04/28/2012, 11:53:54, Screen Saver
+04/28/2012, 11:54:05, Screen Saver
+04/28/2012, 11:54:16, Screen Saver
+04/28/2012, 11:54:27, Screen Saver
+04/28/2012, 11:54:38, Screen Saver
+04/28/2012, 11:54:49, Screen Saver
+04/28/2012, 11:55:00, Screen Saver
+04/28/2012, 11:55:11, Screen Saver
+04/28/2012, 11:55:22, Screen Saver
+04/28/2012, 11:55:33, Screen Saver
+04/28/2012, 11:55:44, Screen Saver
+04/28/2012, 11:55:55, Screen Saver
+04/28/2012, 11:56:06, Screen Saver
+04/28/2012, 11:56:17, Screen Saver
+04/28/2012, 11:56:28, Screen Saver
+04/28/2012, 11:56:39, Screen Saver
+04/28/2012, 11:56:50, Screen Saver
+04/28/2012, 11:57:01, Screen Saver
+04/28/2012, 11:57:12, Screen Saver
+04/28/2012, 11:57:23, Screen Saver
+04/28/2012, 11:57:34, Screen Saver
+04/28/2012, 11:57:45, Screen Saver
+04/28/2012, 11:57:56, Screen Saver
+04/28/2012, 11:58:07, Screen Saver
+04/28/2012, 11:58:18, Screen Saver
+04/28/2012, 11:58:29, Screen Saver
+04/28/2012, 11:58:40, Screen Saver
+04/28/2012, 11:58:51, Screen Saver
+04/28/2012, 11:59:02, Screen Saver
+04/28/2012, 11:59:13, Screen Saver
+04/28/2012, 11:59:18, Switching to instrument 0
+04/28/2012, 11:59:18, Switching to instrument 1
+04/28/2012, 11:59:18, Switching to instrument 2
+04/28/2012, 11:59:25, Switching to instrument 3
+04/28/2012, 11:59:34, Switching to instrument 4
+04/28/2012, 11:59:37, Switching to noises
+04/28/2012, 11:59:37, Switching to instrument 0
+04/28/2012, 11:59:38, Switching to instrument 1
+04/28/2012, 11:59:38, Switching to instrument 2
+04/28/2012, 11:59:39, Switching to instrument 3
+04/28/2012, 11:59:39, Switching to instrument 4
+04/28/2012, 11:59:40, Switching to noises
+04/28/2012, 11:59:40, Switching to instrument 0
+04/28/2012, 11:59:40, Switching to instrument 1
+04/28/2012, 11:59:40, Switching to instrument 2
+04/28/2012, 11:59:43, Switching to instrument 3
+04/28/2012, 11:59:43, Switching to instrument 4
+04/28/2012, 11:59:44, Switching to noises
+04/28/2012, 11:59:45, Switching to instrument 0
+04/28/2012, 11:59:56, Screen Saver
+04/28/2012, 12:00:07, Screen Saver
+04/28/2012, 12:00:18, Screen Saver
+04/28/2012, 12:00:29, Screen Saver
+04/28/2012, 12:00:40, Screen Saver
+04/28/2012, 12:00:51, Screen Saver
+04/28/2012, 12:00:55, Switching to instrument 1
+04/28/2012, 12:01:00, Switching to instrument 2
+04/28/2012, 12:01:03, Switching to instrument 3
+04/28/2012, 12:01:04, Switching to instrument 4
+04/28/2012, 12:01:15, Screen Saver
+04/28/2012, 12:01:26, Screen Saver
+04/28/2012, 12:01:37, Screen Saver
+04/28/2012, 12:01:48, Screen Saver
+04/28/2012, 12:01:59, Screen Saver
+04/28/2012, 12:02:10, Screen Saver
+04/28/2012, 12:02:21, Screen Saver
+04/28/2012, 12:02:32, Screen Saver
+04/28/2012, 12:02:43, Screen Saver
+04/28/2012, 12:02:54, Screen Saver
+04/28/2012, 12:03:05, Screen Saver
+04/28/2012, 12:03:16, Screen Saver
+04/28/2012, 12:03:27, Screen Saver
+04/28/2012, 12:03:38, Screen Saver
+04/28/2012, 12:03:49, Screen Saver
+04/28/2012, 12:04:00, Screen Saver
+04/28/2012, 12:04:11, Screen Saver
+04/28/2012, 12:04:22, Screen Saver
+04/28/2012, 12:04:34, Screen Saver
+04/28/2012, 12:04:45, Screen Saver
+04/28/2012, 12:04:56, Screen Saver
+04/28/2012, 12:05:07, Screen Saver
+04/28/2012, 12:05:18, Screen Saver
+04/28/2012, 12:05:29, Screen Saver
+04/28/2012, 12:05:40, Screen Saver
+04/28/2012, 12:05:51, Screen Saver
+04/28/2012, 12:06:02, Screen Saver
+04/28/2012, 12:06:13, Screen Saver
+04/28/2012, 12:06:24, Screen Saver
+04/28/2012, 12:06:35, Screen Saver
+04/28/2012, 12:06:46, Screen Saver
+04/28/2012, 12:06:57, Screen Saver
+04/28/2012, 12:07:08, Screen Saver
+04/28/2012, 12:07:19, Screen Saver
+04/28/2012, 12:07:30, Screen Saver
+04/28/2012, 12:07:41, Screen Saver
+04/28/2012, 12:07:52, Screen Saver
+04/28/2012, 12:08:03, Screen Saver
+04/28/2012, 12:08:14, Screen Saver
+04/28/2012, 12:08:25, Screen Saver
+04/28/2012, 12:08:36, Screen Saver
+04/28/2012, 12:08:47, Screen Saver
+04/28/2012, 12:08:58, Screen Saver
+04/28/2012, 12:09:09, Screen Saver
+04/28/2012, 12:09:20, Screen Saver
+04/28/2012, 12:09:31, Screen Saver
+04/28/2012, 12:09:42, Screen Saver
+04/28/2012, 12:09:53, Screen Saver
+04/28/2012, 12:10:04, Screen Saver
+04/28/2012, 12:10:15, Screen Saver
+04/28/2012, 12:10:26, Screen Saver
+04/28/2012, 12:10:37, Screen Saver
+04/28/2012, 12:10:49, Screen Saver
+04/28/2012, 12:11:00, Screen Saver
+04/28/2012, 12:11:11, Screen Saver
+04/28/2012, 12:11:22, Screen Saver
+04/28/2012, 12:11:33, Screen Saver
+04/28/2012, 12:11:44, Screen Saver
+04/28/2012, 12:11:55, Screen Saver
+04/28/2012, 12:12:06, Screen Saver
+04/28/2012, 12:12:17, Screen Saver
+04/28/2012, 12:12:28, Screen Saver
+04/28/2012, 12:12:39, Screen Saver
+04/28/2012, 12:12:50, Screen Saver
+04/28/2012, 12:13:01, Screen Saver
+04/28/2012, 12:13:12, Screen Saver
+04/28/2012, 12:13:23, Screen Saver
+04/28/2012, 12:13:34, Screen Saver
+04/28/2012, 12:13:45, Screen Saver
+04/28/2012, 12:13:56, Screen Saver
+04/28/2012, 12:14:07, Screen Saver
+04/28/2012, 12:14:18, Screen Saver
+04/28/2012, 12:14:29, Screen Saver
+04/28/2012, 12:14:40, Screen Saver
+04/28/2012, 12:14:51, Screen Saver
+04/28/2012, 12:15:02, Screen Saver
+04/28/2012, 12:15:13, Screen Saver
+04/28/2012, 12:15:24, Screen Saver
+04/28/2012, 12:15:35, Screen Saver
+04/28/2012, 12:15:46, Screen Saver
+04/28/2012, 12:15:57, Screen Saver
+04/28/2012, 12:16:08, Screen Saver
+04/28/2012, 12:16:19, Screen Saver
+04/28/2012, 12:16:31, Screen Saver
+04/28/2012, 12:16:42, Screen Saver
+04/28/2012, 12:16:53, Screen Saver
+04/28/2012, 12:17:04, Screen Saver
+04/28/2012, 12:17:15, Screen Saver
+04/28/2012, 12:17:26, Screen Saver
+04/28/2012, 12:17:37, Screen Saver
+04/28/2012, 12:17:48, Screen Saver
+04/28/2012, 12:17:59, Screen Saver
+04/28/2012, 12:18:10, Screen Saver
+04/28/2012, 12:18:21, Screen Saver
+04/28/2012, 12:18:32, Screen Saver
+04/28/2012, 12:18:43, Screen Saver
+04/28/2012, 12:18:54, Screen Saver
+04/28/2012, 12:19:05, Screen Saver
+04/28/2012, 12:19:16, Screen Saver
+04/28/2012, 12:19:27, Screen Saver
+04/28/2012, 12:19:38, Screen Saver
+04/28/2012, 12:19:49, Screen Saver
+04/28/2012, 12:20:00, Screen Saver
+04/28/2012, 12:20:11, Screen Saver
+04/28/2012, 12:20:22, Screen Saver
+04/28/2012, 12:20:33, Screen Saver
+04/28/2012, 12:20:44, Screen Saver
+04/28/2012, 12:20:55, Screen Saver
+04/28/2012, 12:21:06, Screen Saver
+04/28/2012, 12:21:17, Screen Saver
+04/28/2012, 12:21:28, Screen Saver
+04/28/2012, 12:21:39, Screen Saver
+04/28/2012, 12:21:50, Screen Saver
+04/28/2012, 12:22:01, Screen Saver
+04/28/2012, 12:22:12, Screen Saver
+04/28/2012, 12:22:24, Screen Saver
+04/28/2012, 12:22:35, Screen Saver
+04/28/2012, 12:22:46, Screen Saver
+04/28/2012, 12:22:57, Screen Saver
+04/28/2012, 12:23:08, Screen Saver
+04/28/2012, 12:23:19, Screen Saver
+04/28/2012, 12:23:30, Screen Saver
+04/28/2012, 12:23:41, Screen Saver
+04/28/2012, 12:23:52, Screen Saver
+04/28/2012, 12:24:03, Screen Saver
+04/28/2012, 12:24:14, Screen Saver
+04/28/2012, 12:24:25, Screen Saver
+04/28/2012, 12:24:36, Screen Saver
+04/28/2012, 12:24:47, Screen Saver
+04/28/2012, 12:24:58, Screen Saver
+04/28/2012, 12:25:09, Screen Saver
+04/28/2012, 12:25:20, Screen Saver
+04/28/2012, 12:25:31, Screen Saver
+04/28/2012, 12:25:42, Screen Saver
+04/28/2012, 12:25:53, Screen Saver
+04/28/2012, 12:26:04, Screen Saver
+04/28/2012, 12:26:15, Screen Saver
+04/28/2012, 12:26:26, Screen Saver
+04/28/2012, 12:26:37, Screen Saver
+04/28/2012, 12:26:48, Screen Saver
+04/28/2012, 12:26:59, Screen Saver
+04/28/2012, 12:27:10, Screen Saver
+04/28/2012, 12:27:21, Screen Saver
+04/28/2012, 12:27:32, Screen Saver
+04/28/2012, 12:27:43, Screen Saver
+04/28/2012, 12:27:55, Screen Saver
+04/28/2012, 12:28:06, Screen Saver
+04/28/2012, 12:28:17, Screen Saver
+04/28/2012, 12:28:28, Screen Saver
+04/28/2012, 12:28:39, Screen Saver
+04/28/2012, 12:28:50, Screen Saver
+04/28/2012, 12:29:01, Screen Saver
+04/28/2012, 12:29:12, Screen Saver
+04/28/2012, 12:29:23, Screen Saver
+04/28/2012, 12:29:34, Screen Saver
+04/28/2012, 12:29:45, Screen Saver
+04/28/2012, 12:29:56, Screen Saver
+04/28/2012, 12:30:07, Screen Saver
+04/28/2012, 12:30:18, Screen Saver
+04/28/2012, 12:30:29, Screen Saver
+04/28/2012, 12:30:40, Screen Saver
+04/28/2012, 12:30:51, Screen Saver
+04/28/2012, 12:31:02, Screen Saver
+04/28/2012, 12:31:13, Screen Saver
+04/28/2012, 12:31:24, Screen Saver
+04/28/2012, 12:31:35, Screen Saver
+04/28/2012, 12:31:46, Screen Saver
+04/28/2012, 12:31:57, Screen Saver
+04/28/2012, 12:32:08, Screen Saver
+04/28/2012, 12:32:19, Screen Saver
+04/28/2012, 12:32:30, Screen Saver
+04/28/2012, 12:32:41, Screen Saver
+04/28/2012, 12:32:52, Screen Saver
+04/28/2012, 12:33:03, Screen Saver
+04/28/2012, 12:33:14, Screen Saver
+04/28/2012, 12:33:25, Screen Saver
+04/28/2012, 12:33:37, Screen Saver
+04/28/2012, 12:33:48, Screen Saver
+04/28/2012, 12:33:59, Screen Saver
+04/28/2012, 12:34:10, Screen Saver
+04/28/2012, 12:34:21, Screen Saver
+04/28/2012, 12:34:32, Screen Saver
+04/28/2012, 12:34:43, Screen Saver
+04/28/2012, 12:34:54, Screen Saver
+04/28/2012, 12:35:03, Switching to noises
+04/28/2012, 12:35:13, Screen Saver
+04/28/2012, 12:35:24, Screen Saver
+04/28/2012, 12:35:35, Screen Saver
+04/28/2012, 12:35:46, Screen Saver
+04/28/2012, 12:35:57, Screen Saver
+04/28/2012, 12:36:08, Screen Saver
+04/28/2012, 12:36:19, Screen Saver
+04/28/2012, 12:36:30, Screen Saver
+04/28/2012, 12:36:41, Screen Saver
+04/28/2012, 12:36:52, Screen Saver
+04/28/2012, 12:37:03, Screen Saver
+04/28/2012, 12:37:14, Screen Saver
+04/28/2012, 12:37:25, Screen Saver
+04/28/2012, 12:37:36, Screen Saver
+04/28/2012, 12:37:47, Screen Saver
+04/28/2012, 12:37:58, Screen Saver
+04/28/2012, 12:38:09, Screen Saver
+04/28/2012, 12:38:20, Screen Saver
+04/28/2012, 12:38:31, Screen Saver
+04/28/2012, 12:38:42, Screen Saver
+04/28/2012, 12:38:53, Screen Saver
+04/28/2012, 12:39:04, Screen Saver
+04/28/2012, 12:39:16, Screen Saver
+04/28/2012, 12:39:27, Screen Saver
+04/28/2012, 12:39:38, Screen Saver
+04/28/2012, 12:39:49, Screen Saver
+04/28/2012, 12:40:00, Screen Saver
+04/28/2012, 12:40:11, Screen Saver
+04/28/2012, 12:40:22, Screen Saver
+04/28/2012, 12:40:33, Screen Saver
+04/28/2012, 12:40:44, Screen Saver
+04/28/2012, 12:40:55, Screen Saver
+04/28/2012, 12:41:06, Screen Saver
+04/28/2012, 12:41:17, Screen Saver
+04/28/2012, 12:41:28, Screen Saver
+04/28/2012, 12:41:39, Screen Saver
+04/28/2012, 12:41:50, Screen Saver
+04/28/2012, 12:42:01, Screen Saver
+04/28/2012, 12:42:12, Screen Saver
+04/28/2012, 12:42:23, Screen Saver
+04/28/2012, 12:42:34, Screen Saver
+04/28/2012, 12:42:45, Screen Saver
+04/28/2012, 12:42:56, Screen Saver
+04/28/2012, 12:43:07, Screen Saver
+04/28/2012, 12:43:18, Screen Saver
+04/28/2012, 12:43:29, Screen Saver
+04/28/2012, 12:43:40, Screen Saver
+04/28/2012, 12:43:51, Screen Saver
+04/28/2012, 12:44:02, Screen Saver
+04/28/2012, 12:44:13, Screen Saver
+04/28/2012, 12:44:24, Screen Saver
+04/28/2012, 12:44:35, Screen Saver
+04/28/2012, 12:44:46, Screen Saver
+04/28/2012, 12:44:57, Screen Saver
+04/28/2012, 12:45:09, Screen Saver
+04/28/2012, 12:45:20, Screen Saver
+04/28/2012, 12:45:31, Screen Saver
+04/28/2012, 12:45:39, Switching to instrument 0
+04/28/2012, 12:45:39, Switching to instrument 1
+04/28/2012, 12:45:40, Switching to instrument 2
+04/28/2012, 12:45:40, Switching to instrument 3
+04/28/2012, 12:45:41, Switching to instrument 4
+04/28/2012, 12:45:42, Switching to noises
+04/28/2012, 12:45:43, Switching to instrument 0
+04/28/2012, 12:45:43, Switching to instrument 1
+04/28/2012, 12:45:46, Switching to instrument 2
+04/28/2012, 12:45:47, Switching to instrument 3
+04/28/2012, 12:45:47, Switching to instrument 4
+04/28/2012, 12:45:47, Switching to noises
+04/28/2012, 12:45:48, Switching to instrument 0
+04/28/2012, 12:45:49, Switching to instrument 1
+04/28/2012, 12:45:49, Switching to instrument 2
+04/28/2012, 12:45:50, Switching to instrument 3
+04/28/2012, 12:45:50, Switching to instrument 4
+04/28/2012, 12:45:50, Switching to noises
+04/28/2012, 12:45:52, Switching to instrument 0
+04/28/2012, 12:45:56, Switching to instrument 1
+04/28/2012, 12:45:56, Switching to instrument 2
+04/28/2012, 12:45:56, Switching to instrument 3
+04/28/2012, 12:45:57, Switching to instrument 4
+04/28/2012, 12:45:58, Switching to noises
+04/28/2012, 12:46:10, Screen Saver
+04/28/2012, 12:46:21, Screen Saver
+04/28/2012, 12:46:24, Switching to instrument 0
+04/28/2012, 12:46:27, Switching to instrument 1
+04/28/2012, 12:46:33, Switching to instrument 2
+04/28/2012, 12:46:43, Screen Saver
+04/28/2012, 12:46:54, Screen Saver
+04/28/2012, 12:47:05, Screen Saver
+04/28/2012, 12:47:16, Screen Saver
+04/28/2012, 12:47:27, Screen Saver
+04/28/2012, 12:47:38, Screen Saver
+04/28/2012, 12:47:49, Screen Saver
+04/28/2012, 12:48:00, Screen Saver
+04/28/2012, 12:48:11, Screen Saver
+04/28/2012, 12:48:22, Screen Saver
+04/28/2012, 12:48:25, Switching to instrument 3
+04/28/2012, 12:48:30, Switching to instrument 4
+04/28/2012, 12:48:30, Switching to noises
+04/28/2012, 12:48:30, Switching to instrument 0
+04/28/2012, 12:48:30, Switching to instrument 1
+04/28/2012, 12:48:30, Switching to instrument 2
+04/28/2012, 12:48:32, Switching to instrument 3
+04/28/2012, 12:48:32, Switching to instrument 4
+04/28/2012, 12:48:33, Switching to noises
+04/28/2012, 12:48:36, Switching to instrument 0
+04/28/2012, 12:48:46, Screen Saver
+04/28/2012, 12:48:57, Screen Saver
+04/28/2012, 12:49:08, Screen Saver
+04/28/2012, 12:49:19, Screen Saver
+04/28/2012, 12:49:30, Screen Saver
+04/28/2012, 12:49:41, Screen Saver
+04/28/2012, 12:49:52, Screen Saver
+04/28/2012, 12:50:03, Screen Saver
+04/28/2012, 12:50:14, Screen Saver
+04/28/2012, 12:50:26, Screen Saver
+04/28/2012, 12:50:37, Screen Saver
+04/28/2012, 12:50:48, Screen Saver
+04/28/2012, 12:50:59, Screen Saver
+04/28/2012, 12:51:10, Screen Saver
+04/28/2012, 12:51:21, Screen Saver
+04/28/2012, 12:51:32, Screen Saver
+04/28/2012, 12:51:43, Screen Saver
+04/28/2012, 12:51:54, Screen Saver
+04/28/2012, 12:52:05, Screen Saver
+04/28/2012, 12:52:16, Screen Saver
+04/28/2012, 12:52:27, Screen Saver
+04/28/2012, 12:52:38, Screen Saver
+04/28/2012, 12:52:49, Screen Saver
+04/28/2012, 12:53:00, Screen Saver
+04/28/2012, 12:53:11, Screen Saver
+04/28/2012, 12:53:22, Screen Saver
+04/28/2012, 12:53:33, Screen Saver
+04/28/2012, 12:53:44, Screen Saver
+04/28/2012, 12:53:55, Screen Saver
+04/28/2012, 12:54:06, Screen Saver
+04/28/2012, 12:54:17, Screen Saver
+04/28/2012, 12:54:28, Screen Saver
+04/28/2012, 12:54:39, Screen Saver
+04/28/2012, 12:54:50, Screen Saver
+04/28/2012, 12:55:01, Screen Saver
+04/28/2012, 12:55:12, Screen Saver
+04/28/2012, 12:55:23, Screen Saver
+04/28/2012, 12:55:34, Screen Saver
+04/28/2012, 12:55:45, Screen Saver
+04/28/2012, 12:55:56, Screen Saver
+04/28/2012, 12:56:07, Screen Saver
+04/28/2012, 12:56:18, Screen Saver
+04/28/2012, 12:56:29, Screen Saver
+04/28/2012, 12:56:41, Screen Saver
+04/28/2012, 12:56:48, Switching to instrument 1
+04/28/2012, 12:56:48, Switching to instrument 2
+04/28/2012, 12:56:51, Switching to instrument 3
+04/28/2012, 12:56:51, Switching to instrument 4
+04/28/2012, 12:56:52, Switching to noises
+04/28/2012, 12:56:52, Switching to instrument 0
+04/28/2012, 12:56:56, Switching to instrument 1
+04/28/2012, 12:56:56, Switching to instrument 2
+04/28/2012, 12:56:56, Switching to instrument 3
+04/28/2012, 12:56:58, Switching to instrument 4
+04/28/2012, 12:56:58, Switching to noises
+04/28/2012, 12:56:59, Switching to instrument 0
+04/28/2012, 12:56:59, Switching to instrument 1
+04/28/2012, 12:56:59, Switching to instrument 2
+04/28/2012, 12:57:01, Switching to instrument 3
+04/28/2012, 12:57:02, Switching to instrument 4
+04/28/2012, 12:57:02, Switching to noises
+04/28/2012, 12:57:02, Switching to instrument 0
+04/28/2012, 12:57:02, Switching to instrument 1
+04/28/2012, 12:57:04, Switching to instrument 2
+04/28/2012, 12:57:05, Switching to instrument 3
+04/28/2012, 12:57:05, Switching to instrument 4
+04/28/2012, 12:57:07, Switching to noises
+04/28/2012, 12:57:12, Switching to instrument 0
+04/28/2012, 12:57:16, Switching to instrument 1
+04/28/2012, 12:57:18, Switching to instrument 2
+04/28/2012, 12:57:18, Switching to instrument 3
+04/28/2012, 12:57:19, Switching to instrument 4
+04/28/2012, 12:57:25, Switching to noises
+04/28/2012, 12:57:35, Screen Saver
+04/28/2012, 12:57:46, Screen Saver
+04/28/2012, 12:57:57, Screen Saver
+04/28/2012, 12:58:08, Screen Saver
+04/28/2012, 12:58:19, Screen Saver
+04/28/2012, 12:58:30, Screen Saver
+04/28/2012, 12:58:41, Screen Saver
+04/28/2012, 12:58:52, Screen Saver
+04/28/2012, 12:59:03, Screen Saver
+04/28/2012, 12:59:14, Screen Saver
+04/28/2012, 12:59:25, Screen Saver
+04/28/2012, 12:59:36, Screen Saver
+04/28/2012, 12:59:47, Screen Saver
+04/28/2012, 12:59:58, Screen Saver
+04/28/2012, 13:00:09, Screen Saver
+04/28/2012, 13:00:20, Screen Saver
+04/28/2012, 13:00:31, Screen Saver
+04/28/2012, 13:00:42, Screen Saver
+04/28/2012, 13:00:53, Screen Saver
+04/28/2012, 13:01:04, Screen Saver
+04/28/2012, 13:01:15, Screen Saver
+04/28/2012, 13:01:27, Screen Saver
+04/28/2012, 13:01:38, Screen Saver
+04/28/2012, 13:01:49, Screen Saver
+04/28/2012, 13:02:00, Screen Saver
+04/28/2012, 13:02:11, Screen Saver
+04/28/2012, 13:02:22, Screen Saver
+04/28/2012, 13:02:33, Screen Saver
+04/28/2012, 13:02:44, Screen Saver
+04/28/2012, 13:02:55, Screen Saver
+04/28/2012, 13:03:06, Screen Saver
+04/28/2012, 13:03:17, Screen Saver
+04/28/2012, 13:03:28, Screen Saver
+04/28/2012, 13:03:39, Screen Saver
+04/28/2012, 13:03:50, Screen Saver
+04/28/2012, 13:04:01, Screen Saver
+04/28/2012, 13:04:12, Screen Saver
+04/28/2012, 13:04:23, Screen Saver
+04/28/2012, 13:04:34, Screen Saver
+04/28/2012, 13:04:45, Screen Saver
+04/28/2012, 13:04:56, Screen Saver
+04/28/2012, 13:05:07, Screen Saver
+04/28/2012, 13:05:18, Screen Saver
+04/28/2012, 13:05:29, Screen Saver
+04/28/2012, 13:05:40, Screen Saver
+04/28/2012, 13:05:51, Screen Saver
+04/28/2012, 13:06:02, Screen Saver
+04/28/2012, 13:06:13, Screen Saver
+04/28/2012, 13:06:24, Screen Saver
+04/28/2012, 13:06:35, Screen Saver
+04/28/2012, 13:06:46, Screen Saver
+04/28/2012, 13:06:58, Screen Saver
+04/28/2012, 13:07:09, Screen Saver
+04/28/2012, 13:07:20, Screen Saver
+04/28/2012, 13:07:31, Screen Saver
+04/28/2012, 13:07:42, Screen Saver
+04/28/2012, 13:07:53, Screen Saver
+04/28/2012, 13:08:04, Screen Saver
+04/28/2012, 13:08:15, Screen Saver
+04/28/2012, 13:08:26, Screen Saver
+04/28/2012, 13:08:37, Screen Saver
+04/28/2012, 13:08:48, Screen Saver
+04/28/2012, 13:08:59, Screen Saver
+04/28/2012, 13:09:10, Screen Saver
+04/28/2012, 13:09:21, Screen Saver
+04/28/2012, 13:09:32, Screen Saver
+04/28/2012, 13:09:43, Screen Saver
+04/28/2012, 13:09:54, Screen Saver
+04/28/2012, 13:10:05, Screen Saver
+04/28/2012, 13:10:16, Screen Saver
+04/28/2012, 13:10:27, Screen Saver
+04/28/2012, 13:10:38, Screen Saver
+04/28/2012, 13:10:49, Screen Saver
+04/28/2012, 13:11:00, Screen Saver
+04/28/2012, 13:11:11, Screen Saver
+04/28/2012, 13:11:22, Screen Saver
+04/28/2012, 13:11:33, Screen Saver
+04/28/2012, 13:11:44, Screen Saver
+04/28/2012, 13:11:55, Screen Saver
+04/28/2012, 13:12:06, Screen Saver
+04/28/2012, 13:12:17, Screen Saver
+04/28/2012, 13:12:28, Screen Saver
+04/28/2012, 13:12:39, Screen Saver
+04/28/2012, 13:12:50, Screen Saver
+04/28/2012, 13:13:01, Screen Saver
+04/28/2012, 13:13:13, Screen Saver
+04/28/2012, 13:13:24, Screen Saver
+04/28/2012, 13:13:35, Screen Saver
+04/28/2012, 13:13:46, Screen Saver
+04/28/2012, 13:13:57, Screen Saver
+04/28/2012, 13:14:08, Screen Saver
+04/28/2012, 13:14:19, Screen Saver
+04/28/2012, 13:14:30, Screen Saver
+04/28/2012, 13:14:41, Screen Saver
+04/28/2012, 13:14:52, Screen Saver
+04/28/2012, 13:15:03, Screen Saver
+04/28/2012, 13:15:14, Screen Saver
+04/28/2012, 13:15:25, Screen Saver
+04/28/2012, 13:15:36, Screen Saver
+04/28/2012, 13:15:47, Screen Saver
+04/28/2012, 13:15:58, Screen Saver
+04/28/2012, 13:16:09, Screen Saver
+04/28/2012, 13:16:20, Screen Saver
+04/28/2012, 13:16:31, Screen Saver
+04/28/2012, 13:16:42, Screen Saver
+04/28/2012, 13:16:53, Screen Saver
+04/28/2012, 13:17:04, Screen Saver
+04/28/2012, 13:17:15, Screen Saver
+04/28/2012, 13:17:26, Screen Saver
+04/28/2012, 13:17:37, Screen Saver
+04/28/2012, 13:17:48, Screen Saver
+04/28/2012, 13:17:59, Screen Saver
+04/28/2012, 13:18:10, Screen Saver
+04/28/2012, 13:18:21, Screen Saver
+04/28/2012, 13:18:32, Screen Saver
+04/28/2012, 13:18:43, Screen Saver
+04/28/2012, 13:18:54, Screen Saver
+04/28/2012, 13:19:06, Screen Saver
+04/28/2012, 13:19:17, Screen Saver
+04/28/2012, 13:19:28, Screen Saver
+04/28/2012, 13:19:39, Screen Saver
+04/28/2012, 13:19:50, Screen Saver
+04/28/2012, 13:20:01, Screen Saver
+04/28/2012, 13:20:12, Screen Saver
+04/28/2012, 13:20:23, Screen Saver
+04/28/2012, 13:20:34, Screen Saver
+04/28/2012, 13:20:45, Screen Saver
+04/28/2012, 13:20:56, Screen Saver
+04/28/2012, 13:20:56, Switching to instrument 0
+04/28/2012, 13:21:08, Screen Saver
+04/28/2012, 13:21:19, Screen Saver
+04/28/2012, 13:21:30, Screen Saver
+04/28/2012, 13:21:41, Screen Saver
+04/28/2012, 13:21:52, Screen Saver
+04/28/2012, 13:22:03, Screen Saver
+04/28/2012, 13:22:14, Screen Saver
+04/28/2012, 13:22:25, Screen Saver
+04/28/2012, 13:22:36, Screen Saver
+04/28/2012, 13:22:47, Screen Saver
+04/28/2012, 13:22:58, Screen Saver
+04/28/2012, 13:23:09, Screen Saver
+04/28/2012, 13:23:20, Screen Saver
+04/28/2012, 13:23:30, Switching to instrument 1
+04/28/2012, 13:23:30, Switching to instrument 2
+04/28/2012, 13:23:32, Switching to instrument 3
+04/28/2012, 13:23:32, Switching to instrument 4
+04/28/2012, 13:23:33, Switching to noises
+04/28/2012, 13:23:33, Switching to instrument 0
+04/28/2012, 13:23:44, Screen Saver
+04/28/2012, 13:23:55, Screen Saver
+04/28/2012, 13:24:06, Screen Saver
+04/28/2012, 13:24:17, Screen Saver
+04/28/2012, 13:24:28, Screen Saver
+04/28/2012, 13:24:39, Screen Saver
+04/28/2012, 13:24:50, Screen Saver
+04/28/2012, 13:25:01, Screen Saver
+04/28/2012, 13:25:13, Screen Saver
+04/28/2012, 13:25:24, Screen Saver
+04/28/2012, 13:25:35, Screen Saver
+04/28/2012, 13:25:46, Screen Saver
+04/28/2012, 13:25:57, Screen Saver
+04/28/2012, 13:26:08, Screen Saver
+04/28/2012, 13:26:19, Screen Saver
+04/28/2012, 13:26:30, Screen Saver
+04/28/2012, 13:26:41, Screen Saver
+04/28/2012, 13:26:52, Screen Saver
+04/28/2012, 13:27:03, Screen Saver
+04/28/2012, 13:27:14, Screen Saver
+04/28/2012, 13:27:25, Screen Saver
+04/28/2012, 13:27:36, Screen Saver
+04/28/2012, 13:27:47, Screen Saver
+04/28/2012, 13:27:58, Screen Saver
+04/28/2012, 13:28:09, Screen Saver
+04/28/2012, 13:28:20, Screen Saver
+04/28/2012, 13:28:31, Screen Saver
+04/28/2012, 13:28:42, Screen Saver
+04/28/2012, 13:28:53, Screen Saver
+04/28/2012, 13:29:04, Screen Saver
+04/28/2012, 13:29:15, Screen Saver
+04/28/2012, 13:29:26, Screen Saver
+04/28/2012, 13:29:37, Screen Saver
+04/28/2012, 13:29:48, Screen Saver
+04/28/2012, 13:29:59, Screen Saver
+04/28/2012, 13:30:10, Screen Saver
+04/28/2012, 13:30:21, Screen Saver
+04/28/2012, 13:30:32, Screen Saver
+04/28/2012, 13:30:43, Screen Saver
+04/28/2012, 13:30:54, Screen Saver
+04/28/2012, 13:31:05, Screen Saver
+04/28/2012, 13:31:17, Screen Saver
+04/28/2012, 13:31:28, Screen Saver
+04/28/2012, 13:31:39, Screen Saver
+04/28/2012, 13:31:50, Screen Saver
+04/28/2012, 13:32:01, Screen Saver
+04/28/2012, 13:32:12, Screen Saver
+04/28/2012, 13:32:23, Screen Saver
+04/28/2012, 13:32:34, Screen Saver
+04/28/2012, 13:32:45, Screen Saver
+04/28/2012, 13:32:56, Screen Saver
+04/28/2012, 13:33:07, Screen Saver
+04/28/2012, 13:33:18, Screen Saver
+04/28/2012, 13:33:29, Screen Saver
+04/28/2012, 13:33:40, Screen Saver
+04/28/2012, 13:33:51, Screen Saver
+04/28/2012, 13:34:02, Screen Saver
+04/28/2012, 13:34:13, Screen Saver
+04/28/2012, 13:34:24, Screen Saver
+04/28/2012, 13:34:35, Screen Saver
+04/28/2012, 13:34:46, Screen Saver
+04/28/2012, 13:34:57, Screen Saver
+04/28/2012, 13:35:08, Screen Saver
+04/28/2012, 13:35:19, Screen Saver
+04/28/2012, 13:35:30, Screen Saver
+04/28/2012, 13:35:41, Screen Saver
+04/28/2012, 13:35:52, Screen Saver
+04/28/2012, 13:36:03, Screen Saver
+04/28/2012, 13:36:07, Switching to instrument 1
+04/28/2012, 13:36:10, Switching to instrument 2
+04/28/2012, 13:36:12, Switching to instrument 3
+04/28/2012, 13:36:14, Switching to instrument 4
+04/28/2012, 13:36:14, Switching to noises
+04/28/2012, 13:36:15, Switching to instrument 0
+04/28/2012, 13:36:16, Switching to instrument 1
+04/28/2012, 13:36:26, Screen Saver
+04/28/2012, 13:36:26, Switching to instrument 2
+04/28/2012, 13:36:37, Screen Saver
+04/28/2012, 13:36:49, Screen Saver
+04/28/2012, 13:37:00, Screen Saver
+04/28/2012, 13:37:11, Screen Saver
+04/28/2012, 13:37:22, Screen Saver
+04/28/2012, 13:37:33, Screen Saver
+04/28/2012, 13:37:44, Screen Saver
+04/28/2012, 13:37:55, Screen Saver
+04/28/2012, 13:38:06, Screen Saver
+04/28/2012, 13:38:17, Screen Saver
+04/28/2012, 13:38:28, Screen Saver
+04/28/2012, 13:38:39, Screen Saver
+04/28/2012, 13:38:50, Screen Saver
+04/28/2012, 13:39:01, Screen Saver
+04/28/2012, 13:39:12, Screen Saver
+04/28/2012, 13:39:23, Screen Saver
+04/28/2012, 13:39:34, Screen Saver
+04/28/2012, 13:39:45, Screen Saver
+04/28/2012, 13:39:56, Screen Saver
+04/28/2012, 13:40:07, Screen Saver
+04/28/2012, 13:40:18, Screen Saver
+04/28/2012, 13:40:29, Screen Saver
+04/28/2012, 13:40:40, Screen Saver
+04/28/2012, 13:40:51, Screen Saver
+04/28/2012, 13:41:02, Screen Saver
+04/28/2012, 13:41:13, Screen Saver
+04/28/2012, 13:41:24, Screen Saver
+04/28/2012, 13:41:35, Screen Saver
+04/28/2012, 13:41:46, Screen Saver
+04/28/2012, 13:41:57, Screen Saver
+04/28/2012, 13:42:08, Screen Saver
+04/28/2012, 13:42:20, Screen Saver
+04/28/2012, 13:42:31, Screen Saver
+04/28/2012, 13:42:42, Screen Saver
+04/28/2012, 13:42:53, Screen Saver
+04/28/2012, 13:43:04, Screen Saver
+04/28/2012, 13:43:15, Screen Saver
+04/28/2012, 13:43:26, Screen Saver
+04/28/2012, 13:43:37, Screen Saver
+04/28/2012, 13:43:48, Screen Saver
+04/28/2012, 13:43:59, Screen Saver
+04/28/2012, 13:44:10, Screen Saver
+04/28/2012, 13:44:21, Screen Saver
+04/28/2012, 13:44:32, Screen Saver
+04/28/2012, 13:44:43, Screen Saver
+04/28/2012, 13:44:54, Screen Saver
+04/28/2012, 13:45:05, Screen Saver
+04/28/2012, 13:45:16, Screen Saver
+04/28/2012, 13:45:27, Screen Saver
+04/28/2012, 13:45:38, Screen Saver
+04/28/2012, 13:45:49, Screen Saver
+04/28/2012, 13:46:00, Screen Saver
+04/28/2012, 13:46:11, Screen Saver
+04/28/2012, 13:46:22, Screen Saver
+04/28/2012, 13:46:33, Screen Saver
+04/28/2012, 13:46:44, Screen Saver
+04/28/2012, 13:46:55, Screen Saver
+04/28/2012, 13:47:06, Screen Saver
+04/28/2012, 13:47:17, Screen Saver
+04/28/2012, 13:47:28, Screen Saver
+04/28/2012, 13:47:39, Screen Saver
+04/28/2012, 13:47:50, Screen Saver
+04/28/2012, 13:48:01, Screen Saver
+04/28/2012, 13:48:13, Screen Saver
+04/28/2012, 13:48:24, Screen Saver
+04/28/2012, 13:48:35, Screen Saver
+04/28/2012, 13:48:46, Screen Saver
+04/28/2012, 13:48:57, Screen Saver
+04/28/2012, 13:49:08, Screen Saver
+04/28/2012, 13:49:19, Screen Saver
+04/28/2012, 13:49:30, Screen Saver
+04/28/2012, 13:49:41, Screen Saver
+04/28/2012, 13:49:52, Screen Saver
+04/28/2012, 13:50:03, Screen Saver
+04/28/2012, 13:50:14, Screen Saver
+04/28/2012, 13:50:25, Screen Saver
+04/28/2012, 13:50:36, Screen Saver
+04/28/2012, 13:50:47, Screen Saver
+04/28/2012, 13:50:58, Screen Saver
+04/28/2012, 13:51:09, Screen Saver
+04/28/2012, 13:51:20, Screen Saver
+04/28/2012, 13:51:31, Screen Saver
+04/28/2012, 13:51:42, Screen Saver
+04/28/2012, 13:51:53, Screen Saver
+04/28/2012, 13:52:04, Screen Saver
+04/28/2012, 13:52:15, Screen Saver
+04/28/2012, 13:52:26, Screen Saver
+04/28/2012, 13:52:37, Screen Saver
+04/28/2012, 13:52:48, Screen Saver
+04/28/2012, 13:52:59, Screen Saver
+04/28/2012, 13:53:10, Screen Saver
+04/28/2012, 13:53:21, Screen Saver
+04/28/2012, 13:53:32, Screen Saver
+04/28/2012, 13:53:43, Screen Saver
+04/28/2012, 13:53:54, Screen Saver
+04/28/2012, 13:54:05, Screen Saver
+04/28/2012, 13:54:17, Screen Saver
+04/28/2012, 13:54:28, Screen Saver
+04/28/2012, 13:54:39, Screen Saver
+04/28/2012, 13:54:50, Screen Saver
+04/28/2012, 13:55:01, Screen Saver
+04/28/2012, 13:55:12, Screen Saver
+04/28/2012, 13:55:23, Screen Saver
+04/28/2012, 13:55:34, Screen Saver
+04/28/2012, 13:55:45, Screen Saver
+04/28/2012, 13:55:56, Screen Saver
+04/28/2012, 13:56:07, Screen Saver
+04/28/2012, 13:56:18, Screen Saver
+04/28/2012, 13:56:29, Screen Saver
+04/28/2012, 13:56:40, Screen Saver
+04/28/2012, 13:56:51, Screen Saver
+04/28/2012, 13:57:02, Screen Saver
+04/28/2012, 13:57:13, Screen Saver
+04/28/2012, 13:57:24, Screen Saver
+04/28/2012, 13:57:35, Screen Saver
+04/28/2012, 13:57:46, Screen Saver
+04/28/2012, 13:57:57, Screen Saver
+04/28/2012, 13:58:08, Screen Saver
+04/28/2012, 13:58:19, Screen Saver
+04/28/2012, 13:58:30, Screen Saver
+04/28/2012, 13:58:41, Screen Saver
+04/28/2012, 13:58:52, Screen Saver
+04/28/2012, 13:59:03, Screen Saver
+04/28/2012, 13:59:14, Screen Saver
+04/28/2012, 13:59:25, Screen Saver
+04/28/2012, 13:59:36, Screen Saver
+04/28/2012, 13:59:47, Screen Saver
+04/28/2012, 13:59:58, Screen Saver
+04/28/2012, 14:00:09, Screen Saver
+04/28/2012, 14:00:21, Screen Saver
+04/28/2012, 14:00:32, Screen Saver
+04/28/2012, 14:00:43, Screen Saver
+04/28/2012, 14:00:54, Screen Saver
+04/28/2012, 14:01:05, Screen Saver
+04/28/2012, 14:01:16, Screen Saver
+04/28/2012, 14:01:27, Screen Saver
+04/28/2012, 14:01:38, Screen Saver
+04/28/2012, 14:01:49, Screen Saver
+04/28/2012, 14:02:00, Screen Saver
+04/28/2012, 14:02:11, Screen Saver
+04/28/2012, 14:02:22, Screen Saver
+04/28/2012, 14:02:33, Screen Saver
+04/28/2012, 14:02:44, Screen Saver
+04/28/2012, 14:02:55, Screen Saver
+04/28/2012, 14:03:06, Screen Saver
+04/28/2012, 14:03:17, Screen Saver
+04/28/2012, 14:03:28, Screen Saver
+04/28/2012, 14:03:39, Screen Saver
+04/28/2012, 14:03:50, Screen Saver
+04/28/2012, 14:04:01, Screen Saver
+04/28/2012, 14:04:12, Screen Saver
+04/28/2012, 14:04:23, Screen Saver
+04/28/2012, 14:04:34, Screen Saver
+04/28/2012, 14:04:45, Screen Saver
+04/28/2012, 14:04:56, Screen Saver
+04/28/2012, 14:05:07, Screen Saver
+04/28/2012, 14:05:18, Screen Saver
+04/28/2012, 14:05:29, Screen Saver
+04/28/2012, 14:05:40, Screen Saver
+04/28/2012, 14:05:51, Screen Saver
+04/28/2012, 14:06:02, Screen Saver
+04/28/2012, 14:06:14, Screen Saver
+04/28/2012, 14:06:25, Screen Saver
+04/28/2012, 14:06:36, Screen Saver
+04/28/2012, 14:06:47, Screen Saver
+04/28/2012, 14:06:58, Screen Saver
+04/28/2012, 14:07:09, Screen Saver
+04/28/2012, 14:07:20, Screen Saver
+04/28/2012, 14:07:31, Screen Saver
+04/28/2012, 14:07:42, Screen Saver
+04/28/2012, 14:07:53, Screen Saver
+04/28/2012, 14:08:04, Screen Saver
+04/28/2012, 14:08:15, Screen Saver
+04/28/2012, 14:08:26, Screen Saver
+04/28/2012, 14:08:37, Screen Saver
+04/28/2012, 14:08:48, Screen Saver
+04/28/2012, 14:08:59, Screen Saver
+04/28/2012, 14:09:10, Screen Saver
+04/28/2012, 14:09:21, Screen Saver
+04/28/2012, 14:09:25, Switching to instrument 3
+04/28/2012, 14:09:28, Switching to instrument 4
+04/28/2012, 14:09:34, Switching to noises
+04/28/2012, 14:09:44, Screen Saver
+04/28/2012, 14:09:47, Switching to instrument 0
+04/28/2012, 14:09:58, Screen Saver
+04/28/2012, 14:10:09, Screen Saver
+04/28/2012, 14:10:16, Switching to instrument 1
+04/28/2012, 14:10:24, Switching to instrument 2
+04/28/2012, 14:10:26, Switching to instrument 3
+04/28/2012, 14:10:28, Switching to instrument 4
+04/28/2012, 14:10:28, Switching to noises
+04/28/2012, 14:10:39, Screen Saver
+04/28/2012, 14:10:50, Screen Saver
+04/28/2012, 14:11:01, Screen Saver
+04/28/2012, 14:11:12, Screen Saver
+04/28/2012, 14:11:23, Screen Saver
+04/28/2012, 14:11:34, Screen Saver
+04/28/2012, 14:11:45, Screen Saver
+04/28/2012, 14:11:57, Screen Saver
+04/28/2012, 14:11:59, Switching to instrument 0
+04/28/2012, 14:12:00, Switching to instrument 1
+04/28/2012, 14:12:01, Switching to instrument 2
+04/28/2012, 14:12:01, Switching to instrument 3
+04/28/2012, 14:12:02, Switching to instrument 4
+04/28/2012, 14:12:02, Switching to noises
+04/28/2012, 14:12:02, Switching to instrument 0
+04/28/2012, 14:12:06, Switching to instrument 1
+04/28/2012, 14:12:06, Switching to instrument 2
+04/28/2012, 14:12:07, Switching to instrument 3
+04/28/2012, 14:12:07, Switching to instrument 4
+04/28/2012, 14:12:11, Switching to noises
+04/28/2012, 14:12:11, Switching to instrument 0
+04/28/2012, 14:12:11, Switching to instrument 1
+04/28/2012, 14:12:12, Switching to instrument 2
+04/28/2012, 14:12:14, Switching to instrument 3
+04/28/2012, 14:12:25, Screen Saver
+04/28/2012, 14:12:36, Screen Saver
+04/28/2012, 14:12:47, Screen Saver
+04/28/2012, 14:12:58, Screen Saver
+04/28/2012, 14:13:09, Screen Saver
+04/28/2012, 14:13:20, Screen Saver
+04/28/2012, 14:13:31, Screen Saver
+04/28/2012, 14:13:42, Screen Saver
+04/28/2012, 14:13:53, Screen Saver
+04/28/2012, 14:14:04, Screen Saver
+04/28/2012, 14:14:15, Screen Saver
+04/28/2012, 14:14:26, Screen Saver
+04/28/2012, 14:14:37, Screen Saver
+04/28/2012, 14:14:48, Screen Saver
+04/28/2012, 14:14:59, Screen Saver
+04/28/2012, 14:15:10, Screen Saver
+04/28/2012, 14:15:21, Screen Saver
+04/28/2012, 14:15:27, Switching to instrument 4
+04/28/2012, 14:15:27, Switching to noises
+04/28/2012, 14:15:27, Switching to instrument 0
+04/28/2012, 14:15:30, Switching to instrument 1
+04/28/2012, 14:15:35, Switching to instrument 2
+04/28/2012, 14:15:37, Switching to instrument 3
+04/28/2012, 14:15:38, Switching to instrument 4
+04/28/2012, 14:15:48, Switching to noises
+04/28/2012, 14:15:48, Switching to instrument 0
+04/28/2012, 14:15:48, Switching to instrument 1
+04/28/2012, 14:15:49, Switching to instrument 2
+04/28/2012, 14:15:50, Switching to instrument 3
+04/28/2012, 14:15:50, Switching to instrument 4
+04/28/2012, 14:15:51, Switching to noises
+04/28/2012, 14:15:51, Switching to instrument 0
+04/28/2012, 14:15:51, Switching to instrument 1
+04/28/2012, 14:15:55, Switching to instrument 2
+04/28/2012, 14:15:55, Switching to instrument 3
+04/28/2012, 14:15:58, Switching to instrument 4
+04/28/2012, 14:15:59, Switching to noises
+04/28/2012, 14:16:04, Switching to instrument 0
+04/28/2012, 14:16:05, Switching to instrument 1
+04/28/2012, 14:16:05, Switching to instrument 2
+04/28/2012, 14:16:06, Switching to instrument 3
+04/28/2012, 14:16:06, Switching to instrument 4
+04/28/2012, 14:16:07, Switching to noises
+04/28/2012, 14:16:09, Switching to instrument 0
+04/28/2012, 14:16:10, Switching to instrument 1
+04/28/2012, 14:16:11, Switching to instrument 2
+04/28/2012, 14:16:11, Switching to instrument 3
+04/28/2012, 14:16:12, Switching to instrument 4
+04/28/2012, 14:16:12, Switching to noises
+04/28/2012, 14:16:18, Switching to instrument 0
+04/28/2012, 14:16:18, Switching to instrument 1
+04/28/2012, 14:16:29, Screen Saver
+04/28/2012, 14:16:40, Screen Saver
+04/28/2012, 14:16:51, Screen Saver
+04/28/2012, 14:17:02, Screen Saver
+04/28/2012, 14:17:13, Screen Saver
+04/28/2012, 14:17:24, Screen Saver
+04/28/2012, 14:17:35, Screen Saver
+04/28/2012, 14:17:46, Screen Saver
+04/28/2012, 14:17:57, Screen Saver
+04/28/2012, 14:18:08, Screen Saver
+04/28/2012, 14:18:19, Screen Saver
+04/28/2012, 14:18:30, Screen Saver
+04/28/2012, 14:18:41, Screen Saver
+04/28/2012, 14:18:52, Screen Saver
+04/28/2012, 14:19:03, Screen Saver
+04/28/2012, 14:19:14, Screen Saver
+04/28/2012, 14:19:25, Screen Saver
+04/28/2012, 14:19:36, Screen Saver
+04/28/2012, 14:19:47, Screen Saver
+04/28/2012, 14:19:58, Screen Saver
+04/28/2012, 14:20:09, Screen Saver
+04/28/2012, 14:20:20, Screen Saver
+04/28/2012, 14:20:31, Screen Saver
+04/28/2012, 14:20:42, Screen Saver
+04/28/2012, 14:20:53, Screen Saver
+04/28/2012, 14:21:04, Screen Saver
+04/28/2012, 14:21:16, Screen Saver
+04/28/2012, 14:21:27, Screen Saver
+04/28/2012, 14:21:38, Screen Saver
+04/28/2012, 14:21:49, Screen Saver
+04/28/2012, 14:22:00, Screen Saver
+04/28/2012, 14:22:11, Screen Saver
+04/28/2012, 14:22:22, Screen Saver
+04/28/2012, 14:22:33, Screen Saver
+04/28/2012, 14:22:44, Screen Saver
+04/28/2012, 14:22:55, Screen Saver
+04/28/2012, 14:23:06, Screen Saver
+04/28/2012, 14:23:17, Screen Saver
+04/28/2012, 14:23:28, Screen Saver
+04/28/2012, 14:23:39, Screen Saver
+04/28/2012, 14:23:50, Screen Saver
+04/28/2012, 14:24:01, Screen Saver
+04/28/2012, 14:24:12, Screen Saver
+04/28/2012, 14:24:23, Screen Saver
+04/28/2012, 14:24:34, Screen Saver
+04/28/2012, 14:24:45, Screen Saver
+04/28/2012, 14:24:56, Screen Saver
+04/28/2012, 14:25:07, Screen Saver
+04/28/2012, 14:25:18, Screen Saver
+04/28/2012, 14:25:29, Screen Saver
+04/28/2012, 14:25:40, Screen Saver
+04/28/2012, 14:25:51, Screen Saver
+04/28/2012, 14:26:02, Screen Saver
+04/28/2012, 14:26:13, Screen Saver
+04/28/2012, 14:26:24, Screen Saver
+04/28/2012, 14:26:35, Screen Saver
+04/28/2012, 14:26:46, Screen Saver
+04/28/2012, 14:26:57, Screen Saver
+04/28/2012, 14:27:08, Screen Saver
+04/28/2012, 14:27:19, Screen Saver
+04/28/2012, 14:27:31, Screen Saver
+04/28/2012, 14:27:42, Screen Saver
+04/28/2012, 14:27:53, Screen Saver
+04/28/2012, 14:28:04, Screen Saver
+04/28/2012, 14:28:15, Screen Saver
+04/28/2012, 14:28:26, Screen Saver
+04/28/2012, 14:28:37, Screen Saver
+04/28/2012, 14:28:48, Screen Saver
+04/28/2012, 14:28:59, Screen Saver
+04/28/2012, 14:29:10, Screen Saver
+04/28/2012, 14:29:21, Screen Saver
+04/28/2012, 14:29:32, Screen Saver
+04/28/2012, 14:29:43, Screen Saver
+04/28/2012, 14:29:54, Screen Saver
+04/28/2012, 14:30:05, Screen Saver
+04/28/2012, 14:30:16, Screen Saver
+04/28/2012, 14:30:27, Screen Saver
+04/28/2012, 14:30:38, Screen Saver
+04/28/2012, 14:30:49, Screen Saver
+04/28/2012, 14:31:00, Screen Saver
+04/28/2012, 14:31:11, Screen Saver
+04/28/2012, 14:31:22, Screen Saver
+04/28/2012, 14:31:33, Screen Saver
+04/28/2012, 14:31:44, Screen Saver
+04/28/2012, 14:31:55, Screen Saver
+04/28/2012, 14:32:06, Screen Saver
+04/28/2012, 14:32:17, Screen Saver
+04/28/2012, 14:32:28, Screen Saver
+04/28/2012, 14:32:39, Screen Saver
+04/28/2012, 14:32:50, Screen Saver
+04/28/2012, 14:33:02, Screen Saver
+04/28/2012, 14:33:13, Screen Saver
+04/28/2012, 14:33:24, Screen Saver
+04/28/2012, 14:33:35, Screen Saver
+04/28/2012, 14:33:46, Screen Saver
+04/28/2012, 14:33:57, Screen Saver
+04/28/2012, 14:34:08, Screen Saver
+04/28/2012, 14:34:19, Screen Saver
+04/28/2012, 14:34:30, Screen Saver
+04/28/2012, 14:34:41, Screen Saver
+04/28/2012, 14:34:52, Screen Saver
+04/28/2012, 14:35:03, Screen Saver
+04/28/2012, 14:35:14, Screen Saver
+04/28/2012, 14:35:25, Screen Saver
+04/28/2012, 14:35:36, Screen Saver
+04/28/2012, 14:35:47, Screen Saver
+04/28/2012, 14:35:58, Screen Saver
+04/28/2012, 14:36:09, Screen Saver
+04/28/2012, 14:36:20, Screen Saver
+04/28/2012, 14:36:31, Screen Saver
+04/28/2012, 14:36:42, Screen Saver
+04/28/2012, 14:36:53, Screen Saver
+04/28/2012, 14:37:04, Screen Saver
+04/28/2012, 14:37:15, Screen Saver
+04/28/2012, 14:37:26, Screen Saver
+04/28/2012, 14:37:37, Screen Saver
+04/28/2012, 14:37:48, Screen Saver
+04/28/2012, 14:37:59, Screen Saver
+04/28/2012, 14:38:10, Screen Saver
+04/28/2012, 14:38:21, Screen Saver
+04/28/2012, 14:38:32, Screen Saver
+04/28/2012, 14:38:43, Screen Saver
+04/28/2012, 14:38:54, Screen Saver
+04/28/2012, 14:39:05, Screen Saver
+04/28/2012, 14:39:17, Screen Saver
+04/28/2012, 14:39:28, Screen Saver
+04/28/2012, 14:39:39, Screen Saver
+04/28/2012, 14:39:50, Screen Saver
+04/28/2012, 14:40:01, Screen Saver
+04/28/2012, 14:40:12, Screen Saver
+04/28/2012, 14:40:23, Screen Saver
+04/28/2012, 14:40:34, Screen Saver
+04/28/2012, 14:40:45, Screen Saver
+04/28/2012, 14:40:56, Screen Saver
+04/28/2012, 14:41:07, Screen Saver
+04/28/2012, 14:41:12, Switching to instrument 2
+04/28/2012, 14:41:12, Switching to instrument 3
+04/28/2012, 14:41:21, Switching to instrument 4
+04/28/2012, 14:41:23, Switching to noises
+04/28/2012, 14:41:27, Switching to instrument 0
+04/28/2012, 14:41:29, Switching to instrument 1
+04/28/2012, 14:41:33, Switching to instrument 2
+04/28/2012, 14:41:34, Switching to instrument 3
+04/28/2012, 14:41:36, Switching to instrument 4
+04/28/2012, 14:41:37, Switching to noises
+04/28/2012, 14:41:38, Switching to instrument 0
+04/28/2012, 14:41:39, Switching to instrument 1
+04/28/2012, 14:41:39, Switching to instrument 2
+04/28/2012, 14:41:40, Switching to instrument 3
+04/28/2012, 14:41:41, Switching to instrument 4
+04/28/2012, 14:41:51, Screen Saver
+04/28/2012, 14:42:02, Screen Saver
+04/28/2012, 14:42:13, Screen Saver
+04/28/2012, 14:42:24, Screen Saver
+04/28/2012, 14:42:35, Screen Saver
+04/28/2012, 14:42:46, Screen Saver
+04/28/2012, 14:42:55, Switching to noises
+04/28/2012, 14:43:06, Screen Saver
+04/28/2012, 14:43:17, Screen Saver
+04/28/2012, 14:43:28, Screen Saver
+04/28/2012, 14:43:39, Screen Saver
+04/28/2012, 14:43:50, Screen Saver
+04/28/2012, 14:44:01, Screen Saver
+04/28/2012, 14:44:12, Screen Saver
+04/28/2012, 14:44:23, Screen Saver
+04/28/2012, 14:44:34, Screen Saver
+04/28/2012, 14:44:45, Screen Saver
+04/28/2012, 14:44:56, Screen Saver
+04/28/2012, 14:45:07, Screen Saver
+04/28/2012, 14:45:18, Screen Saver
+04/28/2012, 14:45:29, Screen Saver
+04/28/2012, 14:45:41, Screen Saver
+04/28/2012, 14:45:52, Screen Saver
+04/28/2012, 14:46:03, Screen Saver
+04/28/2012, 14:46:08, Switching to instrument 0
+04/28/2012, 14:46:19, Screen Saver
+04/28/2012, 14:46:30, Screen Saver
+04/28/2012, 14:46:41, Screen Saver
+04/28/2012, 14:46:52, Screen Saver
+04/28/2012, 14:47:03, Screen Saver
+04/28/2012, 14:47:14, Screen Saver
+04/28/2012, 14:47:25, Screen Saver
+04/28/2012, 14:47:36, Screen Saver
+04/28/2012, 14:47:47, Screen Saver
+04/28/2012, 14:47:58, Screen Saver
+04/28/2012, 14:48:09, Screen Saver
+04/28/2012, 14:48:20, Screen Saver
+04/28/2012, 14:48:31, Screen Saver
+04/28/2012, 14:48:42, Screen Saver
+04/28/2012, 14:48:53, Screen Saver
+04/28/2012, 14:49:04, Screen Saver
+04/28/2012, 14:49:15, Screen Saver
+04/28/2012, 14:49:26, Screen Saver
+04/28/2012, 14:49:37, Screen Saver
+04/28/2012, 14:49:48, Screen Saver
+04/28/2012, 14:49:59, Screen Saver
+04/28/2012, 14:50:10, Screen Saver
+04/28/2012, 14:50:21, Screen Saver
+04/28/2012, 14:50:32, Screen Saver
+04/28/2012, 14:50:43, Screen Saver
+04/28/2012, 14:50:54, Screen Saver
+04/28/2012, 14:51:05, Screen Saver
+04/28/2012, 14:51:05, Switching to instrument 1
+04/28/2012, 14:51:09, Switching to instrument 2
+04/28/2012, 14:51:14, Switching to instrument 3
+04/28/2012, 14:51:16, Switching to instrument 4
+04/28/2012, 14:51:26, Screen Saver
+04/28/2012, 14:51:29, Switching to noises
+04/28/2012, 14:51:30, Switching to instrument 0
+04/28/2012, 14:51:33, Switching to instrument 1
+04/28/2012, 14:51:44, Screen Saver
+04/28/2012, 14:51:55, Screen Saver
+04/28/2012, 14:52:06, Screen Saver
+04/28/2012, 14:52:17, Screen Saver
+04/28/2012, 14:52:28, Screen Saver
+04/28/2012, 14:52:39, Screen Saver
+04/28/2012, 14:52:41, Switching to instrument 2
+04/28/2012, 14:52:41, Switching to instrument 3
+04/28/2012, 14:52:42, Switching to instrument 4
+04/28/2012, 14:52:42, Switching to noises
+04/28/2012, 14:52:42, Switching to instrument 0
+04/28/2012, 14:52:42, Switching to instrument 1
+04/28/2012, 14:52:44, Switching to instrument 2
+04/28/2012, 14:52:44, Switching to instrument 3
+04/28/2012, 14:52:45, Switching to instrument 4
+04/28/2012, 14:52:45, Switching to noises
+04/28/2012, 14:52:46, Switching to instrument 0
+04/28/2012, 14:52:46, Switching to instrument 1
+04/28/2012, 14:52:46, Switching to instrument 2
+04/28/2012, 14:52:47, Switching to instrument 3
+04/28/2012, 14:52:47, Switching to instrument 4
+04/28/2012, 14:52:48, Switching to noises
+04/28/2012, 14:52:48, Switching to instrument 0
+04/28/2012, 14:52:53, Switching to instrument 1
+04/28/2012, 14:52:55, Switching to instrument 2
+04/28/2012, 14:52:58, Switching to instrument 3
+04/28/2012, 14:52:58, Switching to instrument 4
+04/28/2012, 14:52:59, Switching to noises
+04/28/2012, 14:52:59, Switching to instrument 0
+04/28/2012, 14:53:10, Screen Saver
+04/28/2012, 14:53:21, Screen Saver
+04/28/2012, 14:53:32, Screen Saver
+04/28/2012, 14:53:43, Screen Saver
+04/28/2012, 14:53:54, Screen Saver
+04/28/2012, 14:54:05, Screen Saver
+04/28/2012, 14:54:16, Screen Saver
+04/28/2012, 14:54:20, Switching to instrument 1
+04/28/2012, 14:54:27, Switching to instrument 2
+04/28/2012, 14:54:34, Switching to instrument 3
+04/28/2012, 14:54:40, Switching to instrument 4
+04/28/2012, 14:54:51, Screen Saver
+04/28/2012, 14:55:02, Screen Saver
+04/28/2012, 14:55:13, Screen Saver
+04/28/2012, 14:55:24, Screen Saver
+04/28/2012, 14:55:35, Screen Saver
+04/28/2012, 14:55:46, Screen Saver
+04/28/2012, 14:55:57, Screen Saver
+04/28/2012, 14:56:08, Screen Saver
+04/28/2012, 14:56:20, Screen Saver
+04/28/2012, 14:56:31, Screen Saver
+04/28/2012, 14:56:42, Screen Saver
+04/28/2012, 14:56:44, Switching to noises
+04/28/2012, 14:56:48, Switching to instrument 0
+04/28/2012, 14:56:52, Switching to instrument 1
+04/28/2012, 14:56:53, Switching to instrument 2
+04/28/2012, 14:57:04, Screen Saver
+04/28/2012, 14:57:15, Screen Saver
+04/28/2012, 14:57:26, Screen Saver
+04/28/2012, 14:57:37, Screen Saver
+04/28/2012, 14:57:48, Screen Saver
+04/28/2012, 14:57:59, Switching to instrument 3
+04/28/2012, 14:57:59, Switching to instrument 4
+04/28/2012, 14:58:00, Switching to noises
+04/28/2012, 14:58:00, Switching to instrument 0
+04/28/2012, 14:58:00, Switching to instrument 1
+04/28/2012, 14:58:02, Switching to instrument 2
+04/28/2012, 14:58:03, Switching to instrument 3
+04/28/2012, 14:58:04, Switching to instrument 4
+04/28/2012, 14:58:05, Switching to noises
+04/28/2012, 14:58:15, Screen Saver
+04/28/2012, 14:58:26, Screen Saver
+04/28/2012, 14:58:37, Screen Saver
+04/28/2012, 14:58:48, Screen Saver
+04/28/2012, 14:58:59, Screen Saver
+04/28/2012, 14:59:10, Screen Saver
+04/28/2012, 14:59:21, Screen Saver
+04/28/2012, 14:59:32, Screen Saver
+04/28/2012, 14:59:43, Screen Saver
+04/28/2012, 14:59:54, Screen Saver
+04/28/2012, 15:00:05, Screen Saver
+04/28/2012, 15:00:16, Screen Saver
+04/28/2012, 15:00:27, Screen Saver
+04/28/2012, 15:00:38, Screen Saver
+04/28/2012, 15:00:49, Screen Saver
+04/28/2012, 15:01:00, Screen Saver
+04/28/2012, 15:01:11, Screen Saver
+04/28/2012, 15:01:22, Screen Saver
+04/28/2012, 15:01:32, Switching to instrument 0
+04/28/2012, 15:01:33, Switching to instrument 1
+04/28/2012, 15:01:33, Switching to instrument 2
+04/28/2012, 15:01:34, Switching to instrument 3
+04/28/2012, 15:01:34, Switching to instrument 4
+04/28/2012, 15:01:34, Switching to noises
+04/28/2012, 15:01:45, Screen Saver
+04/28/2012, 15:01:56, Screen Saver
+04/28/2012, 15:02:07, Screen Saver
+04/28/2012, 15:02:18, Screen Saver
+04/28/2012, 15:02:29, Screen Saver
+04/28/2012, 15:02:40, Screen Saver
+04/28/2012, 15:02:50, Screen Saver
+04/28/2012, 15:03:02, Screen Saver
+04/28/2012, 15:03:13, Screen Saver
+04/28/2012, 15:03:24, Screen Saver
+04/28/2012, 15:03:34, Switching to instrument 0
+04/28/2012, 15:03:44, Screen Saver
+04/28/2012, 15:03:55, Screen Saver
+04/28/2012, 15:04:06, Screen Saver
+04/28/2012, 15:04:12, Switching to instrument 1
+04/28/2012, 15:04:13, Switching to instrument 2
+04/28/2012, 15:04:14, Switching to instrument 3
+04/28/2012, 15:04:23, Switching to instrument 4
+04/28/2012, 15:04:24, Switching to noises
+04/28/2012, 15:04:24, Switching to instrument 0
+04/28/2012, 15:04:24, Switching to instrument 1
+04/28/2012, 15:04:24, Switching to instrument 2
+04/28/2012, 15:04:26, Switching to instrument 3
+04/28/2012, 15:04:36, Screen Saver
+04/28/2012, 15:04:47, Screen Saver
+04/28/2012, 15:04:58, Screen Saver
+04/28/2012, 15:05:09, Screen Saver
+04/28/2012, 15:05:20, Screen Saver
+04/28/2012, 15:05:31, Screen Saver
+04/28/2012, 15:05:42, Screen Saver
+04/28/2012, 15:05:53, Screen Saver
+04/28/2012, 15:06:04, Screen Saver
+04/28/2012, 15:06:15, Screen Saver
+04/28/2012, 15:06:26, Screen Saver
+04/28/2012, 15:06:37, Screen Saver
+04/28/2012, 15:06:48, Screen Saver
+04/28/2012, 15:06:59, Screen Saver
+04/28/2012, 15:07:10, Screen Saver
+04/28/2012, 15:07:22, Screen Saver
+04/28/2012, 15:07:27, Switching to instrument 4
+04/28/2012, 15:07:28, Switching to noises
+04/28/2012, 15:07:39, Screen Saver
+04/28/2012, 15:07:50, Screen Saver
+04/28/2012, 15:08:01, Screen Saver
+04/28/2012, 15:08:09, Switching to instrument 0
+04/28/2012, 15:08:12, Switching to instrument 1
+04/28/2012, 15:08:12, Switching to instrument 2
+04/28/2012, 15:08:12, Switching to instrument 3
+04/28/2012, 15:08:15, Switching to instrument 4
+04/28/2012, 15:08:17, Switching to noises
+04/28/2012, 15:08:17, Switching to instrument 0
+04/28/2012, 15:08:28, Screen Saver
+04/28/2012, 15:08:39, Screen Saver
+04/28/2012, 15:08:50, Screen Saver
+04/28/2012, 15:09:01, Screen Saver
+04/28/2012, 15:09:12, Screen Saver
+04/28/2012, 15:09:23, Screen Saver
+04/28/2012, 15:09:34, Screen Saver
+04/28/2012, 15:09:38, Switching to instrument 1
+04/28/2012, 15:09:38, Switching to instrument 2
+04/28/2012, 15:09:43, Switching to instrument 3
+04/28/2012, 15:09:43, Switching to instrument 4
+04/28/2012, 15:09:44, Switching to noises
+04/28/2012, 15:09:45, Switching to instrument 0
+04/28/2012, 15:09:47, Switching to instrument 1
+04/28/2012, 15:09:57, Screen Saver
+04/28/2012, 15:10:08, Screen Saver
+04/28/2012, 15:10:19, Screen Saver
+04/28/2012, 15:10:30, Screen Saver
+04/28/2012, 15:10:41, Screen Saver
+04/28/2012, 15:10:52, Screen Saver
+04/28/2012, 15:11:03, Screen Saver
+04/28/2012, 15:11:14, Screen Saver
+04/28/2012, 15:11:25, Screen Saver
+04/28/2012, 15:11:36, Screen Saver
+04/28/2012, 15:11:47, Screen Saver
+04/28/2012, 15:11:58, Screen Saver
+04/28/2012, 15:12:09, Screen Saver
+04/28/2012, 15:12:20, Screen Saver
+04/28/2012, 15:12:31, Screen Saver
+04/28/2012, 15:12:42, Screen Saver
+04/28/2012, 15:12:53, Screen Saver
+04/28/2012, 15:13:05, Screen Saver
+04/28/2012, 15:13:16, Screen Saver
+04/28/2012, 15:13:16, Switching to instrument 2
+04/28/2012, 15:13:17, Switching to instrument 3
+04/28/2012, 15:13:18, Switching to instrument 4
+04/28/2012, 15:13:18, Switching to noises
+04/28/2012, 15:13:19, Switching to instrument 0
+04/28/2012, 15:13:19, Switching to instrument 1
+04/28/2012, 15:13:20, Switching to instrument 2
+04/28/2012, 15:13:20, Switching to instrument 3
+04/28/2012, 15:13:21, Switching to instrument 4
+04/28/2012, 15:13:21, Switching to noises
+04/28/2012, 15:13:23, Switching to instrument 0
+04/28/2012, 15:13:23, Switching to instrument 1
+04/28/2012, 15:13:25, Switching to instrument 2
+04/28/2012, 15:13:25, Switching to instrument 3
+04/28/2012, 15:13:26, Switching to instrument 4
+04/28/2012, 15:13:26, Switching to noises
+04/28/2012, 15:13:26, Switching to instrument 0
+04/28/2012, 15:13:26, Switching to instrument 1
+04/28/2012, 15:13:38, Screen Saver
+04/28/2012, 15:13:49, Screen Saver
+04/28/2012, 15:14:00, Screen Saver
+04/28/2012, 15:14:11, Screen Saver
+04/28/2012, 15:14:22, Screen Saver
+04/28/2012, 15:14:33, Screen Saver
+04/28/2012, 15:14:44, Screen Saver
+04/28/2012, 15:14:55, Screen Saver
+04/28/2012, 15:15:06, Screen Saver
+04/28/2012, 15:15:17, Screen Saver
+04/28/2012, 15:15:28, Screen Saver
+04/28/2012, 15:15:39, Screen Saver
+04/28/2012, 15:15:50, Screen Saver
+04/28/2012, 15:16:01, Screen Saver
+04/28/2012, 15:16:12, Screen Saver
+04/28/2012, 15:16:23, Screen Saver
+04/28/2012, 15:16:34, Screen Saver
+04/28/2012, 15:16:45, Screen Saver
+04/28/2012, 15:16:56, Screen Saver
+04/28/2012, 15:17:07, Screen Saver
+04/28/2012, 15:17:18, Screen Saver
+04/28/2012, 15:17:29, Screen Saver
+04/28/2012, 15:17:40, Screen Saver
+04/28/2012, 15:17:51, Screen Saver
+04/28/2012, 15:18:02, Screen Saver
+04/28/2012, 15:18:13, Screen Saver
+04/28/2012, 15:18:24, Screen Saver
+04/28/2012, 15:18:36, Screen Saver
+04/28/2012, 15:18:47, Screen Saver
+04/28/2012, 15:18:58, Screen Saver
+04/28/2012, 15:19:06, Switching to instrument 2
+04/28/2012, 15:19:17, Screen Saver
+04/28/2012, 15:19:28, Screen Saver
+04/28/2012, 15:19:39, Screen Saver
+04/28/2012, 15:19:50, Screen Saver
+04/28/2012, 15:20:01, Screen Saver
+04/28/2012, 15:20:12, Screen Saver
+04/28/2012, 15:20:23, Screen Saver
+04/28/2012, 15:20:34, Screen Saver
+04/28/2012, 15:20:45, Screen Saver
+04/28/2012, 15:20:56, Screen Saver
+04/28/2012, 15:21:07, Screen Saver
+04/28/2012, 15:21:18, Screen Saver
+04/28/2012, 15:21:29, Screen Saver
+04/28/2012, 15:21:40, Screen Saver
+04/28/2012, 15:21:51, Screen Saver
+04/28/2012, 15:21:58, Switching to instrument 3
+04/28/2012, 15:21:58, Switching to instrument 4
+04/28/2012, 15:22:01, Switching to noises
+04/28/2012, 15:22:02, Switching to instrument 0
+04/28/2012, 15:22:04, Switching to instrument 1
+04/28/2012, 15:22:04, Switching to instrument 2
+04/28/2012, 15:22:04, Switching to instrument 3
+04/28/2012, 15:22:04, Switching to instrument 4
+04/28/2012, 15:22:04, Switching to noises
+04/28/2012, 15:22:04, Switching to instrument 0
+04/28/2012, 15:22:04, Switching to instrument 1
+04/28/2012, 15:22:04, Switching to instrument 2
+04/28/2012, 15:22:04, Switching to instrument 3
+04/28/2012, 15:22:04, Switching to instrument 4
+04/28/2012, 15:22:04, Switching to noises
+04/28/2012, 15:22:18, Screen Saver
+04/28/2012, 15:22:29, Screen Saver
+04/28/2012, 15:22:40, Screen Saver
+04/28/2012, 15:22:51, Screen Saver
+04/28/2012, 15:23:02, Screen Saver
+04/28/2012, 15:23:13, Screen Saver
+04/28/2012, 15:23:24, Screen Saver
+04/28/2012, 15:23:35, Screen Saver
+04/28/2012, 15:23:46, Screen Saver
+04/28/2012, 15:23:57, Screen Saver
+04/28/2012, 15:24:08, Screen Saver
+04/28/2012, 15:24:19, Screen Saver
+04/28/2012, 15:24:31, Screen Saver
+04/28/2012, 15:24:42, Screen Saver
+04/28/2012, 15:24:53, Screen Saver
+04/28/2012, 15:25:04, Screen Saver
+04/28/2012, 15:25:15, Screen Saver
+04/28/2012, 15:25:26, Screen Saver
+04/28/2012, 15:25:37, Screen Saver
+04/28/2012, 15:25:48, Screen Saver
+04/28/2012, 15:25:59, Screen Saver
+04/28/2012, 15:26:10, Screen Saver
+04/28/2012, 15:26:21, Screen Saver
+04/28/2012, 15:26:32, Screen Saver
+04/28/2012, 15:26:43, Screen Saver
+04/28/2012, 15:26:54, Screen Saver
+04/28/2012, 15:27:05, Screen Saver
+04/28/2012, 15:27:16, Screen Saver
+04/28/2012, 15:27:23, Switching to instrument 0
+04/28/2012, 15:27:31, Switching to instrument 1
+04/28/2012, 15:27:41, Screen Saver
+04/28/2012, 15:27:52, Screen Saver
+04/28/2012, 15:28:03, Screen Saver
+04/28/2012, 15:28:14, Screen Saver
+04/28/2012, 15:28:25, Screen Saver
+04/28/2012, 15:28:36, Screen Saver
+04/28/2012, 15:28:47, Screen Saver
+04/28/2012, 15:28:58, Screen Saver
+04/28/2012, 15:29:09, Screen Saver
+04/28/2012, 15:29:20, Screen Saver
+04/28/2012, 15:29:31, Screen Saver
+04/28/2012, 15:29:42, Screen Saver
+04/28/2012, 15:29:53, Screen Saver
+04/28/2012, 15:30:04, Screen Saver
+04/28/2012, 15:30:15, Screen Saver
+04/28/2012, 15:30:27, Screen Saver
+04/28/2012, 15:30:38, Screen Saver
+04/28/2012, 15:30:49, Screen Saver
+04/28/2012, 15:31:00, Screen Saver
+04/28/2012, 15:31:11, Screen Saver
+04/28/2012, 15:31:22, Screen Saver
+04/28/2012, 15:31:33, Screen Saver
+04/28/2012, 15:31:43, Switching to instrument 2
+04/28/2012, 15:31:48, Switching to instrument 3
+04/28/2012, 15:31:50, Switching to instrument 4
+04/28/2012, 15:32:01, Screen Saver
+04/28/2012, 15:32:12, Screen Saver
+04/28/2012, 15:32:23, Screen Saver
+04/28/2012, 15:32:34, Screen Saver
+04/28/2012, 15:32:45, Screen Saver
+04/28/2012, 15:32:56, Screen Saver
+04/28/2012, 15:33:07, Screen Saver
+04/28/2012, 15:33:18, Screen Saver
+04/28/2012, 15:33:29, Screen Saver
+04/28/2012, 15:33:40, Screen Saver
+04/28/2012, 15:33:51, Screen Saver
+04/28/2012, 15:34:02, Screen Saver
+04/28/2012, 15:34:13, Screen Saver
+04/28/2012, 15:34:24, Screen Saver
+04/28/2012, 15:34:35, Screen Saver
+04/28/2012, 15:34:46, Screen Saver
+04/28/2012, 15:34:57, Screen Saver
+04/28/2012, 15:35:08, Screen Saver
+04/28/2012, 15:35:19, Screen Saver
+04/28/2012, 15:35:30, Screen Saver
+04/28/2012, 15:35:41, Screen Saver
+04/28/2012, 15:35:53, Screen Saver
+04/28/2012, 15:36:04, Screen Saver
+04/28/2012, 15:36:15, Screen Saver
+04/28/2012, 15:36:26, Screen Saver
+04/28/2012, 15:36:37, Screen Saver
+04/28/2012, 15:36:48, Screen Saver
+04/28/2012, 15:36:59, Screen Saver
+04/28/2012, 15:37:10, Screen Saver
+04/28/2012, 15:37:21, Screen Saver
+04/28/2012, 15:37:32, Screen Saver
+04/28/2012, 15:37:43, Screen Saver
+04/28/2012, 15:37:54, Screen Saver
+04/28/2012, 15:38:05, Screen Saver
+04/28/2012, 15:38:16, Screen Saver
+04/28/2012, 15:38:27, Screen Saver
+04/28/2012, 15:38:38, Screen Saver
+04/28/2012, 15:38:49, Screen Saver
+04/28/2012, 15:39:00, Screen Saver
+04/28/2012, 15:39:11, Screen Saver
+04/28/2012, 15:39:22, Screen Saver
+04/28/2012, 15:39:33, Screen Saver
+04/28/2012, 15:39:44, Screen Saver
+04/28/2012, 15:39:55, Screen Saver
+04/28/2012, 15:40:06, Screen Saver
+04/28/2012, 15:40:17, Screen Saver
+04/28/2012, 15:40:28, Screen Saver
+04/28/2012, 15:40:39, Screen Saver
+04/28/2012, 15:40:50, Screen Saver
+04/28/2012, 15:41:01, Screen Saver
+04/28/2012, 15:41:12, Screen Saver
+04/28/2012, 15:41:23, Screen Saver
+04/28/2012, 15:41:35, Screen Saver
+04/28/2012, 15:41:46, Screen Saver
+04/28/2012, 15:41:57, Screen Saver
+04/28/2012, 15:42:08, Screen Saver
+04/28/2012, 15:42:19, Screen Saver
+04/28/2012, 15:42:30, Screen Saver
+04/28/2012, 15:42:41, Screen Saver
+04/28/2012, 15:42:52, Screen Saver
+04/28/2012, 15:43:03, Screen Saver
+04/28/2012, 15:43:14, Screen Saver
+04/28/2012, 15:43:25, Screen Saver
+04/28/2012, 15:43:36, Screen Saver
+04/28/2012, 15:43:47, Screen Saver
+04/28/2012, 15:43:58, Screen Saver
+04/28/2012, 15:44:09, Screen Saver
+04/28/2012, 15:44:20, Screen Saver
+04/28/2012, 15:44:31, Screen Saver
+04/28/2012, 15:44:42, Screen Saver
+04/28/2012, 15:44:53, Screen Saver
+04/28/2012, 15:45:04, Screen Saver
+04/28/2012, 15:45:15, Screen Saver
+04/28/2012, 15:45:26, Screen Saver
+04/28/2012, 15:45:37, Screen Saver
+04/28/2012, 15:45:48, Screen Saver
+04/28/2012, 15:45:59, Screen Saver
+04/28/2012, 15:46:10, Screen Saver
+04/28/2012, 15:46:21, Screen Saver
+04/28/2012, 15:46:32, Screen Saver
+04/28/2012, 15:46:43, Screen Saver
+04/28/2012, 15:46:54, Screen Saver
+04/28/2012, 15:47:05, Screen Saver
+04/28/2012, 15:47:16, Screen Saver
+04/28/2012, 15:47:27, Screen Saver
+04/28/2012, 15:47:38, Screen Saver
+04/28/2012, 15:47:49, Screen Saver
+04/28/2012, 15:48:01, Screen Saver
+04/28/2012, 15:48:12, Screen Saver
+04/28/2012, 15:48:23, Screen Saver
+04/28/2012, 15:48:34, Screen Saver
+04/28/2012, 15:48:45, Screen Saver
+04/28/2012, 15:48:56, Screen Saver
+04/28/2012, 15:49:07, Screen Saver
+04/28/2012, 15:49:18, Screen Saver
+04/28/2012, 15:49:29, Screen Saver
+04/28/2012, 15:49:40, Screen Saver
+04/28/2012, 15:49:51, Screen Saver
+04/28/2012, 15:50:02, Screen Saver
+04/28/2012, 15:50:13, Screen Saver
+04/28/2012, 15:50:24, Screen Saver
+04/28/2012, 15:50:35, Screen Saver
+04/28/2012, 15:50:46, Screen Saver
+04/28/2012, 15:50:57, Screen Saver
+04/28/2012, 15:51:08, Screen Saver
+04/28/2012, 15:51:19, Screen Saver
+04/28/2012, 15:51:30, Screen Saver
+04/28/2012, 15:51:41, Screen Saver
+04/28/2012, 15:51:52, Screen Saver
+04/28/2012, 15:52:03, Screen Saver
+04/28/2012, 15:52:14, Screen Saver
+04/28/2012, 15:52:25, Screen Saver
+04/28/2012, 15:52:36, Screen Saver
+04/28/2012, 15:52:47, Screen Saver
+04/28/2012, 15:52:58, Screen Saver
+04/28/2012, 15:53:09, Screen Saver
+04/28/2012, 15:53:21, Screen Saver
+04/28/2012, 15:53:32, Screen Saver
+04/28/2012, 15:53:43, Screen Saver
+04/28/2012, 15:53:54, Screen Saver
+04/28/2012, 15:54:05, Screen Saver
+04/28/2012, 15:54:16, Screen Saver
+04/28/2012, 15:54:27, Screen Saver
+04/28/2012, 15:54:38, Screen Saver
+04/28/2012, 15:54:49, Screen Saver
+04/28/2012, 15:55:00, Screen Saver
+04/28/2012, 15:55:11, Screen Saver
+04/28/2012, 15:55:22, Screen Saver
+04/28/2012, 15:55:33, Screen Saver
+04/28/2012, 15:55:44, Screen Saver
+04/28/2012, 15:55:55, Screen Saver
+04/28/2012, 15:56:06, Screen Saver
+04/28/2012, 15:56:17, Screen Saver
+04/28/2012, 15:56:28, Screen Saver
+04/28/2012, 15:56:39, Screen Saver
+04/28/2012, 15:56:50, Screen Saver
+04/28/2012, 15:57:01, Screen Saver
+04/28/2012, 15:57:12, Screen Saver
+04/28/2012, 15:57:23, Screen Saver
+04/28/2012, 15:57:34, Screen Saver
+04/28/2012, 15:57:45, Screen Saver
+04/28/2012, 15:57:56, Screen Saver
+04/28/2012, 15:58:07, Screen Saver
+04/28/2012, 15:58:18, Screen Saver
+04/28/2012, 15:58:29, Screen Saver
+04/28/2012, 15:58:40, Screen Saver
+04/28/2012, 15:58:51, Screen Saver
+04/28/2012, 15:59:02, Screen Saver
+04/28/2012, 15:59:13, Screen Saver
+04/28/2012, 15:59:25, Screen Saver
+04/28/2012, 15:59:36, Screen Saver
+04/28/2012, 15:59:47, Screen Saver
+04/28/2012, 15:59:58, Screen Saver
+04/28/2012, 16:00:09, Screen Saver
+04/28/2012, 16:00:20, Screen Saver
+04/28/2012, 16:00:31, Screen Saver
+04/28/2012, 16:00:42, Screen Saver
+04/28/2012, 16:00:53, Screen Saver
+04/28/2012, 16:01:04, Screen Saver
+04/28/2012, 16:01:15, Screen Saver
+04/28/2012, 16:01:26, Screen Saver
+04/28/2012, 16:01:37, Screen Saver
+04/28/2012, 16:01:48, Screen Saver
+04/28/2012, 16:01:59, Screen Saver
+04/28/2012, 16:02:10, Screen Saver
+04/28/2012, 16:02:21, Screen Saver
+04/28/2012, 16:02:32, Screen Saver
+04/28/2012, 16:02:43, Screen Saver
+04/28/2012, 16:02:54, Screen Saver
+04/28/2012, 16:03:05, Screen Saver
+04/28/2012, 16:03:16, Screen Saver
+04/28/2012, 16:03:27, Screen Saver
+04/28/2012, 16:03:38, Screen Saver
+04/28/2012, 16:03:49, Screen Saver
+04/28/2012, 16:04:00, Screen Saver
+04/28/2012, 16:04:11, Screen Saver
+04/28/2012, 16:04:22, Screen Saver
+04/28/2012, 16:04:33, Screen Saver
+04/28/2012, 16:04:45, Screen Saver
+04/28/2012, 16:04:56, Screen Saver
+04/28/2012, 16:05:07, Screen Saver
+04/28/2012, 16:05:18, Screen Saver
+04/28/2012, 16:05:29, Screen Saver
+04/28/2012, 16:05:40, Screen Saver
+04/28/2012, 16:05:51, Screen Saver
+04/28/2012, 16:06:02, Screen Saver
+04/28/2012, 16:06:13, Screen Saver
+04/28/2012, 16:06:24, Screen Saver
+04/28/2012, 16:06:35, Screen Saver
+04/28/2012, 16:06:46, Screen Saver
+04/28/2012, 16:06:57, Screen Saver
+04/28/2012, 16:07:08, Screen Saver
+04/28/2012, 16:07:19, Screen Saver
+04/28/2012, 16:07:30, Screen Saver
+04/28/2012, 16:07:41, Screen Saver
+04/28/2012, 16:07:52, Screen Saver
+04/28/2012, 16:08:03, Screen Saver
+04/28/2012, 16:08:14, Screen Saver
+04/28/2012, 16:08:25, Screen Saver
+04/28/2012, 16:08:36, Screen Saver
+04/28/2012, 16:08:47, Screen Saver
+04/28/2012, 16:08:58, Screen Saver
+04/28/2012, 16:09:09, Screen Saver
+04/28/2012, 16:09:20, Screen Saver
+04/28/2012, 16:09:31, Screen Saver
+04/28/2012, 16:09:42, Screen Saver
+04/28/2012, 16:09:53, Screen Saver
+04/28/2012, 16:10:04, Screen Saver
+04/28/2012, 16:10:15, Screen Saver
+04/28/2012, 16:10:27, Screen Saver
+04/28/2012, 16:10:38, Screen Saver
+04/28/2012, 16:10:49, Screen Saver
+04/28/2012, 16:11:00, Screen Saver
+04/28/2012, 16:11:11, Screen Saver
+04/28/2012, 16:11:22, Screen Saver
+04/28/2012, 16:11:33, Screen Saver
+04/28/2012, 16:11:44, Screen Saver
+04/28/2012, 16:11:55, Screen Saver
+04/28/2012, 16:12:06, Screen Saver
+04/28/2012, 16:12:17, Screen Saver
+04/28/2012, 16:12:28, Screen Saver
+04/28/2012, 16:12:39, Screen Saver
+04/28/2012, 16:12:50, Screen Saver
+04/28/2012, 16:13:01, Screen Saver
+04/28/2012, 16:13:12, Screen Saver
+04/28/2012, 16:13:23, Screen Saver
+04/28/2012, 16:13:34, Screen Saver
+04/28/2012, 16:13:45, Screen Saver
+04/28/2012, 16:13:56, Screen Saver
+04/28/2012, 16:14:07, Screen Saver
+04/28/2012, 16:14:18, Screen Saver
+04/28/2012, 16:14:29, Screen Saver
+04/28/2012, 16:14:40, Screen Saver
+04/28/2012, 16:14:51, Screen Saver
+04/28/2012, 16:15:02, Screen Saver
+04/28/2012, 16:15:13, Screen Saver
+04/28/2012, 16:15:24, Screen Saver
+04/28/2012, 16:15:35, Screen Saver
+04/28/2012, 16:15:46, Screen Saver
+04/28/2012, 16:15:57, Screen Saver
+04/28/2012, 16:16:08, Screen Saver
+04/28/2012, 16:16:20, Screen Saver
+04/28/2012, 16:16:31, Screen Saver
+04/28/2012, 16:16:42, Screen Saver
+04/28/2012, 16:16:53, Screen Saver
+04/28/2012, 16:17:04, Screen Saver
+04/28/2012, 16:17:15, Screen Saver
+04/28/2012, 16:17:26, Screen Saver
+04/28/2012, 16:17:37, Screen Saver
+04/28/2012, 16:17:48, Screen Saver
+04/28/2012, 16:17:59, Screen Saver
+04/28/2012, 16:18:10, Screen Saver
+04/28/2012, 16:18:21, Screen Saver
+04/28/2012, 16:18:32, Screen Saver
+04/28/2012, 16:18:43, Screen Saver
+04/28/2012, 16:18:54, Screen Saver
+04/28/2012, 16:19:05, Screen Saver
+04/28/2012, 16:19:16, Screen Saver
+04/28/2012, 16:19:27, Screen Saver
+04/28/2012, 16:19:38, Screen Saver
+04/28/2012, 16:19:49, Screen Saver
+04/28/2012, 16:20:00, Screen Saver
+04/28/2012, 16:20:11, Screen Saver
+04/28/2012, 16:20:22, Screen Saver
+04/28/2012, 16:20:33, Screen Saver
+04/28/2012, 16:20:44, Screen Saver
+04/28/2012, 16:20:55, Screen Saver
+04/28/2012, 16:21:06, Screen Saver
+04/28/2012, 16:21:17, Screen Saver
+04/28/2012, 16:21:28, Screen Saver
+04/28/2012, 16:21:39, Screen Saver
+04/28/2012, 16:21:50, Screen Saver
+04/28/2012, 16:22:01, Screen Saver
+04/28/2012, 16:22:12, Screen Saver
+04/28/2012, 16:22:24, Screen Saver
+04/28/2012, 16:22:35, Screen Saver
+04/28/2012, 16:22:46, Screen Saver
+04/28/2012, 16:22:57, Screen Saver
+04/28/2012, 16:23:08, Screen Saver
+04/28/2012, 16:23:19, Screen Saver
+04/28/2012, 16:23:30, Screen Saver
+04/28/2012, 16:23:41, Screen Saver
+04/28/2012, 16:23:52, Screen Saver
+04/28/2012, 16:24:03, Screen Saver
+04/28/2012, 16:24:14, Screen Saver
+04/28/2012, 16:24:25, Screen Saver
+04/28/2012, 16:24:36, Screen Saver
+04/28/2012, 16:24:47, Screen Saver
+04/28/2012, 16:24:58, Screen Saver
+04/28/2012, 16:25:09, Screen Saver
+04/28/2012, 16:25:20, Screen Saver
+04/28/2012, 16:25:31, Screen Saver
+04/28/2012, 16:25:42, Screen Saver
+04/28/2012, 16:25:53, Screen Saver
+04/28/2012, 16:26:04, Screen Saver
+04/28/2012, 16:26:15, Screen Saver
+04/28/2012, 16:26:26, Screen Saver
+04/28/2012, 16:26:37, Screen Saver
+04/28/2012, 16:26:48, Screen Saver
+04/28/2012, 16:26:59, Screen Saver
+04/28/2012, 16:27:10, Screen Saver
+04/28/2012, 16:27:21, Screen Saver
+04/28/2012, 16:27:32, Screen Saver
+04/28/2012, 16:27:43, Screen Saver
+04/28/2012, 16:27:55, Screen Saver
+04/28/2012, 16:28:06, Screen Saver
+04/28/2012, 16:28:17, Screen Saver
+04/28/2012, 16:28:28, Screen Saver
+04/28/2012, 16:28:39, Screen Saver
+04/28/2012, 16:28:50, Screen Saver
+04/28/2012, 16:29:01, Screen Saver
+04/28/2012, 16:29:12, Screen Saver
+04/28/2012, 16:29:23, Screen Saver
+04/28/2012, 16:29:34, Screen Saver
+04/28/2012, 16:29:45, Screen Saver
+04/28/2012, 16:29:56, Screen Saver
+04/28/2012, 16:30:07, Screen Saver
+04/28/2012, 16:30:18, Screen Saver
+04/28/2012, 16:30:29, Screen Saver
+04/28/2012, 16:30:40, Screen Saver
+04/28/2012, 16:30:51, Screen Saver
+04/28/2012, 16:31:02, Screen Saver
+04/28/2012, 16:31:13, Screen Saver
+04/28/2012, 16:31:24, Screen Saver
+04/28/2012, 16:31:35, Screen Saver
+04/28/2012, 16:31:46, Screen Saver
+04/28/2012, 16:31:57, Screen Saver
+04/28/2012, 16:32:08, Screen Saver
+04/28/2012, 16:32:19, Screen Saver
+04/28/2012, 16:32:30, Screen Saver
+04/28/2012, 16:32:41, Screen Saver
+04/28/2012, 16:32:52, Screen Saver
+04/28/2012, 16:33:03, Screen Saver
+04/28/2012, 16:33:14, Screen Saver
+04/28/2012, 16:33:25, Screen Saver
+04/28/2012, 16:33:36, Screen Saver
+04/28/2012, 16:33:47, Screen Saver
+04/28/2012, 16:33:58, Screen Saver
+04/28/2012, 16:34:10, Screen Saver
+04/28/2012, 16:34:21, Screen Saver
+04/28/2012, 16:34:32, Screen Saver
+04/28/2012, 16:34:43, Screen Saver
+04/28/2012, 16:34:54, Screen Saver
+04/28/2012, 16:35:05, Screen Saver
+04/28/2012, 16:35:16, Screen Saver
+04/28/2012, 16:35:27, Screen Saver
+04/28/2012, 16:35:38, Screen Saver
+04/28/2012, 16:35:49, Screen Saver
+04/28/2012, 16:36:00, Screen Saver
+04/28/2012, 16:36:11, Screen Saver
+04/28/2012, 16:36:22, Screen Saver
+04/28/2012, 16:36:33, Screen Saver
+04/28/2012, 16:36:44, Screen Saver
+04/28/2012, 16:36:55, Screen Saver
+04/28/2012, 16:37:06, Screen Saver
+04/28/2012, 16:37:17, Screen Saver
+04/28/2012, 16:37:28, Screen Saver
+04/28/2012, 16:37:39, Screen Saver
+04/28/2012, 16:37:50, Screen Saver
+04/28/2012, 16:38:01, Screen Saver
+04/28/2012, 16:38:12, Screen Saver
+04/28/2012, 16:38:23, Screen Saver
+04/28/2012, 16:38:34, Screen Saver
+04/28/2012, 16:38:45, Screen Saver
+04/28/2012, 16:38:56, Screen Saver
+04/28/2012, 16:39:07, Screen Saver
+04/28/2012, 16:39:18, Screen Saver
+04/28/2012, 16:39:29, Screen Saver
+04/28/2012, 16:39:40, Screen Saver
+04/28/2012, 16:39:52, Screen Saver
+04/28/2012, 16:40:03, Screen Saver
+04/28/2012, 16:40:14, Screen Saver
+04/28/2012, 16:40:25, Screen Saver
+04/28/2012, 16:40:36, Screen Saver
+04/28/2012, 16:40:47, Screen Saver
+04/28/2012, 16:40:58, Screen Saver
+04/28/2012, 16:41:09, Screen Saver
+04/28/2012, 16:41:20, Screen Saver
+04/28/2012, 16:41:31, Screen Saver
+04/28/2012, 16:41:42, Screen Saver
+04/28/2012, 16:41:53, Screen Saver
+04/28/2012, 16:42:04, Screen Saver
+04/28/2012, 16:42:15, Screen Saver
+04/28/2012, 16:42:26, Screen Saver
+04/28/2012, 16:42:37, Screen Saver
+04/28/2012, 16:42:48, Screen Saver
+04/28/2012, 16:42:59, Screen Saver
+04/28/2012, 16:43:10, Screen Saver
+04/28/2012, 16:43:21, Screen Saver
+04/28/2012, 16:43:32, Screen Saver
+04/28/2012, 16:43:43, Screen Saver
+04/28/2012, 16:43:54, Screen Saver
+04/28/2012, 16:44:05, Screen Saver
+04/28/2012, 16:44:16, Screen Saver
+04/28/2012, 16:44:27, Screen Saver
+04/28/2012, 16:44:38, Screen Saver
+04/28/2012, 16:44:49, Screen Saver
+04/28/2012, 16:45:00, Screen Saver
+04/28/2012, 16:45:11, Screen Saver
+04/28/2012, 16:45:22, Screen Saver
+04/28/2012, 16:45:34, Screen Saver
+04/28/2012, 16:45:45, Screen Saver
+04/28/2012, 16:45:56, Screen Saver
+04/28/2012, 16:46:07, Screen Saver
+04/28/2012, 16:46:18, Screen Saver
+04/28/2012, 16:46:29, Screen Saver
+04/28/2012, 16:46:40, Screen Saver
+04/28/2012, 16:46:51, Screen Saver
+04/28/2012, 16:47:02, Screen Saver
+04/28/2012, 16:47:13, Screen Saver
+04/28/2012, 16:47:24, Screen Saver
+04/28/2012, 16:47:35, Screen Saver
+04/28/2012, 16:47:46, Screen Saver
+04/28/2012, 16:47:57, Screen Saver
+04/28/2012, 16:48:08, Screen Saver
+04/28/2012, 16:48:19, Screen Saver
+04/28/2012, 16:48:30, Screen Saver
+04/28/2012, 16:48:41, Screen Saver
+04/28/2012, 16:48:52, Screen Saver
+04/28/2012, 16:49:03, Screen Saver
+04/28/2012, 16:49:14, Screen Saver
+04/28/2012, 16:49:25, Screen Saver
+04/28/2012, 16:49:36, Screen Saver
+04/28/2012, 16:49:47, Screen Saver
+04/28/2012, 16:49:58, Screen Saver
+04/28/2012, 16:50:09, Screen Saver
+04/28/2012, 16:50:20, Screen Saver
+04/28/2012, 16:50:31, Screen Saver
+04/28/2012, 16:50:43, Screen Saver
+04/28/2012, 16:50:54, Screen Saver
+04/28/2012, 16:51:05, Screen Saver
+04/28/2012, 16:51:16, Screen Saver
+04/28/2012, 16:51:27, Screen Saver
+04/28/2012, 16:51:38, Screen Saver
+04/28/2012, 16:51:49, Screen Saver
+04/28/2012, 16:52:00, Screen Saver
+04/28/2012, 16:52:11, Screen Saver
+04/28/2012, 16:52:22, Screen Saver
+04/28/2012, 16:52:33, Screen Saver
+04/28/2012, 16:52:44, Screen Saver
+04/28/2012, 16:52:55, Screen Saver
+04/28/2012, 16:53:06, Screen Saver
+04/28/2012, 16:53:17, Screen Saver
+04/28/2012, 16:53:28, Screen Saver
+04/28/2012, 16:53:39, Screen Saver
+04/28/2012, 16:53:50, Screen Saver
+04/28/2012, 16:54:01, Screen Saver
+04/28/2012, 16:54:12, Screen Saver
+04/28/2012, 16:54:23, Screen Saver
+04/28/2012, 16:54:34, Screen Saver
+04/28/2012, 16:54:45, Screen Saver
+04/28/2012, 16:54:56, Screen Saver
+04/28/2012, 16:55:07, Screen Saver
+04/28/2012, 16:55:18, Screen Saver
+04/28/2012, 16:55:29, Screen Saver
+04/28/2012, 16:55:40, Screen Saver
+04/28/2012, 16:55:51, Screen Saver
+04/28/2012, 16:56:02, Screen Saver
+04/28/2012, 16:56:13, Screen Saver
+04/28/2012, 16:56:24, Screen Saver
+04/28/2012, 16:56:35, Screen Saver
+04/28/2012, 16:56:46, Screen Saver
+04/28/2012, 16:56:58, Screen Saver
+04/28/2012, 16:57:09, Screen Saver
+04/28/2012, 16:57:20, Screen Saver
+04/28/2012, 16:57:31, Screen Saver
+04/28/2012, 16:57:42, Screen Saver
+04/28/2012, 16:57:53, Screen Saver
+04/28/2012, 16:58:04, Screen Saver
+04/28/2012, 16:58:15, Screen Saver
+04/28/2012, 16:58:26, Screen Saver
+04/28/2012, 16:58:37, Screen Saver
+04/28/2012, 16:58:48, Screen Saver
+04/28/2012, 16:58:59, Screen Saver
+04/28/2012, 16:59:10, Screen Saver
+04/28/2012, 16:59:21, Screen Saver
+04/28/2012, 16:59:32, Screen Saver
+04/28/2012, 16:59:43, Screen Saver
+04/28/2012, 16:59:54, Screen Saver
+04/28/2012, 17:00:05, Screen Saver
+04/28/2012, 17:00:16, Screen Saver
+04/28/2012, 17:00:27, Screen Saver
+04/28/2012, 17:00:38, Screen Saver
+04/28/2012, 17:00:49, Screen Saver
+04/28/2012, 17:01:00, Screen Saver
+04/28/2012, 17:01:11, Screen Saver
+04/28/2012, 17:01:22, Screen Saver
+04/28/2012, 17:01:33, Screen Saver
+04/28/2012, 17:01:44, Screen Saver
+04/28/2012, 17:01:55, Screen Saver
+04/28/2012, 17:02:06, Screen Saver
+04/28/2012, 17:02:17, Screen Saver
+04/28/2012, 17:02:28, Screen Saver
+04/28/2012, 17:02:39, Screen Saver
+04/28/2012, 17:02:50, Screen Saver
+04/28/2012, 17:03:02, Screen Saver
+04/28/2012, 17:03:13, Screen Saver
+04/28/2012, 17:03:24, Screen Saver
+04/28/2012, 17:03:35, Screen Saver
+04/28/2012, 17:03:46, Screen Saver
+04/28/2012, 17:03:57, Screen Saver
+04/28/2012, 17:04:08, Screen Saver
+04/28/2012, 17:04:19, Screen Saver
+04/28/2012, 17:04:30, Screen Saver
+04/28/2012, 17:04:41, Screen Saver
+04/28/2012, 17:04:52, Screen Saver
+04/28/2012, 17:05:03, Screen Saver
+04/28/2012, 17:05:14, Screen Saver
+04/28/2012, 17:05:25, Screen Saver
+04/28/2012, 17:05:36, Screen Saver
+04/28/2012, 17:05:47, Screen Saver
+04/28/2012, 17:05:58, Screen Saver
+04/28/2012, 17:06:09, Screen Saver
+04/28/2012, 17:06:20, Screen Saver
+04/28/2012, 17:06:31, Screen Saver
+04/28/2012, 17:06:42, Screen Saver
+04/28/2012, 17:06:53, Screen Saver
+04/28/2012, 17:07:04, Screen Saver
+04/28/2012, 17:07:15, Screen Saver
+04/28/2012, 17:07:26, Screen Saver
+04/28/2012, 17:07:37, Screen Saver
+04/28/2012, 17:07:48, Screen Saver
+04/28/2012, 17:07:59, Screen Saver
+04/28/2012, 17:08:10, Screen Saver
+04/28/2012, 17:08:21, Screen Saver
+04/28/2012, 17:08:32, Screen Saver
+04/28/2012, 17:08:44, Screen Saver
+04/28/2012, 17:08:55, Screen Saver
+04/28/2012, 17:09:06, Screen Saver
+04/28/2012, 17:09:17, Screen Saver
+04/28/2012, 17:09:28, Screen Saver
+04/28/2012, 17:09:39, Screen Saver
+04/28/2012, 17:09:50, Screen Saver
+04/28/2012, 17:10:01, Screen Saver
+04/28/2012, 17:10:12, Screen Saver
+04/28/2012, 17:10:23, Screen Saver
+04/28/2012, 17:10:34, Screen Saver
+04/28/2012, 17:10:45, Screen Saver
+04/28/2012, 17:10:56, Screen Saver
+04/28/2012, 17:11:07, Screen Saver
+04/28/2012, 17:11:18, Screen Saver
+04/28/2012, 17:11:29, Screen Saver
+04/28/2012, 17:11:40, Screen Saver
+04/28/2012, 17:11:51, Screen Saver
+04/28/2012, 17:12:02, Screen Saver
+04/28/2012, 17:12:13, Screen Saver
+04/28/2012, 17:12:24, Screen Saver
+04/28/2012, 17:12:35, Screen Saver
+04/28/2012, 17:12:46, Screen Saver
+04/28/2012, 17:12:57, Screen Saver
+04/28/2012, 17:13:08, Screen Saver
+04/28/2012, 17:13:19, Screen Saver
+04/28/2012, 17:13:30, Screen Saver
+04/28/2012, 17:13:41, Screen Saver
+04/28/2012, 17:13:52, Screen Saver
+04/28/2012, 17:14:03, Screen Saver
+04/28/2012, 17:14:14, Screen Saver
+04/28/2012, 17:14:23, Switching to noises
+04/28/2012, 17:14:26, Switching to instrument 0
+04/28/2012, 17:14:33, Switching to instrument 1
+04/28/2012, 17:14:36, Switching to instrument 2
+04/28/2012, 17:14:47, Screen Saver
+04/28/2012, 17:14:58, Screen Saver
+04/28/2012, 17:15:07, Switching to instrument 3
+04/28/2012, 17:15:08, Switching to instrument 4
+04/28/2012, 17:15:19, Screen Saver
+04/28/2012, 17:15:30, Screen Saver
+04/28/2012, 17:15:41, Screen Saver
+04/28/2012, 17:15:52, Screen Saver
+04/28/2012, 17:16:03, Screen Saver
+04/28/2012, 17:16:14, Screen Saver
+04/28/2012, 17:16:25, Screen Saver
+04/28/2012, 17:16:36, Screen Saver
+04/28/2012, 17:16:47, Screen Saver
+04/28/2012, 17:16:58, Screen Saver
+04/28/2012, 17:17:09, Screen Saver
+04/28/2012, 17:17:20, Screen Saver
+04/28/2012, 17:17:31, Screen Saver
+04/28/2012, 17:17:42, Screen Saver
+04/28/2012, 17:17:53, Screen Saver
+04/28/2012, 17:18:04, Screen Saver
+04/28/2012, 17:18:15, Screen Saver
+04/28/2012, 17:18:26, Screen Saver
+04/28/2012, 17:18:37, Screen Saver
+04/28/2012, 17:18:48, Screen Saver
+04/28/2012, 17:18:59, Screen Saver
+04/28/2012, 17:19:10, Screen Saver
+04/28/2012, 17:19:21, Screen Saver
+04/28/2012, 17:19:32, Screen Saver
+04/28/2012, 17:19:43, Screen Saver
+04/28/2012, 17:19:54, Screen Saver
+04/28/2012, 17:20:05, Screen Saver
+04/28/2012, 17:20:16, Screen Saver
+04/28/2012, 17:20:27, Screen Saver
+04/28/2012, 17:20:38, Screen Saver
+04/28/2012, 17:20:49, Screen Saver
+04/28/2012, 17:21:00, Screen Saver
+04/28/2012, 17:21:12, Screen Saver
+04/28/2012, 17:21:23, Screen Saver
+04/28/2012, 17:21:34, Screen Saver
+04/28/2012, 17:21:45, Screen Saver
+04/28/2012, 17:21:56, Screen Saver
+04/28/2012, 17:22:07, Screen Saver
+04/28/2012, 17:22:18, Screen Saver
+04/28/2012, 17:22:29, Screen Saver
+04/28/2012, 17:22:40, Screen Saver
+04/28/2012, 17:22:51, Screen Saver
+04/28/2012, 17:23:02, Screen Saver
+04/28/2012, 17:23:13, Screen Saver
+04/28/2012, 17:23:24, Screen Saver
+04/28/2012, 17:23:35, Screen Saver
+04/28/2012, 17:23:46, Screen Saver
+04/28/2012, 17:23:57, Screen Saver
+04/28/2012, 17:24:08, Screen Saver
+04/28/2012, 17:24:19, Screen Saver
+04/28/2012, 17:24:30, Screen Saver
+04/28/2012, 17:24:41, Screen Saver
+04/28/2012, 17:24:52, Screen Saver
+04/28/2012, 17:25:03, Screen Saver
+04/28/2012, 17:25:14, Screen Saver
+04/28/2012, 17:25:25, Screen Saver
+04/28/2012, 17:25:36, Screen Saver
+04/28/2012, 17:25:47, Screen Saver
+04/28/2012, 17:25:58, Screen Saver
+04/28/2012, 17:26:09, Screen Saver
+04/28/2012, 17:26:20, Screen Saver
+04/28/2012, 17:26:31, Screen Saver
+04/28/2012, 17:26:42, Screen Saver
+04/28/2012, 17:26:53, Screen Saver
+04/28/2012, 17:27:04, Screen Saver
+04/28/2012, 17:27:15, Screen Saver
+04/28/2012, 17:27:26, Screen Saver
+04/28/2012, 17:27:38, Screen Saver
+04/28/2012, 17:27:49, Screen Saver
+04/28/2012, 17:28:00, Screen Saver
+04/28/2012, 17:28:11, Screen Saver
+04/28/2012, 17:28:22, Screen Saver
+04/28/2012, 17:28:33, Screen Saver
+04/28/2012, 17:28:44, Screen Saver
+04/28/2012, 17:28:55, Screen Saver
+04/28/2012, 17:29:06, Screen Saver
+04/28/2012, 17:29:17, Screen Saver
+04/28/2012, 17:29:28, Screen Saver
+04/28/2012, 17:29:39, Screen Saver
+04/28/2012, 17:29:50, Screen Saver
+04/28/2012, 17:30:01, Screen Saver
+04/28/2012, 17:30:12, Screen Saver
+04/28/2012, 17:30:23, Screen Saver
+04/28/2012, 17:30:34, Screen Saver
+04/28/2012, 17:30:45, Screen Saver
+04/28/2012, 17:30:56, Screen Saver
+04/28/2012, 17:31:07, Screen Saver
+04/28/2012, 17:31:18, Screen Saver
+04/28/2012, 17:31:29, Screen Saver
+04/28/2012, 17:31:40, Screen Saver
+04/28/2012, 17:31:51, Screen Saver
+04/28/2012, 17:32:02, Screen Saver
+04/28/2012, 17:32:13, Screen Saver
+04/28/2012, 17:32:24, Screen Saver
+04/28/2012, 17:32:35, Screen Saver
+04/28/2012, 17:32:46, Screen Saver
+04/28/2012, 17:32:57, Screen Saver
+04/28/2012, 17:33:08, Screen Saver
+04/28/2012, 17:33:19, Screen Saver
+04/28/2012, 17:33:30, Screen Saver
+04/28/2012, 17:33:42, Screen Saver
+04/28/2012, 17:33:53, Screen Saver
+04/28/2012, 17:34:04, Screen Saver
+04/28/2012, 17:34:15, Screen Saver
+04/28/2012, 17:34:26, Screen Saver
+04/28/2012, 17:34:37, Screen Saver
+04/28/2012, 17:34:48, Screen Saver
+04/28/2012, 17:34:59, Screen Saver
+04/28/2012, 17:35:10, Screen Saver
+04/28/2012, 17:35:21, Screen Saver
+04/28/2012, 17:35:32, Screen Saver
+04/28/2012, 17:35:43, Screen Saver
+04/28/2012, 17:35:54, Screen Saver
+04/28/2012, 17:36:05, Screen Saver
+04/28/2012, 17:36:16, Screen Saver
+04/28/2012, 17:36:27, Screen Saver
+04/28/2012, 17:36:38, Screen Saver
+04/28/2012, 17:36:49, Screen Saver
+04/28/2012, 17:37:00, Screen Saver
+04/28/2012, 17:37:11, Screen Saver
+04/28/2012, 17:37:22, Screen Saver
+04/28/2012, 17:37:33, Screen Saver
+04/28/2012, 17:37:44, Screen Saver
+04/28/2012, 17:37:55, Screen Saver
+04/28/2012, 17:38:06, Screen Saver
+04/28/2012, 17:38:17, Screen Saver
+04/28/2012, 17:38:28, Screen Saver
+04/28/2012, 17:38:39, Screen Saver
+04/28/2012, 17:38:50, Screen Saver
+04/28/2012, 17:39:01, Screen Saver
+04/28/2012, 17:39:12, Screen Saver
+04/28/2012, 17:39:23, Screen Saver
+04/28/2012, 17:39:34, Screen Saver
+04/28/2012, 17:39:46, Screen Saver
+04/28/2012, 17:39:57, Screen Saver
+04/28/2012, 17:40:08, Screen Saver
+04/28/2012, 17:40:19, Screen Saver
+04/28/2012, 17:40:30, Screen Saver
+04/28/2012, 17:40:41, Screen Saver
+04/28/2012, 17:40:52, Screen Saver
+04/28/2012, 17:41:03, Screen Saver
+04/28/2012, 17:41:14, Screen Saver
+04/28/2012, 17:41:25, Screen Saver
+04/28/2012, 17:41:36, Screen Saver
+04/28/2012, 17:41:47, Screen Saver
+04/28/2012, 17:41:58, Screen Saver
+04/28/2012, 17:42:09, Screen Saver
+04/28/2012, 17:42:20, Screen Saver
+04/28/2012, 17:42:31, Screen Saver
+04/28/2012, 17:42:42, Screen Saver
+04/28/2012, 17:42:53, Screen Saver
+04/28/2012, 17:43:04, Screen Saver
+04/28/2012, 17:43:15, Screen Saver
+04/28/2012, 17:43:26, Screen Saver
+04/28/2012, 17:43:37, Screen Saver
+04/28/2012, 17:43:48, Screen Saver
+04/28/2012, 17:43:59, Screen Saver
+04/28/2012, 17:44:10, Screen Saver
+04/28/2012, 17:44:21, Screen Saver
+04/28/2012, 17:44:32, Screen Saver
+04/28/2012, 17:44:43, Screen Saver
+04/28/2012, 17:44:54, Screen Saver
+04/28/2012, 17:45:05, Screen Saver
+04/28/2012, 17:45:17, Screen Saver
+04/28/2012, 17:45:28, Screen Saver
+04/28/2012, 17:45:39, Screen Saver
+04/28/2012, 17:45:50, Screen Saver
+04/28/2012, 17:46:01, Screen Saver
+04/28/2012, 17:46:12, Screen Saver
+04/28/2012, 17:46:23, Screen Saver
+04/28/2012, 17:46:34, Screen Saver
+04/28/2012, 17:46:45, Screen Saver
+04/28/2012, 17:46:56, Screen Saver
+04/28/2012, 17:47:07, Screen Saver
+04/28/2012, 17:47:18, Screen Saver
+04/28/2012, 17:47:29, Screen Saver
+04/28/2012, 17:47:40, Screen Saver
+04/28/2012, 17:47:51, Screen Saver
+04/28/2012, 17:48:02, Screen Saver
+04/28/2012, 17:48:13, Screen Saver
+04/28/2012, 17:48:24, Screen Saver
+04/28/2012, 17:48:35, Screen Saver
+04/28/2012, 17:48:46, Screen Saver
+04/28/2012, 17:48:57, Screen Saver
+04/28/2012, 17:49:08, Screen Saver
+04/28/2012, 17:49:19, Screen Saver
+04/28/2012, 17:49:30, Screen Saver
+04/28/2012, 17:49:41, Screen Saver
+04/28/2012, 17:49:52, Screen Saver
+04/28/2012, 17:50:03, Screen Saver
+04/28/2012, 17:50:14, Screen Saver
+04/28/2012, 17:50:25, Screen Saver
+04/28/2012, 17:50:36, Screen Saver
+04/28/2012, 17:50:47, Screen Saver
+04/28/2012, 17:50:59, Screen Saver
+04/28/2012, 17:51:10, Screen Saver
+04/28/2012, 17:51:21, Screen Saver
+04/28/2012, 17:51:32, Screen Saver
+04/28/2012, 17:51:43, Screen Saver
+04/28/2012, 17:51:54, Screen Saver
+04/28/2012, 17:52:05, Screen Saver
+04/28/2012, 17:52:16, Screen Saver
+04/28/2012, 17:52:27, Screen Saver
+04/28/2012, 17:52:38, Screen Saver
+04/28/2012, 17:52:49, Screen Saver
+04/28/2012, 17:53:00, Screen Saver
+04/28/2012, 17:53:11, Screen Saver
+04/28/2012, 17:53:22, Screen Saver
+04/28/2012, 17:53:33, Screen Saver
+04/28/2012, 17:53:44, Screen Saver
+04/28/2012, 17:53:55, Screen Saver
+04/28/2012, 17:54:06, Screen Saver
+04/28/2012, 17:54:17, Screen Saver
