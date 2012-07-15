@@ -178,6 +178,9 @@
  I added some dog petting to the button. I believe there is a spot where the watch dog would reset the system when pounded fast enough.
  Should be fixed now. I also added error logging to various spots if we received odd data from the IR controller board. This should allow us
  to tell when and if it resets.
+
+ 7-14-2012
+ Adding a reset of all three boards every four hours.
  
 
  */
@@ -323,6 +326,13 @@ void setup() {
 
 void loop() {
   petDog(PET_MAIN); //Pet the dog
+  
+  //This should cause the board to reset every 4 hours
+  //if(millis() > (long)(1000 * 60 * 60 * 4) ){
+  if(millis() > (long)(1000 * 60 * 60 * 4) ){
+    Serial.println("BAM! 4 hour reset");
+    while(1) ; //This should cause the WDT to reset the main board
+  }
 
   //Blink the status LED every second
   if( (millis()/1000) != ThisSecond) {
