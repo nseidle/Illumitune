@@ -182,6 +182,10 @@
  7-14-2012
  Adding a reset of all three boards every four hours.
  
+ 10-21-2012
+ Illumitune has been stably running for a few months now. I believe the reset every four hours was the main fix. This was not possible before
+ changing out the amp for a simple, solid-state, low cost solution ($20!). I hope you can learn something from all these trials and tribulations. 
+ 
 
  */
 
@@ -256,9 +260,10 @@ char InstrumentLookup[6] = {
 int MaxNumberInstruments = 6;
 //I removed some of the instruments that don't auto turn off
 
-long secondsUntilScreenSaverMode = 10; //300 = 5 minutes - amount of time before exhibit does it's own thing
+long secondsUntilScreenSaverMode = 10; //300 = 5 minutes - amount of time before exhibit does its own thing
 long secondsSinceInteraction = 0;
-int MISWatcher = 0; //Counts to 10 minutes then resets the MIS
+unsigned long startTime = 0; //Counts to 4 hours then resets the system
+unsigned long resetTime = 60 * 60 * 4; //In # of seconds - Reset every 4 hours
 
 void setup() {
   wdt_reset(); //Pet the dog
@@ -318,6 +323,8 @@ void setup() {
   if (feedgps()) lookUpDate(); //Watchdog pet both places
   printTimeDate(); //Print current time and date to log file
 
+  startTime = millis()/1000; //We're not sure if millis resets after a WDT reset so this variable helps us
+
   //Let the world know we are online
   Serial.println("Master Init Complete");
 
@@ -328,8 +335,16 @@ void loop() {
   petDog(PET_MAIN); //Pet the dog
   
   //This should cause the board to reset every 4 hours
-  //if(millis() > (long)(1000 * 60 * 60 * 4) ){
-  if(millis() > (long)(1000 * 60 * 60 * 4) ){
+  if( (millis()/1000) - startTime > resetTime ){
+    Serial.print("resetTime: ");
+    Serial.print(resetTime);
+    Serial.println();
+
+    Serial.print("startTime: ");
+    Serial.print(startTime);
+    Serial.print(" ");
+    Serial.println(millis());
+
     Serial.println("BAM! 4 hour reset");
     while(1) ; //This should cause the WDT to reset the main board
   }
