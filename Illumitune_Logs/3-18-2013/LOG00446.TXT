@@ -1,0 +1,363 @@
+00/00/0000, 00:00:00, Master Init Complete
+00/00/0000, 00:00:00, Screen Saver
+00/00/0000, 00:00:00, Screen Saver
+03/11/2013, 13:55:38, Screen Saver
+03/11/2013, 13:55:49, Screen Saver
+03/11/2013, 13:56:00, Screen Saver
+03/11/2013, 13:56:11, Screen Saver
+03/11/2013, 13:56:22, Screen Saver
+03/11/2013, 13:56:33, Screen Saver
+03/11/2013, 13:56:44, Screen Saver
+03/11/2013, 13:56:55, Screen Saver
+03/11/2013, 13:57:06, Screen Saver
+03/11/2013, 13:57:17, Screen Saver
+03/11/2013, 13:57:28, Screen Saver
+03/11/2013, 13:57:39, Screen Saver
+03/11/2013, 13:57:50, Screen Saver
+03/11/2013, 13:58:01, Screen Saver
+03/11/2013, 13:58:13, Screen Saver
+03/11/2013, 13:58:24, Screen Saver
+03/11/2013, 13:58:35, Screen Saver
+03/11/2013, 13:58:43, Note,3
+03/11/2013, 13:58:44, Note,4
+03/11/2013, 13:58:44, Note,6
+03/11/2013, 13:58:45, Note,3
+03/11/2013, 13:58:45, Note,2
+03/11/2013, 13:58:48, Note,1
+03/11/2013, 13:58:48, Switching to instrument 1
+03/11/2013, 13:58:49, Note,1
+03/11/2013, 13:58:49, Note,2
+03/11/2013, 13:58:49, Note,3
+03/11/2013, 13:58:49, Note,4
+03/11/2013, 13:58:49, Note,6
+03/11/2013, 13:58:50, Note,4
+03/11/2013, 13:58:50, Note,5
+03/11/2013, 13:58:50, Note,3
+03/11/2013, 13:58:50, Note,2
+03/11/2013, 13:58:51, Note,1
+03/11/2013, 13:58:56, Note,3
+03/11/2013, 13:58:57, Note,2
+03/11/2013, 13:59:07, Screen Saver
+03/11/2013, 13:59:12, Note,1
+03/11/2013, 13:59:13, Note,2
+03/11/2013, 13:59:13, Note,4
+03/11/2013, 13:59:13, Note,5
+03/11/2013, 13:59:14, Note,3
+03/11/2013, 13:59:14, Note,2
+03/11/2013, 13:59:14, Note,1
+03/11/2013, 13:59:15, Note,2
+03/11/2013, 13:59:15, Note,3
+03/11/2013, 13:59:15, Note,4
+03/11/2013, 13:59:16, Note,3
+03/11/2013, 13:59:16, Note,2
+03/11/2013, 13:59:16, Note,2
+03/11/2013, 13:59:16, Note,3
+03/11/2013, 13:59:17, Note,1
+03/11/2013, 13:59:17, Note,4
+03/11/2013, 13:59:17, Note,4
+03/11/2013, 13:59:17, Note,3
+03/11/2013, 13:59:17, Note,2
+03/11/2013, 13:59:22, Note,8
+03/11/2013, 13:59:22, Note,8
+03/11/2013, 13:59:23, Note,7
+03/11/2013, 13:59:23, Note,8
+03/11/2013, 13:59:34, Screen Saver
+03/11/2013, 13:59:45, Screen Saver
+03/11/2013, 13:59:56, Screen Saver
+03/11/2013, 14:00:07, Screen Saver
+03/11/2013, 14:00:18, Screen Saver
+03/11/2013, 14:00:29, Screen Saver
+03/11/2013, 14:00:40, Screen Saver
+03/11/2013, 14:00:51, Screen Saver
+03/11/2013, 14:01:02, Screen Saver
+03/11/2013, 14:01:13, Screen Saver
+03/11/2013, 14:01:24, Screen Saver
+03/11/2013, 14:01:35, Screen Saver
+03/11/2013, 14:01:46, Screen Saver
+03/11/2013, 14:01:57, Screen Saver
+03/11/2013, 14:02:08, Screen Saver
+03/11/2013, 14:02:19, Screen Saver
+03/11/2013, 14:02:19, Note,5
+03/11/2013, 14:02:19, Note,6
+03/11/2013, 14:02:20, Note,7
+03/11/2013, 14:02:20, Note,8
+03/11/2013, 14:02:20, Note,6
+03/11/2013, 14:02:20, Note,5
+03/11/2013, 14:02:21, Note,4
+03/11/2013, 14:02:31, Screen Saver
+03/11/2013, 14:02:42, Screen Saver
+03/11/2013, 14:02:53, Screen Saver
+03/11/2013, 14:03:04, Screen Saver
+03/11/2013, 14:03:15, Screen Saver
+03/11/2013, 14:03:26, Screen Saver
+03/11/2013, 14:03:37, Screen Saver
+03/11/2013, 14:03:48, Screen Saver
+03/11/2013, 14:03:59, Screen Saver
+03/11/2013, 14:04:10, Screen Saver
+03/11/2013, 14:04:21, Screen Saver
+03/11/2013, 14:04:32, Screen Saver
+03/11/2013, 14:04:44, Screen Saver
+03/11/2013, 14:04:55, Screen Saver
+03/11/2013, 14:05:06, Screen Saver
+03/11/2013, 14:05:17, Screen Saver
+03/11/2013, 14:05:28, Screen Saver
+03/11/2013, 14:05:39, Screen Saver
+03/11/2013, 14:05:50, Screen Saver
+03/11/2013, 14:06:01, Screen Saver
+03/11/2013, 14:06:12, Screen Saver
+03/11/2013, 14:06:23, Screen Saver
+03/11/2013, 14:06:34, Screen Saver
+03/11/2013, 14:06:45, Screen Saver
+03/11/2013, 14:06:56, Screen Saver
+03/11/2013, 14:07:07, Screen Saver
+03/11/2013, 14:07:18, Screen Saver
+03/11/2013, 14:07:29, Screen Saver
+03/11/2013, 14:07:40, Screen Saver
+03/11/2013, 14:07:51, Screen Saver
+03/11/2013, 14:08:02, Screen Saver
+03/11/2013, 14:08:13, Screen Saver
+03/11/2013, 14:08:24, Screen Saver
+03/11/2013, 14:08:35, Screen Saver
+03/11/2013, 14:08:46, Screen Saver
+03/11/2013, 14:08:57, Screen Saver
+03/11/2013, 14:09:08, Screen Saver
+03/11/2013, 14:09:19, Screen Saver
+03/11/2013, 14:09:30, Screen Saver
+03/11/2013, 14:09:41, Screen Saver
+03/11/2013, 14:09:52, Screen Saver
+03/11/2013, 14:10:03, Screen Saver
+03/11/2013, 14:10:14, Screen Saver
+03/11/2013, 14:10:25, Screen Saver
+03/11/2013, 14:10:36, Screen Saver
+03/11/2013, 14:10:48, Screen Saver
+03/11/2013, 14:10:59, Screen Saver
+03/11/2013, 14:11:10, Screen Saver
+03/11/2013, 14:11:21, Screen Saver
+03/11/2013, 14:11:32, Screen Saver
+03/11/2013, 14:11:43, Screen Saver
+03/11/2013, 14:11:54, Screen Saver
+03/11/2013, 14:12:05, Screen Saver
+03/11/2013, 14:12:16, Screen Saver
+03/11/2013, 14:12:27, Screen Saver
+03/11/2013, 14:12:38, Screen Saver
+03/11/2013, 14:12:49, Screen Saver
+03/11/2013, 14:13:00, Screen Saver
+03/11/2013, 14:13:11, Screen Saver
+03/11/2013, 14:13:22, Screen Saver
+03/11/2013, 14:13:33, Screen Saver
+03/11/2013, 14:13:44, Screen Saver
+03/11/2013, 14:13:53, Note,2
+03/11/2013, 14:14:03, Screen Saver
+03/11/2013, 14:14:14, Screen Saver
+03/11/2013, 14:14:25, Screen Saver
+03/11/2013, 14:14:36, Screen Saver
+03/11/2013, 14:14:47, Screen Saver
+03/11/2013, 14:14:58, Screen Saver
+03/11/2013, 14:15:09, Screen Saver
+03/11/2013, 14:15:20, Screen Saver
+03/11/2013, 14:15:31, Screen Saver
+03/11/2013, 14:15:42, Screen Saver
+03/11/2013, 14:15:53, Screen Saver
+03/11/2013, 14:16:04, Screen Saver
+03/11/2013, 14:16:15, Screen Saver
+03/11/2013, 14:16:26, Screen Saver
+03/11/2013, 14:16:37, Screen Saver
+03/11/2013, 14:16:48, Screen Saver
+03/11/2013, 14:16:59, Screen Saver
+03/11/2013, 14:17:10, Screen Saver
+03/11/2013, 14:17:22, Screen Saver
+03/11/2013, 14:17:33, Screen Saver
+03/11/2013, 14:17:44, Screen Saver
+03/11/2013, 14:17:55, Screen Saver
+03/11/2013, 14:18:06, Screen Saver
+03/11/2013, 14:18:17, Screen Saver
+03/11/2013, 14:18:28, Screen Saver
+03/11/2013, 14:18:39, Screen Saver
+03/11/2013, 14:18:50, Screen Saver
+03/11/2013, 14:19:01, Screen Saver
+03/11/2013, 14:19:12, Screen Saver
+03/11/2013, 14:19:23, Screen Saver
+03/11/2013, 14:19:34, Screen Saver
+03/11/2013, 14:19:45, Screen Saver
+03/11/2013, 14:19:56, Screen Saver
+03/11/2013, 14:20:07, Screen Saver
+03/11/2013, 14:20:18, Screen Saver
+03/11/2013, 14:20:29, Screen Saver
+03/11/2013, 14:20:40, Screen Saver
+03/11/2013, 14:20:51, Screen Saver
+03/11/2013, 14:21:02, Screen Saver
+03/11/2013, 14:21:13, Screen Saver
+03/11/2013, 14:21:24, Screen Saver
+03/11/2013, 14:21:35, Screen Saver
+03/11/2013, 14:21:46, Screen Saver
+03/11/2013, 14:21:57, Screen Saver
+03/11/2013, 14:22:08, Screen Saver
+03/11/2013, 14:22:19, Screen Saver
+03/11/2013, 14:22:30, Screen Saver
+03/11/2013, 14:22:41, Screen Saver
+03/11/2013, 14:22:52, Screen Saver
+03/11/2013, 14:23:03, Screen Saver
+03/11/2013, 14:23:15, Screen Saver
+03/11/2013, 14:23:26, Screen Saver
+03/11/2013, 14:23:37, Screen Saver
+03/11/2013, 14:23:48, Screen Saver
+03/11/2013, 14:23:59, Screen Saver
+03/11/2013, 14:24:10, Screen Saver
+03/11/2013, 14:24:21, Screen Saver
+03/11/2013, 14:24:32, Screen Saver
+03/11/2013, 14:24:43, Screen Saver
+03/11/2013, 14:24:54, Screen Saver
+03/11/2013, 14:25:05, Screen Saver
+03/11/2013, 14:25:16, Screen Saver
+03/11/2013, 14:25:27, Screen Saver
+03/11/2013, 14:25:38, Screen Saver
+03/11/2013, 14:25:49, Screen Saver
+03/11/2013, 14:26:00, Screen Saver
+03/11/2013, 14:26:11, Screen Saver
+03/11/2013, 14:26:22, Screen Saver
+03/11/2013, 14:26:33, Screen Saver
+03/11/2013, 14:26:44, Screen Saver
+03/11/2013, 14:26:55, Screen Saver
+03/11/2013, 14:27:06, Screen Saver
+03/11/2013, 14:27:17, Screen Saver
+03/11/2013, 14:27:28, Screen Saver
+03/11/2013, 14:27:39, Screen Saver
+03/11/2013, 14:27:50, Screen Saver
+03/11/2013, 14:28:01, Screen Saver
+03/11/2013, 14:28:12, Screen Saver
+03/11/2013, 14:28:23, Screen Saver
+03/11/2013, 14:28:34, Screen Saver
+03/11/2013, 14:28:45, Screen Saver
+03/11/2013, 14:28:56, Screen Saver
+03/11/2013, 14:29:07, Screen Saver
+03/11/2013, 14:29:18, Screen Saver
+03/11/2013, 14:29:30, Screen Saver
+03/11/2013, 14:29:41, Screen Saver
+03/11/2013, 14:29:52, Screen Saver
+03/11/2013, 14:30:03, Screen Saver
+03/11/2013, 14:30:14, Screen Saver
+03/11/2013, 14:30:25, Screen Saver
+03/11/2013, 14:30:36, Screen Saver
+03/11/2013, 14:30:47, Screen Saver
+03/11/2013, 14:30:58, Screen Saver
+03/11/2013, 14:31:09, Screen Saver
+03/11/2013, 14:31:20, Screen Saver
+03/11/2013, 14:31:31, Screen Saver
+03/11/2013, 14:31:42, Screen Saver
+03/11/2013, 14:31:53, Screen Saver
+03/11/2013, 14:32:04, Screen Saver
+03/11/2013, 14:32:15, Screen Saver
+03/11/2013, 14:32:26, Screen Saver
+03/11/2013, 14:32:37, Screen Saver
+03/11/2013, 14:32:48, Screen Saver
+03/11/2013, 14:32:59, Screen Saver
+03/11/2013, 14:33:10, Screen Saver
+03/11/2013, 14:33:21, Screen Saver
+03/11/2013, 14:33:32, Screen Saver
+03/11/2013, 14:33:43, Screen Saver
+03/11/2013, 14:33:54, Screen Saver
+03/11/2013, 14:34:05, Screen Saver
+03/11/2013, 14:34:16, Screen Saver
+03/11/2013, 14:34:27, Screen Saver
+03/11/2013, 14:34:38, Screen Saver
+03/11/2013, 14:34:49, Screen Saver
+03/11/2013, 14:35:01, Screen Saver
+03/11/2013, 14:35:12, Screen Saver
+03/11/2013, 14:35:23, Screen Saver
+03/11/2013, 14:35:34, Screen Saver
+03/11/2013, 14:35:45, Screen Saver
+03/11/2013, 14:35:56, Screen Saver
+03/11/2013, 14:36:07, Screen Saver
+03/11/2013, 14:36:18, Screen Saver
+03/11/2013, 14:36:29, Screen Saver
+03/11/2013, 14:36:40, Screen Saver
+03/11/2013, 14:36:51, Screen Saver
+03/11/2013, 14:37:02, Screen Saver
+03/11/2013, 14:37:13, Screen Saver
+03/11/2013, 14:37:24, Screen Saver
+03/11/2013, 14:37:35, Screen Saver
+03/11/2013, 14:37:46, Screen Saver
+03/11/2013, 14:37:57, Screen Saver
+03/11/2013, 14:38:08, Screen Saver
+03/11/2013, 14:38:19, Screen Saver
+03/11/2013, 14:38:30, Screen Saver
+03/11/2013, 14:38:41, Screen Saver
+03/11/2013, 14:38:52, Screen Saver
+03/11/2013, 14:39:03, Screen Saver
+03/11/2013, 14:39:14, Screen Saver
+03/11/2013, 14:39:25, Screen Saver
+03/11/2013, 14:39:36, Screen Saver
+03/11/2013, 14:39:47, Screen Saver
+03/11/2013, 14:39:58, Screen Saver
+03/11/2013, 14:40:09, Screen Saver
+03/11/2013, 14:40:20, Screen Saver
+03/11/2013, 14:40:31, Screen Saver
+03/11/2013, 14:40:42, Screen Saver
+03/11/2013, 14:40:53, Screen Saver
+03/11/2013, 14:41:04, Screen Saver
+03/11/2013, 14:41:15, Screen Saver
+03/11/2013, 14:41:27, Screen Saver
+03/11/2013, 14:41:38, Screen Saver
+03/11/2013, 14:41:49, Screen Saver
+03/11/2013, 14:42:00, Screen Saver
+03/11/2013, 14:42:11, Screen Saver
+03/11/2013, 14:42:22, Screen Saver
+03/11/2013, 14:42:33, Screen Saver
+03/11/2013, 14:42:44, Screen Saver
+03/11/2013, 14:42:55, Screen Saver
+03/11/2013, 14:43:06, Screen Saver
+03/11/2013, 14:43:17, Screen Saver
+03/11/2013, 14:43:28, Screen Saver
+03/11/2013, 14:43:39, Screen Saver
+03/11/2013, 14:43:50, Screen Saver
+03/11/2013, 14:44:01, Screen Saver
+03/11/2013, 14:44:12, Screen Saver
+03/11/2013, 14:44:23, Screen Saver
+03/11/2013, 14:44:34, Screen Saver
+03/11/2013, 14:44:45, Screen Saver
+03/11/2013, 14:44:56, Screen Saver
+03/11/2013, 14:45:07, Screen Saver
+03/11/2013, 14:45:18, Screen Saver
+03/11/2013, 14:45:29, Screen Saver
+03/11/2013, 14:45:40, Screen Saver
+03/11/2013, 14:45:51, Screen Saver
+03/11/2013, 14:46:02, Screen Saver
+03/11/2013, 14:46:13, Screen Saver
+03/11/2013, 14:46:24, Screen Saver
+03/11/2013, 14:46:35, Screen Saver
+03/11/2013, 14:46:46, Screen Saver
+03/11/2013, 14:46:57, Screen Saver
+03/11/2013, 14:47:08, Screen Saver
+03/11/2013, 14:47:19, Screen Saver
+03/11/2013, 14:47:30, Screen Saver
+03/11/2013, 14:47:42, Screen Saver
+03/11/2013, 14:47:53, Screen Saver
+03/11/2013, 14:48:04, Screen Saver
+03/11/2013, 14:48:15, Screen Saver
+03/11/2013, 14:48:26, Screen Saver
+03/11/2013, 14:48:37, Screen Saver
+03/11/2013, 14:48:48, Screen Saver
+03/11/2013, 14:48:59, Screen Saver
+03/11/2013, 14:49:10, Screen Saver
+03/11/2013, 14:49:21, Screen Saver
+03/11/2013, 14:49:32, Screen Saver
+03/11/2013, 14:49:43, Screen Saver
+03/11/2013, 14:49:54, Screen Saver
+03/11/2013, 14:50:05, Screen Saver
+03/11/2013, 14:50:16, Screen Saver
+03/11/2013, 14:50:27, Screen Saver
+03/11/2013, 14:50:38, Screen Saver
+03/11/2013, 14:50:49, Screen Saver
+03/11/2013, 14:51:00, Screen Saver
+03/11/2013, 14:51:11, Screen Saver
+03/11/2013, 14:51:22, Screen Saver
+03/11/2013, 14:51:33, Screen Saver
+03/11/2013, 14:51:44, Screen Saver
+03/11/2013, 14:51:55, Screen Saver
+03/11/2013, 14:52:06, Screen Saver
+03/11/2013, 14:52:17, Screen Saver
+03/11/2013, 14:52:28, Screen Saver
+03/11/2013, 14:52:39, Screen Saver
+03/11/2013, 14:52:50, Screen Saver
+03/11/2013, 14:53:01, Screen Saver
+03/11/2013, 14:53:12, Screen Saver
